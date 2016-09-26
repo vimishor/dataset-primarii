@@ -9,7 +9,7 @@ ifneq ($(wildcard $(ROOT_DIR)/.git/.*),)
 endif
 
 install-deps:
-	@pip3 install --user --upgrade -r $(ROOT_DIR)/requirements.txt
+	@pip3 install --upgrade -r $(ROOT_DIR)/requirements.txt
 
 test:
 	@$(ROOT_DIR)/test/runtests.py $(TEST_ARGS)
