@@ -1,0 +1,1795 @@
+[
+    {
+        "nume": "Primăria Focşani",
+        "adresa": {
+            "strada": "Dimitrie Cantemir, Nr. 1 Bis",
+            "localitate": {
+                "nume": "Focsani",
+                "siruta": 174753
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "620098",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-236000"
+            ],
+            "fax": [
+                "0237-216700"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Fitioneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Fitionesti",
+                "siruta": 176169
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627135",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-677822"
+            ],
+            "fax": [
+                "0237-677847"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dumitreşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Dumitresti",
+                "siruta": 175992
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627110",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-241134"
+            ],
+            "fax": [
+                "0237-241190"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gugeşti",
+        "adresa": {
+            "strada": "B-Dul Mihail Kogalniceanu, Nr. 71",
+            "localitate": {
+                "nume": "Gugesti",
+                "siruta": 176310
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627155",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-250046"
+            ],
+            "fax": [
+                "0237-250182"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Odobeşti",
+        "adresa": {
+            "strada": "Libertăţii, Nr. 113",
+            "localitate": {
+                "nume": "Odobesti",
+                "siruta": 175028
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "625300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-675224"
+            ],
+            "fax": [
+                "0237-676590"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Obrejiţa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Obrejita",
+                "siruta": 178064
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627356",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-632300"
+            ],
+            "fax": [
+                "0237-632300"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Nistoreşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Nistoresti",
+                "siruta": 177012
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627230",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-677034"
+            ],
+            "fax": [
+                "0237-677034"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Nereju",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Nereju",
+                "siruta": 176953
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627225",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-266200"
+            ],
+            "fax": [
+                "0237-266149"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Răcoasa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Racoasa",
+                "siruta": 177414
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627280",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-670653"
+            ],
+            "fax": [
+                "0237-670653"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pufeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Pufesti",
+                "siruta": 177361
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627275",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-263052",
+                "0237-263333"
+            ],
+            "fax": [
+                "0237-263052",
+                "0237-263333"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tâmboieşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Tamboesti",
+                "siruta": 178055
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627355",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-256105"
+            ],
+            "fax": [
+                "0237-256105"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şuraia",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Suraia",
+                "siruta": 177851
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627330",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-245001",
+                "0237-245005"
+            ],
+            "fax": [
+                "0237-245001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Străoane",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Straoane",
+                "siruta": 177806
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627325",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-674798",
+                "0237-674831"
+            ],
+            "fax": [
+                "0237-674798",
+                "0237-674831"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Spulber",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Spulber",
+                "siruta": 177174
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627247",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-674020",
+                "0237-674021"
+            ],
+            "fax": [
+                "0237-674021"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Soveja",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Soveja",
+                "siruta": 177762
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627320",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-242001"
+            ],
+            "fax": [
+                "0237-242230"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Slobozia Ciorăşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Slobozia Ciorasti",
+                "siruta": 177735
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627315",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-256942",
+                "0371-119889"
+            ],
+            "fax": [
+                "0237-256942",
+                "0372-891990"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Slobozia Bradului",
+        "adresa": {
+            "strada": "Principală, Nr. 262",
+            "localitate": {
+                "nume": "Slobozia Bradului",
+                "siruta": 177664
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627305",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-259001",
+                "0237-259003"
+            ],
+            "fax": [
+                "0237-259001",
+                "0237-259003"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sihlea",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Sihlea",
+                "siruta": 177619
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-257708",
+                "0237-257704"
+            ],
+            "fax": [
+                "0237-257708",
+                "0237-257704"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Rugineşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ruginesti",
+                "siruta": 177566
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627295",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-269111",
+                "0237-269279"
+            ],
+            "fax": [
+                "0237-269004"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Reghiu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Reghiu",
+                "siruta": 177478
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627285",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-631010"
+            ],
+            "fax": [
+                "0237-631010"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Răstoaca",
+        "adresa": {
+            "strada": "Principală",
+            "localitate": {
+                "nume": "Rastoaca",
+                "siruta": 176784
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627208",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-267400"
+            ],
+            "fax": [
+                "0237-267434"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Popeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Popesti",
+                "siruta": 178288
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627385",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-251911"
+            ],
+            "fax": [
+                "0237-251911"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Poiana Criştei",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Poiana Cristei",
+                "siruta": 177272
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627265",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-252182"
+            ],
+            "fax": [
+                "0237-252182"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ploscuteni",
+        "adresa": {
+            "strada": "Sat Ploscuteni",
+            "localitate": {
+                "nume": "Ploscuteni",
+                "siruta": 176454
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627175",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-272400"
+            ],
+            "fax": [
+                "0237-272400"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Păuneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Paunesti",
+                "siruta": 177245
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627260",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-268600",
+                "0237-268104"
+            ],
+            "fax": [
+                "0237-268104",
+                "0237-268600"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Păuleşti",
+        "adresa": {
+            "strada": "Ştefan Cel Mare, Nr. 44",
+            "localitate": {
+                "nume": "Paulesti",
+                "siruta": 178171
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627371",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-631750"
+            ],
+            "fax": [
+                "0237-631750"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Panciu",
+        "adresa": {
+            "strada": "Titu Maiorescu, Nr. 15",
+            "localitate": {
+                "nume": "Panciu",
+                "siruta": 175064
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "625400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-275811",
+                "0237-275943"
+            ],
+            "fax": [
+                "0237-276137"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Paltin",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Paltin",
+                "siruta": 177110
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627240",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-674300",
+                "0237-674111"
+            ],
+            "fax": [
+                "0237-674300"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Negrileşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Negrilesti",
+                "siruta": 175242
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627021",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-267290",
+                "0237-267035"
+            ],
+            "fax": [
+                "0237-267290"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Năruja",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Naruja",
+                "siruta": 176908
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627220",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-677111",
+                "0237-677311"
+            ],
+            "fax": [
+                "0237-677311"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Năneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Nanesti",
+                "siruta": 176864
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627215",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-633400"
+            ],
+            "fax": [
+                "0237-633483"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Moviliţa",
+        "adresa": {
+            "strada": "Principală, Nr. 1",
+            "localitate": {
+                "nume": "Movilita",
+                "siruta": 176800
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627210",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-678801"
+            ],
+            "fax": [
+                "0237-678756"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Milcovul",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Milcovul",
+                "siruta": 176757
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627205",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-243040"
+            ],
+            "fax": [
+                "0237-243666"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mera",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Mera",
+                "siruta": 176695
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-631066"
+            ],
+            "fax": [
+                "0237-631066"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mărăşeşti",
+        "adresa": {
+            "strada": "Siret, Nr. 1",
+            "localitate": {
+                "nume": "Marasesti",
+                "siruta": 174931
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "625200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-260550",
+                "0237-260150"
+            ],
+            "fax": [
+                "0237-260550"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Măicăneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Maicanesti",
+                "siruta": 176622
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627190",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-246297"
+            ],
+            "fax": [
+                "0237-246297"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Jitia",
+        "adresa": {
+            "strada": "Str. Principală, Nr. 7",
+            "localitate": {
+                "nume": "Jitia",
+                "siruta": 176560
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627185",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-259949"
+            ],
+            "fax": [
+                "0237-259949"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Jariştea",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Jaristea",
+                "siruta": 176515
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627180",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-679111",
+                "0237-679005"
+            ],
+            "fax": [
+                "0237-679005"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Homocea",
+        "adresa": {
+            "strada": "Ştefan Cel Mare, Nr. 30",
+            "localitate": {
+                "nume": "Homocea",
+                "siruta": 176454
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627175",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-271109",
+                "0237-271116"
+            ],
+            "fax": [
+                "0237-271109",
+                "0237-271116"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gura Caliţei",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Gura Calitei",
+                "siruta": 176347
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627160",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-255103"
+            ],
+            "fax": [
+                "0237-255070"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gologanu",
+        "adresa": {
+            "strada": "Tinereţii, Nr. 9",
+            "localitate": {
+                "nume": "Gologanu",
+                "siruta": 176766
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627206",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-244183",
+                "0237-244624"
+            ],
+            "fax": [
+                "0237-244624"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Goleşti",
+        "adresa": {
+            "strada": "Str.Cotesti, Nr. 2",
+            "localitate": {
+                "nume": "Golesti",
+                "siruta": 174833
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627150",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-212989"
+            ],
+            "fax": [
+                "0237-212989"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Garoafa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Garoafa",
+                "siruta": 176221
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627140",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-263805"
+            ],
+            "fax": [
+                "0237-263881"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dumbrăveni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Dumbraveni",
+                "siruta": 175947
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627105",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-255092"
+            ],
+            "fax": [
+                "0237-255092"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Coteşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Cotesti",
+                "siruta": 175894
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-252111",
+                "0237-252148"
+            ],
+            "fax": [
+                "0237-252148"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Corbiţa",
+        "adresa": {
+            "strada": "Sat Șerbănești",
+            "localitate": {
+                "nume": "Corbita",
+                "siruta": 175796
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627097",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-270505"
+            ],
+            "fax": [
+                "0237-270731"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ciorăşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ciorasti",
+                "siruta": 175607
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627080",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-249756",
+                "0237-258001"
+            ],
+            "fax": [
+                "0237-249756",
+                "0237-258001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vulturu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Vulturu",
+                "siruta": 178830
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627455",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-240108",
+                "0237-240440"
+            ],
+            "fax": [
+                "0237-240440"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vrâncioaia",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Vrancioaia",
+                "siruta": 178769
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627445",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-671056"
+            ],
+            "fax": [
+                "0237-671056"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vizantea Livezi",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Vizantea-Livezi",
+                "siruta": 178545
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627435",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-264281",
+                "0237-264277"
+            ],
+            "fax": [
+                "0237-264277",
+                "0237-264225"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vintileasca",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Vintileasca",
+                "siruta": 178484
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627425",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-259937"
+            ],
+            "fax": [
+                "0237-259937"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vidra",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Vidra",
+                "siruta": 178386
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627415",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-673337"
+            ],
+            "fax": [
+                "0237-673424"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vârteşcoiu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Vartescoiu",
+                "siruta": 178698
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627405",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-675211"
+            ],
+            "fax": [
+                "0237-675265"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vânători",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Vanatori",
+                "siruta": 178616
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627395",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-262334"
+            ],
+            "fax": [
+                "0237-262334"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Valea Sării",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Valea Sarii",
+                "siruta": 178322
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627390",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-671085",
+                "0237-671010"
+            ],
+            "fax": [
+                "0237-671010"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Urecheşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Urechesti",
+                "siruta": 178288
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627385",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-251008",
+                "0237-251204"
+            ],
+            "fax": [
+                "0237-251008"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tulnici",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Tulnici",
+                "siruta": 178126
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627365",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-265312",
+                "0237-265426"
+            ],
+            "fax": [
+                "0237-265312",
+                "0237-265426"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tifeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Tifesti",
+                "siruta": 178199
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627375",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-269500",
+                "0237-269728"
+            ],
+            "fax": [
+                "0237-269728"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tătăranu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Tataranu",
+                "siruta": 177995
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627350",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-248332",
+                "0237-248005"
+            ],
+            "fax": [
+                "0237-248332"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tănăsoaia",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Tanasoaia",
+                "siruta": 177888
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627335",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-270101"
+            ],
+            "fax": [
+                "0237-270101"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cîmpineanca",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Campineanca",
+                "siruta": 174799
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627055",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-222917",
+                "0237-224463"
+            ],
+            "fax": [
+                "0237-222917"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Chiojdeni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Chiojdeni",
+                "siruta": 175518
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627070",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-241008",
+                "0237-241118"
+            ],
+            "fax": [
+                "0237-241118"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cârligele",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Carligele",
+                "siruta": 175741
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627065",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-253000"
+            ],
+            "fax": [
+                "0237-253200"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Câmpuri",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Campuri",
+                "siruta": 175689
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627060",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-670003",
+                "0237-670111"
+            ],
+            "fax": [
+                "0237-670003"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Broşteni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Brosteni",
+                "siruta": 175475
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627050",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-675268",
+                "0237-676845"
+            ],
+            "fax": [
+                "0237-675268"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bordeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Bordesti",
+                "siruta": 175448
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627045",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-254100"
+            ],
+            "fax": [
+                "0237-254100"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Boloteşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Bolotesti",
+                "siruta": 175377
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627035",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-678111"
+            ],
+            "fax": [
+                "0237-678004"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bogheşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Boghesti",
+                "siruta": 175279
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627025",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-273054"
+            ],
+            "fax": [
+                "0237-273054"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bîrseşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Barsesti",
+                "siruta": 175233
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627020",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-273410"
+            ],
+            "fax": [
+                "0237-273428"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bilieşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Biliesti",
+                "siruta": 177860
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627331",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-262544"
+            ],
+            "fax": [
+                "0237-262544"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Băleşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Balesti",
+                "siruta": 175215
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627015",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-249036"
+            ],
+            "fax": [
+                "0237-249036"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Andreiaşu De Jos",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Andreiasu De Jos",
+                "siruta": 175135
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627005",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-627228"
+            ],
+            "fax": [
+                "0237-631020"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Adjud",
+        "adresa": {
+            "strada": "Stadionului, Nr. 2",
+            "localitate": {
+                "nume": "Adjud",
+                "siruta": 176560
+            },
+            "judet": {
+                "nume": "Vrancea",
+                "siruta": 10
+            },
+            "cod-postal": "627185",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0237-641908",
+                "0237-641911"
+            ],
+            "fax": [
+                "0237-641912"
+            ]
+        }
+    }
+]

@@ -1,0 +1,1564 @@
+[
+    {
+        "nume": "Primăria Cosâmbeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Cosambesti",
+                "siruta": 93245
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927090",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-218507"
+            ],
+            "fax": [
+                "0243-218507"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Colelia",
+        "adresa": {
+            "strada": "Brutăriei, Nr. 45",
+            "localitate": {
+                "nume": "Colelia",
+                "siruta": 93227
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927086",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-247674",
+                "0243-247505"
+            ],
+            "fax": [
+                "0243-247674",
+                "0243-247505"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cocora",
+        "adresa": {
+            "strada": "Principală, Nr. 17",
+            "localitate": {
+                "nume": "Cocora",
+                "siruta": 93218
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927085",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-247176",
+                "0243-247003",
+                "0243-247700"
+            ],
+            "fax": [
+                "0243-247003",
+                "0243-247176",
+                "0243-247700"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ciulniţa",
+        "adresa": {
+            "strada": "Matei Basarab, Nr. 68",
+            "localitate": {
+                "nume": "Ciulnita",
+                "siruta": 93165
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927080",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-218082"
+            ],
+            "fax": [
+                "0243-218082"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ciochina",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ciochina",
+                "siruta": 93110
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927075",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-265001"
+            ],
+            "fax": [
+                "0243-265312"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ciocârlia",
+        "adresa": {
+            "strada": "Principală, Nr. 54",
+            "localitate": {
+                "nume": "Ciocirlia",
+                "siruta": 100718
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927070",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-256981"
+            ],
+            "fax": [
+                "0243-256981"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Căzăneşti",
+        "adresa": {
+            "strada": "Şoseaua Bucureşti, Nr. 93",
+            "localitate": {
+                "nume": "Cazanesti",
+                "siruta": 93076
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927065",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-264010"
+            ],
+            "fax": [
+                "0243-264397"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Miloşeşti",
+        "adresa": {
+            "strada": "Principală, Nr. 59",
+            "localitate": {
+                "nume": "Milosesti",
+                "siruta": 94054
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927170",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-245277"
+            ],
+            "fax": [
+                "0243-245277"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mihail Kogălniceanu",
+        "adresa": {
+            "strada": "Şcolii, Nr. 21",
+            "localitate": {
+                "nume": "Mihail Kogalniceanu",
+                "siruta": 94009
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927165",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-272058"
+            ],
+            "fax": [
+                "0243-272058"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mărculeşti",
+        "adresa": {
+            "strada": "Dumitru N. Seceleanu, Nr. 1",
+            "localitate": {
+                "nume": "Marculesti",
+                "siruta": 93263
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927092",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-279384"
+            ],
+            "fax": [
+                "0243-279384"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Manasia",
+        "adresa": {
+            "strada": "Biserica Veche, Nr. 1",
+            "localitate": {
+                "nume": "Manasia",
+                "siruta": 100745
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927160",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-255681",
+                "0243-254441"
+            ],
+            "fax": [
+                "0243-254441"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Maia",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Maia",
+                "siruta": 101252
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927055",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-282163",
+                "0243-282512"
+            ],
+            "fax": [
+                "0243-282167"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Jilavele",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Jilavele",
+                "siruta": 103979
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927155",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-288001"
+            ],
+            "fax": [
+                "0243-288001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ion Roată",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ion Roata",
+                "siruta": 103871
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927150",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-269300"
+            ],
+            "fax": [
+                "0243-269300"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sudiţi",
+        "adresa": {
+            "strada": "Sf. Pantelimon, Nr. 39",
+            "localitate": {
+                "nume": "Suditi",
+                "siruta": 94544
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927235",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-278502"
+            ],
+            "fax": [
+                "0243-278502"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Stelnica",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Stelnica",
+                "siruta": 94508
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927230",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-361785"
+            ],
+            "fax": [
+                "0243-361785"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Traian",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Traian",
+                "siruta": 93762
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927147",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-244020"
+            ],
+            "fax": [
+                "0243-244020"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ţăndărei",
+        "adresa": {
+            "strada": "Bucureşti, Nr. 190",
+            "localitate": {
+                "nume": "Tandarei",
+                "siruta": 92774
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "925200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-273529",
+                "0243-273315"
+            ],
+            "fax": [
+                "0243-273552"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Slobozia",
+        "adresa": {
+            "strada": "Episcopiei, Nr. 1",
+            "localitate": {
+                "nume": "Slobozia",
+                "siruta": 92667
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "920023",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-213258"
+            ],
+            "fax": [
+                "0243-212149"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sineşti",
+        "adresa": {
+            "strada": "Principală, Fn",
+            "localitate": {
+                "nume": "Sinesti",
+                "siruta": 105035
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927220",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-319506"
+            ],
+            "fax": [
+                "0243-319506"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sfântu Gheorghe",
+        "adresa": {
+            "strada": "Principală, Nr. 36",
+            "localitate": {
+                "nume": "Sfantu Gheorghe",
+                "siruta": 94465
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927215",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-262001",
+                "0243-262224"
+            ],
+            "fax": [
+                "0243-262001",
+                "0243-262224"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Scânteia",
+        "adresa": {
+            "strada": "Ştefan Cel Mare, Nr. 46",
+            "localitate": {
+                "nume": "Scanteia",
+                "siruta": 94438
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927210",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-242058"
+            ],
+            "fax": [
+                "0243-242058"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Săveni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Saveni",
+                "siruta": 94385
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927205",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-278299",
+                "0243-278012"
+            ],
+            "fax": [
+                "0243-278299"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sărăţeni",
+        "adresa": {
+            "strada": "Primăverii, Nr. 21",
+            "localitate": {
+                "nume": "Sarateni",
+                "siruta": 92952
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927044",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-263164"
+            ],
+            "fax": [
+                "0243-263164"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sălcioara",
+        "adresa": {
+            "strada": "Principală, Nr. 170",
+            "localitate": {
+                "nume": "Salcioara",
+                "siruta": 94349
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-317341",
+                "0243-317392"
+            ],
+            "fax": [
+                "0243-317392"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Roşiori",
+        "adresa": {
+            "strada": "Tineretului, Nr. 2",
+            "localitate": {
+                "nume": "Rosiori",
+                "siruta": 104314
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927183",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-319719",
+                "0243-319800"
+            ],
+            "fax": [
+                "0243-319719",
+                "0243-319800"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Reviga",
+        "adresa": {
+            "strada": "Al. I. Cuza, Nr, 19",
+            "localitate": {
+                "nume": "Reviga",
+                "siruta": 94278
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927195",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-246199"
+            ],
+            "fax": [
+                "0243-246343"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Răduleşti",
+        "adresa": {
+            "strada": "Primăriei, Nr. 8",
+            "localitate": {
+                "nume": "Radulesti",
+                "siruta": 101252
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927055",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-282412"
+            ],
+            "fax": [
+                "0243-282412"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Platoneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Platonesti",
+                "siruta": 94410
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927208",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-279120"
+            ],
+            "fax": [
+                "0243-279120"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ograda",
+        "adresa": {
+            "strada": "Ionel Perlea, Nr. 183",
+            "localitate": {
+                "nume": "Ograda",
+                "siruta": 93058
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927061",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-279625"
+            ],
+            "fax": [
+                "0243-279625"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Munteni Buzău",
+        "adresa": {
+            "strada": "Primariei, Nr. 116",
+            "localitate": {
+                "nume": "Munteni-Buzau",
+                "siruta": 94116
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927185",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-260751",
+                "0243-260001"
+            ],
+            "fax": [
+                "0243-260751"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Moviliţa",
+        "adresa": {
+            "strada": "Calea Bucureşti, Nr. 99",
+            "localitate": {
+                "nume": "Movilita",
+                "siruta": 104289
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927180",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-319162"
+            ],
+            "fax": [
+                "0243-319212"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Movila",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Movila",
+                "siruta": 94090
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927175",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-311002",
+                "0243-311005"
+            ],
+            "fax": [
+                "0243-311002"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Moldoveni",
+        "adresa": {
+            "strada": "Primăriei, Nr. 2",
+            "localitate": {
+                "nume": "Moldoveni",
+                "siruta": 102730
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927107",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-285523"
+            ],
+            "fax": [
+                "0243-285523"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gura Ialomiţei",
+        "adresa": {
+            "strada": "1 Decembrie, Nr. 165",
+            "localitate": {
+                "nume": "Gura Ialomitei",
+                "siruta": 94018
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927166",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-272825"
+            ],
+            "fax": [
+                "0243-272825"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Griviţa",
+        "adresa": {
+            "strada": "Strada 6, Nr. 33",
+            "localitate": {
+                "nume": "Grivita",
+                "siruta": 93744
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927145",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-243001"
+            ],
+            "fax": [
+                "0243-243001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Grindu",
+        "adresa": {
+            "strada": "Principală, Fn",
+            "localitate": {
+                "nume": "Grindu",
+                "siruta": 93726
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927140",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-248001"
+            ],
+            "fax": [
+                "0243-248001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Giurgeni",
+        "adresa": {
+            "strada": "Mihai Viteazul, Nr. 36",
+            "localitate": {
+                "nume": "Giurgeni",
+                "siruta": 93655
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927135",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-277010"
+            ],
+            "fax": [
+                "0243-277010"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gheorghe Lazăr",
+        "adresa": {
+            "strada": "Matei Basarab, Nr. 26",
+            "localitate": {
+                "nume": "Gheorghe Lazar",
+                "siruta": 93637
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927130",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-241510"
+            ],
+            "fax": [
+                "0243-241510"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gheorghe Doja",
+        "adresa": {
+            "strada": "Grădiniţei, Nr. 15",
+            "localitate": {
+                "nume": "Gheorghe Doja",
+                "siruta": 93619
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927125",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-262502"
+            ],
+            "fax": [
+                "0243-262502"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gârbovi",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Garbovi",
+                "siruta": 103292
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927120",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-259053"
+            ],
+            "fax": [
+                "0243-259053"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Fierbinţi Târg",
+        "adresa": {
+            "strada": "Calea Bucureşti, Nr. 18",
+            "localitate": {
+                "nume": "Fierbinti-Targ",
+                "siruta": 102758
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927115",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-280005",
+                "0243-280038"
+            ],
+            "fax": [
+                "0243-280005"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Feteşti",
+        "adresa": {
+            "strada": "Călăraşi, Nr. 595, Bl. Cf3 Sc. A Et. Ii-Iv",
+            "localitate": {
+                "nume": "Fetesti",
+                "siruta": 92710
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "925100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-364410"
+            ],
+            "fax": [
+                "0243-361206"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Făcăeni",
+        "adresa": {
+            "strada": "Principală, Nr. 110",
+            "localitate": {
+                "nume": "Facaeni",
+                "siruta": 93584
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927110",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-313330"
+            ],
+            "fax": [
+                "0243-313330",
+                "0243-313045"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dridu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Dridu",
+                "siruta": 102712
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927105",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-282941"
+            ],
+            "fax": [
+                "0243-282701"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Drăgoeşti",
+        "adresa": {
+            "strada": "Primariei",
+            "localitate": {
+                "nume": "Dragoesti",
+                "siruta": 102650
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-319688",
+                "0243-319648"
+            ],
+            "fax": [
+                "0243-319648"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Coşereni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Cosereni",
+                "siruta": 102259
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927095",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-318006",
+                "0243-318050"
+            ],
+            "fax": [
+                "0243-318006"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bueşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Buesti",
+                "siruta": 92818
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927012",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-268288"
+            ],
+            "fax": [
+                "0243-268288"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bucu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Bucu",
+                "siruta": 93030
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927060",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-240535"
+            ],
+            "fax": [
+                "0243-240352"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Borduşani",
+        "adresa": {
+            "strada": "Primăverii, Nr. 133",
+            "localitate": {
+                "nume": "Bordusani",
+                "siruta": 92998
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927050",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-311508"
+            ],
+            "fax": [
+                "0243-311508",
+                "0243-311838"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Borăneşti",
+        "adresa": {
+            "strada": "1 Decembrie 1918, Nr. 139",
+            "localitate": {
+                "nume": "Boranesti",
+                "siruta": 102268
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927096",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0371-152664",
+                "0371-152665"
+            ],
+            "fax": [
+                "0372-873056"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bărcăneşti",
+        "adresa": {
+            "strada": "Şos. Mihai Viteazu, Nr. 174",
+            "localitate": {
+                "nume": "Barcanesti",
+                "siruta": 101065
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927045",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-285000",
+                "0243-285121"
+            ],
+            "fax": [
+                "0243-285121"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Balaciu",
+        "adresa": {
+            "strada": "Calea Bucureşti, Nr. 22",
+            "localitate": {
+                "nume": "Balaciu",
+                "siruta": 92916
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927040",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-261244"
+            ],
+            "fax": [
+                "0243-261058"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Axintele",
+        "adresa": {
+            "strada": "Principală, Fn",
+            "localitate": {
+                "nume": "Axintele",
+                "siruta": 100932
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927035",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-317778"
+            ],
+            "fax": [
+                "0243-317778"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Armăşeşti",
+        "adresa": {
+            "strada": "Principală, Nr. 4",
+            "localitate": {
+                "nume": "Armasesti",
+                "siruta": 100889
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927030",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-288512"
+            ],
+            "fax": [
+                "0243-288512"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Andrăşeşti",
+        "adresa": {
+            "strada": "Gheorghe Gr.Cantacuzino, Nr. 51",
+            "localitate": {
+                "nume": "Andrasesti",
+                "siruta": 92881
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927025",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-267544"
+            ],
+            "fax": [
+                "0243-267544"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Amara",
+        "adresa": {
+            "strada": "Tudor Vladimirescu, Nr. 101",
+            "localitate": {
+                "nume": "Amara",
+                "siruta": 92845
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927020",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-266102"
+            ],
+            "fax": [
+                "0243-266102"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Alexeni",
+        "adresa": {
+            "strada": "Primăriei, Nr. 5",
+            "localitate": {
+                "nume": "Alexeni",
+                "siruta": 100861
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927015",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-249553"
+            ],
+            "fax": [
+                "0243-249553"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Albeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Albesti",
+                "siruta": 92792
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927010",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-268002"
+            ],
+            "fax": [
+                "0243-268002"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Adâncata",
+        "adresa": {
+            "strada": "Principală, Nr. 41",
+            "localitate": {
+                "nume": "Adancata",
+                "siruta": 100763
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927005",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-284015",
+                "0243-284373"
+            ],
+            "fax": [
+                "0243-284015"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vlădeni",
+        "adresa": {
+            "strada": "Mihai Viteazul, Nr. 35",
+            "localitate": {
+                "nume": "Vladeni",
+                "siruta": 105810
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927250",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-313631"
+            ],
+            "fax": [
+                "0243-313631"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Valea Măcrişului",
+        "adresa": {
+            "strada": "Principală, Nr. 65",
+            "localitate": {
+                "nume": "Valea Macrisului",
+                "siruta": 105801
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927245",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-248760",
+                "0243-248578"
+            ],
+            "fax": [
+                "0243-248760"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Valea Ciorii",
+        "adresa": {
+            "strada": "Mihai Eminescu, Nr. 65",
+            "localitate": {
+                "nume": "Valea Ciorii",
+                "siruta": 94697
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "927240",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-277505"
+            ],
+            "fax": [
+                "0243-277575"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Urziceni",
+        "adresa": {
+            "strada": "Calea Bucureşti, Nr. 104",
+            "localitate": {
+                "nume": "Urziceni",
+                "siruta": 100692
+            },
+            "judet": {
+                "nume": "Ialomita",
+                "siruta": 10
+            },
+            "cod-postal": "925300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0243-254975"
+            ],
+            "fax": [
+                "0243-254975"
+            ]
+        }
+    }
+]

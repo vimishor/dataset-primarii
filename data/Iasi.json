@@ -1,0 +1,2447 @@
+[
+    {
+        "nume": "Primăria Cozmeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Cozmesti",
+                "siruta": 96600
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707140",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-413444",
+                "0232-413551"
+            ],
+            "fax": [
+                "0232-413551"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cotnari",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Cotnari",
+                "siruta": 96487
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707120",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-730290",
+                "0232-730017"
+            ],
+            "fax": [
+                "0232-730290"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Coştuleni",
+        "adresa": {
+            "strada": "Principală, Nr. 149",
+            "localitate": {
+                "nume": "Costuleni",
+                "siruta": 96432
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707115",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-291550",
+                "0232-291600"
+            ],
+            "fax": [
+                "0232-291550",
+                "0232-291600"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Costeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Costesti",
+                "siruta": 95541
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "705305",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-722106",
+                "0742-231499"
+            ],
+            "fax": [
+                "0232-722106"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Comarna",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Comarna",
+                "siruta": 96398
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707105",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-238900",
+                "0232-291368"
+            ],
+            "fax": [
+                "0232-238900",
+                "0232-291368"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Coarnele Caprei",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Coarnele Caprei",
+                "siruta": 96343
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-724111"
+            ],
+            "fax": [
+                "0232-724111"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ciurea",
+        "adresa": {
+            "strada": "Dj 248C, Nr. 468",
+            "localitate": {
+                "nume": "Ciurea",
+                "siruta": 96263
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707080",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-296260",
+                "0232-296170",
+                "0232-296018"
+            ],
+            "fax": [
+                "0232-296170"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ciorteşti",
+        "adresa": {
+            "strada": "Prof. Ioan Bucur, Nr. 1",
+            "localitate": {
+                "nume": "Ciortesti",
+                "siruta": 96209
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707075",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-320800",
+                "0232-320400"
+            ],
+            "fax": [
+                "0232-320800"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ciohorăni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ciohorani",
+                "siruta": 98079
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707326",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-765534",
+                "0232-730045"
+            ],
+            "fax": [
+                "0232-730045"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cepleniţa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ceplenita",
+                "siruta": 96156
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707070",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-730110"
+            ],
+            "fax": [
+                "0232-730840"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Butea",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Butea",
+                "siruta": 96129
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707065",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-713020",
+                "0232-713040"
+            ],
+            "fax": [
+                "0232-713040"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Brăeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Braesti",
+                "siruta": 96067
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707060",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0768-571867"
+            ],
+            "fax": [
+                "0232-320300"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bivolari",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Bivolari",
+                "siruta": 95952
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707055",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-298555",
+                "0232-298508"
+            ],
+            "fax": [
+                "0232-298508"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Belceşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Belcesti",
+                "siruta": 95881
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707045",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-724100",
+                "0232-724110",
+                "0232-724050"
+            ],
+            "fax": [
+                "0232-724100"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bârnova",
+        "adresa": {
+            "strada": "Nicolae Titulescu, Nr. 10",
+            "localitate": {
+                "nume": "Barnova",
+                "siruta": 95097
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707035",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-294120"
+            ],
+            "fax": [
+                "0232-294225"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bălţaţi",
+        "adresa": {
+            "strada": "Şos. Tg. Frumos-Iaşi, Km 36",
+            "localitate": {
+                "nume": "Baltati",
+                "siruta": 95809
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707025",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-717249"
+            ],
+            "fax": [
+                "0232-717333"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bals",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Bals",
+                "siruta": 95505
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "705301",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-740067"
+            ],
+            "fax": [
+                "0232-733577"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Aroneanu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Aroneanu",
+                "siruta": 95756
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707020",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-299255"
+            ],
+            "fax": [
+                "0232-299255"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Andrieşeni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Andrieseni",
+                "siruta": 95676
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707010",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-297488",
+                "0232-275880"
+            ],
+            "fax": [
+                "0232-275880"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Alexandru Ioan Cuza",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Alexandru I. Cuza",
+                "siruta": 95621
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707005",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-716537"
+            ],
+            "fax": [
+                "0232-716537"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Voineşti",
+        "adresa": {
+            "strada": "Principală",
+            "localitate": {
+                "nume": "Voinesti",
+                "siruta": 100228
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707600",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-294755"
+            ],
+            "fax": [
+                "0232-294755"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vlădeni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Vladeni",
+                "siruta": 100157
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707590",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-299690",
+                "0232-299700"
+            ],
+            "fax": [
+                "0232-299700"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Victoria",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Victoria",
+                "siruta": 100013
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707580",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-295120",
+                "0232-295223"
+            ],
+            "fax": [
+                "0232-295120"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vânători",
+        "adresa": {
+            "strada": "Principală",
+            "localitate": {
+                "nume": "Vanatori",
+                "siruta": 100095
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707575",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-715003"
+            ],
+            "fax": [
+                "0232-715003"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Valea Seacă",
+        "adresa": {
+            "strada": "Principală",
+            "localitate": {
+                "nume": "Valea Seaca",
+                "siruta": 99977
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707570",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-714844",
+                "0232-714949"
+            ],
+            "fax": [
+                "0232-714844",
+                "0232-714949"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Valea Lupului",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Valea Lupului",
+                "siruta": 95284
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707410",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-272599",
+                "0232-272591",
+                "0232-2777758",
+                "0232-279815"
+            ],
+            "fax": [
+                "0232-277758"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ungheni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ungheni",
+                "siruta": 96012
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707566",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-295333"
+            ],
+            "fax": [
+                "0232-295333"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ţuţora",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Tutora",
+                "siruta": 99931
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707560",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-298777",
+                "0232-298800",
+                "0232-298811"
+            ],
+            "fax": [
+                "0232-298800",
+                "0232-298811"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Trifeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Trifesti",
+                "siruta": 99619
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707520",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-298033"
+            ],
+            "fax": [
+                "0232-298033"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tomeşti",
+        "adresa": {
+            "strada": "Profesor Petru Olteanu, Nr. 167",
+            "localitate": {
+                "nume": "Tomesti",
+                "siruta": 95300
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707515",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-290434"
+            ],
+            "fax": [
+                "0232-290422"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Todireşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Todiresti",
+                "siruta": 99548
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707505",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-733000",
+                "0232-733111"
+            ],
+            "fax": [
+                "0232-733000",
+                "0232-733111"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ţigănaşi",
+        "adresa": {
+            "strada": "Principala, Nr. 1",
+            "localitate": {
+                "nume": "Tiganasi",
+                "siruta": 99888
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707555",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-299070",
+                "0232-299072",
+                "0232-299076"
+            ],
+            "fax": [
+                "0232-299072",
+                "0232-299070",
+                "0232-299076"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ţibăneşti",
+        "adresa": {
+            "strada": "P.P. Carp, Nr. 2",
+            "localitate": {
+                "nume": "Tibanesti",
+                "siruta": 99799
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707545",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-326400",
+                "0232-326401",
+                "0232-326618",
+                "0232-326269"
+            ],
+            "fax": [
+                "0232-326401",
+                "0232-326269"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ţibana",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Tibana",
+                "siruta": 99682
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707530",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-325900",
+                "0232-326090",
+                "0232-325777"
+            ],
+            "fax": [
+                "0232-325900"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tătăruşi",
+        "adresa": {
+            "strada": "Alexandru Vasiliu, Nr. 104",
+            "localitate": {
+                "nume": "Tatarusi",
+                "siruta": 99487
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707500",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-722828",
+                "0232-714500"
+            ],
+            "fax": [
+                "0232-722828"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Târgu Frumos",
+        "adresa": {
+            "strada": "Cuza Vodă, Nr. 67",
+            "localitate": {
+                "nume": "Targu Frumos",
+                "siruta": 95480
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "705300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-710906",
+                "0232-710080"
+            ],
+            "fax": [
+                "0232-710330"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Stolniceni Prăjescu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Stolniceni-Prajescu",
+                "siruta": 99174
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707460",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-767133",
+                "0232-711350",
+                "0232-716964"
+            ],
+            "fax": [
+                "0232-767133",
+                "0232-711350"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tansa",
+        "adresa": {
+            "strada": "Principală",
+            "localitate": {
+                "nume": "Tansa",
+                "siruta": 99450
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707495",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-325170"
+            ],
+            "fax": [
+                "0232-325170"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Strunga",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Strunga",
+                "siruta": 99218
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707465",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-714440",
+                "0232-714260",
+                "0232-714301"
+            ],
+            "fax": [
+                "0232-714440",
+                "0232-714260"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sireţel",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Siretel",
+                "siruta": 99110
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707455",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-732251"
+            ],
+            "fax": [
+                "0232-732254"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şipote",
+        "adresa": {
+            "strada": "Alexandru Lăpuşneanu, Nr. 1",
+            "localitate": {
+                "nume": "Sipote",
+                "siruta": 99389
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707485",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-238320",
+                "0232-238333"
+            ],
+            "fax": [
+                "0232-238320"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sineşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Sinesti",
+                "siruta": 99067
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707450",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-325100"
+            ],
+            "fax": [
+                "0232-325100"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Scobinţi",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Scobinti",
+                "siruta": 99003
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707445",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-720310",
+                "0232-760620"
+            ],
+            "fax": [
+                "0232-720310"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Schitu Duca",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Schitu Duca",
+                "siruta": 98836
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707435",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-324306"
+            ],
+            "fax": [
+                "0232-324306"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şcheia",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Scheia",
+                "siruta": 99307
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707475",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-229030",
+                "0232-229020"
+            ],
+            "fax": [
+                "0232-229020"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Scânteia",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Scanteia",
+                "siruta": 98925
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707425",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-229260",
+                "0232-229399"
+            ],
+            "fax": [
+                "0232-229260"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ruginoasa",
+        "adresa": {
+            "strada": "Unirii, Nr. 27",
+            "localitate": {
+                "nume": "Ruginoasa",
+                "siruta": 98783
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707420",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-734002",
+                "0232-734300",
+                "0232-734361"
+            ],
+            "fax": [
+                "0232-734300",
+                "0232-734361"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Roşcani",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Roscani",
+                "siruta": 99646
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707523",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-257058"
+            ],
+            "fax": [
+                "0232-257058"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Româneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Romanesti",
+                "siruta": 98747
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707415",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-323800",
+                "0232-323871"
+            ],
+            "fax": [
+                "0232-323800"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Rediu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Rediu",
+                "siruta": 95248
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707405",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-254040",
+                "0232-253849"
+            ],
+            "fax": [
+                "0232-253849"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Răducăneni",
+        "adresa": {
+            "strada": "Principală, Fn",
+            "localitate": {
+                "nume": "Raducaneni",
+                "siruta": 98694
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-292438",
+                "0232-292430",
+                "0232-274010"
+            ],
+            "fax": [
+                "0232-292438"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Răchiteni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Rachiteni",
+                "siruta": 97857
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707298",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-740056",
+                "0232-765873"
+            ],
+            "fax": [
+                "0232-740056"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Probota",
+        "adresa": {
+            "strada": "Principală, Fn",
+            "localitate": {
+                "nume": "Probota",
+                "siruta": 98658
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707395",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-297572",
+                "0232-297571"
+            ],
+            "fax": [
+                "0232-297572"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Prisăcani",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Prisacani",
+                "siruta": 98612
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707390",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-295858"
+            ],
+            "fax": [
+                "0232-295999"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Popricani",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Popricani",
+                "siruta": 98514
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707380",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-708104"
+            ],
+            "fax": [
+                "0232-708104"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Popeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Popesti",
+                "siruta": 98444
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707370",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-323400",
+                "0232-323415"
+            ],
+            "fax": [
+                "0232-323400"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Podu Iloaiei",
+        "adresa": {
+            "strada": "Şos. Naţională",
+            "localitate": {
+                "nume": "Podu Iloaiei",
+                "siruta": 98382
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707365",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-740646",
+                "0232-740656"
+            ],
+            "fax": [
+                "0232-740605"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Plugari",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Plugari",
+                "siruta": 98346
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707360",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-238004",
+                "0232-238006",
+                "0232-238016"
+            ],
+            "fax": [
+                "0232-238016",
+                "0232-238001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Paşcani",
+        "adresa": {
+            "strada": "Ştefan Cel Mare, Nr. 16",
+            "localitate": {
+                "nume": "Pascani",
+                "siruta": 95408
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "705200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-762300"
+            ],
+            "fax": [
+                "0232-766259"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Oţeleni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Oteleni",
+                "siruta": 98319
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707355",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-718246"
+            ],
+            "fax": [
+                "0232-718246"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Movileni",
+        "adresa": {
+            "strada": "Speranţei, Nr. 40",
+            "localitate": {
+                "nume": "Movileni",
+                "siruta": 98266
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707350",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-297878",
+                "0232-297777"
+            ],
+            "fax": [
+                "0232-297878"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Moţca",
+        "adresa": {
+            "strada": "Dn 28A",
+            "localitate": {
+                "nume": "Motca",
+                "siruta": 98239
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707345",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-715777",
+                "0232-715050",
+                "0232-716135"
+            ],
+            "fax": [
+                "0232-715050"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Moşna",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Mosna",
+                "siruta": 98211
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707340",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-292600",
+                "0232-250796"
+            ],
+            "fax": [
+                "0232-292600"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mogoşeşti Siret",
+        "adresa": {
+            "strada": "Principală, Fn",
+            "localitate": {
+                "nume": "Mogosesti-Siret",
+                "siruta": 98177
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707335",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-713900",
+                "0232-713958",
+                "0232-713959"
+            ],
+            "fax": [
+                "0232-713900"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mogoşeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Mogosesti",
+                "siruta": 98122
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707330",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-294411",
+                "0232-294414"
+            ],
+            "fax": [
+                "0232-294411",
+                "0232-294414"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mirosloveşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Miroslovesti",
+                "siruta": 98060
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707325",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-713535",
+                "0232-713600"
+            ],
+            "fax": [
+                "0232-713535"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Miroslava",
+        "adresa": {
+            "strada": "Constantin Langa, Nr. 93",
+            "localitate": {
+                "nume": "Miroslava",
+                "siruta": 97928
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707305",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-295680"
+            ],
+            "fax": [
+                "0232-236860",
+                "0332-424444"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mironeasa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Mironeasa",
+                "siruta": 97884
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-228652",
+                "0232-228600"
+            ],
+            "fax": [
+                "0232-228652"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mirceşti",
+        "adresa": {
+            "strada": "Principală, Nr. 60",
+            "localitate": {
+                "nume": "Mircesti",
+                "siruta": 97820
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707295",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-713250"
+            ],
+            "fax": [
+                "0232-713250"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mădîrjac",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Madarjac",
+                "siruta": 97786
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707290",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-724921"
+            ],
+            "fax": [
+                "0232-730385"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lungani",
+        "adresa": {
+            "strada": "Principală, Nr. 31",
+            "localitate": {
+                "nume": "Lungani",
+                "siruta": 97731
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707285",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-322975"
+            ],
+            "fax": [
+                "0346-818738"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Leţcani",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Letcani",
+                "siruta": 97688
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707280",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-296770",
+                "0232-296900"
+            ],
+            "fax": [
+                "0232-296900"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lespezi",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Lespezi",
+                "siruta": 97615
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707270",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-732975",
+                "0232-715454",
+                "0232-715464"
+            ],
+            "fax": [
+                "0232-715454"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ipatele",
+        "adresa": {
+            "strada": "Principală, Fn",
+            "localitate": {
+                "nume": "Ipatele",
+                "siruta": 97562
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707265",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-228855"
+            ],
+            "fax": [
+                "0232-228855"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ion Neculce",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ion Neculce",
+                "siruta": 95587
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "705309",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-710880"
+            ],
+            "fax": [
+                "0232-710780"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Iaşi",
+        "adresa": {
+            "strada": "B-Dul Ştefan Cel Mare Şi Sfânt, Nr. 11",
+            "localitate": {
+                "nume": "Iasi",
+                "siruta": 95079
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "700064",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-267621"
+            ],
+            "fax": [
+                "0232-211200"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Horleşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Horlesti",
+                "siruta": 97526
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707260",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-413200",
+                "0232-413314"
+            ],
+            "fax": [
+                "0232-413200"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Holboca",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Holboca",
+                "siruta": 95168
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707250",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-298499",
+                "0232-298270"
+            ],
+            "fax": [
+                "0232-298499"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Heleşteni",
+        "adresa": {
+            "strada": "Principală, Nr. 131",
+            "localitate": {
+                "nume": "Helesteni",
+                "siruta": 97474
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707245",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-716770",
+                "0232-716768",
+                "0371-357501"
+            ],
+            "fax": [
+                "0232-716768"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Hărmăneşti",
+        "adresa": {
+            "strada": "Sat Hărmăneşti Vechi",
+            "localitate": {
+                "nume": "Harmanestii Vechi",
+                "siruta": 99584
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707509",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-722000",
+                "0232-722950"
+            ],
+            "fax": [
+                "0232-722000"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Hârlău",
+        "adresa": {
+            "strada": "Muşatini, Nr. 1",
+            "localitate": {
+                "nume": "Harlau",
+                "siruta": 95364
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "705100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-720412"
+            ],
+            "fax": [
+                "0232-720777"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Hălăuceşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Halaucesti",
+                "siruta": 97447
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707240",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-717500"
+            ],
+            "fax": [
+                "0232-717056"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Grozeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Grozesti",
+                "siruta": 97401
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707235",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-291800"
+            ],
+            "fax": [
+                "0232-291800"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gropniţa",
+        "adresa": {
+            "strada": "Bulbucani, Nr. 146",
+            "localitate": {
+                "nume": "Gropnita",
+                "siruta": 97330
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707225",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-414222",
+                "0232-414124"
+            ],
+            "fax": [
+                "0232-414122"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gorban",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Gorban",
+                "siruta": 97198
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707210",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-292900"
+            ],
+            "fax": [
+                "0232-272419"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Grajduri",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Grajduri",
+                "siruta": 97250
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707215",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-228286"
+            ],
+            "fax": [
+                "0232-228341"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Golăieşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Golaiesti",
+                "siruta": 97107
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-236614"
+            ],
+            "fax": [
+                "0232-236614"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Focuri",
+        "adresa": {
+            "strada": "Sector 5, Nr. 39",
+            "localitate": {
+                "nume": "Focuri",
+                "siruta": 97072
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707195",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-413717",
+                "0232-413620"
+            ],
+            "fax": [
+                "0232-413717"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Fântânele",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Fantanele (Focuri)",
+                "siruta": 97081
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707196",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-413654",
+                "0232-413888"
+            ],
+            "fax": [
+                "0232-413654"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Erbiceni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Erbiceni",
+                "siruta": 97018
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707190",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-322370"
+            ],
+            "fax": [
+                "0232-322370"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dumeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Dumesti",
+                "siruta": 96959
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707185",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-322020"
+            ],
+            "fax": [
+                "0232-322020"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Drăguşeni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Draguseni",
+                "siruta": 99334
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707478",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-256620"
+            ],
+            "fax": [
+                "0232-256620"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dolheşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Dolhesti",
+                "siruta": 96913
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707180",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-321800"
+            ],
+            "fax": [
+                "0332-321800"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dobrovăţ",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Dobrovat",
+                "siruta": 96897
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707175",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-321207"
+            ],
+            "fax": [
+                "0232-321207"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Deleni",
+        "adresa": {
+            "strada": "Principală, Nr. 1217 B",
+            "localitate": {
+                "nume": "Deleni",
+                "siruta": 96824
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707165",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-732070",
+                "0232-732040"
+            ],
+            "fax": [
+                "0232-732043"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dagâţa",
+        "adresa": {
+            "strada": "Principală, Fn",
+            "localitate": {
+                "nume": "Dagata",
+                "siruta": 96726
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707155",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-325511",
+                "0232-269777"
+            ],
+            "fax": [
+                "0232-325511",
+                "0232-269777"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cucuteni",
+        "adresa": {
+            "strada": "Sat Baiceni",
+            "localitate": {
+                "nume": "Cucuteni",
+                "siruta": 96673
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707150",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-717007"
+            ],
+            "fax": [
+                "0232-717007"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cristeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Cristesti",
+                "siruta": 96646
+            },
+            "judet": {
+                "nume": "Iasi",
+                "siruta": 10
+            },
+            "cod-postal": "707145",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0232-716293",
+                "0232-716170",
+                "0232-716174"
+            ],
+            "fax": [
+                "0232-716293",
+                "0232-716170",
+                "0232-716174"
+            ]
+        }
+    }
+]

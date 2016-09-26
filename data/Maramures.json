@@ -1,0 +1,1872 @@
+[
+    {
+        "nume": "Primăria Cerneşti",
+        "adresa": {
+            "strada": "Principală, Nr. 146",
+            "localitate": {
+                "nume": "Cernesti",
+                "siruta": 107591
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437085",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-382144",
+                "0262-382300",
+                "0262-382430"
+            ],
+            "fax": [
+                "0262-382021"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cavnic",
+        "adresa": {
+            "strada": "22 Decembrie, Nr. 7",
+            "localitate": {
+                "nume": "Cavnic",
+                "siruta": 106791
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "435300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-295046",
+                "0262-295101"
+            ],
+            "fax": [
+                "0262-295046"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Câmpulung La Tisa",
+        "adresa": {
+            "strada": "Principală, Nr. 689",
+            "localitate": {
+                "nume": "Campulung La Tisa",
+                "siruta": 107724
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437080",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-370613",
+                "0262-370820"
+            ],
+            "fax": [
+                "0262-370613",
+                "0262-370820"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Călineşti",
+        "adresa": {
+            "strada": "Principală, Nr. 26",
+            "localitate": {
+                "nume": "Calinesti",
+                "siruta": 107555
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437075",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-373084",
+                "0262-373346"
+            ],
+            "fax": [
+                "0262-373084"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Budeşti",
+        "adresa": {
+            "strada": "Principală, Nr. 816",
+            "localitate": {
+                "nume": "Budesti",
+                "siruta": 107528
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437070",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-373669",
+                "0262-373707"
+            ],
+            "fax": [
+                "0262-373707"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cicîrlău",
+        "adresa": {
+            "strada": "Nr. 389",
+            "localitate": {
+                "nume": "Cicarlau",
+                "siruta": 107671
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437095",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-481002"
+            ],
+            "fax": [
+                "0262-481002"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Oarţa De Jos",
+        "adresa": {
+            "strada": "Principala, Nr. 216",
+            "localitate": {
+                "nume": "Oarta De Jos",
+                "siruta": 108375
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-269001",
+                "0262-269199"
+            ],
+            "fax": [
+                "0262-269199"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Moisei",
+        "adresa": {
+            "strada": "Principală, Nr. 1300",
+            "localitate": {
+                "nume": "Moisei",
+                "siruta": 108357
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437195",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-347601",
+                "0262-347979"
+            ],
+            "fax": [
+                "0262-347979",
+                "0262-347133"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mireşu Mare",
+        "adresa": {
+            "strada": "Principală, Nr. 486",
+            "localitate": {
+                "nume": "Miresu Mare",
+                "siruta": 108277
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437185",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-284205",
+                "0262-284001"
+            ],
+            "fax": [
+                "0262-284001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Leordina",
+        "adresa": {
+            "strada": "Principală, Nr. 874",
+            "localitate": {
+                "nume": "Leordina",
+                "siruta": 108259
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437180",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-364414",
+                "0262-364471",
+                "0262-364060"
+            ],
+            "fax": [
+                "0262-364471",
+                "0262-364060"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lăpuş",
+        "adresa": {
+            "strada": "Nr. 1027",
+            "localitate": {
+                "nume": "Lapus",
+                "siruta": 108231
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437175",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-381566"
+            ],
+            "fax": [
+                "0262-381566"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Satulung",
+        "adresa": {
+            "strada": "Principală, Nr. 128",
+            "localitate": {
+                "nume": "Satulung",
+                "siruta": 108721
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437270",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-283001",
+                "0262-283069"
+            ],
+            "fax": [
+                "0262-283001",
+                "0262-283069"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sarasău",
+        "adresa": {
+            "strada": "Principală, Nr. 511",
+            "localitate": {
+                "nume": "Sarasau",
+                "siruta": 106639
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437265",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-371212"
+            ],
+            "fax": [
+                "0262-371216"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sapânţa",
+        "adresa": {
+            "strada": "Principală, Nr. 512",
+            "localitate": {
+                "nume": "Sapanta",
+                "siruta": 108954
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437305",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-372101",
+                "0262-372427"
+            ],
+            "fax": [
+                "0262-372427"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sălsig",
+        "adresa": {
+            "strada": "Principală, Nr. 400A",
+            "localitate": {
+                "nume": "Salsig",
+                "siruta": 108927
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-267001",
+                "0262-267415",
+                "0262-267598"
+            ],
+            "fax": [
+                "0262-267598"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Săliştea De Sus",
+        "adresa": {
+            "strada": "Liviu Doru Bindea, Nr. 204",
+            "localitate": {
+                "nume": "Salistea De Sus",
+                "siruta": 108909
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437295",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-338007",
+                "0262-338550"
+            ],
+            "fax": [
+                "0262-338250"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Săcel",
+        "adresa": {
+            "strada": "Centru, Nr. 1375",
+            "localitate": {
+                "nume": "Sacel",
+                "siruta": 108883
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437290",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-339201"
+            ],
+            "fax": [
+                "0262-339053"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Săcălăşeni",
+        "adresa": {
+            "strada": "Principală, Nr. 67",
+            "localitate": {
+                "nume": "Sacalaseni",
+                "siruta": 108801
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437280",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-289333"
+            ],
+            "fax": [
+                "0362-814206"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ruscova",
+        "adresa": {
+            "strada": "Principală, Nr. 903",
+            "localitate": {
+                "nume": "Ruscova",
+                "siruta": 108703
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437260",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-365251",
+                "0262-365040"
+            ],
+            "fax": [
+                "0262-365040"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Rozavlea",
+        "adresa": {
+            "strada": "Principală, Nr. 348",
+            "localitate": {
+                "nume": "Rozavlea",
+                "siruta": 108678
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437255",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-333011",
+                "0262-333109"
+            ],
+            "fax": [
+                "0262-333011",
+                "0262-333019"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Rona De Sus",
+        "adresa": {
+            "strada": "Principală, Nr. 1286",
+            "localitate": {
+                "nume": "Rona De Sus",
+                "siruta": 108641
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437250",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-362128",
+                "0262-362308"
+            ],
+            "fax": [
+                "0262-362128",
+                "0262-362308"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Rona De Jos",
+        "adresa": {
+            "strada": "Principală, Nr. 84",
+            "localitate": {
+                "nume": "Rona De Jos",
+                "siruta": 108623
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437245",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-361101",
+                "0262-361210"
+            ],
+            "fax": [
+                "0262-361101"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Repedea",
+        "adresa": {
+            "strada": "Principală, Nr. 98",
+            "localitate": {
+                "nume": "Repedea",
+                "siruta": 108605
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437240",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-366011",
+                "0262-366065",
+                "0262-366121",
+                "0262-366383"
+            ],
+            "fax": [
+                "0262-366065",
+                "0262-366121",
+                "0262-366383"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Remeţi",
+        "adresa": {
+            "strada": "Principală, Nr. 659",
+            "localitate": {
+                "nume": "Remeti",
+                "siruta": 108561
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437235",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-370009",
+                "0262-370213"
+            ],
+            "fax": [
+                "0262-370213"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Remetea Chioarului",
+        "adresa": {
+            "strada": "Principală, Nr. 80",
+            "localitate": {
+                "nume": "Remetea Chioarului",
+                "siruta": 108507
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437230",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-288212"
+            ],
+            "fax": [
+                "0262-288010"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Recea",
+        "adresa": {
+            "strada": "Primăriei, Nr. 2",
+            "localitate": {
+                "nume": "Recea",
+                "siruta": 106416
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437225",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-287202",
+                "0262-287240"
+            ],
+            "fax": [
+                "0262-287555"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Poienile Izei",
+        "adresa": {
+            "strada": "Nr. 349",
+            "localitate": {
+                "nume": "Poienile Izei",
+                "siruta": 107500
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437215",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-334202",
+                "0262-334540"
+            ],
+            "fax": [
+                "0262-334202"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Poienile De Sub Munte",
+        "adresa": {
+            "strada": "Principală, Nr. 382",
+            "localitate": {
+                "nume": "Poienile De Sub Munte",
+                "siruta": 108482
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437220",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-367075",
+                "0262-367017"
+            ],
+            "fax": [
+                "0262-367301",
+                "0262-367017"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Petrova",
+        "adresa": {
+            "strada": "Principală, Nr. 792",
+            "localitate": {
+                "nume": "Petrova",
+                "siruta": 108464
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437210",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-363136",
+                "0262-363130"
+            ],
+            "fax": [
+                "0262-363201"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Onceşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Oncesti",
+                "siruta": 107341
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437037",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-348417"
+            ],
+            "fax": [
+                "0262-348417"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ocna Şugatag",
+        "adresa": {
+            "strada": "Unirii, Nr. 66",
+            "localitate": {
+                "nume": "Ocna Sugatag",
+                "siruta": 108419
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437205",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-374109"
+            ],
+            "fax": [
+                "0262-374005"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ieud",
+        "adresa": {
+            "strada": "Principală, Nr. 147",
+            "localitate": {
+                "nume": "Ieud",
+                "siruta": 108213
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437170",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-336010",
+                "0262-336205"
+            ],
+            "fax": [
+                "0262-336205"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Groşii Ţibleşului",
+        "adresa": {
+            "strada": "Principală, Nr. 497",
+            "localitate": {
+                "nume": "Grosii Tiblesului",
+                "siruta": 109069
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437316",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-388690"
+            ],
+            "fax": [
+                "0262-388777"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Groşi",
+        "adresa": {
+            "strada": "Mihai Viteazu, Nr. 50",
+            "localitate": {
+                "nume": "Grosi",
+                "siruta": 106372
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437165",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-258685"
+            ],
+            "fax": [
+                "0262-258804"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Giuleşti",
+        "adresa": {
+            "strada": "Nr. 114",
+            "localitate": {
+                "nume": "Giulesti",
+                "siruta": 108160
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437160",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-375201",
+                "0262-375015"
+            ],
+            "fax": [
+                "0262-375201"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gârdani",
+        "adresa": {
+            "strada": "Principală, Nr. 452",
+            "localitate": {
+                "nume": "Gardani",
+                "siruta": 108936
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437301",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-267335",
+                "0262-267470"
+            ],
+            "fax": [
+                "0262-267335"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Fărcaşa",
+        "adresa": {
+            "strada": "Independenţei, Nr. 59",
+            "localitate": {
+                "nume": "Farcasa",
+                "siruta": 108115
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437155",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-266001",
+                "0262-266003"
+            ],
+            "fax": [
+                "0262-266001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dumbrăviţa",
+        "adresa": {
+            "strada": "Principală, Nr. 225",
+            "localitate": {
+                "nume": "Dumbravita",
+                "siruta": 108044
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437145",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-299001"
+            ],
+            "fax": [
+                "0262-299688"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dragomireşti",
+        "adresa": {
+            "strada": "1 Decembrie 1918, Nr. 151",
+            "localitate": {
+                "nume": "Dragomiresti",
+                "siruta": 108026
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437140",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-337007",
+                "0262-337361"
+            ],
+            "fax": [
+                "0262-337361"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Deseşti",
+        "adresa": {
+            "strada": "Principală, Nr.190",
+            "localitate": {
+                "nume": "Desesti",
+                "siruta": 107984
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437135",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-372601"
+            ],
+            "fax": [
+                "0262-372601"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cupşeni",
+        "adresa": {
+            "strada": "Principală, Nr. 32",
+            "localitate": {
+                "nume": "Cupseni",
+                "siruta": 107939
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437130",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-383021"
+            ],
+            "fax": [
+                "0262-383125"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Coroieni",
+        "adresa": {
+            "strada": "Principală, Nr. 176",
+            "localitate": {
+                "nume": "Coroieni",
+                "siruta": 107877
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437126",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-389311"
+            ],
+            "fax": [
+                "0262-389301"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Copalnic Mănăştur",
+        "adresa": {
+            "strada": "Principală, Nr. 225A",
+            "localitate": {
+                "nume": "Copalnic-Manastur",
+                "siruta": 107742
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-497003"
+            ],
+            "fax": [
+                "0262-497455"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Coltău",
+        "adresa": {
+            "strada": "Nr. 1G",
+            "localitate": {
+                "nume": "Coltau",
+                "siruta": 108838
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437283",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-289287",
+                "0262-289288",
+                "0262-289289"
+            ],
+            "fax": [
+                "0262-289287",
+                "0262-289288",
+                "0262-289289"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Coaş",
+        "adresa": {
+            "strada": "Principală, Nr. 265 A",
+            "localitate": {
+                "nume": "Coas",
+                "siruta": 108829
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437282",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-286233"
+            ],
+            "fax": [
+                "0262-286233"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Botiza",
+        "adresa": {
+            "strada": "Principală, Nr. 416",
+            "localitate": {
+                "nume": "Botiza",
+                "siruta": 107494
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437065",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-334011"
+            ],
+            "fax": [
+                "0262-334157"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Borşa",
+        "adresa": {
+            "strada": "Floare De Colţ, Nr. 1\/A",
+            "localitate": {
+                "nume": "Borsa",
+                "siruta": 106755
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "435200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-342322",
+                "0262-342444"
+            ],
+            "fax": [
+                "0262-342864"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Boiu Mare",
+        "adresa": {
+            "strada": "Principală, Nr. 204",
+            "localitate": {
+                "nume": "Boiu Mare",
+                "siruta": 107449
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437060",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-480001",
+                "0262-480141"
+            ],
+            "fax": [
+                "0262-480141"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bogdan Vodă",
+        "adresa": {
+            "strada": "Principală, Nr. 363",
+            "localitate": {
+                "nume": "Bogdan Voda",
+                "siruta": 107412
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437055",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-335303",
+                "0262-335301"
+            ],
+            "fax": [
+                "0262-335303",
+                "0262-335101"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bocicoiu Mare",
+        "adresa": {
+            "strada": "Principală, Nr. 136",
+            "localitate": {
+                "nume": "Bocicoiu Mare",
+                "siruta": 107369
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437050",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-360101",
+                "0262-360201"
+            ],
+            "fax": [
+                "0262-360201"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bistra",
+        "adresa": {
+            "strada": "Principală, Nr. 314",
+            "localitate": {
+                "nume": "Bistra",
+                "siruta": 107289
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437045",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-369107",
+                "0262-369195",
+                "0262-369220"
+            ],
+            "fax": [
+                "0262-369220"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bîrsana",
+        "adresa": {
+            "strada": "Principală, Nr. 685",
+            "localitate": {
+                "nume": "Barsana",
+                "siruta": 107323
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437035",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-331068",
+                "0262-331229"
+            ],
+            "fax": [
+                "0262-331068"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bicaz",
+        "adresa": {
+            "strada": "Principală, Nr. 85",
+            "localitate": {
+                "nume": "Bicaz",
+                "siruta": 107243
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437040",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-265701"
+            ],
+            "fax": [
+                "0262-265701"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Băiuţ",
+        "adresa": {
+            "strada": "Principală, Nr. 413",
+            "localitate": {
+                "nume": "Baiut",
+                "siruta": 107163
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437025",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-380012"
+            ],
+            "fax": [
+                "0262-380012"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Băiţa De Sub Codru",
+        "adresa": {
+            "strada": "Nr. 19",
+            "localitate": {
+                "nume": "Baita De Sub Codru",
+                "siruta": 107127
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437020",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-268487"
+            ],
+            "fax": [
+                "0262-268407"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Baia Sprie",
+        "adresa": {
+            "strada": "P-Ţa Libertăţii, Nr. 4",
+            "localitate": {
+                "nume": "Baia Sprie",
+                "siruta": 106693
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "435100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-262303",
+                "0262-260000"
+            ],
+            "fax": [
+                "0262-260059"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Asuaju De Sus",
+        "adresa": {
+            "strada": "Nr. 283",
+            "localitate": {
+                "nume": "Asuaju De Sus",
+                "siruta": 107092
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437015",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-267601"
+            ],
+            "fax": [
+                "0262-267601"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ariniş",
+        "adresa": {
+            "strada": "Principală, Nr. 65",
+            "localitate": {
+                "nume": "Arinis",
+                "siruta": 107056
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437010",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-265406"
+            ],
+            "fax": [
+                "0262-265658"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ardusat",
+        "adresa": {
+            "strada": "Principală, Nr. 30",
+            "localitate": {
+                "nume": "Ardusat",
+                "siruta": 107010
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437005",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-265242"
+            ],
+            "fax": [
+                "0262-265242"
+            ]
+        }
+    },
+    {
+        "nume": "Municipiul Baia Mare",
+        "adresa": {
+            "strada": "Gheorghe Şincai, Nr. 37",
+            "localitate": {
+                "nume": "Baia Mare",
+                "siruta": 106327
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "430311",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-211001",
+                "0262-211002",
+                "0262-211003"
+            ],
+            "fax": [
+                "0262-212332"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vişeu De Sus",
+        "adresa": {
+            "strada": "22 Decembrie, Nr. 19",
+            "localitate": {
+                "nume": "Viseu De Sus",
+                "siruta": 106988
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "435700",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-352880"
+            ],
+            "fax": [
+                "0262-352990"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vişeu De Jos",
+        "adresa": {
+            "strada": "Principală, Nr. 1028",
+            "localitate": {
+                "nume": "Viseu De Jos",
+                "siruta": 109513
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437390",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-368401",
+                "0262-368080",
+                "0262-368138"
+            ],
+            "fax": [
+                "0262-368080",
+                "0262-368138"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vima Mică",
+        "adresa": {
+            "strada": "Principală, Nr. 23",
+            "localitate": {
+                "nume": "Vima Mica",
+                "siruta": 109434
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437380",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-383518"
+            ],
+            "fax": [
+                "0262-383518"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Valea Chioarului",
+        "adresa": {
+            "strada": "Principală, Nr. 194",
+            "localitate": {
+                "nume": "Valea Chioarului",
+                "siruta": 109363
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437370",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-480418",
+                "0262-480436",
+                "0262-480444"
+            ],
+            "fax": [
+                "0262-480444",
+                "0262-480418"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vadu Izei",
+        "adresa": {
+            "strada": "Principală, Nr. 161",
+            "localitate": {
+                "nume": "Vadu Izei",
+                "siruta": 106657
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437365",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-330140"
+            ],
+            "fax": [
+                "0262-330103"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ulmeni",
+        "adresa": {
+            "strada": "Petre Dulfu, Nr. 62A",
+            "localitate": {
+                "nume": "Ulmeni",
+                "siruta": 109274
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437355",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-264957",
+                "0262-264001"
+            ],
+            "fax": [
+                "0262-264957"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tăuţii Măgherăuş",
+        "adresa": {
+            "strada": "Str. 1, Nr.194",
+            "localitate": {
+                "nume": "Tautii-Magheraus",
+                "siruta": 106470
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437345",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-293048"
+            ],
+            "fax": [
+                "0262-293001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Târgu Lăpuş",
+        "adresa": {
+            "strada": "Ţibleşului, Nr. 2",
+            "localitate": {
+                "nume": "Targu Lapus",
+                "siruta": 106826
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "435600",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-384465"
+            ],
+            "fax": [
+                "0262-385403"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Suciu De Sus",
+        "adresa": {
+            "strada": "Nr. 791",
+            "localitate": {
+                "nume": "Suciu De Sus",
+                "siruta": 109050
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437315",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-388046",
+                "0262-388467"
+            ],
+            "fax": [
+                "0262-388046"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Strâmtura",
+        "adresa": {
+            "strada": "Nr. 375",
+            "localitate": {
+                "nume": "Stramtura",
+                "siruta": 109014
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437310",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-332092",
+                "0262-332283",
+                "0262-332068"
+            ],
+            "fax": [
+                "0262-332068",
+                "0262-332283"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şomcuta Mare",
+        "adresa": {
+            "strada": "Someș, Nr. 17",
+            "localitate": {
+                "nume": "Somcuta Mare",
+                "siruta": 109185
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437335",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-280055",
+                "0262-280405"
+            ],
+            "fax": [
+                "0262-281080"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şişeşti",
+        "adresa": {
+            "strada": "Principală, Nr. 430",
+            "localitate": {
+                "nume": "Sisesti",
+                "siruta": 109103
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437325",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-298001"
+            ],
+            "fax": [
+                "0262-298000"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sighetu Marmaţiei",
+        "adresa": {
+            "strada": "Bogdan Vodă, Nr. 14",
+            "localitate": {
+                "nume": "Sighetu Marmatiei",
+                "siruta": 106568
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "435500",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-312396",
+                "0262-311001"
+            ],
+            "fax": [
+                "0262-311069"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sieu",
+        "adresa": {
+            "strada": "Principală, Nr. 619",
+            "localitate": {
+                "nume": "Sieu",
+                "siruta": 108687
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "437320",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-333010"
+            ],
+            "fax": [
+                "0262-333010"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Seini",
+        "adresa": {
+            "strada": "Piaţa Unirii, Nr. 16",
+            "localitate": {
+                "nume": "Seini",
+                "siruta": 108972
+            },
+            "judet": {
+                "nume": "Maramures",
+                "siruta": 10
+            },
+            "cod-postal": "435400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0262-491090"
+            ],
+            "fax": [
+                "0262-491000"
+            ]
+        }
+    }
+]

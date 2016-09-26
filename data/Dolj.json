@@ -1,0 +1,2742 @@
+[
+    {
+        "nume": "Primăria Călăraşi",
+        "adresa": {
+            "strada": "Petre Baniţă, Nr. 148",
+            "localitate": {
+                "nume": "Calarasi",
+                "siruta": 92578
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "910088",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-379052",
+                "0251-379177"
+            ],
+            "fax": [
+                "0251-379052",
+                "0251-379177"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Calafat",
+        "adresa": {
+            "strada": "Tudor Vladimirescu, Nr. 24",
+            "localitate": {
+                "nume": "Calafat",
+                "siruta": 70361
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "205200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-231424"
+            ],
+            "fax": [
+                "0251-232884"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bulzeşti",
+        "adresa": {
+            "strada": "Principala,Nr.36",
+            "localitate": {
+                "nume": "Bulzesti",
+                "siruta": 71368
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207135",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-447802"
+            ],
+            "fax": [
+                "0251-447802"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bucovăţ",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Bucovat",
+                "siruta": 69973
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207125",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-360285",
+                "0251-360330"
+            ],
+            "fax": [
+                "0251-360257"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Breasta",
+        "adresa": {
+            "strada": "Constantin Argetoianu, Nr. 11",
+            "localitate": {
+                "nume": "Breasta",
+                "siruta": 71279
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207115",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-455244",
+                "0251-455016"
+            ],
+            "fax": [
+                "0251-455244",
+                "0251-455016"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bratovoeşti",
+        "adresa": {
+            "strada": "Nr. 67",
+            "localitate": {
+                "nume": "Bratovoesti",
+                "siruta": 71206
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207095",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-371029"
+            ],
+            "fax": [
+                "0251-371029"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bralostiţa",
+        "adresa": {
+            "strada": "Stadionului, Nr. 1",
+            "localitate": {
+                "nume": "Bralostita",
+                "siruta": 71135
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207085",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-450704",
+                "0251-450726"
+            ],
+            "fax": [
+                "0251-450704",
+                "0251-450726"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Brădeşti",
+        "adresa": {
+            "strada": "Mihai Viteazu, Nr. 3",
+            "localitate": {
+                "nume": "Bradesti",
+                "siruta": 71064
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207105",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-444206"
+            ],
+            "fax": [
+                "0251-444206"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Brabova",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Brabova",
+                "siruta": 70995
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207075",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-447310"
+            ],
+            "fax": [
+                "0251-447310"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Botoşeşti Paia",
+        "adresa": {
+            "strada": "Mihai Varzaru Nr. 132",
+            "localitate": {
+                "nume": "Botosesti-Paia",
+                "siruta": 70977
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207070",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-451814",
+                "0251-451943"
+            ],
+            "fax": [
+                "0251-451943"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bistreţ",
+        "adresa": {
+            "strada": "Calea Dunării, Nr.192",
+            "localitate": {
+                "nume": "Bistret",
+                "siruta": 70904
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207065",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-355011",
+                "0251-355180",
+                "0251-355550"
+            ],
+            "fax": [
+                "0251-355550",
+                "0251-355180"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bîrca",
+        "adresa": {
+            "strada": "Mihai Viteazu, Nr. 257",
+            "localitate": {
+                "nume": "Barca",
+                "siruta": 70959
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207055",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-356214",
+                "0251-356116"
+            ],
+            "fax": [
+                "0251-356214"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bechet",
+        "adresa": {
+            "strada": "Alexandru Ioan Cuza, Nr. 100",
+            "localitate": {
+                "nume": "Bechet",
+                "siruta": 70888
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207060",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-336826"
+            ],
+            "fax": [
+                "0251-337197"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Băileşti",
+        "adresa": {
+            "strada": "Revoluţiei, Nr. 1-3",
+            "localitate": {
+                "nume": "Bailesti",
+                "siruta": 70325
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "205100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-311017"
+            ],
+            "fax": [
+                "0251-311956"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Argetoaia",
+        "adresa": {
+            "strada": "Constantin Argetoianu Nr. 186",
+            "localitate": {
+                "nume": "Argetoaia",
+                "siruta": 70753
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207035",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-452701"
+            ],
+            "fax": [
+                "0251-452701"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Apele Vii",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Apele Vii",
+                "siruta": 70735
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207030",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-371607"
+            ],
+            "fax": [
+                "0251-371607"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Amărăştii De Sus",
+        "adresa": {
+            "strada": "Nr. 93",
+            "localitate": {
+                "nume": "Amarastii De Sus",
+                "siruta": 70682
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207025",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-375311"
+            ],
+            "fax": [
+                "0251-375311"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Amărăştii De Jos",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Amarastii De Jos",
+                "siruta": 70646
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207020",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-374020"
+            ],
+            "fax": [
+                "0251-374020"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Almăj",
+        "adresa": {
+            "strada": "Principală, Nr. 250",
+            "localitate": {
+                "nume": "Almaj",
+                "siruta": 70575
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207010",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-449397",
+                "0251-449234"
+            ],
+            "fax": [
+                "0251-449397"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Afumaţi",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Afumati",
+                "siruta": 70539
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207005",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-318001"
+            ],
+            "fax": [
+                "0251-318001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Desa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Desa",
+                "siruta": 72043
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207225",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-322496",
+                "0251-322004"
+            ],
+            "fax": [
+                "0251-322496",
+                "0251-322004"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tălpaş",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Talpas",
+                "siruta": 72374
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207266",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-452487",
+                "0251-452253"
+            ],
+            "fax": [
+                "0251-452487"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sopot",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Sopot",
+                "siruta": 74251
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207540",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-453102"
+            ],
+            "fax": [
+                "0251-453102"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şimnicu De Sus",
+        "adresa": {
+            "strada": "Str. Craiovei Nr. 10",
+            "localitate": {
+                "nume": "Simnicu De Sus",
+                "siruta": 70183
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207550",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-451094"
+            ],
+            "fax": [
+                "0251-451094"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Siliştea Crucii",
+        "adresa": {
+            "strada": "Magistrat Drăguţ Costel, Nr. 2",
+            "localitate": {
+                "nume": "Silistea Crucii",
+                "siruta": 74233
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207535",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-319212",
+                "0351-179239",
+                "0251-179238"
+            ],
+            "fax": [
+                "0251-319212"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Segarcea",
+        "adresa": {
+            "strada": "Unirii, Nr. 52",
+            "localitate": {
+                "nume": "Segarcea",
+                "siruta": 70511
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "205400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-210750"
+            ],
+            "fax": [
+                "0251-210795"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Secu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Secu",
+                "siruta": 74180
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207530",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-453493",
+                "0251-453494",
+                "0251-453521"
+            ],
+            "fax": [
+                "0251-453494"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Seaca De Pădure",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Seaca De Padure",
+                "siruta": 74144
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207525",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-445686"
+            ],
+            "fax": [
+                "0251-445686"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Seaca De Câmp",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Seaca De Camp",
+                "siruta": 74117
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207520",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-320017"
+            ],
+            "fax": [
+                "0251-320017"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Scăeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Scaesti",
+                "siruta": 74082
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207515",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-447007"
+            ],
+            "fax": [
+                "0251-447007"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sălcuţa",
+        "adresa": {
+            "strada": "Alexandru Ioan Cuza, Nr. 122",
+            "localitate": {
+                "nume": "Salcuta",
+                "siruta": 74037
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207510",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-363006",
+                "0251-363207"
+            ],
+            "fax": [
+                "0251-363207",
+                "0251-363006"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sadova",
+        "adresa": {
+            "strada": "Craiovei, Nr. 165",
+            "localitate": {
+                "nume": "Sadova",
+                "siruta": 74000
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207505",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-376622"
+            ],
+            "fax": [
+                "0251-376622"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Rojişte",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Rojiste",
+                "siruta": 71242
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207099",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-372138"
+            ],
+            "fax": [
+                "0251-372138"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Robăneşti",
+        "adresa": {
+            "strada": "Traian Vuia, Nr. 96",
+            "localitate": {
+                "nume": "Robanesti",
+                "siruta": 73923
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207495",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-456101"
+            ],
+            "fax": []
+        }
+    },
+    {
+        "nume": "Primăria Rast",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Rast",
+                "siruta": 73914
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207490",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-324001",
+                "0251-324415"
+            ],
+            "fax": [
+                "0251-324415"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Radovan",
+        "adresa": {
+            "strada": "Şoseaua Calafatului, Nr. 29",
+            "localitate": {
+                "nume": "Radovan",
+                "siruta": 73861
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207485",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-359223"
+            ],
+            "fax": [
+                "0251-359223"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Predeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Predesti",
+                "siruta": 73781
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207475",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-454002",
+                "0251-454048",
+                "0251-454183",
+                "0251-454093"
+            ],
+            "fax": [
+                "0251-454048",
+                "0251-454183"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Poiana Mare",
+        "adresa": {
+            "strada": "Independenţei, Nr. 8-10",
+            "localitate": {
+                "nume": "Poiana Mare",
+                "siruta": 73745
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207470",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-235048"
+            ],
+            "fax": [
+                "0251-235048"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Podari",
+        "adresa": {
+            "strada": "Dunării, Nr. 67",
+            "localitate": {
+                "nume": "Podari",
+                "siruta": 70129
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207465",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-339155"
+            ],
+            "fax": [
+                "0251-339211"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pleşoi",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Plesoi",
+                "siruta": 73834
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207481",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-454246"
+            ],
+            "fax": [
+                "0251-454246"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pleniţa",
+        "adresa": {
+            "strada": "Traian, Nr. 34",
+            "localitate": {
+                "nume": "Plenita",
+                "siruta": 73718
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207460",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-368086",
+                "0251-368189",
+                "0251-368669"
+            ],
+            "fax": [
+                "0251-368086"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Piscu Vechi",
+        "adresa": {
+            "strada": "Mihai Viteazu, Nr. 83",
+            "localitate": {
+                "nume": "Piscu Vechi",
+                "siruta": 73674
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207455",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-323008",
+                "0251-323002"
+            ],
+            "fax": [
+                "0251-323002"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pieleşti",
+        "adresa": {
+            "strada": "Gheorghiţă Geolgău, Nr. 188",
+            "localitate": {
+                "nume": "Pielesti",
+                "siruta": 73638
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207450",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-459474"
+            ],
+            "fax": [
+                "0251-459545"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Perişor",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Perisor",
+                "siruta": 73601
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207445",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-459707"
+            ],
+            "fax": [
+                "0251-459707"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ostroveni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ostroveni",
+                "siruta": 73576
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207440",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-337866",
+                "0251-337366"
+            ],
+            "fax": [
+                "0251-337866"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Orodel",
+        "adresa": {
+            "strada": "Principala, Nr. 133",
+            "localitate": {
+                "nume": "Orodel",
+                "siruta": 73512
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207435",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-367538"
+            ],
+            "fax": [
+                "0251-367538"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Negoi",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Negoi",
+                "siruta": 73479
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207430",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-325088"
+            ],
+            "fax": [
+                "0251-325088"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Murgaşi",
+        "adresa": {
+            "strada": "Primăriei, Nr. 1",
+            "localitate": {
+                "nume": "Murgasi",
+                "siruta": 73424
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207420",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-447627"
+            ],
+            "fax": [
+                "0251-447627"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Moţăţei",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Motatei",
+                "siruta": 73344
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207415",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-326211",
+                "0251-326340"
+            ],
+            "fax": [
+                "0251-326340",
+                "0251-326137"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mischii",
+        "adresa": {
+            "strada": "Eroilor, Nr. 5",
+            "localitate": {
+                "nume": "Mischii",
+                "siruta": 73255
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207405",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-450194"
+            ],
+            "fax": [
+                "0251-450194"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Melineşti",
+        "adresa": {
+            "strada": "Principală, Nr. 60A",
+            "localitate": {
+                "nume": "Melinesti",
+                "siruta": 73111
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207385",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-440042"
+            ],
+            "fax": [
+                "0251-440042"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mârşani",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Marsani",
+                "siruta": 73326
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207380",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-336106"
+            ],
+            "fax": [
+                "0251-336106"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Malu Mare",
+        "adresa": {
+            "strada": "Primăriei, Nr. 7",
+            "localitate": {
+                "nume": "Malu Mare",
+                "siruta": 73077
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207365",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-446145",
+                "0251-446065"
+            ],
+            "fax": [
+                "0251-446145",
+                "0251-446065"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Maglavit",
+        "adresa": {
+            "strada": "Calea Severinului, Nr. 83",
+            "localitate": {
+                "nume": "Maglavit",
+                "siruta": 73040
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207360",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-328733",
+                "0251-328546"
+            ],
+            "fax": [
+                "0251-328733",
+                "0251-328546"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Măceşu De Sus",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Macesu De Sus",
+                "siruta": 73022
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207375",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-354191",
+                "0251-354190",
+                "0251-354225"
+            ],
+            "fax": [
+                "0251-354191",
+                "0251-354225"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Măceşu De Jos",
+        "adresa": {
+            "strada": "Acad. Ştefan Berceanu, Nr.12",
+            "localitate": {
+                "nume": "Macesu De Jos",
+                "siruta": 72999
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207370",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-354507",
+                "0251-354755"
+            ],
+            "fax": [
+                "0251-354755",
+                "0251-354507"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lipovu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Lipovu",
+                "siruta": 72962
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207355",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-359206"
+            ],
+            "fax": [
+                "0251-359206",
+                "0251-359028"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Leu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Leu",
+                "siruta": 72935
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207350",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-373259"
+            ],
+            "fax": [
+                "0251-373259"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Verbiţa",
+        "adresa": {
+            "strada": "Primăriei, Nr. 20",
+            "localitate": {
+                "nume": "Verbita",
+                "siruta": 74714
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207635",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-367113",
+                "0251-367135",
+                "0251-367046"
+            ],
+            "fax": [
+                "0251-367113",
+                "0251-367135",
+                "0251-367046"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vela",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Vela",
+                "siruta": 74625
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207625",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-362619",
+                "0251-362504"
+            ],
+            "fax": [
+                "0251-362504"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vârvoru De Jos",
+        "adresa": {
+            "strada": "Principală, Nr. 133",
+            "localitate": {
+                "nume": "Varvoru De Jos",
+                "siruta": 74769
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207615",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-360251"
+            ],
+            "fax": [
+                "0251-360251"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vârtop",
+        "adresa": {
+            "strada": "Principală, Nr. 374",
+            "localitate": {
+                "nume": "Vartop",
+                "siruta": 74741
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207610",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-363508"
+            ],
+            "fax": [
+                "0251-363508"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Valea Stanciului",
+        "adresa": {
+            "strada": "Arh. Cezar Lăzărescu, Nr. 39",
+            "localitate": {
+                "nume": "Valea Stanciului",
+                "siruta": 74590
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207605",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-352025"
+            ],
+            "fax": [
+                "0251-352025"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Urzicuţa",
+        "adresa": {
+            "strada": "Calea Craiovei, Nr. 40",
+            "localitate": {
+                "nume": "Urzicuta",
+                "siruta": 74563
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207600",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-317619"
+            ],
+            "fax": [
+                "0251-317795"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Unirea",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Unirea",
+                "siruta": 74545
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207595",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-365255",
+                "0251-365398"
+            ],
+            "fax": [
+                "0251-365255"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ţuglui",
+        "adresa": {
+            "strada": "Principală, Nr. 821",
+            "localitate": {
+                "nume": "Tuglui",
+                "siruta": 74518
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207590",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-350205"
+            ],
+            "fax": [
+                "0251-350066"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Teslui",
+        "adresa": {
+            "strada": "Unirii, Nr. 26",
+            "localitate": {
+                "nume": "Teslui",
+                "siruta": 74420
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207580",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-456606",
+                "0251-456802"
+            ],
+            "fax": [
+                "0251-456606"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Terpeziţa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Terpezita",
+                "siruta": 74368
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207575",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-362009"
+            ],
+            "fax": [
+                "0251-362168"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Teasc",
+        "adresa": {
+            "strada": "Bechetului, Nr. 197",
+            "localitate": {
+                "nume": "Teasc",
+                "siruta": 74331
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207570",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-370728"
+            ],
+            "fax": [
+                "0251-370728",
+                "0251-370788"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Izvoare",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Izvoare",
+                "siruta": 72891
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207345",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-366681"
+            ],
+            "fax": [
+                "0251-366681"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Întorsura",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Intorsura",
+                "siruta": 73889
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207487",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-359286"
+            ],
+            "fax": [
+                "0251-359286"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Işalniţa",
+        "adresa": {
+            "strada": "A.I. Cuza, Nr. 1",
+            "localitate": {
+                "nume": "Isalnita",
+                "siruta": 70101
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207340",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-448635",
+                "0251-448004"
+            ],
+            "fax": [
+                "0251-448635"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Greceşti",
+        "adresa": {
+            "strada": "Principală, Nr. 34",
+            "localitate": {
+                "nume": "Grecesti",
+                "siruta": 72828
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207330",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-445318"
+            ],
+            "fax": [
+                "0251-445418"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Goieşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Goiesti",
+                "siruta": 72686
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207310",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-452154",
+                "0251-452108"
+            ],
+            "fax": [
+                "0251-452108"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Goicea",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Goicea",
+                "siruta": 72659
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207305",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-256003",
+                "0251-256161"
+            ],
+            "fax": [
+                "0251-256161"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gogoşu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Gogosu",
+                "siruta": 72613
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-445098"
+            ],
+            "fax": [
+                "0251-445098"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Giurgiţa",
+        "adresa": {
+            "strada": "Calea Dunării, Nr. 123",
+            "localitate": {
+                "nume": "Giurgita",
+                "siruta": 72542
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207295",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-357122"
+            ],
+            "fax": [
+                "0251-357122"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Giubega",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Giubega",
+                "siruta": 72515
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207290",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-460222"
+            ],
+            "fax": [
+                "0251-460222"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gighera",
+        "adresa": {
+            "strada": "Principală, Nr. 184",
+            "localitate": {
+                "nume": "Gighera",
+                "siruta": 72472
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207285",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-353011"
+            ],
+            "fax": [
+                "0251-353011"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ghindeni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ghindeni",
+                "siruta": 73086
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207366",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-455777",
+                "0251-455724"
+            ],
+            "fax": [
+                "0251-455777"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ghidici",
+        "adresa": {
+            "strada": "Mihai Viteazu, Nr. 140",
+            "localitate": {
+                "nume": "Ghidici",
+                "siruta": 73683
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207456",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-323302",
+                "0251-323352"
+            ],
+            "fax": [
+                "0251-323352"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gherceşti",
+        "adresa": {
+            "strada": "Str. Eroilor Nr.107",
+            "localitate": {
+                "nume": "Ghercesti",
+                "siruta": 72418
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207280",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-450580"
+            ],
+            "fax": [
+                "0251-450580"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gângiova",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Gangiova",
+                "siruta": 72588
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207275",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-351505",
+                "0251-351811"
+            ],
+            "fax": [
+                "0251-351505",
+                "0251-351811"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Galiciuica",
+        "adresa": {
+            "strada": "Principală, Nr. 20",
+            "localitate": {
+                "nume": "Galiciuica",
+                "siruta": 72524
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207291",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-460666",
+                "0251-460667"
+            ],
+            "fax": [
+                "0251-460666",
+                "0251-460667"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Galicea Mare",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Galicea Mare",
+                "siruta": 72392
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207270",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-316004"
+            ],
+            "fax": [
+                "0251-316004"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Filiaşi",
+        "adresa": {
+            "strada": "B-Dul Racoţeanu, Nr. 160",
+            "localitate": {
+                "nume": "Filiasi",
+                "siruta": 70423
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "205300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-441018"
+            ],
+            "fax": [
+                "0251-441453"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Fărcaş",
+        "adresa": {
+            "strada": "Principală, Nr. 218",
+            "localitate": {
+                "nume": "Farcas",
+                "siruta": 72285
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207255",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-440052"
+            ],
+            "fax": [
+                "0251-440052"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Drănic",
+        "adresa": {
+            "strada": "Principală, Nr. 762",
+            "localitate": {
+                "nume": "Dranic",
+                "siruta": 72230
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207250",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-351070",
+                "0251-351102"
+            ],
+            "fax": [
+                "0251-351070"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Drăgoteşti",
+        "adresa": {
+            "strada": "Nicolae Iorga, Nr. 1",
+            "localitate": {
+                "nume": "Dragotesti",
+                "siruta": 113297
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "227396",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-456365",
+                "0251-456355"
+            ],
+            "fax": [
+                "0251-456355"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dobroteşti",
+        "adresa": {
+            "strada": "Principală, Nr. 222",
+            "localitate": {
+                "nume": "Dobrotesti",
+                "siruta": 70691
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207026",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-378034"
+            ],
+            "fax": [
+                "0251-378034"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dobreşti",
+        "adresa": {
+            "strada": "Principală, Nr. 7",
+            "localitate": {
+                "nume": "Dobresti",
+                "siruta": 72105
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207235",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-338000"
+            ],
+            "fax": [
+                "0251-338000"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dioşti",
+        "adresa": {
+            "strada": "Şantierului, Nr. 33",
+            "localitate": {
+                "nume": "Diosti",
+                "siruta": 72061
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207230",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-458611",
+                "0372-716290"
+            ],
+            "fax": [
+                "0251-458687"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Daneţi",
+        "adresa": {
+            "strada": "Principală, Nr. 160",
+            "localitate": {
+                "nume": "Daneti",
+                "siruta": 71965
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207215",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-377001",
+                "0251-377528"
+            ],
+            "fax": [
+                "0251-377001",
+                "0251-377528"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dăbuleni",
+        "adresa": {
+            "strada": "Unirii, Nr. 15",
+            "localitate": {
+                "nume": "Dabuleni",
+                "siruta": 72016
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207220",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-334555",
+                "0251-334317"
+            ],
+            "fax": [
+                "0251-334317"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Craiova",
+        "adresa": {
+            "strada": "Alexandru Ioan Cuza, Nr. 7",
+            "localitate": {
+                "nume": "Craiova",
+                "siruta": 69919
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "200585",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-416235",
+                "0251-416237",
+                "0251-416236"
+            ],
+            "fax": [
+                "0251-415222"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Coţofenii Din Faţă",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Cotofenii Din Fata",
+                "siruta": 70600
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207013",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-446598"
+            ],
+            "fax": [
+                "0251-446598"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Coţofenii Din Dos",
+        "adresa": {
+            "strada": "Nicu Iovipale, Nr. 166",
+            "localitate": {
+                "nume": "Cotofenii Din Dos",
+                "siruta": 71929
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207210",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-447089"
+            ],
+            "fax": [
+                "0251-447089"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Coşoveni",
+        "adresa": {
+            "strada": "Principală, Nr. 5",
+            "localitate": {
+                "nume": "Cosoveni",
+                "siruta": 71894
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207205",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-457186"
+            ],
+            "fax": [
+                "0251-457186"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ciupercenii Noi",
+        "adresa": {
+            "strada": "Dunării, Nr. 2",
+            "localitate": {
+                "nume": "Ciupercenii Noi",
+                "siruta": 71867
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-321002"
+            ],
+            "fax": [
+                "0251-321072"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cioroiaşi",
+        "adresa": {
+            "strada": "Principală, Nr. 34",
+            "localitate": {
+                "nume": "Cioroiasi",
+                "siruta": 71821
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207195",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-317122"
+            ],
+            "fax": [
+                "0251-317122",
+                "0372-250243"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cetate",
+        "adresa": {
+            "strada": "Calea Severinului, Nr. 83",
+            "localitate": {
+                "nume": "Cetate",
+                "siruta": 71796
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207190",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-364022"
+            ],
+            "fax": [
+                "0251-364022"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cernăteşti",
+        "adresa": {
+            "strada": "Principală, Nr. 98",
+            "localitate": {
+                "nume": "Cernatesti",
+                "siruta": 71732
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207185",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-445072",
+                "0251-445036"
+            ],
+            "fax": [
+                "0251-445072"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cerat",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Cerat",
+                "siruta": 71705
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207180",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-358202",
+                "0251-358237"
+            ],
+            "fax": [
+                "0251-358202"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Catane",
+        "adresa": {
+            "strada": "Nr. 208",
+            "localitate": {
+                "nume": "Catane",
+                "siruta": 73488
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207431",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-319662",
+                "0251-319698"
+            ],
+            "fax": [
+                "0251-319662",
+                "0251-319698"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Celaru",
+        "adresa": {
+            "strada": "Inv. Marin Georgescu, Nr. 525",
+            "localitate": {
+                "nume": "Celaru",
+                "siruta": 71643
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207175",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-375509"
+            ],
+            "fax": [
+                "0251-375509"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Castranova",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Castranova",
+                "siruta": 71581
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207165",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-372602"
+            ],
+            "fax": [
+                "0251-372602"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Carpen",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Carpen",
+                "siruta": 71545
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207160",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-445637"
+            ],
+            "fax": [
+                "0251-445637"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cârna",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Carna",
+                "siruta": 72668
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207306",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-256824",
+                "0251-256860"
+            ],
+            "fax": [
+                "0251-256661"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cârcea",
+        "adresa": {
+            "strada": "Aeroportului, Nr. 45",
+            "localitate": {
+                "nume": "Carcea",
+                "siruta": 71901
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207206",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-458121",
+                "0251-458107"
+            ],
+            "fax": [
+                "0251-458121"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Caraula",
+        "adresa": {
+            "strada": "Craiovei, Nr. 142",
+            "localitate": {
+                "nume": "Caraula",
+                "siruta": 71527
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207155",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-369568",
+                "0251-369772"
+            ],
+            "fax": [
+                "0251-369772",
+                "0251-369568"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Calopăr",
+        "adresa": {
+            "strada": "Principală, Nr. 572",
+            "localitate": {
+                "nume": "Calopar",
+                "siruta": 71466
+            },
+            "judet": {
+                "nume": "Dolj",
+                "siruta": 10
+            },
+            "cod-postal": "207150",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0251-350558",
+                "0251-350734"
+            ],
+            "fax": [
+                "0251-350734"
+            ]
+        }
+    }
+]

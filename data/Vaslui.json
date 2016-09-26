@@ -1,0 +1,2138 @@
+[
+    {
+        "nume": "Primăria Cozmeşti",
+        "adresa": {
+            "strada": "Sat Baleşti",
+            "localitate": {
+                "nume": "Cozmesti",
+                "siruta": 163413
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737178",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-346067"
+            ],
+            "fax": [
+                "0235-346067"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Costeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Costesti",
+                "siruta": 163146
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737145",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-344548",
+                "0235-344533"
+            ],
+            "fax": [
+                "0235-344533",
+                "0235-344548"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Coroieşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Coroiesti",
+                "siruta": 163066
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737135",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0372-772352",
+                "0372-772353",
+                "0372-772351"
+            ],
+            "fax": []
+        }
+    },
+    {
+        "nume": "Primăria Codăeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Codaesti",
+                "siruta": 163011
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737130",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-341114",
+                "0235-341300"
+            ],
+            "fax": [
+                "0235-341300"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ciocani",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ciocani",
+                "siruta": 165292
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737406",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-435748"
+            ],
+            "fax": [
+                "0235-435748"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Buneşti Avereşti",
+        "adresa": {
+            "strada": "Sat Avereşti",
+            "localitate": {
+                "nume": "Bunesti-Averesti",
+                "siruta": 162924
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737110",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-484820"
+            ],
+            "fax": [
+                "0235-484820"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Boţeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Botesti",
+                "siruta": 162880
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737105",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-484508",
+                "0235-484216"
+            ],
+            "fax": [
+                "0235-484216"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bogdăniţa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Bogdanita",
+                "siruta": 162808
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737095",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-428802",
+                "0235-428860"
+            ],
+            "fax": [
+                "0235-428860"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bogdăneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Bogdanesti",
+                "siruta": 162700
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737085",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-428827",
+                "0235-428954"
+            ],
+            "fax": [
+                "0235-428827"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bogdana",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Bogdana",
+                "siruta": 162602
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737075",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-428833",
+                "0371-303730"
+            ],
+            "fax": [
+                "0372-892824"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Blăgeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Blagesti",
+                "siruta": 162568
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737070",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-426442"
+            ],
+            "fax": [
+                "0235-426442"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Berezeni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Berezeni",
+                "siruta": 162504
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737065",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-431326",
+                "0235-431015"
+            ],
+            "fax": [
+                "0235-431122"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bârlad",
+        "adresa": {
+            "strada": "1 Decembrie, Nr. 21",
+            "localitate": {
+                "nume": "Barlad",
+                "siruta": 161801
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "731182",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-411760",
+                "0235-411761",
+                "0235-411762",
+                "0235-412163"
+            ],
+            "fax": [
+                "0235-416867"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Banca",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Banca",
+                "siruta": 162210
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737025",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-437010",
+                "0235-437088"
+            ],
+            "fax": [
+                "0235-437088"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bălteni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Balteni",
+                "siruta": 162461
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737060",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-342784",
+                "0235-342754"
+            ],
+            "fax": [
+                "0235-342754"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Băceşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Bacesti",
+                "siruta": 162390
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737050",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-458514",
+                "0235-458506"
+            ],
+            "fax": [
+                "0235-458514"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Băcani",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Bacani",
+                "siruta": 162336
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737045",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-429321"
+            ],
+            "fax": [
+                "0235-429523"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Arsura",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Arsura",
+                "siruta": 162158
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737020",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-482019",
+                "0235-482351"
+            ],
+            "fax": [
+                "0235-482019",
+                "0235-482351"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Alexandru Vlahuţă",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Alexandru Vlahuta",
+                "siruta": 162078
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737010",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-429317"
+            ],
+            "fax": [
+                "0235-429317"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Albeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Albesti",
+                "siruta": 162023
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737005",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-344002",
+                "0235-344266"
+            ],
+            "fax": [
+                "0235-344002"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pogoneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Pogonesti",
+                "siruta": 164570
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737322",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-427468",
+                "0235-428229"
+            ],
+            "fax": [
+                "0235-428133"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pogana",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Pogana",
+                "siruta": 165425
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737410",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-411364"
+            ],
+            "fax": [
+                "0235-411364"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pochidia",
+        "adresa": {
+            "strada": "Sat Borodeşti, Nr. 82",
+            "localitate": {
+                "nume": "Pochidia",
+                "siruta": 166592
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737557",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0335-086016"
+            ],
+            "fax": [
+                "0335-086016",
+                "0335-814434"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Perieni",
+        "adresa": {
+            "strada": "Sat Perieni",
+            "localitate": {
+                "nume": "Perieni",
+                "siruta": 165283
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737405",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-427092"
+            ],
+            "fax": [
+                "0235-427092"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pădureni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Padureni",
+                "siruta": 165194
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737395",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-485785",
+                "0235-485858"
+            ],
+            "fax": [
+                "0235-485785",
+                "0235-485858"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Oşeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Osesti",
+                "siruta": 165149
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737390",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-346317"
+            ],
+            "fax": [
+                "0235-346319"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Olteneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Oltenesti",
+                "siruta": 165078
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737380",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-485017",
+                "0235-485010"
+            ],
+            "fax": [
+                "0235-485017",
+                "0235-485010"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Negreşti",
+        "adresa": {
+            "strada": "Nicolae Bălcescu, Nr. 1",
+            "localitate": {
+                "nume": "Negresti",
+                "siruta": 161865
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "735200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-457679"
+            ],
+            "fax": [
+                "0235-457630"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Murgeni",
+        "adresa": {
+            "strada": "Coman Ghenuţă, Nr. 12",
+            "localitate": {
+                "nume": "Murgeni",
+                "siruta": 164990
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737370",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-426020"
+            ],
+            "fax": [
+                "0235-426020"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Muntenii De Sus",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Muntenii De Sus",
+                "siruta": 166217
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737512",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-361626",
+                "0235-361516"
+            ],
+            "fax": [
+                "0235-361516"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Muntenii De Jos",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Muntenii De Jos",
+                "siruta": 164945
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737365",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-313065"
+            ],
+            "fax": [
+                "0235-315865"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Micleşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Miclesti",
+                "siruta": 164909
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737360",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-348135",
+                "0235-348136"
+            ],
+            "fax": [
+                "0235-348195"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Măluşteni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Malusteni",
+                "siruta": 164838
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737350",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0762-248887"
+            ],
+            "fax": []
+        }
+    },
+    {
+        "nume": "Primăria Lunca Banului",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Lunca Banului",
+                "siruta": 164758
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737340",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-483516",
+                "0235-483613"
+            ],
+            "fax": [
+                "0235-483516"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lipovăţ",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Lipovat",
+                "siruta": 164696
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737335",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-345740",
+                "0235-345682"
+            ],
+            "fax": [
+                "0235-345740"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Laza",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Laza",
+                "siruta": 164605
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737325",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-346674",
+                "0235-346886"
+            ],
+            "fax": [
+                "0235-346674"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Iveşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ivesti",
+                "siruta": 164552
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737320",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-428586",
+                "0235-428697"
+            ],
+            "fax": [
+                "0235-428586"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ivăneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ivanesti",
+                "siruta": 164400
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-340506",
+                "0235-340609"
+            ],
+            "fax": [
+                "0235-340575"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ibăneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ibanesti",
+                "siruta": 162103
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737013",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-429309"
+            ],
+            "fax": [
+                "0235-429309"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Iana",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Iana",
+                "siruta": 164348
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737295",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-436215",
+                "0235-436275"
+            ],
+            "fax": [
+                "0235-436215"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Huşi",
+        "adresa": {
+            "strada": "1 Decembrie, Nr. 9",
+            "localitate": {
+                "nume": "Husi",
+                "siruta": 161838
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "735100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-480009"
+            ],
+            "fax": [
+                "0235-480126"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Hoceni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Hoceni",
+                "siruta": 164204
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737285",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-485483"
+            ],
+            "fax": [
+                "0235-485493"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Griviţa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Grivita",
+                "siruta": 164142
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737280",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-424677",
+                "0235-424744"
+            ],
+            "fax": [
+                "0235-424677"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Zorleni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Zorleni",
+                "siruta": 167188
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737635",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-425000",
+                "0235-435756"
+            ],
+            "fax": [
+                "0235-425000"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Zăpodeni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Zapodeni",
+                "siruta": 167080
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737625",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-342216"
+            ],
+            "fax": [
+                "0235-342042"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vutcani",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Vutcani",
+                "siruta": 167044
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737620",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-429031",
+                "0235-429063"
+            ],
+            "fax": [
+                "0235-429024"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vultureşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Vulturesti",
+                "siruta": 166994
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737615",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-457431"
+            ],
+            "fax": [
+                "0235-457431",
+                "0235-457830"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Voineşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Voinesti",
+                "siruta": 166878
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737595",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-347316",
+                "0235-347441"
+            ],
+            "fax": [
+                "0235-347441"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vinderei",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Vinderei",
+                "siruta": 166789
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737585",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-434046",
+                "0235-434118",
+                "0235-434007",
+                "0235-434070"
+            ],
+            "fax": [
+                "0235-434046"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gîrceni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Garceni",
+                "siruta": 164071
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737260",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-347273"
+            ],
+            "fax": [
+                "0235-347273"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ghergheşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Gherghesti",
+                "siruta": 163976
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737270",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-435812"
+            ],
+            "fax": [
+                "0235-435845"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Găgeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Gagesti",
+                "siruta": 163912
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737255",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-429788",
+                "0235-429789"
+            ],
+            "fax": [
+                "0235-429788",
+                "0235-429789"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Fruntişeni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Fruntiseni",
+                "siruta": 164151
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737281",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0746-063667"
+            ],
+            "fax": []
+        }
+    },
+    {
+        "nume": "Primăria Fereşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Feresti",
+                "siruta": 166654
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737566",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-708222"
+            ],
+            "fax": [
+                "0235-708222"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Fălciu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Falciu",
+                "siruta": 163841
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737245",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-430254",
+                "0235-430361"
+            ],
+            "fax": [
+                "0235-430361"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Epureni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Epureni",
+                "siruta": 163690
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737240",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-429626"
+            ],
+            "fax": [
+                "0235-429627"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dumeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Dumesti",
+                "siruta": 163743
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737235",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-459075",
+                "0235-459345"
+            ],
+            "fax": [
+                "0235-459345"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Viişoara",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Viisoara",
+                "siruta": 166716
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737575",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-433060",
+                "0235-433011"
+            ],
+            "fax": [
+                "0235-433060"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vetrişoaia",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Vetrisoaia",
+                "siruta": 166681
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737570",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-432003",
+                "0235-432016"
+            ],
+            "fax": [
+                "0235-432016"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vaslui",
+        "adresa": {
+            "strada": "Spiru Haret, Nr. 2",
+            "localitate": {
+                "nume": "Vaslui",
+                "siruta": 161954
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "730139",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-310999",
+                "0235-313946"
+            ],
+            "fax": [
+                "0235-315946"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Văleni",
+        "adresa": {
+            "strada": "Sat Văleni",
+            "localitate": {
+                "nume": "Valeni",
+                "siruta": 166645
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737565",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-349633",
+                "0235-349604"
+            ],
+            "fax": [
+                "0235-349604"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tutova",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Tutova",
+                "siruta": 166538
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737550",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-428136"
+            ],
+            "fax": [
+                "0235-428136"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Todireşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Todiresti",
+                "siruta": 166422
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737535",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-459208",
+                "0235-459189"
+            ],
+            "fax": [
+                "0235-459189"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tătărăni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Tatarani",
+                "siruta": 166324
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737525",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-484110",
+                "0235-484011",
+                "0235-484012"
+            ],
+            "fax": [
+                "0235-484110",
+                "0235-484011",
+                "0235-484012"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tanacu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Tanacu",
+                "siruta": 166191
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737510",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-345319",
+                "0761-130070"
+            ],
+            "fax": [
+                "0235-345542"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tăcuta",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Tacuta",
+                "siruta": 166244
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737515",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-349164",
+                "0235-349280"
+            ],
+            "fax": [
+                "0235-349280"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şuletea",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Suletea",
+                "siruta": 166146
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737505",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-426784"
+            ],
+            "fax": [
+                "0235-426860"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ştefan Cel Mare",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Stefan Cel Mare",
+                "siruta": 166066
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737495",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-342507"
+            ],
+            "fax": [
+                "0235-342507"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Stănileşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Stanilesti",
+                "siruta": 165988
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737485",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-483016",
+                "0235-483019"
+            ],
+            "fax": [
+                "0235-483122"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Soleşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Solesti",
+                "siruta": 165906
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737475",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-343009",
+                "0235-343179"
+            ],
+            "fax": [
+                "0235-343009",
+                "0235-343179"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Roşieşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Rosiesti",
+                "siruta": 165826
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737465",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-436610",
+                "0235-436594"
+            ],
+            "fax": [
+                "0235-436610"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Rebricea",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Rebricea",
+                "siruta": 165728
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737455",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-457050"
+            ],
+            "fax": [
+                "0335-819630"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Rafaila",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Rafaila",
+                "siruta": 166477
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737541",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-459274"
+            ],
+            "fax": [
+                "0235-459274"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Puşcaşi",
+        "adresa": {
+            "strada": "Principală, Fn",
+            "localitate": {
+                "nume": "Puscasi",
+                "siruta": 164632
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737328",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-340400"
+            ],
+            "fax": [
+                "0235-340348"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pungeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Pungesti",
+                "siruta": 165620
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737445",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-347254"
+            ],
+            "fax": [
+                "0235-347165"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Puieşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Puiesti",
+                "siruta": 165489
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737425",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-427600"
+            ],
+            "fax": [
+                "0235-427630"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Poieneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Poienesti",
+                "siruta": 165345
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737415",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-347082"
+            ],
+            "fax": [
+                "0235-347082"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Duda Epureni",
+        "adresa": {
+            "strada": "Paltinului, Nr. 1",
+            "localitate": {
+                "nume": "Duda-Epureni",
+                "siruta": 163681
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737230",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-480533",
+                "0235-473888",
+                "0235-480169",
+                "0235-480176",
+                "0235-473324"
+            ],
+            "fax": [
+                "0235-480533",
+                "0235-473888",
+                "0235-480169",
+                "0235-480176"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Drânceni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Dranceni",
+                "siruta": 163627
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737220",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-482003",
+                "0235-482220"
+            ],
+            "fax": [
+                "0235-482220"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dragomireşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Dragomiresti",
+                "siruta": 163495
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-340599"
+            ],
+            "fax": [
+                "0235-340658",
+                "0235-340533"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dodeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Dodesti",
+                "siruta": 166725
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737576",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-433118",
+                "0235-433388"
+            ],
+            "fax": [
+                "0235-433118"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dimitrie Cantemir",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Dimitrie Cantemir",
+                "siruta": 164277
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737190",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-485389",
+                "0235-485392",
+                "0235-485508"
+            ],
+            "fax": [
+                "0235-485389",
+                "0235-485508"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Deleşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Delesti",
+                "siruta": 163388
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737175",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-346020",
+                "0235-346106"
+            ],
+            "fax": [
+                "0235-346020",
+                "0235-346106"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Deleni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Deleni",
+                "siruta": 163333
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737170",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-345106",
+                "0235-345170"
+            ],
+            "fax": [
+                "0235-345170",
+                "0235-345106"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dăneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Danesti",
+                "siruta": 163262
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737160",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-341517",
+                "0235-341520"
+            ],
+            "fax": [
+                "0235-341496"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Creţeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Cretesti",
+                "siruta": 163217
+            },
+            "judet": {
+                "nume": "Vaslui",
+                "siruta": 10
+            },
+            "cod-postal": "737155",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0235-485125"
+            ],
+            "fax": [
+                "0235-485011"
+            ]
+        }
+    }
+]

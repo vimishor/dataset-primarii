@@ -1,0 +1,1925 @@
+[
+    {
+        "nume": "Primăria Cîmpeni",
+        "adresa": {
+            "strada": "Piaţa Avram Iancu, Nr. 5",
+            "localitate": {
+                "nume": "Campeni",
+                "siruta": 1464
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "515500",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-771215"
+            ],
+            "fax": [
+                "0258-771215"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cetatea De Baltă",
+        "adresa": {
+            "strada": "Cetăţii, Nr. 32",
+            "localitate": {
+                "nume": "Cetatea De Balta",
+                "siruta": 3967
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517235",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-886128",
+                "0258-886364"
+            ],
+            "fax": [
+                "0258-886128",
+                "0258-886364"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ceru-Băcăinţi",
+        "adresa": {
+            "strada": "Principală, Nr. 5",
+            "localitate": {
+                "nume": "Ceru-Bacainti",
+                "siruta": 3850
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517220",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-700840",
+                "0258-700841"
+            ],
+            "fax": [
+                "0258-700844"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cergău",
+        "adresa": {
+            "strada": "Principală, Nr. 126",
+            "localitate": {
+                "nume": "Cergau Mare",
+                "siruta": 3814
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517216",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-719302"
+            ],
+            "fax": [
+                "0258-719302"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cenade",
+        "adresa": {
+            "strada": "Principală, Nr. 372",
+            "localitate": {
+                "nume": "Cenade",
+                "siruta": 3770
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517210",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-789003",
+                "0258-789104"
+            ],
+            "fax": [
+                "0258-789003"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Câlnic",
+        "adresa": {
+            "strada": "Principală, Nr. 20",
+            "localitate": {
+                "nume": "Calnic",
+                "siruta": 4115
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517205",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-747050",
+                "0258-747095",
+                "0258-747116"
+            ],
+            "fax": [
+                "0258-747041"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bucium",
+        "adresa": {
+            "strada": "Principală, Nr. 25",
+            "localitate": {
+                "nume": "Bucium",
+                "siruta": 3468
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517165",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-784112"
+            ],
+            "fax": [
+                "0372-898512"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bucerdea Grânoasă",
+        "adresa": {
+            "strada": "Ioan Maiorescu, Nr. 82",
+            "localitate": {
+                "nume": "Bucerdea Granoasa",
+                "siruta": 4204
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517261",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-883301"
+            ],
+            "fax": [
+                "0258-883330"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Blandiana",
+        "adresa": {
+            "strada": "Principală, Nr. 15",
+            "localitate": {
+                "nume": "Blandiana",
+                "siruta": 3404
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517160",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-760738",
+                "0258-760811"
+            ],
+            "fax": [
+                "0258-760738"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Blaj",
+        "adresa": {
+            "strada": "P-Ţa 1848 Nr. 16",
+            "localitate": {
+                "nume": "Blaj",
+                "siruta": 1357
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "515400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-710110"
+            ],
+            "fax": [
+                "0258-710014"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bistra",
+        "adresa": {
+            "strada": "Calea Turzii, Nr. 100",
+            "localitate": {
+                "nume": "Bistra",
+                "siruta": 3048
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517115",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-773105"
+            ],
+            "fax": [
+                "0258-890627"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Berghin",
+        "adresa": {
+            "strada": "Principală, Nr. 361",
+            "localitate": {
+                "nume": "Berghin",
+                "siruta": 2997
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517110",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-854101",
+                "0258-854344"
+            ],
+            "fax": [
+                "0258-854101"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Baia De Arieş",
+        "adresa": {
+            "strada": "Piaţa Băii, Nr. 1",
+            "localitate": {
+                "nume": "Baia De Aries",
+                "siruta": 2924
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "515300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-775002"
+            ],
+            "fax": [
+                "0258-775900"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Avram Iancu",
+        "adresa": {
+            "strada": "Avram Iancu, Nr. 169",
+            "localitate": {
+                "nume": "Avram Iancu",
+                "siruta": 2586
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517065",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-786057"
+            ],
+            "fax": [
+                "0258-786211"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Arieşeni",
+        "adresa": {
+            "strada": "Nr. 19",
+            "localitate": {
+                "nume": "Arieseni",
+                "siruta": 2390
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517040",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0358-402989"
+            ],
+            "fax": [
+                "0358-816290"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Almaşu Mare",
+        "adresa": {
+            "strada": "Principală, Nr. 204",
+            "localitate": {
+                "nume": "Almasu Mare",
+                "siruta": 2318
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517030",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-850105"
+            ],
+            "fax": [
+                "0258-850014"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Albac",
+        "adresa": {
+            "strada": "Cloşca, Nr. 9",
+            "localitate": {
+                "nume": "Albac",
+                "siruta": 2149
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517005",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-777501",
+                "0258-777504"
+            ],
+            "fax": [
+                "0258-777549"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lunca Mureşului",
+        "adresa": {
+            "strada": "Gării, Nr. 303",
+            "localitate": {
+                "nume": "Lunca Muresului",
+                "siruta": 5318
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517405",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-878121",
+                "0258-878100"
+            ],
+            "fax": [
+                "0258-878347"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lupşa",
+        "adresa": {
+            "strada": "Centru, Nr. 1",
+            "localitate": {
+                "nume": "Lupsa",
+                "siruta": 5345
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517410",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-769225"
+            ],
+            "fax": [
+                "0258-769109"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Săliştea",
+        "adresa": {
+            "strada": "Joseni, Nr. 447",
+            "localitate": {
+                "nume": "Salistea",
+                "siruta": 7053
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517655",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-762101"
+            ],
+            "fax": [
+                "0258-762007"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sălciua",
+        "adresa": {
+            "strada": "Principală, Nr. 62",
+            "localitate": {
+                "nume": "Salciua De Jos",
+                "siruta": 6985
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517648",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-788740"
+            ],
+            "fax": [
+                "0258-788600"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vidra",
+        "adresa": {
+            "strada": "Sat Vidra, Nr. 1",
+            "localitate": {
+                "nume": "Vidra",
+                "siruta": 8434
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517825",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-786575"
+            ],
+            "fax": [
+                "0258-786575"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Valea Lungă",
+        "adresa": {
+            "strada": "Victoriei, Nr. 328B",
+            "localitate": {
+                "nume": "Valea Lunga",
+                "siruta": 8363
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517815",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-888102",
+                "0258-888193",
+                "0258-888505"
+            ],
+            "fax": [
+                "0258-888102"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sâncel",
+        "adresa": {
+            "strada": "Mihai Eminescu, Nr. 70",
+            "localitate": {
+                "nume": "Sancel",
+                "siruta": 7357
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517670",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-885101",
+                "0258-885088",
+                "0258-885275"
+            ],
+            "fax": [
+                "0258-885101"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Zlatna",
+        "adresa": {
+            "strada": "Calea Moţilor, Nr. 12",
+            "localitate": {
+                "nume": "Zlatna",
+                "siruta": 1945
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "516100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-856337",
+                "0258-856735"
+            ],
+            "fax": [
+                "0258-856583"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vinţu De Jos",
+        "adresa": {
+            "strada": "Lucian Blaga, Nr. 47",
+            "localitate": {
+                "nume": "Vintu De Jos",
+                "siruta": 8835
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517875",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-739234",
+                "0258-739101"
+            ],
+            "fax": [
+                "0258-734635",
+                "0258-739234"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vadu Moţilor",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Vadu Motilor",
+                "siruta": 8238
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517795",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-777505"
+            ],
+            "fax": [
+                "0258-777505"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Unirea",
+        "adresa": {
+            "strada": "Mureşului, Nr. 597",
+            "localitate": {
+                "nume": "Unirea",
+                "siruta": 8167
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517785",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-876101"
+            ],
+            "fax": [
+                "0258-876151"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Teiuş",
+        "adresa": {
+            "strada": "Clujului, Nr. 80",
+            "localitate": {
+                "nume": "Teius",
+                "siruta": 8103
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "515900",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-851101"
+            ],
+            "fax": [
+                "0258-851075"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şugag",
+        "adresa": {
+            "strada": "Valea Frumoasei, Nr. 180",
+            "localitate": {
+                "nume": "Sugag",
+                "siruta": 8023
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517775",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-746177",
+                "0258-746100"
+            ],
+            "fax": [
+                "0258-746177"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Stremţ",
+        "adresa": {
+            "strada": "Principală, Nr. 99",
+            "localitate": {
+                "nume": "Stremt",
+                "siruta": 7776
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517745",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-848101",
+                "0258-848527",
+                "0258-848233"
+            ],
+            "fax": [
+                "0258-848302"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Spring",
+        "adresa": {
+            "strada": "Dostatului, Nr. 94",
+            "localitate": {
+                "nume": "Spring",
+                "siruta": 7954
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517765",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-765019",
+                "0258-765101"
+            ],
+            "fax": [
+                "0258-765045"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şona",
+        "adresa": {
+            "strada": "Lungă, Nr. 2",
+            "localitate": {
+                "nume": "Sona",
+                "siruta": 7874
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517755",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-884144"
+            ],
+            "fax": [
+                "0258-884144",
+                "0258-884466"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Roşia Montană",
+        "adresa": {
+            "strada": "Principală, Nr. 184",
+            "localitate": {
+                "nume": "Rosia Montana",
+                "siruta": 6770
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517615",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-783101"
+            ],
+            "fax": [
+                "0258-783102"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Roşia De Secaş",
+        "adresa": {
+            "strada": "Principală, Nr. 458",
+            "localitate": {
+                "nume": "Rosia De Secas",
+                "siruta": 6949
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517640",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-765755",
+                "0258-765705",
+                "0258-765777"
+            ],
+            "fax": [
+                "0372-008603"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Rimetea",
+        "adresa": {
+            "strada": "Principală, Nr. 34",
+            "localitate": {
+                "nume": "Rimetea",
+                "siruta": 6609
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517610",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-768001"
+            ],
+            "fax": [
+                "0372-001488"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Râmeţ",
+        "adresa": {
+            "strada": "Principală, Nr. 1",
+            "localitate": {
+                "nume": "Ramet",
+                "siruta": 6636
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517590",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-880026",
+                "0258-880015"
+            ],
+            "fax": [
+                "0258-880026",
+                "0258-880015"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Rădeşti",
+        "adresa": {
+            "strada": "Principală, 260",
+            "localitate": {
+                "nume": "Radesti",
+                "siruta": 6556
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517585",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-879491",
+                "0258-879300"
+            ],
+            "fax": [
+                "0258-879300"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Poşaga",
+        "adresa": {
+            "strada": "Sat Poşaga De Jos, Nr. 186",
+            "localitate": {
+                "nume": "Posaga",
+                "siruta": 6468
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517575",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-776024"
+            ],
+            "fax": [
+                "0258-776024"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ponor",
+        "adresa": {
+            "strada": "Principală, Nr. 84",
+            "localitate": {
+                "nume": "Ponor",
+                "siruta": 6404
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517565",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-867503"
+            ],
+            "fax": [
+                "0258-867503"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Poiana Vadului",
+        "adresa": {
+            "strada": "Principală, Nr. 27",
+            "localitate": {
+                "nume": "Poiana Vadului",
+                "siruta": 6280
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517545",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-701856",
+                "0258-701857",
+                "0786-395310",
+                "0786-395311"
+            ],
+            "fax": [
+                "0258-701856"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pianu",
+        "adresa": {
+            "strada": "Principală, Nr. 94",
+            "localitate": {
+                "nume": "Pianu",
+                "siruta": 6226
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517537",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-761111"
+            ],
+            "fax": [
+                "0258-761112"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ohaba",
+        "adresa": {
+            "strada": "Viilor, Nr. 188",
+            "localitate": {
+                "nume": "Ohaba",
+                "siruta": 6173
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517530",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-854511"
+            ],
+            "fax": [
+                "0258-854502"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ocoliş",
+        "adresa": {
+            "strada": "Principală, Nr. 152",
+            "localitate": {
+                "nume": "Ocolis",
+                "siruta": 6128
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517525",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-700888"
+            ],
+            "fax": [
+                "0258-700888"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ocna Mureş",
+        "adresa": {
+            "strada": "Nicolae Iorga, Nr. 27",
+            "localitate": {
+                "nume": "Ocna Mures",
+                "siruta": 1801
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "515700",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-871217",
+                "0258-871257"
+            ],
+            "fax": [
+                "0258-871217"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Noşlac",
+        "adresa": {
+            "strada": "Principală, Nr. 78",
+            "localitate": {
+                "nume": "Noslac",
+                "siruta": 6057
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517515",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-889101"
+            ],
+            "fax": [
+                "0258-889101"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mogoş",
+        "adresa": {
+            "strada": "Principală, Nr. 3A",
+            "localitate": {
+                "nume": "Mogos",
+                "siruta": 5835
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517480",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-855530"
+            ],
+            "fax": [
+                "0258-855530"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mirăslău",
+        "adresa": {
+            "strada": "Principală, Nr. 283",
+            "localitate": {
+                "nume": "Miraslau",
+                "siruta": 5764
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517470",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-879001"
+            ],
+            "fax": [
+                "0258-879001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mihalţ",
+        "adresa": {
+            "strada": "Principală, Nr. 635",
+            "localitate": {
+                "nume": "Mihalt",
+                "siruta": 5719
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517465",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-718101",
+                "0258-718388"
+            ],
+            "fax": [
+                "0258-718101"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Meteş",
+        "adresa": {
+            "strada": "Principală, Nr. 43",
+            "localitate": {
+                "nume": "Metes",
+                "siruta": 5586
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517445",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-849003"
+            ],
+            "fax": [
+                "0258-849071"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lopadea Nouă",
+        "adresa": {
+            "strada": "Principală, Nr. 283",
+            "localitate": {
+                "nume": "Lopadea Noua",
+                "siruta": 5229
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517395",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-875245",
+                "0258-875120"
+            ],
+            "fax": [
+                "0258-875245"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Livezile",
+        "adresa": {
+            "strada": "Principală, Nr. 59",
+            "localitate": {
+                "nume": "Livezile",
+                "siruta": 5176
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517390",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-868120"
+            ],
+            "fax": [
+                "0258-868222",
+                "0258-868120"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Jidvei",
+        "adresa": {
+            "strada": "Perilor, Nr. 15",
+            "localitate": {
+                "nume": "Jidvei",
+                "siruta": 5112
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517385",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-881270",
+                "0258-881317",
+                "0258-881104"
+            ],
+            "fax": [
+                "0258-881317"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Întregalde",
+        "adresa": {
+            "strada": "Principală, Nr. 3",
+            "localitate": {
+                "nume": "Intregalde",
+                "siruta": 4990
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517365",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-855028",
+                "0258-855003"
+            ],
+            "fax": [
+                "0258-855003"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ighiu",
+        "adresa": {
+            "strada": "Principală, Nr. 56",
+            "localitate": {
+                "nume": "Ighiu",
+                "siruta": 4936
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517360",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-844103"
+            ],
+            "fax": [
+                "0258-844103"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Horea",
+        "adresa": {
+            "strada": "Valea Arăzii, Nr. 2",
+            "localitate": {
+                "nume": "Horea",
+                "siruta": 4776
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517340",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-767008",
+                "0258-767011"
+            ],
+            "fax": [
+                "0258-767011",
+                "0258-767334"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Hopârta",
+        "adresa": {
+            "strada": "Principală, Nr. 159",
+            "localitate": {
+                "nume": "Hoparta",
+                "siruta": 4712
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517335",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-875713",
+                "0258-875770"
+            ],
+            "fax": [
+                "0258-875713"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gîrbova",
+        "adresa": {
+            "strada": "Văii, Nr. 452",
+            "localitate": {
+                "nume": "Garbova",
+                "siruta": 4491
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517305",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-748118"
+            ],
+            "fax": [
+                "0258-748101"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gârda De Sus",
+        "adresa": {
+            "strada": "Principală, Nr. 46 A",
+            "localitate": {
+                "nume": "Garda De Sus",
+                "siruta": 4534
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517310",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-778141"
+            ],
+            "fax": [
+                "0258-700533"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Galda De Jos",
+        "adresa": {
+            "strada": "Principală, Nr. 90",
+            "localitate": {
+                "nume": "Galda De Jos",
+                "siruta": 4375
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517285",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-846101"
+            ],
+            "fax": [
+                "0258-846032"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Fărău",
+        "adresa": {
+            "strada": "Principală, Nr. 70",
+            "localitate": {
+                "nume": "Farau",
+                "siruta": 4311
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517280",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-867101",
+                "0258-867102"
+            ],
+            "fax": [
+                "0258-867102"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Doştat",
+        "adresa": {
+            "strada": "Principală, Nr. 250",
+            "localitate": {
+                "nume": "Dostat",
+                "siruta": 4277
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517275",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-764690",
+                "0258-764602"
+            ],
+            "fax": [
+                "0258-764690"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Daia Română",
+        "adresa": {
+            "strada": "Principală, Nr. 326",
+            "localitate": {
+                "nume": "Daia Romana",
+                "siruta": 4259
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517270",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-763101",
+                "0258-763489"
+            ],
+            "fax": [
+                "0258-763101"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cut",
+        "adresa": {
+            "strada": "Principală, 29",
+            "localitate": {
+                "nume": "Cut",
+                "siruta": 4124
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517206",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-745113",
+                "0258-745111"
+            ],
+            "fax": [
+                "0258-745113"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cugir",
+        "adresa": {
+            "strada": "I.L. Caragiale, Nr. 1",
+            "localitate": {
+                "nume": "Cugir",
+                "siruta": 1703
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "515600",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-751683"
+            ],
+            "fax": [
+                "0258-755394"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cricău",
+        "adresa": {
+            "strada": "Axente Sever, Nr. 58",
+            "localitate": {
+                "nume": "Cricau",
+                "siruta": 4151
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517265",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-845019",
+                "0258-845101"
+            ],
+            "fax": [
+                "0258-845101"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Crăciunelu De Jos",
+        "adresa": {
+            "strada": "6 Martie, Nr. 135",
+            "localitate": {
+                "nume": "Craciunelu De Jos",
+                "siruta": 4197
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517260",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-883501",
+                "0258-883580"
+            ],
+            "fax": [
+                "0258-883501"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ciuruleasa",
+        "adresa": {
+            "strada": "Principală, Nr. 1",
+            "localitate": {
+                "nume": "Ciuruleasa",
+                "siruta": 4017
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517250",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-780605"
+            ],
+            "fax": [
+                "0358-819136",
+                "0258-814984"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ciugud",
+        "adresa": {
+            "strada": "Principală Nr. 157",
+            "localitate": {
+                "nume": "Ciugud",
+                "siruta": 1080
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517240",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-841205"
+            ],
+            "fax": [
+                "0258-841205"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Alba Iulia",
+        "adresa": {
+            "strada": "Moţilor, Nr. 5A",
+            "localitate": {
+                "nume": "Alba Iulia",
+                "siruta": 1026
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "510118",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-819462",
+                "0372-586401"
+            ],
+            "fax": [
+                "0258-812545"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Aiud",
+        "adresa": {
+            "strada": "Cuza Vodă, Nr. 1",
+            "localitate": {
+                "nume": "Aiud",
+                "siruta": 1222
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "515200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-861310"
+            ],
+            "fax": [
+                "0258-861280"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Abrud",
+        "adresa": {
+            "strada": "P-Ţa Eroilor, Nr. 1",
+            "localitate": {
+                "nume": "Abrud",
+                "siruta": 1160
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "515100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-780519",
+                "0258-780265"
+            ],
+            "fax": [
+                "0258-780265"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sohodol",
+        "adresa": {
+            "strada": "Nr. 1",
+            "localitate": {
+                "nume": "Sohodol",
+                "siruta": 7455
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517700",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0373-550063"
+            ],
+            "fax": [
+                "0373-550063"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şibot",
+        "adresa": {
+            "strada": "Principală, Nr. 153",
+            "localitate": {
+                "nume": "Sibot",
+                "siruta": 7829
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517750",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-760010",
+                "0258-760220"
+            ],
+            "fax": [
+                "0258-760010"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sebeş",
+        "adresa": {
+            "strada": "P-Ţa Primăriei, Nr. 1",
+            "localitate": {
+                "nume": "Sebes",
+                "siruta": 1883
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "515800",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-731004"
+            ],
+            "fax": [
+                "0258-734187"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Scărişoara",
+        "adresa": {
+            "strada": "Centru, Nr. 205",
+            "localitate": {
+                "nume": "Scarisoara",
+                "siruta": 7204
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517680",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-778641"
+            ],
+            "fax": [
+                "0258-890613"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Săsciori",
+        "adresa": {
+            "strada": "Principală, Nr. 363",
+            "localitate": {
+                "nume": "Sasciori",
+                "siruta": 7106
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517660",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-741110",
+                "0258-741755"
+            ],
+            "fax": [
+                "0258-741755"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sântimbru",
+        "adresa": {
+            "strada": "Blajului, Nr. 187",
+            "localitate": {
+                "nume": "Santimbru",
+                "siruta": 7393
+            },
+            "judet": {
+                "nume": "Alba",
+                "siruta": 10
+            },
+            "cod-postal": "517675",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0258-842101"
+            ],
+            "fax": [
+                "0258-842133"
+            ]
+        }
+    }
+]

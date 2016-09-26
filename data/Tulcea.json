@@ -1,0 +1,1222 @@
+[
+    {
+        "nume": "Primăria I.C. Brătianu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "I.C. Bratianu",
+                "siruta": 161295
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827205",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-573134"
+            ],
+            "fax": [
+                "0240-573134"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Horia",
+        "adresa": {
+            "strada": "Primăriei, Nr. 10",
+            "localitate": {
+                "nume": "Horia",
+                "siruta": 160537
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827095",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-576006"
+            ],
+            "fax": [
+                "0240-576006"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Hamcearca",
+        "adresa": {
+            "strada": "Principală, Nr. 39",
+            "localitate": {
+                "nume": "Hamcearca",
+                "siruta": 160485
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827090",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0374-001402"
+            ],
+            "fax": [
+                "0374-092666",
+                "0240-576094"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Grindu",
+        "adresa": {
+            "strada": "Principală, Nr. 50",
+            "localitate": {
+                "nume": "Grindu",
+                "siruta": 160467
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827085",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0340-501001"
+            ],
+            "fax": [
+                "0340-501001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Greci",
+        "adresa": {
+            "strada": "1 Decembrie, Nr. 16",
+            "localitate": {
+                "nume": "Greci",
+                "siruta": 160449
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827080",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-575051"
+            ],
+            "fax": [
+                "0240-575051"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Frecăţei",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Frecatei",
+                "siruta": 160396
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827075",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-548291"
+            ],
+            "fax": [
+                "0240-548291"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dorobanţu",
+        "adresa": {
+            "strada": "Primăverii, Nr. 45",
+            "localitate": {
+                "nume": "Dorobantu",
+                "siruta": 160332
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827070",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-576306"
+            ],
+            "fax": [
+                "0240-576426",
+                "0240-576303"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dăeni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Daeni",
+                "siruta": 160314
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827065",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-577603",
+                "0240-577789"
+            ],
+            "fax": [
+                "0240-577789"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Crişan",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Crisan",
+                "siruta": 160270
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827060",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-547057"
+            ],
+            "fax": [
+                "0240-547026"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ciucurova",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ciucurova",
+                "siruta": 160234
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827055",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-576579"
+            ],
+            "fax": [
+                "0240-576501"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Chilia Veche",
+        "adresa": {
+            "strada": "Dunării, Nr. 65",
+            "localitate": {
+                "nume": "Chilia Veche",
+                "siruta": 160181
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827050",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-547301"
+            ],
+            "fax": [
+                "0240-547384"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ceatalchioi",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ceatalchioi",
+                "siruta": 160056
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827040",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0371-034711"
+            ],
+            "fax": [
+                "0371-034711"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ceamurlia De Jos",
+        "adresa": {
+            "strada": "Principală, Nr. 58",
+            "localitate": {
+                "nume": "Ceamurlia De Jos",
+                "siruta": 160109
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827035",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-564706"
+            ],
+            "fax": [
+                "0240-564706"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Casimcea",
+        "adresa": {
+            "strada": "Principală, Nr. 28",
+            "localitate": {
+                "nume": "Casimcea",
+                "siruta": 159972
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827025",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-576730"
+            ],
+            "fax": [
+                "0240-576730"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Carcaliu",
+        "adresa": {
+            "strada": "Centru, Nr. 129",
+            "localitate": {
+                "nume": "Carcaliu",
+                "siruta": 159954
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827020",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-574810",
+                "0240-574884"
+            ],
+            "fax": [
+                "0240-574802"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria C.A. Rosetti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "C.A. Rosetti",
+                "siruta": 159892
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827015",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-546200"
+            ],
+            "fax": [
+                "0240-546200"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Beştepe",
+        "adresa": {
+            "strada": "Tulcei, Nr. 76",
+            "localitate": {
+                "nume": "Bestepe",
+                "siruta": 160760
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827133",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-545334",
+                "0240-545335"
+            ],
+            "fax": [
+                "0240-545334"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Beidaud",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Beidaud",
+                "siruta": 159856
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827010",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-564848"
+            ],
+            "fax": [
+                "0240-564848"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Baia",
+        "adresa": {
+            "strada": "1 Decembrie, Nr. 2",
+            "localitate": {
+                "nume": "Baia",
+                "siruta": 159794
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827005",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-564138"
+            ],
+            "fax": [
+                "0240-564065"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Babadag",
+        "adresa": {
+            "strada": "Republicii, Nr. 89",
+            "localitate": {
+                "nume": "Babadag",
+                "siruta": 159669
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "825100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-561012"
+            ],
+            "fax": [
+                "0240-562939"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Valea Teilor",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Valea Teilor",
+                "siruta": 160608
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827108",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-541881"
+            ],
+            "fax": [
+                "0240-541881"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Valea Nucarilor",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Valea Nucarilor",
+                "siruta": 161491
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827235",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-549202"
+            ],
+            "fax": [
+                "0240-549202"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Văcăreni",
+        "adresa": {
+            "strada": "Principală, Nr. 111",
+            "localitate": {
+                "nume": "Vacareni",
+                "siruta": 160715
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827125",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-541539"
+            ],
+            "fax": [
+                "0240-541539"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Turcoaia",
+        "adresa": {
+            "strada": "Troesmis, Nr. 120",
+            "localitate": {
+                "nume": "Turcoaia",
+                "siruta": 161473
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827230",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-574545"
+            ],
+            "fax": [
+                "0240-553003"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tulcea",
+        "adresa": {
+            "strada": "Păcii, Nr. 20",
+            "localitate": {
+                "nume": "Tulcea",
+                "siruta": 159623
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "820033",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-511440",
+                "0240-515760",
+                "0240-511550"
+            ],
+            "fax": [
+                "0240-517736",
+                "0240-511230"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Topolog",
+        "adresa": {
+            "strada": "1 Decembrie, Nr. 67",
+            "localitate": {
+                "nume": "Topolog",
+                "siruta": 161393
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827220",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-568530"
+            ],
+            "fax": [
+                "0240-568530"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sulina",
+        "adresa": {
+            "strada": "I- A, Nr. 180",
+            "localitate": {
+                "nume": "Sulina",
+                "siruta": 159776
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "825400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-543001",
+                "0240-543003"
+            ],
+            "fax": [
+                "0240-543661"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Stejaru",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Stejaru",
+                "siruta": 161357
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827215",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-564833"
+            ],
+            "fax": [
+                "0240-564833",
+                "0240-564990"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Somova",
+        "adresa": {
+            "strada": "Galaţiului, Nr. 49",
+            "localitate": {
+                "nume": "Somova",
+                "siruta": 161311
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827210",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-541059"
+            ],
+            "fax": [
+                "0240-541059"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Smârdan",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Smardan",
+                "siruta": 160136
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827045",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-571848"
+            ],
+            "fax": [
+                "0240-571848"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Slava-Cercheză",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Slava Cercheza",
+                "siruta": 161268
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-551681"
+            ],
+            "fax": [
+                "0240-551681"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sfântu Gheorghe",
+        "adresa": {
+            "strada": "Strada A I-A",
+            "localitate": {
+                "nume": "Sfantu Gheorghe",
+                "siruta": 161240
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827195",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-546701"
+            ],
+            "fax": [
+                "0240-546869"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sarichioi",
+        "adresa": {
+            "strada": "Principală, Nr. 254",
+            "localitate": {
+                "nume": "Sarichioi",
+                "siruta": 161188
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827190",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-563538"
+            ],
+            "fax": [
+                "0240-563511"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Peceneaga",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Peceneaga",
+                "siruta": 161160
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827185",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-577130"
+            ],
+            "fax": [
+                "0240-577130"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pardina",
+        "adresa": {
+            "strada": "Aleea Veche, Nr. 14",
+            "localitate": {
+                "nume": "Pardina",
+                "siruta": 161142
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827180",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-892282"
+            ],
+            "fax": [
+                "0340-814186"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ostrov",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ostrov",
+                "siruta": 161115
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827175",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-577336"
+            ],
+            "fax": [
+                "0240-577448"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Nufăru",
+        "adresa": {
+            "strada": "Domniţa Maria, Nr. 252",
+            "localitate": {
+                "nume": "Nufaru",
+                "siruta": 161062
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827170",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-549054"
+            ],
+            "fax": [
+                "0240-549062"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Niculiţel",
+        "adresa": {
+            "strada": "Centrală, Nr. 2",
+            "localitate": {
+                "nume": "Niculitel",
+                "siruta": 161044
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827165",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-542104",
+                "0240-542282"
+            ],
+            "fax": [
+                "0240-542281"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Nalbanţ",
+        "adresa": {
+            "strada": "Sublocotenent Marian Rițcu, Nr. 14",
+            "localitate": {
+                "nume": "Nalbant",
+                "siruta": 161008
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827160",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-548503",
+                "0240-548595"
+            ],
+            "fax": [
+                "0240-548595"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Murighiol",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Murighiol",
+                "siruta": 160920
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827150",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-545802",
+                "0240-545969"
+            ],
+            "fax": [
+                "0240-545969",
+                "0240-545802"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mihail Kogălniceanu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Mihail Kogalniceanu",
+                "siruta": 160886
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827145",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-563001"
+            ],
+            "fax": [
+                "0240-563177"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mihai Bravu",
+        "adresa": {
+            "strada": "Principală, Nr. 72",
+            "localitate": {
+                "nume": "Mihai Bravu",
+                "siruta": 160840
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827140",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0372-789288"
+            ],
+            "fax": [
+                "0340-815565"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Maliuc",
+        "adresa": {
+            "strada": "Platanilor, Nr. 1",
+            "localitate": {
+                "nume": "Maliuc",
+                "siruta": 160788
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827135",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-546543"
+            ],
+            "fax": [
+                "0372-003861"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mahmudia",
+        "adresa": {
+            "strada": "Geolog Vasile Bacalu, Nr. 19",
+            "localitate": {
+                "nume": "Mahmudia",
+                "siruta": 160733
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827130",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-545543"
+            ],
+            "fax": [
+                "0240-545390"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Măcin",
+        "adresa": {
+            "strada": "Florilor, Nr. 1",
+            "localitate": {
+                "nume": "Macin",
+                "siruta": 159749
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "825300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-571354"
+            ],
+            "fax": [
+                "0240-573950"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Luncaviţa",
+        "adresa": {
+            "strada": "Valea Fagilor, Nr. 101",
+            "localitate": {
+                "nume": "Luncavita",
+                "siruta": 160699
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827120",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-541201",
+                "0240-541203"
+            ],
+            "fax": [
+                "0240-541201",
+                "0240-541203"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Jurilovca",
+        "adresa": {
+            "strada": "1 Mai, Nr. 2",
+            "localitate": {
+                "nume": "Jurilovca",
+                "siruta": 160653
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827115",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-563797",
+                "0240-563798"
+            ],
+            "fax": [
+                "0240-563799"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Jijila",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Jijila",
+                "siruta": 160626
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827110",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-550002",
+                "0240-550024"
+            ],
+            "fax": [
+                "0240-550024"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Izvoarele",
+        "adresa": {
+            "strada": "Şcolii, Nr. 1",
+            "localitate": {
+                "nume": "Isvoarele",
+                "siruta": 160573
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "827105",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-548794"
+            ],
+            "fax": [
+                "0240-548792"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Isaccea",
+        "adresa": {
+            "strada": "1 Decembrie, Nr. 25",
+            "localitate": {
+                "nume": "Isaccea",
+                "siruta": 159696
+            },
+            "judet": {
+                "nume": "Tulcea",
+                "siruta": 10
+            },
+            "cod-postal": "825200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0240-540112",
+                "0240-506600"
+            ],
+            "fax": [
+                "0240-540716",
+                "0240-506623"
+            ]
+        }
+    }
+]

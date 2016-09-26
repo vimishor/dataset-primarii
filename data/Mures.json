@@ -1,0 +1,2515 @@
+[
+    {
+        "nume": "Primăria Ceuaşu De Câmpie",
+        "adresa": {
+            "strada": "Principală, Nr. 365",
+            "localitate": {
+                "nume": "Ceuasu De Campie",
+                "siruta": 115968
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547140",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-324112",
+                "0265-324212"
+            ],
+            "fax": [
+                "0265-324112"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Breaza",
+        "adresa": {
+            "strada": "Principală, Nr. 129",
+            "localitate": {
+                "nume": "Breaza",
+                "siruta": 115860
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547135",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-540325"
+            ],
+            "fax": [
+                "0265-540325"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Brâncoveneşti",
+        "adresa": {
+            "strada": "Principală, Nr. 303",
+            "localitate": {
+                "nume": "Brancovenesti",
+                "siruta": 115904
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547130",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-550112"
+            ],
+            "fax": [
+                "0265-550320"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bogata",
+        "adresa": {
+            "strada": "Principală, Nr. 122",
+            "localitate": {
+                "nume": "Bogata",
+                "siruta": 115833
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547125",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-717100"
+            ],
+            "fax": [
+                "0265-717100",
+                "0265-717220"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bichiş",
+        "adresa": {
+            "strada": "Principală, Nr. 42",
+            "localitate": {
+                "nume": "Bichis",
+                "siruta": 115780
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547120",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-483113",
+                "0265-483112"
+            ],
+            "fax": [
+                "0265-483112"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bereni",
+        "adresa": {
+            "strada": "Principală, Nr. 22",
+            "localitate": {
+                "nume": "Bereni",
+                "siruta": 118110
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547387",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-345416",
+                "0265-345417"
+            ],
+            "fax": [
+                "0265-345416",
+                "0265-345417"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Beica De Jos",
+        "adresa": {
+            "strada": "Principală, Nr. 215",
+            "localitate": {
+                "nume": "Beica De Jos",
+                "siruta": 115717
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547110",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-719700",
+                "0265-719612"
+            ],
+            "fax": [
+                "0265-719612"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Batoş",
+        "adresa": {
+            "strada": "Principală, Nr. 302",
+            "localitate": {
+                "nume": "Batos",
+                "siruta": 115539
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547085",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-544212",
+                "0265-544278"
+            ],
+            "fax": [
+                "0265-544212"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Band",
+        "adresa": {
+            "strada": "Păcii, Nr. 18",
+            "localitate": {
+                "nume": "Band",
+                "siruta": 115398
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547065",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-428403"
+            ],
+            "fax": [
+                "0265-428403",
+                "0265-428215"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bălăuşeri",
+        "adresa": {
+            "strada": "Principală, Nr. 42",
+            "localitate": {
+                "nume": "Balauseri",
+                "siruta": 115646
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-764112",
+                "0265-763612"
+            ],
+            "fax": [
+                "0265-763772"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Băla",
+        "adresa": {
+            "strada": "Principală, Nr. 240",
+            "localitate": {
+                "nume": "Bala",
+                "siruta": 115619
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547095",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-339112",
+                "0265-339214"
+            ],
+            "fax": [
+                "0265-339229"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bahnea",
+        "adresa": {
+            "strada": "1 Decembrie 1918, Nr. 50",
+            "localitate": {
+                "nume": "Bahnea",
+                "siruta": 115316
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547055",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-455112"
+            ],
+            "fax": [
+                "0265-455028"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Băgaciu",
+        "adresa": {
+            "strada": "Principală, Nr. 112",
+            "localitate": {
+                "nume": "Bagaciu",
+                "siruta": 115584
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547090",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-425611",
+                "0265-425714"
+            ],
+            "fax": [
+                "0265-425714"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Aţintiş",
+        "adresa": {
+            "strada": "Principală, Nr. 242",
+            "localitate": {
+                "nume": "Atintis",
+                "siruta": 115245
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547045",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-714193",
+                "0265-714191"
+            ],
+            "fax": [
+                "0265-714193",
+                "0265-714191"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Apold",
+        "adresa": {
+            "strada": "Principală, Nr. 134",
+            "localitate": {
+                "nume": "Apold",
+                "siruta": 115192
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547040",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-713104",
+                "0265-713145",
+                "0265-713156"
+            ],
+            "fax": [
+                "0265-713104"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Aluniş",
+        "adresa": {
+            "strada": "Nr. 656",
+            "localitate": {
+                "nume": "Alunis",
+                "siruta": 115156
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547035",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-553112",
+                "0265-553256",
+                "0265-553246"
+            ],
+            "fax": [
+                "0265-553112"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Albeşti",
+        "adresa": {
+            "strada": "Lungă, Nr. 123",
+            "localitate": {
+                "nume": "Albesti",
+                "siruta": 114612
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547025",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-778001"
+            ],
+            "fax": [
+                "0265-777168"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Adămuş",
+        "adresa": {
+            "strada": "Livezilor, Nr. 78",
+            "localitate": {
+                "nume": "Adamus",
+                "siruta": 115085
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547015",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-450112"
+            ],
+            "fax": [
+                "0265-450133"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Acăţari",
+        "adresa": {
+            "strada": "Principală, Nr. 214",
+            "localitate": {
+                "nume": "Acatari",
+                "siruta": 114989
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547005",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-333112"
+            ],
+            "fax": [
+                "0265-333298"
+            ]
+        }
+    },
+    {
+        "nume": "Municipiul Sighişoara",
+        "adresa": {
+            "strada": "Piaţa Muzeului, Nr. 7",
+            "localitate": {
+                "nume": "Sighisoara",
+                "siruta": 114523
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "545400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-771280"
+            ],
+            "fax": [
+                "0265-771264",
+                "0265-771019"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Zau De Câmpie",
+        "adresa": {
+            "strada": "Republicii, Nr. 18",
+            "localitate": {
+                "nume": "Zau De Campie",
+                "siruta": 120389
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547660",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-486112"
+            ],
+            "fax": [
+                "0265-486113"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Voivodeni",
+        "adresa": {
+            "strada": "Principală, Nr. 160",
+            "localitate": {
+                "nume": "Voivodeni",
+                "siruta": 120325
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547650",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-341140",
+                "0265-341112"
+            ],
+            "fax": [
+                "0265-341140",
+                "0265-341112"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Viişoara",
+        "adresa": {
+            "strada": "Principală, Nr. 111",
+            "localitate": {
+                "nume": "Viisoara",
+                "siruta": 120227
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547645",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-712212"
+            ],
+            "fax": [
+                "0265-712212"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Veţca",
+        "adresa": {
+            "strada": "Principală, Nr. 140",
+            "localitate": {
+                "nume": "Vetca",
+                "siruta": 116803
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547235",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-344411",
+                "0265-344401"
+            ],
+            "fax": [
+                "0265-344401"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vătava",
+        "adresa": {
+            "strada": "Principală, Nr. 62",
+            "localitate": {
+                "nume": "Vatava",
+                "siruta": 120147
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547630",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-555112"
+            ],
+            "fax": [
+                "0265-555001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vărgata",
+        "adresa": {
+            "strada": "Principală, Nr. 32",
+            "localitate": {
+                "nume": "Vargata",
+                "siruta": 120085
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547625",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-588112"
+            ],
+            "fax": [
+                "0265-588016"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vânători",
+        "adresa": {
+            "strada": "Principală, Nr. 43",
+            "localitate": {
+                "nume": "Vanatori",
+                "siruta": 120263
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547635",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-761212"
+            ],
+            "fax": [
+                "0265-761212"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Valea Largă",
+        "adresa": {
+            "strada": "Nr. 248",
+            "localitate": {
+                "nume": "Valea Larga",
+                "siruta": 119983
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547615",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-488112"
+            ],
+            "fax": [
+                "0265-488456"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ungheni",
+        "adresa": {
+            "strada": "Principală, Nr. 357",
+            "localitate": {
+                "nume": "Ungheni",
+                "siruta": 119901
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547605",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-328212",
+                "0265-328112"
+            ],
+            "fax": [
+                "0265-328212"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tîrgu Mureş",
+        "adresa": {
+            "strada": "P-Ța Victoriei, Nr. 3",
+            "localitate": {
+                "nume": "Targu Mures",
+                "siruta": 114328
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "540026",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-268330"
+            ],
+            "fax": [
+                "0265-266963",
+                "0265-264830"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tăureni",
+        "adresa": {
+            "strada": "Principală, Nr. 256",
+            "localitate": {
+                "nume": "Taureni",
+                "siruta": 119867
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547600",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-433712"
+            ],
+            "fax": [
+                "0265-433712"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Târnăveni",
+        "adresa": {
+            "strada": "Piaţa Primăriei, Nr. 7",
+            "localitate": {
+                "nume": "Tarnaveni",
+                "siruta": 114934
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "545600",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-443400",
+                "0265-446312"
+            ],
+            "fax": [
+                "0265-446312"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Suseni",
+        "adresa": {
+            "strada": "Nr. 408",
+            "localitate": {
+                "nume": "Suseni",
+                "siruta": 119732
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547585",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-348086"
+            ],
+            "fax": [
+                "0265-348084"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Suplac",
+        "adresa": {
+            "strada": "Principală, Nr. 238",
+            "localitate": {
+                "nume": "Suplac",
+                "siruta": 119670
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547580",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-456112",
+                "0265-456190"
+            ],
+            "fax": [
+                "0265-456112"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Stânceni",
+        "adresa": {
+            "strada": "Principală, Nr. 37",
+            "localitate": {
+                "nume": "Stanceni",
+                "siruta": 119634
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547575",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-719812"
+            ],
+            "fax": [
+                "0265-719812"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sovata",
+        "adresa": {
+            "strada": "Principală, Nr. 155",
+            "localitate": {
+                "nume": "Sovata",
+                "siruta": 114863
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "545500",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-570218"
+            ],
+            "fax": [
+                "0265-570524"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Solovăstru",
+        "adresa": {
+            "strada": "Principală, Nr. 374",
+            "localitate": {
+                "nume": "Solovastru",
+                "siruta": 119607
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547570",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-534112"
+            ],
+            "fax": [
+                "0265-534112"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sîntana De Mureş",
+        "adresa": {
+            "strada": "Morii, Nr. 26",
+            "localitate": {
+                "nume": "Santana De Mures",
+                "siruta": 114462
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547565",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-323517",
+                "0265-323518"
+            ],
+            "fax": [
+                "0265-323517"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sînpetru De Cîmpie",
+        "adresa": {
+            "strada": "Principală, Nr. 332",
+            "localitate": {
+                "nume": "Sanpetru De Campie",
+                "siruta": 119536
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547555",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-422716",
+                "0265-422704"
+            ],
+            "fax": [
+                "0265-422704"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sîncraiu De Mureş",
+        "adresa": {
+            "strada": "Principală, Nr. 197 A",
+            "localitate": {
+                "nume": "Sancraiu De Mures",
+                "siruta": 114391
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547525",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-316964"
+            ],
+            "fax": [
+                "0265-316965"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şincai",
+        "adresa": {
+            "strada": "Principală, Nr. 156",
+            "localitate": {
+                "nume": "Sincai",
+                "siruta": 119812
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547595",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-427201"
+            ],
+            "fax": [
+                "0265-427201"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Zagăr",
+        "adresa": {
+            "strada": "Principală, Nr. 266",
+            "localitate": {
+                "nume": "Zagar",
+                "siruta": 120352
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547655",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-712412"
+            ],
+            "fax": [
+                "0265-712412"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şăulia",
+        "adresa": {
+            "strada": "Principală, Nr. 413",
+            "localitate": {
+                "nume": "Saulia",
+                "siruta": 119769
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547590",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-435112"
+            ],
+            "fax": [
+                "0265-435113"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Saschiz",
+        "adresa": {
+            "strada": "Principală, Nr. 159",
+            "localitate": {
+                "nume": "Saschiz",
+                "siruta": 119215
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547510",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-711602",
+                "0265-711621"
+            ],
+            "fax": [
+                "0365-815270",
+                "0365-711621"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sărmaşu",
+        "adresa": {
+            "strada": "Republicii, Nr. 63",
+            "localitate": {
+                "nume": "Sarmasu",
+                "siruta": 119251
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547515",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-421855"
+            ],
+            "fax": [
+                "0265-421018"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sărăţeni",
+        "adresa": {
+            "strada": "Principală, Nr. 75\/B",
+            "localitate": {
+                "nume": "Sarateni",
+                "siruta": 114907
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "545504",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-573001"
+            ],
+            "fax": [
+                "0265-573001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sânpaul",
+        "adresa": {
+            "strada": "Principală, Nr. 261\/A",
+            "localitate": {
+                "nume": "Sanpaul",
+                "siruta": 119475
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547550",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-713512"
+            ],
+            "fax": [
+                "0265-713506"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sânger",
+        "adresa": {
+            "strada": "Principală, Nr. 193",
+            "localitate": {
+                "nume": "Sanger",
+                "siruta": 119395
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547540",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-715514",
+                "0265-715512"
+            ],
+            "fax": [
+                "0265-715512"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sângeorgiu De Pădure",
+        "adresa": {
+            "strada": "Livezilor, Nr. 6",
+            "localitate": {
+                "nume": "Sangeorgiu De Padure",
+                "siruta": 119340
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547535",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-578226"
+            ],
+            "fax": [
+                "0265-580357"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sângeorgiu De Mureş",
+        "adresa": {
+            "strada": "Petki Dávid, Nr. 130",
+            "localitate": {
+                "nume": "Sangeorgiu De Mures",
+                "siruta": 114426
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547530",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-316026"
+            ],
+            "fax": [
+                "0265-316025"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ruşii Munţi",
+        "adresa": {
+            "strada": "Principală, Nr. 120",
+            "localitate": {
+                "nume": "Rusii-Munti",
+                "siruta": 119162
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547505",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-554112",
+                "0265-554004",
+                "0265-554180"
+            ],
+            "fax": [
+                "0265-554112",
+                "0265-554004"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Reghin",
+        "adresa": {
+            "strada": "P-Ţa Petru Maior, Nr. 41",
+            "localitate": {
+                "nume": "Reghin",
+                "siruta": 114818
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "545300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-511112"
+            ],
+            "fax": [
+                "0265-512542"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Răstoliţa",
+        "adresa": {
+            "strada": "Principală, Nr. 335",
+            "localitate": {
+                "nume": "Rastolita",
+                "siruta": 118940
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547480",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-532339",
+                "0265-532104",
+                "0265-532202",
+                "0265-532118"
+            ],
+            "fax": [
+                "0265-532339"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Râciu",
+        "adresa": {
+            "strada": "Gheorghe Şincai, Nr. 58",
+            "localitate": {
+                "nume": "Raciu",
+                "siruta": 119000
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547485",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-426003"
+            ],
+            "fax": [
+                "0265-426212"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pogăceaua",
+        "adresa": {
+            "strada": "Nr. 152",
+            "localitate": {
+                "nume": "Pogaceaua",
+                "siruta": 118833
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547465",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-420001",
+                "0265-420110"
+            ],
+            "fax": [
+                "0265-420001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Petelea",
+        "adresa": {
+            "strada": "Principală, Nr. 726",
+            "localitate": {
+                "nume": "Petelea",
+                "siruta": 118806
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547460",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-344112"
+            ],
+            "fax": [
+                "0265-344112"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Păsăreni",
+        "adresa": {
+            "strada": "Principală, Nr. 209",
+            "localitate": {
+                "nume": "Pasareni",
+                "siruta": 118762
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547455",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-710290"
+            ],
+            "fax": [
+                "0265-710290"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Papiu Ilarian",
+        "adresa": {
+            "strada": "Principală, Nr. 192 A",
+            "localitate": {
+                "nume": "Papiu Ilarian",
+                "siruta": 118646
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547445",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-715112",
+                "0265-715113"
+            ],
+            "fax": [
+                "0265-715113"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pănet",
+        "adresa": {
+            "strada": "Principală, Nr.191",
+            "localitate": {
+                "nume": "Panet",
+                "siruta": 118708
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547450",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-322112"
+            ],
+            "fax": [
+                "0265-322112"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ogra",
+        "adresa": {
+            "strada": "Nr. 103 A",
+            "localitate": {
+                "nume": "Ogra",
+                "siruta": 118584
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547440",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-458212",
+                "0265-458112"
+            ],
+            "fax": [
+                "0265-458212"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Nadeş",
+        "adresa": {
+            "strada": "Principală, Nr. 343",
+            "localitate": {
+                "nume": "Nades",
+                "siruta": 118478
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547430",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-763112",
+                "0265-763288",
+                "0265-736286"
+            ],
+            "fax": [
+                "0265-763017"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Neaua",
+        "adresa": {
+            "strada": "Principală, Nr. 15",
+            "localitate": {
+                "nume": "Neaua",
+                "siruta": 118520
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547435",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-585112",
+                "0265-585049"
+            ],
+            "fax": [
+                "0265-585112"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Miheşu De Câmpie",
+        "adresa": {
+            "strada": "Mihai Eminescu, Nr. 4",
+            "localitate": {
+                "nume": "Mihesu De Campie",
+                "siruta": 118389
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547420",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-420312",
+                "0265-420313"
+            ],
+            "fax": [
+                "0265-420313"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Miercurea Nirajului",
+        "adresa": {
+            "strada": "P-Ţa Teilor, Nr. 48",
+            "localitate": {
+                "nume": "Miercurea Nirajului",
+                "siruta": 118290
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547410",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-576004"
+            ],
+            "fax": [
+                "0265-576080"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mica",
+        "adresa": {
+            "strada": "Str. Principală, Nr. 56",
+            "localitate": {
+                "nume": "Mica",
+                "siruta": 118218
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-454150",
+                "0265-454112"
+            ],
+            "fax": [
+                "0265-454033"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Măgherani",
+        "adresa": {
+            "strada": "Principală, Nr. 245",
+            "localitate": {
+                "nume": "Magherani",
+                "siruta": 118101
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547385",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-587113",
+                "0265-587112"
+            ],
+            "fax": [
+                "0265-587112"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mădăraş",
+        "adresa": {
+            "strada": "Principală, Nr. 357",
+            "localitate": {
+                "nume": "Madaras",
+                "siruta": 115441
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547071",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-429300",
+                "0265-429371"
+            ],
+            "fax": [
+                "0265-429300"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lunca Bradului",
+        "adresa": {
+            "strada": "Principală, Nr. 188",
+            "localitate": {
+                "nume": "Lunca Bradului",
+                "siruta": 118067
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547380",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-558112",
+                "0265-558102"
+            ],
+            "fax": [
+                "0265-558112"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lunca",
+        "adresa": {
+            "strada": "Principală, Nr. 228",
+            "localitate": {
+                "nume": "Lunca",
+                "siruta": 118003
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547375",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-542812"
+            ],
+            "fax": [
+                "0265-542812"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Luduş",
+        "adresa": {
+            "strada": "B-Dul 1 Decembrie 1918, Nr. 26",
+            "localitate": {
+                "nume": "Ludus",
+                "siruta": 114729
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "545200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-411716",
+                "0265-412002"
+            ],
+            "fax": [
+                "0265-413402",
+                "0265-411030"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Livezeni",
+        "adresa": {
+            "strada": "Principală, Nr. 76",
+            "localitate": {
+                "nume": "Livezeni",
+                "siruta": 117934
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547365",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-243303"
+            ],
+            "fax": [
+                "0265-257793"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Iernut",
+        "adresa": {
+            "strada": "1 Decembrie 1918, Nr. 9",
+            "localitate": {
+                "nume": "Iernut",
+                "siruta": 117836
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "545100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-471410"
+            ],
+            "fax": [
+                "0265-471376"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ideciu De Jos",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ideciu De Jos",
+                "siruta": 117792
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547360",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-716312"
+            ],
+            "fax": [
+                "0265-716374"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Iclănzel",
+        "adresa": {
+            "strada": "Principală, Nr. 1",
+            "localitate": {
+                "nume": "Iclanzel",
+                "siruta": 117676
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547340",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-715301",
+                "0265-715421"
+            ],
+            "fax": [
+                "0265-715301"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ibăneşti",
+        "adresa": {
+            "strada": "Principală, Nr. 708",
+            "localitate": {
+                "nume": "Ibanesti",
+                "siruta": 117569
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547325",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-538300"
+            ],
+            "fax": [
+                "0265-538112"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Hodoşa",
+        "adresa": {
+            "strada": "Principală, Nr. 56",
+            "localitate": {
+                "nume": "Hodosa",
+                "siruta": 117514
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547320",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-349112",
+                "0265-349037"
+            ],
+            "fax": [
+                "0265-349112",
+                "0265-349037"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Hodac",
+        "adresa": {
+            "strada": "Principală, Nr. 98",
+            "localitate": {
+                "nume": "Hodac",
+                "siruta": 117435
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547310",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-538601"
+            ],
+            "fax": [
+                "0265-538451"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gurghiu",
+        "adresa": {
+            "strada": "Petru Maior, Nr. 8",
+            "localitate": {
+                "nume": "Gurghiu",
+                "siruta": 117328
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547295",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-536003"
+            ],
+            "fax": [
+                "0265-536094"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Grebenişu De Câmpie",
+        "adresa": {
+            "strada": "Principală, Nr. 151",
+            "localitate": {
+                "nume": "Grebenisu De Campie",
+                "siruta": 117284
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547290",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-429823",
+                "0265-429892"
+            ],
+            "fax": [
+                "0265-429823"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gorneşti",
+        "adresa": {
+            "strada": "Principală, Nr. 429",
+            "localitate": {
+                "nume": "Gornesti",
+                "siruta": 117186
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547280",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-342112"
+            ],
+            "fax": [
+                "0265-342411"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Glodeni",
+        "adresa": {
+            "strada": "Principală, Nr. 133",
+            "localitate": {
+                "nume": "Glodeni",
+                "siruta": 117122
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547275",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-338112",
+                "0265-338146"
+            ],
+            "fax": [
+                "0265-338256"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ghindari",
+        "adresa": {
+            "strada": "Principală, Nr. 79",
+            "localitate": {
+                "nume": "Ghindari",
+                "siruta": 117051
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547265",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-584112"
+            ],
+            "fax": [
+                "0265-584151"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gheorghe Doja",
+        "adresa": {
+            "strada": "Principală, Nr. 6",
+            "localitate": {
+                "nume": "Gheorghe Doja",
+                "siruta": 116992
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547260",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-331212",
+                "0265-331112"
+            ],
+            "fax": [
+                "0265-331212"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Găneşti",
+        "adresa": {
+            "strada": "Principală, Nr. 548",
+            "localitate": {
+                "nume": "Ganesti",
+                "siruta": 116947
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547255",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-425101"
+            ],
+            "fax": [
+                "0265-425049"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Găleşti",
+        "adresa": {
+            "strada": "Principală, Nr. 64",
+            "localitate": {
+                "nume": "Galesti",
+                "siruta": 116876
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547245",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-586112"
+            ],
+            "fax": [
+                "0265-586112"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Fărăgău",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Faragau",
+                "siruta": 116732
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547225",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-716612",
+                "0265-716610"
+            ],
+            "fax": [
+                "0265-716610"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Fântânele",
+        "adresa": {
+            "strada": "Principală, Nr. 124",
+            "localitate": {
+                "nume": "Fantanele",
+                "siruta": 116803
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547235",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-580112",
+                "0265-580113"
+            ],
+            "fax": [
+                "0265-580112"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ernei",
+        "adresa": {
+            "strada": "Principală, Nr. 439",
+            "localitate": {
+                "nume": "Ernei",
+                "siruta": 116661
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547215",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-335206"
+            ],
+            "fax": [
+                "0265-335207"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Eremitu",
+        "adresa": {
+            "strada": "Principală, Nr. 547",
+            "localitate": {
+                "nume": "Eremitu",
+                "siruta": 116607
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547210",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-347112"
+            ],
+            "fax": [
+                "0265-347030"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Deda",
+        "adresa": {
+            "strada": "Principală, Nr. 175",
+            "localitate": {
+                "nume": "Deda",
+                "siruta": 116554
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547205",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-556312"
+            ],
+            "fax": [
+                "0265-556312"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Daneş",
+        "adresa": {
+            "strada": "Principală, Nr. 390",
+            "localitate": {
+                "nume": "Danes",
+                "siruta": 116509
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-762212",
+                "0265-762112"
+            ],
+            "fax": [
+                "0265-762212"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cuci",
+        "adresa": {
+            "strada": "Nr. 280",
+            "localitate": {
+                "nume": "Cuci",
+                "siruta": 116448
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547195",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-477503"
+            ],
+            "fax": [
+                "0265-477504"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cucerdea",
+        "adresa": {
+            "strada": "Nr. 329",
+            "localitate": {
+                "nume": "Cucerdea",
+                "siruta": 116402
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547190",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-457144",
+                "0265-457198"
+            ],
+            "fax": [
+                "0265-457198"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cristeşti",
+        "adresa": {
+            "strada": "Principală, Nr. 678",
+            "localitate": {
+                "nume": "Cristesti",
+                "siruta": 114364
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547185",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-326112",
+                "0265-326842",
+                "0265-326012"
+            ],
+            "fax": [
+                "0265-326842"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Crăieşti",
+        "adresa": {
+            "strada": "Nr. 122\/A",
+            "localitate": {
+                "nume": "Craiesti",
+                "siruta": 116359
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547180",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-427637"
+            ],
+            "fax": [
+                "0265-427637"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Crăciuneşti",
+        "adresa": {
+            "strada": "Nr. 166",
+            "localitate": {
+                "nume": "Craciunesti",
+                "siruta": 116297
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547175",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-332112"
+            ],
+            "fax": [
+                "0265-332113"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cozma",
+        "adresa": {
+            "strada": "Principală, Nr. 41",
+            "localitate": {
+                "nume": "Cozma",
+                "siruta": 116233
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547170",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-349402",
+                "0265-349456"
+            ],
+            "fax": [
+                "0265-349402"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Corunca",
+        "adresa": {
+            "strada": "Pricipală, Nr. 108",
+            "localitate": {
+                "nume": "Corunca",
+                "siruta": 117952
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547367",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-243152"
+            ],
+            "fax": [
+                "0265-254827"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Coroisânmartin",
+        "adresa": {
+            "strada": "Principală, Nr. 49",
+            "localitate": {
+                "nume": "Coroisanmartin",
+                "siruta": 116180
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547165",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-765012"
+            ],
+            "fax": [
+                "0265-765112"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Chiheru De Jos",
+        "adresa": {
+            "strada": "Principală, Nr. 81",
+            "localitate": {
+                "nume": "Chiheru De Jos",
+                "siruta": 116135
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547160",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-716112",
+                "0265-716121"
+            ],
+            "fax": [
+                "0265-716112",
+                "0265-716121"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Chibed",
+        "adresa": {
+            "strada": "Principală, Nr. 452",
+            "localitate": {
+                "nume": "Chibed",
+                "siruta": 117088
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547268",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-717783"
+            ],
+            "fax": [
+                "0265-717783"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cheţani",
+        "adresa": {
+            "strada": "Principală, Nr. 51",
+            "localitate": {
+                "nume": "Chetani",
+                "siruta": 116055
+            },
+            "judet": {
+                "nume": "Mures",
+                "siruta": 10
+            },
+            "cod-postal": "547150",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0265-484114",
+                "0265-484112"
+            ],
+            "fax": [
+                "0265-484114"
+            ]
+        }
+    }
+]

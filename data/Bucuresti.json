@@ -1,0 +1,176 @@
+[
+    {
+        "nume": "Primăria Sectorului 1 Bucureşti",
+        "adresa": {
+            "strada": "Banu Manta, Nr. 9",
+            "localitate": {
+                "nume": "Bucuresti",
+                "siruta": 179141
+            },
+            "judet": {
+                "nume": "Bucuresti",
+                "siruta": 10
+            },
+            "cod-postal": "011224",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-3191013",
+                "021-3191014",
+                "021-3191015",
+                "021-3191016",
+                "021-3191017"
+            ],
+            "fax": []
+        }
+    },
+    {
+        "nume": "Primăria Sectorului 2 București",
+        "adresa": {
+            "strada": "Chiristigiilor, Nr. 11-13, Sector 2",
+            "localitate": {
+                "nume": "Bucuresti",
+                "siruta": 179150
+            },
+            "judet": {
+                "nume": "Bucuresti",
+                "siruta": 10
+            },
+            "cod-postal": "021561",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-2096000"
+            ],
+            "fax": [
+                "021-2096282"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sectorului 3 București",
+        "adresa": {
+            "strada": "Parfumului, Nr. 2-4, Sector 3",
+            "localitate": {
+                "nume": "Bucuresti",
+                "siruta": 179169
+            },
+            "judet": {
+                "nume": "Bucuresti",
+                "siruta": 10
+            },
+            "cod-postal": "030842",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-3180323",
+                "021-3180328"
+            ],
+            "fax": [
+                "021-3180304"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sectorului 4 București",
+        "adresa": {
+            "strada": "George Coşbuc, Nr. 6-16",
+            "localitate": {
+                "nume": "Bucuresti",
+                "siruta": 179178
+            },
+            "judet": {
+                "nume": "Bucuresti",
+                "siruta": 10
+            },
+            "cod-postal": "040532",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-3359230",
+                "021-3359236",
+                "021-3359238"
+            ],
+            "fax": []
+        }
+    },
+    {
+        "nume": "Primăria Sectorului 5 Bucureşti",
+        "adresa": {
+            "strada": "B-Dul Regina Elisabeta, Nr. 29-31, Sector 5",
+            "localitate": {
+                "nume": "Bucuresti",
+                "siruta": 179187
+            },
+            "judet": {
+                "nume": "Bucuresti",
+                "siruta": 10
+            },
+            "cod-postal": "050012",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-3144680",
+                "021-3144318",
+                "021-3142837"
+            ],
+            "fax": [
+                "021-3144990"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sectorului 6 București",
+        "adresa": {
+            "strada": "Calea Plevnei, Nr. 147-149, Sector 6",
+            "localitate": {
+                "nume": "Bucuresti",
+                "siruta": 179196
+            },
+            "judet": {
+                "nume": "Bucuresti",
+                "siruta": 10
+            },
+            "cod-postal": "060014",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "037-6204319",
+                "037-6204147",
+                "037-6204149"
+            ],
+            "fax": [
+                "037-6204446"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bucureşti",
+        "adresa": {
+            "strada": "Splaiul Independenţei, Nr. 291-293, Sector 6",
+            "localitate": {
+                "nume": "Bucuresti",
+                "siruta": 179196
+            },
+            "judet": {
+                "nume": "Bucuresti",
+                "siruta": 10
+            },
+            "cod-postal": "060042",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-3055500",
+                "021-3055555"
+            ],
+            "fax": []
+        }
+    }
+]

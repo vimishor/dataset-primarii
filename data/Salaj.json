@@ -1,0 +1,1508 @@
+[
+    {
+        "nume": "Primăria Cristolţ",
+        "adresa": {
+            "strada": "Principală, Nr. 84",
+            "localitate": {
+                "nume": "Cristolt",
+                "siruta": 140789
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-635958",
+                "0260-635977"
+            ],
+            "fax": [
+                "0260-635977"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Crişeni",
+        "adresa": {
+            "strada": "Nr. 304",
+            "localitate": {
+                "nume": "Criseni",
+                "siruta": 140832
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457105",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-610480",
+                "0260-611527"
+            ],
+            "fax": [
+                "0260-610480"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Creaca",
+        "adresa": {
+            "strada": "Principală, Nr. 179\/B",
+            "localitate": {
+                "nume": "Creaca",
+                "siruta": 140681
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457090",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-646557",
+                "0260-646509"
+            ],
+            "fax": [
+                "0260-646557",
+                "0260-646509"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Năpradea",
+        "adresa": {
+            "strada": "Principală, Nr. 23",
+            "localitate": {
+                "nume": "Napradea",
+                "siruta": 142186
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457255",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-646175",
+                "0260-646101",
+                "0260-646250"
+            ],
+            "fax": [
+                "0260-646250"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mirşid",
+        "adresa": {
+            "strada": "Principală, Nr. 89",
+            "localitate": {
+                "nume": "Mirsid",
+                "siruta": 142131
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457250",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-663591"
+            ],
+            "fax": [
+                "0360-566908"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Meseşenii De Jos",
+        "adresa": {
+            "strada": "Principală, Nr. 41",
+            "localitate": {
+                "nume": "Mesesenii De Jos",
+                "siruta": 142088
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457245",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-663308",
+                "0260-663365"
+            ],
+            "fax": [
+                "0260-663355"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Zalha",
+        "adresa": {
+            "strada": "Principală, Nr. 101",
+            "localitate": {
+                "nume": "Zalha",
+                "siruta": 143076
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457360",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-639800",
+                "0260-639988"
+            ],
+            "fax": [
+                "0260-639988"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Zalău",
+        "adresa": {
+            "strada": "P-Ţa Iuliu Maniu, Nr. 3",
+            "localitate": {
+                "nume": "Zalau",
+                "siruta": 139713
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "450016",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-610550"
+            ],
+            "fax": [
+                "0260-661869"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vârşolţ",
+        "adresa": {
+            "strada": "Nr. 168",
+            "localitate": {
+                "nume": "Varsolt",
+                "siruta": 143030
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457355",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-672501",
+                "0260-672500",
+                "0260-672611"
+            ],
+            "fax": [
+                "0260-672500"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Valcău De Jos",
+        "adresa": {
+            "strada": "Principală, Nr. 235",
+            "localitate": {
+                "nume": "Valcau De Jos",
+                "siruta": 142961
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457345",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-670800",
+                "0260-670869"
+            ],
+            "fax": [
+                "0260-670800"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Treznea",
+        "adresa": {
+            "strada": "Principală, Nr. 83",
+            "localitate": {
+                "nume": "Treznea",
+                "siruta": 139973
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457340",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-658044",
+                "0260-658255"
+            ],
+            "fax": [
+                "0260-658044"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Surduc",
+        "adresa": {
+            "strada": "Principală, Nr. 135",
+            "localitate": {
+                "nume": "Surduc",
+                "siruta": 142783
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457315",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-634702"
+            ],
+            "fax": [
+                "0260-634702"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Someş-Odorhei",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Somes-Odorhei",
+                "siruta": 142729
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457310",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-654776",
+                "0260-654603"
+            ],
+            "fax": [
+                "0260-654776"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sînmihaiu Almaşului",
+        "adresa": {
+            "strada": "Principală, Nr. 93",
+            "localitate": {
+                "nume": "Sanmihaiu Almasului",
+                "siruta": 142685
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457305",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-627100",
+                "0260-627400"
+            ],
+            "fax": [
+                "0260-627100"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şimleu Silvaniei",
+        "adresa": {
+            "strada": "Libertăţii, Nr. 3",
+            "localitate": {
+                "nume": "Simleu Silvaniei",
+                "siruta": 139893
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "455300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-679220",
+                "0260-678622",
+                "0260-674351"
+            ],
+            "fax": [
+                "0260-679220"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şimişna",
+        "adresa": {
+            "strada": "Principală, Nr. 40 A",
+            "localitate": {
+                "nume": "Simisna",
+                "siruta": 142541
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457294",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-639503",
+                "0260-639666"
+            ],
+            "fax": [
+                "0260-639503"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şărmăşag",
+        "adresa": {
+            "strada": "Teilor, Nr. 34",
+            "localitate": {
+                "nume": "Sarmasag",
+                "siruta": 142890
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457330",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-655500"
+            ],
+            "fax": [
+                "0260-655500"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şamşud",
+        "adresa": {
+            "strada": "Principală, Nr. 38",
+            "localitate": {
+                "nume": "Samsud",
+                "siruta": 142863
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457325",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-653201",
+                "0260-653213"
+            ],
+            "fax": [
+                "0260-653213"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sălăţig",
+        "adresa": {
+            "strada": "Principală, Nr. 121",
+            "localitate": {
+                "nume": "Salatig",
+                "siruta": 142569
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457295",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-650480"
+            ],
+            "fax": [
+                "0260-650126"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sâg",
+        "adresa": {
+            "strada": "Principală, Nr. 1",
+            "localitate": {
+                "nume": "Sag",
+                "siruta": 142621
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-673100",
+                "0260-673063"
+            ],
+            "fax": [
+                "0260-673063"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Rus",
+        "adresa": {
+            "strada": "Principală, Nr. 39",
+            "localitate": {
+                "nume": "Rus",
+                "siruta": 142505
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457290",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-639302",
+                "0260-639394"
+            ],
+            "fax": [
+                "0260-639394"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Românaşi",
+        "adresa": {
+            "strada": "Principală, Nr. 39",
+            "localitate": {
+                "nume": "Romanasi",
+                "siruta": 142435
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457280",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-624120"
+            ],
+            "fax": [
+                "0260-624025"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Poiana Blenchii",
+        "adresa": {
+            "strada": "Principală, Nr. 46",
+            "localitate": {
+                "nume": "Poiana Blenchii",
+                "siruta": 142382
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457275",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-635645",
+                "0260-635501"
+            ],
+            "fax": [
+                "0260-635501"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Plopiş",
+        "adresa": {
+            "strada": "Nr. 134",
+            "localitate": {
+                "nume": "Plopis",
+                "siruta": 142346
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457270",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-671102"
+            ],
+            "fax": [
+                "0260-814220"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pericei",
+        "adresa": {
+            "strada": "Apei, Nr. 239",
+            "localitate": {
+                "nume": "Pericei",
+                "siruta": 142293
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457265",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-672701"
+            ],
+            "fax": [
+                "0260-672940"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Nuşfalău",
+        "adresa": {
+            "strada": "Arany János, Nr. 1",
+            "localitate": {
+                "nume": "Nusfalau",
+                "siruta": 142248
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457260",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-670034"
+            ],
+            "fax": [
+                "0260-670034",
+                "0260-670361"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Marca",
+        "adresa": {
+            "strada": "Nr. 137",
+            "localitate": {
+                "nume": "Marca",
+                "siruta": 141955
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457230",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-679663"
+            ],
+            "fax": [
+                "0260-679778"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Măerişte",
+        "adresa": {
+            "strada": "Nr. 228",
+            "localitate": {
+                "nume": "Maeriste",
+                "siruta": 142015
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457235",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-657385",
+                "0260-657101"
+            ],
+            "fax": [
+                "0260-657101"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lozna",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Lozna",
+                "siruta": 141893
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457225",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-635301"
+            ],
+            "fax": [
+                "0260-635301"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Letca",
+        "adresa": {
+            "strada": "Principală, Nr. 272",
+            "localitate": {
+                "nume": "Letca",
+                "siruta": 141795
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457215",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-634643"
+            ],
+            "fax": [
+                "0260-634643",
+                "0260-634512"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Jibou",
+        "adresa": {
+            "strada": "Str. 1 Decembrie 1918, Nr. 4",
+            "localitate": {
+                "nume": "Jibou",
+                "siruta": 139820
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "455200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-644558"
+            ],
+            "fax": [
+                "0260-641300"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ip",
+        "adresa": {
+            "strada": "Principală, Nr. 93",
+            "localitate": {
+                "nume": "Ip",
+                "siruta": 141731
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457210",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-671503",
+                "0260-671719"
+            ],
+            "fax": [
+                "0260-671662"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ileanda",
+        "adresa": {
+            "strada": "1 Decembrie 1918, Nr. 43",
+            "localitate": {
+                "nume": "Ileanda",
+                "siruta": 141599
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457190",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-648607",
+                "0260-648805"
+            ],
+            "fax": [
+                "0260-648607"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Horoatu Crasnei",
+        "adresa": {
+            "strada": "Principală, Nr. 83",
+            "localitate": {
+                "nume": "Horoatu Crasnei",
+                "siruta": 141544
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457185",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-637460"
+            ],
+            "fax": [
+                "0260-637460"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Hida",
+        "adresa": {
+            "strada": "Sfatului, Nr. 1",
+            "localitate": {
+                "nume": "Hida",
+                "siruta": 141456
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457175",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-628301",
+                "0260-628565"
+            ],
+            "fax": [
+                "0260-628565"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Hereclean",
+        "adresa": {
+            "strada": "Nr. 27\/A",
+            "localitate": {
+                "nume": "Hereclean",
+                "siruta": 141385
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457165",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-629480"
+            ],
+            "fax": [
+                "0260-629545"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Halmăşd",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Halmasd",
+                "siruta": 141321
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457160",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-623001"
+            ],
+            "fax": [
+                "0260-623001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gîrbou",
+        "adresa": {
+            "strada": "Principală, Nr. 272",
+            "localitate": {
+                "nume": "Garbou",
+                "siruta": 141241
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457150",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-639199",
+                "0260-639002"
+            ],
+            "fax": [
+                "0260-639199"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gâlgău",
+        "adresa": {
+            "strada": "Nr. 169",
+            "localitate": {
+                "nume": "Galgau",
+                "siruta": 141143
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457140",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-647250",
+                "0260-647001"
+            ],
+            "fax": [
+                "0260-647250"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Fildu De Jos",
+        "adresa": {
+            "strada": "Principală, Nr. 30",
+            "localitate": {
+                "nume": "Fildu De Jos",
+                "siruta": 141090
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457135",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-667832"
+            ],
+            "fax": [
+                "0260-667832"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dragu",
+        "adresa": {
+            "strada": "Principală, Nr. 120",
+            "localitate": {
+                "nume": "Dragu",
+                "siruta": 141036
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457130",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-628701"
+            ],
+            "fax": [
+                "0260-628701"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dobrin",
+        "adresa": {
+            "strada": "Principală, Nr. 16",
+            "localitate": {
+                "nume": "Dobrin",
+                "siruta": 140967
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457120",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-668803",
+                "0260-668941"
+            ],
+            "fax": [
+                "0260-668803",
+                "0260-668941"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cuzăplac",
+        "adresa": {
+            "strada": "Nr. 33",
+            "localitate": {
+                "nume": "Cuzaplac",
+                "siruta": 140878
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457110",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-626300",
+                "0260-626464"
+            ],
+            "fax": [
+                "0260-626300"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Crasna",
+        "adresa": {
+            "strada": "Piaţa Eroilor, Nr. 13",
+            "localitate": {
+                "nume": "Crasna",
+                "siruta": 140636
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457085",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-636066"
+            ],
+            "fax": [
+                "0260-636066"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Coşeiu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Coseiu",
+                "siruta": 140592
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457080",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-653199"
+            ],
+            "fax": [
+                "0260-653199"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cizer",
+        "adresa": {
+            "strada": "Nr. 277",
+            "localitate": {
+                "nume": "Cizer",
+                "siruta": 140556
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457075",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-625543",
+                "0260-625401"
+            ],
+            "fax": [
+                "0260-625543"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Chieşd",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Chiesd",
+                "siruta": 140510
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457070",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-652906",
+                "0260-652801"
+            ],
+            "fax": [
+                "0260-652906",
+                "0260-652801"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cehu Silvaniei",
+        "adresa": {
+            "strada": "P-Ţa Trandafirilor, Nr. 35",
+            "localitate": {
+                "nume": "Cehu Silvaniei",
+                "siruta": 139759
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "455100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-650355"
+            ],
+            "fax": [
+                "0260-650602"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Carastelec",
+        "adresa": {
+            "strada": "Principală, Nr. 334",
+            "localitate": {
+                "nume": "Carastelec",
+                "siruta": 140486
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457065",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-673701"
+            ],
+            "fax": [
+                "0260-673737"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Camăr",
+        "adresa": {
+            "strada": "Principală, Nr. 1",
+            "localitate": {
+                "nume": "Camar",
+                "siruta": 140459
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457060",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-672101"
+            ],
+            "fax": [
+                "0260-672301"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Buciumi",
+        "adresa": {
+            "strada": "Principală, Nr. 124",
+            "localitate": {
+                "nume": "Buciumi",
+                "siruta": 140388
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457050",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-624608",
+                "0260-624833"
+            ],
+            "fax": [
+                "0260-624608"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Boghiş",
+        "adresa": {
+            "strada": "Principală, Nr. 152",
+            "localitate": {
+                "nume": "Boghis",
+                "siruta": 142266
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457262",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-623850",
+                "0260-623733"
+            ],
+            "fax": [
+                "0260-623850"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bocşa",
+        "adresa": {
+            "strada": "Principală, Nr. 23",
+            "localitate": {
+                "nume": "Bocsa",
+                "siruta": 140333
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457045",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-623501",
+                "0260-623682"
+            ],
+            "fax": [
+                "0260-623682"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bobota",
+        "adresa": {
+            "strada": "Principală, Nr. 82\/A",
+            "localitate": {
+                "nume": "Bobota",
+                "siruta": 140299
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457040",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-652401",
+                "0260-652431"
+            ],
+            "fax": [
+                "0260-652401"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Benesat",
+        "adresa": {
+            "strada": "Principală, Nr. 60",
+            "localitate": {
+                "nume": "Benesat",
+                "siruta": 140253
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457035",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-654184"
+            ],
+            "fax": [
+                "0260-654175"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bănisor",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Banisor",
+                "siruta": 140217
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457030",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-637571"
+            ],
+            "fax": [
+                "0260-637566"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bălan",
+        "adresa": {
+            "strada": "Principală, Nr. 76",
+            "localitate": {
+                "nume": "Balan",
+                "siruta": 140155
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457025",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-664404"
+            ],
+            "fax": [
+                "0260-664403"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Băbeni",
+        "adresa": {
+            "strada": "Principală, Nr. 268",
+            "localitate": {
+                "nume": "Babeni",
+                "siruta": 140093
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457020",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-634455",
+                "0260-634399"
+            ],
+            "fax": [
+                "0260-634399"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Almaşu",
+        "adresa": {
+            "strada": "Principală, Nr. 144",
+            "localitate": {
+                "nume": "Almasu",
+                "siruta": 139991
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457010",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-626609"
+            ],
+            "fax": [
+                "0260-626733"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Agrij",
+        "adresa": {
+            "strada": "Principală, Nr. 348",
+            "localitate": {
+                "nume": "Agrij",
+                "siruta": 139946
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457005",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-658568",
+                "0260-658658"
+            ],
+            "fax": [
+                "0260-658658"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Zimbor",
+        "adresa": {
+            "strada": "Principală, Nr. 116",
+            "localitate": {
+                "nume": "Zimbor",
+                "siruta": 143156
+            },
+            "judet": {
+                "nume": "Salaj",
+                "siruta": 10
+            },
+            "cod-postal": "457370",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0260-627501",
+                "0260-627605"
+            ],
+            "fax": [
+                "0260-627605"
+            ]
+        }
+    }
+]

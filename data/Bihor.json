@@ -1,0 +1,2470 @@
+[
+    {
+        "nume": "Primăria Căbeşti",
+        "adresa": {
+            "strada": "Principală, Nr. 10",
+            "localitate": {
+                "nume": "Cabesti",
+                "siruta": 28086
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417125",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-325203",
+                "0259-325246"
+            ],
+            "fax": [
+                "0259-325203"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bunteşti",
+        "adresa": {
+            "strada": "Nr. 28",
+            "localitate": {
+                "nume": "Buntesti",
+                "siruta": 27980
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417115",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-329180"
+            ],
+            "fax": [
+                "0259-329180"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bulz",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Bulz",
+                "siruta": 27944
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417110",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-328010"
+            ],
+            "fax": [
+                "0259-328010"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Buduslău",
+        "adresa": {
+            "strada": "Nr. 82",
+            "localitate": {
+                "nume": "Buduslau",
+                "siruta": 27917
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417105",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-459100"
+            ],
+            "fax": [
+                "0259-459100"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Budureasa",
+        "adresa": {
+            "strada": "Principală, Nr. 15",
+            "localitate": {
+                "nume": "Budureasa",
+                "siruta": 27855
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-321243"
+            ],
+            "fax": [
+                "0259-321243"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Brusturi",
+        "adresa": {
+            "strada": "Principală, Nr. 200",
+            "localitate": {
+                "nume": "Brusturi",
+                "siruta": 27766
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417090",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-326833"
+            ],
+            "fax": [
+                "0259-326833"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bratca",
+        "adresa": {
+            "strada": "Nr. 126",
+            "localitate": {
+                "nume": "Bratca",
+                "siruta": 27695
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417080",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-315650"
+            ],
+            "fax": [
+                "0259-315650"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Borş",
+        "adresa": {
+            "strada": "Principală, Nr. 200",
+            "localitate": {
+                "nume": "Bors",
+                "siruta": 27640
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417075",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-316155"
+            ],
+            "fax": [
+                "0259-417291"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Borod",
+        "adresa": {
+            "strada": "Principală, Nr. 163",
+            "localitate": {
+                "nume": "Borod",
+                "siruta": 27579
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417065",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-315098"
+            ],
+            "fax": [
+                "0259-315098"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Boianu Mare",
+        "adresa": {
+            "strada": "Principală, Nr. 52",
+            "localitate": {
+                "nume": "Boianu Mare",
+                "siruta": 27515
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417060",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0359-466796"
+            ],
+            "fax": [
+                "0359-466796"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Biharia",
+        "adresa": {
+            "strada": "Cetăţii, Nr. 12",
+            "localitate": {
+                "nume": "Biharia",
+                "siruta": 27445
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417050",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-369701",
+                "0259-369716"
+            ],
+            "fax": [
+                "0259-369701",
+                "0259-369716"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Beiuş",
+        "adresa": {
+            "strada": "Samuil Vulcan, Nr. 16",
+            "localitate": {
+                "nume": "Beius",
+                "siruta": 26813
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "415200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-321935"
+            ],
+            "fax": [
+                "0259-321273"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Batăr",
+        "adresa": {
+            "strada": "Principală, Nr. 404",
+            "localitate": {
+                "nume": "Batar",
+                "siruta": 27392
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417045",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-312268",
+                "0259-312265"
+            ],
+            "fax": [
+                "0259-312268"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Balc",
+        "adresa": {
+            "strada": "Petőfi Sándor, Nr. 48",
+            "localitate": {
+                "nume": "Balc",
+                "siruta": 27338
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417040",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-326332"
+            ],
+            "fax": [
+                "0259-326330"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Avram Iancu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Avram Iancu",
+                "siruta": 27294
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417035",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-391092"
+            ],
+            "fax": [
+                "0259-391092"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Auşeu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Auseu",
+                "siruta": 27221
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417025",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-447036"
+            ],
+            "fax": [
+                "0259-447036"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Aştileu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Astileu",
+                "siruta": 26751
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417020",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-349097"
+            ],
+            "fax": [
+                "0259-349221"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Aleşd",
+        "adresa": {
+            "strada": "Bobâlna, Nr. 3",
+            "localitate": {
+                "nume": "Alesd",
+                "siruta": 26706
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "415100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-342539"
+            ],
+            "fax": [
+                "0259-342589"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Abrămuţ",
+        "adresa": {
+            "strada": "Principală, Nr. 57",
+            "localitate": {
+                "nume": "Abramut",
+                "siruta": 27178
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417015",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-353836"
+            ],
+            "fax": [
+                "0259-353836",
+                "0259-353842"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Abram",
+        "adresa": {
+            "strada": "Principală, Nr. 35",
+            "localitate": {
+                "nume": "Abram",
+                "siruta": 27089
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417005",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-326018",
+                "0259-326005"
+            ],
+            "fax": [
+                "0259-326018"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vaşcău",
+        "adresa": {
+            "strada": "Unirii, Nr. 75",
+            "localitate": {
+                "nume": "Vascau",
+                "siruta": 27016
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "415800",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-336157"
+            ],
+            "fax": [
+                "0259-336157"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vârciorog",
+        "adresa": {
+            "strada": "Nr. 104",
+            "localitate": {
+                "nume": "Varciorog",
+                "siruta": 32107
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417620",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0359-407977"
+            ],
+            "fax": [
+                "0359-407977"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Valea Lui Mihai",
+        "adresa": {
+            "strada": "Calea Revoluţiei, Nr. 2",
+            "localitate": {
+                "nume": "Valea Lui Mihai",
+                "siruta": 32036
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "415700",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-355216"
+            ],
+            "fax": [
+                "0259-355933"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vadu Crişului",
+        "adresa": {
+            "strada": "Principală, Nr. 1",
+            "localitate": {
+                "nume": "Vadu Crisului",
+                "siruta": 31985
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417615",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-443136"
+            ],
+            "fax": [
+                "0259-443037"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Uileacu De Beiuş",
+        "adresa": {
+            "strada": "Principală, Nr. 73",
+            "localitate": {
+                "nume": "Uileacu De Beius",
+                "siruta": 31930
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417610",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-324077"
+            ],
+            "fax": [
+                "0259-324074"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tulca",
+        "adresa": {
+            "strada": "Principală, Nr. 231",
+            "localitate": {
+                "nume": "Tulca",
+                "siruta": 31850
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417600",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-314894",
+                "0259-314896"
+            ],
+            "fax": [
+                "0259-314896"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Toboliu",
+        "adresa": {
+            "strada": "Principală, Nr. 149",
+            "localitate": {
+                "nume": "Toboliu",
+                "siruta": 29500
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417273",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-354689",
+                "0259-354698"
+            ],
+            "fax": [
+                "0259-354689"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tinca",
+        "adresa": {
+            "strada": "Armatei Române, Nr. 2",
+            "localitate": {
+                "nume": "Tinca",
+                "siruta": 31798
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417595",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-310073"
+            ],
+            "fax": [
+                "0259-310073"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tileagd",
+        "adresa": {
+            "strada": "Trandafirilor, Nr. 1088",
+            "localitate": {
+                "nume": "Tileagd",
+                "siruta": 31725
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417585",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-345651"
+            ],
+            "fax": [
+                "0259-345375"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ţeţchea",
+        "adresa": {
+            "strada": "Principală, Nr. 55",
+            "localitate": {
+                "nume": "Tetchea",
+                "siruta": 31887
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417605",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-344704",
+                "0259-344995"
+            ],
+            "fax": [
+                "0259-344704"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tăuteu",
+        "adresa": {
+            "strada": "Principală, Nr. 122",
+            "localitate": {
+                "nume": "Tauteu",
+                "siruta": 31663
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417580",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-354825",
+                "0259-354822",
+                "0259-354826"
+            ],
+            "fax": [
+                "0259-354822",
+                "0259-354826"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tarcea",
+        "adresa": {
+            "strada": "Principală, Nr. 238",
+            "localitate": {
+                "nume": "Tarcea",
+                "siruta": 31574
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417570",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-355807"
+            ],
+            "fax": [
+                "0259-355807"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tărcaia",
+        "adresa": {
+            "strada": "Principală, Nr.88",
+            "localitate": {
+                "nume": "Tarcaia",
+                "siruta": 31618
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417575",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-321957"
+            ],
+            "fax": [
+                "0259-321957"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tămăşeu",
+        "adresa": {
+            "strada": "Nr. 149",
+            "localitate": {
+                "nume": "Tamaseu",
+                "siruta": 27445
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417050",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-458553"
+            ],
+            "fax": [
+                "0259-458580"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Suplacu De Barcău",
+        "adresa": {
+            "strada": "Piaţa Republicii, Nr. 33",
+            "localitate": {
+                "nume": "Suplacu De Barcau",
+                "siruta": 31271
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417535",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-368477"
+            ],
+            "fax": [
+                "0259-368477"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şuncuiuş",
+        "adresa": {
+            "strada": "Aurel Vlaicu, Nr. 439",
+            "localitate": {
+                "nume": "Suncuius",
+                "siruta": 31529
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417565",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-444010"
+            ],
+            "fax": [
+                "0259-444010"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ştei",
+        "adresa": {
+            "strada": "Andrei Mureşanu, Nr. 4B",
+            "localitate": {
+                "nume": "Stei",
+                "siruta": 26859
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "415600",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-332337"
+            ],
+            "fax": [
+                "0259-332337"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Spinuş",
+        "adresa": {
+            "strada": "Nr. 121",
+            "localitate": {
+                "nume": "Spinus",
+                "siruta": 31217
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417530",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-328716",
+                "0259-328726"
+            ],
+            "fax": [
+                "0259-328716",
+                "0259-328726"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şoimi",
+        "adresa": {
+            "strada": "Principală, Nr. 39",
+            "localitate": {
+                "nume": "Soimi",
+                "siruta": 31431
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417555",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0359-411808",
+                "0359-411809",
+                "0359-411996",
+                "0359-411995"
+            ],
+            "fax": [
+                "0359-411809",
+                "0359-411996"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şinteu",
+        "adresa": {
+            "strada": "Principală, Nr. 2",
+            "localitate": {
+                "nume": "Sinteu",
+                "siruta": 31388
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417550",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-429750"
+            ],
+            "fax": [
+                "0259-429750"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şimian",
+        "adresa": {
+            "strada": "Str. Principala Nr. 55",
+            "localitate": {
+                "nume": "Simian",
+                "siruta": 31342
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417545",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-356263",
+                "0259-356172"
+            ],
+            "fax": [
+                "0259-356263"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sîmbăta",
+        "adresa": {
+            "strada": "Principală, Nr. 5",
+            "localitate": {
+                "nume": "Sambata",
+                "siruta": 31066
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417455",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-325035",
+                "0259-325033"
+            ],
+            "fax": [
+                "0259-325035",
+                "0259-325033"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sârbi",
+        "adresa": {
+            "strada": "Principală, Nr. 540",
+            "localitate": {
+                "nume": "Sarbi",
+                "siruta": 31137
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417520",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-328502",
+                "0259-328565"
+            ],
+            "fax": [
+                "0259-328565"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Viişoara",
+        "adresa": {
+            "strada": "Principală, Nr. 227",
+            "localitate": {
+                "nume": "Viisoara",
+                "siruta": 32054
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417625",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-328920"
+            ],
+            "fax": [
+                "0259-328920"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sântandrei",
+        "adresa": {
+            "strada": "Principală, Nr. 452",
+            "localitate": {
+                "nume": "Santandrei",
+                "siruta": 26662
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417515",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-415947"
+            ],
+            "fax": [
+                "0259-468950"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sânnicolau Român",
+        "adresa": {
+            "strada": "Principală, Nr. 1-4",
+            "localitate": {
+                "nume": "Sannicolau Roman",
+                "siruta": 28326
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417153",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-395329"
+            ],
+            "fax": [
+                "0259-395329"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sânmartin",
+        "adresa": {
+            "strada": "B-Dul Felix, Nr. 105",
+            "localitate": {
+                "nume": "Sanmartin",
+                "siruta": 26591
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417495",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-318003"
+            ],
+            "fax": [
+                "0259-318003"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sâniob",
+        "adresa": {
+            "strada": "Sâniob, Nr. 199",
+            "localitate": {
+                "nume": "Saniob",
+                "siruta": 28647
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417192",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-441128"
+            ],
+            "fax": [
+                "0259-441128"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Salonta",
+        "adresa": {
+            "strada": "Str.Republicii, Nr.1",
+            "localitate": {
+                "nume": "Salonta",
+                "siruta": 26984
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "415500",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-373243",
+                "0359-409730"
+            ],
+            "fax": [
+                "0359-409733"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sălard",
+        "adresa": {
+            "strada": "Nr. 724",
+            "localitate": {
+                "nume": "Salard",
+                "siruta": 31020
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417450",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-441049",
+                "0259-441051"
+            ],
+            "fax": [
+                "0259-441049",
+                "0259-441051"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sălacea",
+        "adresa": {
+            "strada": "Nr. 47",
+            "localitate": {
+                "nume": "Salacea",
+                "siruta": 30997
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417445",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-463014"
+            ],
+            "fax": [
+                "0259-463275"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Săcueni",
+        "adresa": {
+            "strada": "Libertăţii, Nr. 1",
+            "localitate": {
+                "nume": "Sacueni",
+                "siruta": 30924
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417435",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-352194",
+                "0259-352196",
+                "0359-420480"
+            ],
+            "fax": [
+                "0259-352195"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Săcădat",
+        "adresa": {
+            "strada": "Principală, Nr. 178",
+            "localitate": {
+                "nume": "Sacadat",
+                "siruta": 30880
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417430",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-458239"
+            ],
+            "fax": [
+                "0259-458387"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Roşiori",
+        "adresa": {
+            "strada": "Principală, Nr. 217",
+            "localitate": {
+                "nume": "Rosiori",
+                "siruta": 29136
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417238",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-462380",
+                "0259-462383"
+            ],
+            "fax": [
+                "0259-462383",
+                "0259-462380"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Roşia",
+        "adresa": {
+            "strada": "Nr. 397",
+            "localitate": {
+                "nume": "Rosia",
+                "siruta": 30853
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417425",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-325214"
+            ],
+            "fax": [
+                "0259-325214"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Rieni",
+        "adresa": {
+            "strada": "Principală, Nr. 151",
+            "localitate": {
+                "nume": "Rieni",
+                "siruta": 30782
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417415",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-329065",
+                "0259-329242"
+            ],
+            "fax": [
+                "0259-329065",
+                "0259-329242"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Remetea",
+        "adresa": {
+            "strada": "Primăria, Nr. 299",
+            "localitate": {
+                "nume": "Remetea",
+                "siruta": 30728
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417410",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-325240"
+            ],
+            "fax": [
+                "0259-325211"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Răbăgani",
+        "adresa": {
+            "strada": "Nr. 1",
+            "localitate": {
+                "nume": "Rabagani",
+                "siruta": 30657
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-324879"
+            ],
+            "fax": [
+                "0259-324879"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Popeşti",
+        "adresa": {
+            "strada": "Principală, Nr. 288",
+            "localitate": {
+                "nume": "Popesti",
+                "siruta": 30577
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417390",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-327760"
+            ],
+            "fax": [
+                "0259-327768"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pomezeu",
+        "adresa": {
+            "strada": "Principală, Nr. 11",
+            "localitate": {
+                "nume": "Pomezeu",
+                "siruta": 30489
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417380",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-322713"
+            ],
+            "fax": [
+                "0259-322713"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pocola",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Pocola",
+                "siruta": 30425
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417375",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-321896"
+            ],
+            "fax": [
+                "0259-321896"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pietroasa",
+        "adresa": {
+            "strada": "Nr. 253",
+            "localitate": {
+                "nume": "Pietroasa",
+                "siruta": 30345
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417365",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-325817"
+            ],
+            "fax": [
+                "0259-325800"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Paleu",
+        "adresa": {
+            "strada": "Principală, Nr. 18",
+            "localitate": {
+                "nume": "Paleu",
+                "siruta": 28433
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417166",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-451007"
+            ],
+            "fax": [
+                "0259-451007"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Oşorhei",
+        "adresa": {
+            "strada": "Principală, Nr. 71",
+            "localitate": {
+                "nume": "Osorhei",
+                "siruta": 30283
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417360",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-313213"
+            ],
+            "fax": [
+                "0259-313213"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Oradea",
+        "adresa": {
+            "strada": "P-Ţa Unirii, Nr. 1",
+            "localitate": {
+                "nume": "Oradea",
+                "siruta": 26573
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "410100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-437000"
+            ],
+            "fax": [
+                "0259-437544"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Olcea",
+        "adresa": {
+            "strada": "Principală, Nr. 35",
+            "localitate": {
+                "nume": "Olcea",
+                "siruta": 30238
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417355",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-310881"
+            ],
+            "fax": [
+                "0259-412598",
+                "0259-890144"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Nucet",
+        "adresa": {
+            "strada": "Republicii, Nr. 8",
+            "localitate": {
+                "nume": "Nucet",
+                "siruta": 26939
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "415400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-339422",
+                "0259-339407"
+            ],
+            "fax": [
+                "0259-339422"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Nojorid",
+        "adresa": {
+            "strada": "Nr. 105 I",
+            "localitate": {
+                "nume": "Nojorid",
+                "siruta": 30158
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417345",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-393194",
+                "0259-393190"
+            ],
+            "fax": [
+                "0259-393192"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Marghita",
+        "adresa": {
+            "strada": "Calea Republicii, Nr. 1",
+            "localitate": {
+                "nume": "Marghita",
+                "siruta": 26886
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "415300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-362001",
+                "0359-409977"
+            ],
+            "fax": [
+                "0359-409982"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Măgeşti",
+        "adresa": {
+            "strada": "Principala, Nr. 9",
+            "localitate": {
+                "nume": "Magesti",
+                "siruta": 30078
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417335",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0359-806908"
+            ],
+            "fax": [
+                "0359-806907"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mădăraş",
+        "adresa": {
+            "strada": "Principală, Nr. 1",
+            "localitate": {
+                "nume": "Madaras",
+                "siruta": 30023
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417330",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-379432"
+            ],
+            "fax": [
+                "0259-379493"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lunca",
+        "adresa": {
+            "strada": "Principală, Nr. 1",
+            "localitate": {
+                "nume": "Lunca",
+                "siruta": 29957
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417320",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-332540"
+            ],
+            "fax": [
+                "0359-814413"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lugaşu De Jos",
+        "adresa": {
+            "strada": "Principală, Nr. 177",
+            "localitate": {
+                "nume": "Lugasu De Sus",
+                "siruta": 29911
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417315",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-346336"
+            ],
+            "fax": [
+                "0259-346336"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lazuri De Beiuş",
+        "adresa": {
+            "strada": "Principală, Nr. 94",
+            "localitate": {
+                "nume": "Lazuri De Beius",
+                "siruta": 29779
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-329132"
+            ],
+            "fax": [
+                "0259-329132"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lăzăreni",
+        "adresa": {
+            "strada": "Principală, Nr. 23",
+            "localitate": {
+                "nume": "Lazareni",
+                "siruta": 29822
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417305",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-357607"
+            ],
+            "fax": [
+                "0259-357607"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ineu",
+        "adresa": {
+            "strada": "Principală, Nr. 7",
+            "localitate": {
+                "nume": "Ineu",
+                "siruta": 29733
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417295",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-347015",
+                "0259-347009"
+            ],
+            "fax": [
+                "0259-347015"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Husasău De Tinca",
+        "adresa": {
+            "strada": "Principală, Nr. 53",
+            "localitate": {
+                "nume": "Husasau De Tinca",
+                "siruta": 29671
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417290",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-312858"
+            ],
+            "fax": [
+                "0259-312858"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Holod",
+        "adresa": {
+            "strada": "Nr. 228",
+            "localitate": {
+                "nume": "Holod",
+                "siruta": 29582
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417280",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-311766"
+            ],
+            "fax": [
+                "0259-311766"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Hidişelu De Sus",
+        "adresa": {
+            "strada": "Principală, Nr. 328",
+            "localitate": {
+                "nume": "Hidiselu De Sus",
+                "siruta": 29528
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417275",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-335855"
+            ],
+            "fax": [
+                "0259-335855"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Girişu De Criş",
+        "adresa": {
+            "strada": "Principală, Nr. 235",
+            "localitate": {
+                "nume": "Girisu De Cris",
+                "siruta": 29476
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417270",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-390035",
+                "0259-390037"
+            ],
+            "fax": [
+                "0259-390037"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gepiu",
+        "adresa": {
+            "strada": "Dn 79, Nr. 80",
+            "localitate": {
+                "nume": "Gepiu",
+                "siruta": 28291
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417149",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-479318"
+            ],
+            "fax": [
+                "0259-479318"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Finiş",
+        "adresa": {
+            "strada": "Principală, Nr. 263",
+            "localitate": {
+                "nume": "Finis",
+                "siruta": 29412
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417265",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-321884",
+                "0259-406211"
+            ],
+            "fax": [
+                "0259-321884",
+                "0259-406211"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Drăgeşti",
+        "adresa": {
+            "strada": "Principală, Nr. 64",
+            "localitate": {
+                "nume": "Dragesti",
+                "siruta": 29350
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417260",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-324547",
+                "0259-324545"
+            ],
+            "fax": [
+                "0259-324545"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Drăgăneşti",
+        "adresa": {
+            "strada": "Principală, Nr. 37",
+            "localitate": {
+                "nume": "Draganesti",
+                "siruta": 29252
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417250",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-321729"
+            ],
+            "fax": [
+                "0259-321729"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dobreşti",
+        "adresa": {
+            "strada": "Principală, Nr. 323A",
+            "localitate": {
+                "nume": "Dobresti",
+                "siruta": 29163
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417240",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-325400"
+            ],
+            "fax": [
+                "0259-325400"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Diosig",
+        "adresa": {
+            "strada": "Livezilor, Nr. 32",
+            "localitate": {
+                "nume": "Diosig",
+                "siruta": 29109
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417235",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-350198"
+            ],
+            "fax": [
+                "0259-350196"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Derna",
+        "adresa": {
+            "strada": "Nr. 216",
+            "localitate": {
+                "nume": "Derna",
+                "siruta": 29047
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417230",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-327024",
+                "0259-327111"
+            ],
+            "fax": [
+                "0259-327024"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Curtuişeni",
+        "adresa": {
+            "strada": "Nr. 13",
+            "localitate": {
+                "nume": "Curtuiseni",
+                "siruta": 29010
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417225",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-465032"
+            ],
+            "fax": [
+                "0259-465032"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Curăţele",
+        "adresa": {
+            "strada": "Nr. 167",
+            "localitate": {
+                "nume": "Curatele",
+                "siruta": 28950
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417220",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0359-235657"
+            ],
+            "fax": [
+                "0359-235657"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Criştioru De Jos",
+        "adresa": {
+            "strada": "Principală, Nr. 16",
+            "localitate": {
+                "nume": "Cristioru De Jos",
+                "siruta": 28898
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417215",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-353604",
+                "0756-067777"
+            ],
+            "fax": [
+                "0259-353604"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Copăcel",
+        "adresa": {
+            "strada": "Principală, Nr. 176A",
+            "localitate": {
+                "nume": "Copacel",
+                "siruta": 28825
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417205",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-313598"
+            ],
+            "fax": [
+                "0259-313598"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cociuba Mare",
+        "adresa": {
+            "strada": "Principală, Nr. 210",
+            "localitate": {
+                "nume": "Cociuba Mare",
+                "siruta": 28772
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-311232"
+            ],
+            "fax": [
+                "0259-311324"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ciumeghiu",
+        "adresa": {
+            "strada": "Principală, Nr. 9",
+            "localitate": {
+                "nume": "Ciumeghiu",
+                "siruta": 28674
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417195",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-392009",
+                "0259-392075"
+            ],
+            "fax": [
+                "0259-392009"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cîmpani",
+        "adresa": {
+            "strada": "Principală, Nr. 1",
+            "localitate": {
+                "nume": "Campani",
+                "siruta": 28718
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417140",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0359-170759"
+            ],
+            "fax": []
+        }
+    },
+    {
+        "nume": "Primăria Chișlaz",
+        "adresa": {
+            "strada": "Nr. 250",
+            "localitate": {
+                "nume": "Chislaz",
+                "siruta": 28549
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417180",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-362695"
+            ],
+            "fax": [
+                "0259-362569"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cherechiu",
+        "adresa": {
+            "strada": "Principală, Nr. 78",
+            "localitate": {
+                "nume": "Cherechiu",
+                "siruta": 28503
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417175",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-352838",
+                "0259-352585"
+            ],
+            "fax": [
+                "0259-352838",
+                "0259-352585"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cetariu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Cetariu",
+                "siruta": 28424
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417165",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-456266"
+            ],
+            "fax": [
+                "0259-456266"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ceica",
+        "adresa": {
+            "strada": "Nr. 67",
+            "localitate": {
+                "nume": "Ceica",
+                "siruta": 28344
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417155",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-324460",
+                "0259-324463"
+            ],
+            "fax": [
+                "0259-324464"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cefa",
+        "adresa": {
+            "strada": "Principală, Nr. 82",
+            "localitate": {
+                "nume": "Cefa",
+                "siruta": 28255
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417145",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-394007"
+            ],
+            "fax": [
+                "0259-394007"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cărpinet",
+        "adresa": {
+            "strada": "Principală, Nr. 80",
+            "localitate": {
+                "nume": "Carpinet",
+                "siruta": 28200
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417135",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-353603"
+            ],
+            "fax": [
+                "0259-353611"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Căpîlna",
+        "adresa": {
+            "strada": "Principală, Nr. 115",
+            "localitate": {
+                "nume": "Capalna",
+                "siruta": 28148
+            },
+            "judet": {
+                "nume": "Bihor",
+                "siruta": 10
+            },
+            "cod-postal": "417130",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0259-312016"
+            ],
+            "fax": [
+                "0259-312016"
+            ]
+        }
+    }
+]

@@ -1,0 +1,2083 @@
+[
+    {
+        "nume": "Primăria Costişa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Costisa",
+                "siruta": 122141
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617140",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-260063",
+                "0233-260663",
+                "0233-260043"
+            ],
+            "fax": [
+                "0233-260043"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cordun",
+        "adresa": {
+            "strada": "Vasile Alecsandri, Nr. 101",
+            "localitate": {
+                "nume": "Cordun",
+                "siruta": 120897
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617135",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-748236",
+                "0233-748196"
+            ],
+            "fax": [
+                "0233-748236",
+                "0233-748196"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cîndeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Candesti",
+                "siruta": 122070
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617115",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-294905",
+                "0233-294951",
+                "0233-294941"
+            ],
+            "fax": [
+                "0233-294905",
+                "0233-294951"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ceahlău",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ceahlau",
+                "siruta": 122034
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617125",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-258594",
+                "0233-258059"
+            ],
+            "fax": [
+                "0233-258059"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Brusturi",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Brusturi",
+                "siruta": 121947
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617106",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-789006",
+                "0233-789032"
+            ],
+            "fax": [
+                "0233-789032"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bozieni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Bozieni",
+                "siruta": 121885
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-764005",
+                "0233-764003"
+            ],
+            "fax": [
+                "0233-764005"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Boteşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Botesti",
+                "siruta": 121803
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617090",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-781002"
+            ],
+            "fax": [
+                "0233-781002"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Borleşti",
+        "adresa": {
+            "strada": "Principală, Nr. 86",
+            "localitate": {
+                "nume": "Borlesti",
+                "siruta": 121741
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617085",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-297971",
+                "0233-297353"
+            ],
+            "fax": [
+                "0233-297353",
+                "0233-297971"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Borca",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Borca",
+                "siruta": 121661
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617075",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-268001",
+                "0233-268005",
+                "0233-268000"
+            ],
+            "fax": [
+                "0233-268001",
+                "0233-268005",
+                "0233-268000"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Boghicea",
+        "adresa": {
+            "strada": "Principală",
+            "localitate": {
+                "nume": "Boghicea",
+                "siruta": 121402
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617031",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-767312",
+                "0233-767311",
+                "0233-767314"
+            ],
+            "fax": [
+                "0233-767312",
+                "0233-767314"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bodeşti",
+        "adresa": {
+            "strada": "Principală",
+            "localitate": {
+                "nume": "Bodesti",
+                "siruta": 121616
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617070",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-243007",
+                "0233-243088"
+            ],
+            "fax": [
+                "0233-243088"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bîrgăuani",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Bargauani",
+                "siruta": 121475
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617040",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-294316"
+            ],
+            "fax": [
+                "0233-294539",
+                "0233-294316"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bîra",
+        "adresa": {
+            "strada": "Învățător Antonie Murieșeanu, Nr. 44",
+            "localitate": {
+                "nume": "Bara",
+                "siruta": 121395
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617030",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-765502",
+                "0233-765775"
+            ],
+            "fax": [
+                "0233-765502"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bicazu Ardelean",
+        "adresa": {
+            "strada": "Centru, Nr. 211",
+            "localitate": {
+                "nume": "Bicazu Ardelean",
+                "siruta": 121359
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617065",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-255301",
+                "0233-255608"
+            ],
+            "fax": [
+                "0233-255301"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bicaz Chei",
+        "adresa": {
+            "strada": "Principală, Nr. 58",
+            "localitate": {
+                "nume": "Bicaz-Chei",
+                "siruta": 121304
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617060",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-255773"
+            ],
+            "fax": [
+                "0233-255712"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bicaz",
+        "adresa": {
+            "strada": "Barajului, Nr. 4",
+            "localitate": {
+                "nume": "Bicaz",
+                "siruta": 120977
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "615100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-254310"
+            ],
+            "fax": [
+                "0233-254530"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bălţăteşti",
+        "adresa": {
+            "strada": "Florilor, Nr. 79",
+            "localitate": {
+                "nume": "Baltatesti",
+                "siruta": 121251
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617025",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-244006",
+                "0233-244025"
+            ],
+            "fax": [
+                "0233-244025"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bahna",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Bahna",
+                "siruta": 121162
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617015",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-760002",
+                "0233-760355"
+            ],
+            "fax": [
+                "0233-760355"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Alexandru Cel Bun",
+        "adresa": {
+            "strada": "Sat Viişoara, Cuza Vodă, Nr. 48",
+            "localitate": {
+                "nume": "Alexandru Cel Bun",
+                "siruta": 124938
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617505",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-241018"
+            ],
+            "fax": [
+                "0233-241454"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Agapia",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Agapia",
+                "siruta": 121117
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617010",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-244607",
+                "0233-244603",
+                "0233-244606",
+                "0233-244611"
+            ],
+            "fax": [
+                "0233-244607",
+                "0233-244606"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Zăneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Zanesti",
+                "siruta": 125070
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617515",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-283590",
+                "0233-283599",
+                "0233-283470"
+            ],
+            "fax": [
+                "0233-283470"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vânători Neamţ",
+        "adresa": {
+            "strada": "Principală, Nr. 174",
+            "localitate": {
+                "nume": "Vanatori-Neamt",
+                "siruta": 125025
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617500",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-251001"
+            ],
+            "fax": [
+                "0233-251001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Văleni",
+        "adresa": {
+            "strada": "Cozma Şarpe, Nr. 3",
+            "localitate": {
+                "nume": "Valeni (Botesti)",
+                "siruta": 121867
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617097",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-781421"
+            ],
+            "fax": [
+                "0233-781421"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tazlău",
+        "adresa": {
+            "strada": "Ştefan Cel Mare, Nr. 130",
+            "localitate": {
+                "nume": "Tazlau",
+                "siruta": 124625
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617460",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-298168"
+            ],
+            "fax": [
+                "0233-298168"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Valea Ursului",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Valea Ursului",
+                "siruta": 124894
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617495",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-763003",
+                "0233-763007"
+            ],
+            "fax": [
+                "0233-763007"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Urecheni",
+        "adresa": {
+            "strada": "Principală, Nr. 30",
+            "localitate": {
+                "nume": "Urecheni",
+                "siruta": 124858
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617490",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-784005"
+            ],
+            "fax": [
+                "0233-784005"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tupilaţi",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Tupilati",
+                "siruta": 124769
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617480",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-782001"
+            ],
+            "fax": [
+                "0233-782001",
+                "0233-782003"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Trifeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Trifesti",
+                "siruta": 124732
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617475",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-745547"
+            ],
+            "fax": [
+                "0233-745547"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Timişeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Timisesti",
+                "siruta": 124670
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617470",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-787050"
+            ],
+            "fax": [
+                "0233-787050"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ţibucani",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Tibucani",
+                "siruta": 124812
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617485",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-293402",
+                "0233-293802"
+            ],
+            "fax": [
+                "0233-293402",
+                "0233-293802"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Taşca",
+        "adresa": {
+            "strada": "Lt. Mitru Vasile",
+            "localitate": {
+                "nume": "Tasca",
+                "siruta": 124572
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617455",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-255023"
+            ],
+            "fax": [
+                "0233-255083"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Târgu Neamţ",
+        "adresa": {
+            "strada": "B-Dul Ştefan Cel Mare, Nr. 62",
+            "localitate": {
+                "nume": "Targu Neamt",
+                "siruta": 121064
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "615200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-790305",
+                "0233-790245",
+                "0233-790508"
+            ],
+            "fax": [
+                "0233-790508"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tarcău",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Tarcau",
+                "siruta": 124509
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617445",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-240066",
+                "0233-240951"
+            ],
+            "fax": [
+                "0233-206253"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tămăşeni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Tamaseni",
+                "siruta": 124643
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617465",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-749494"
+            ],
+            "fax": [
+                "0233-749333"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ştefan Cel Mare",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Stefan Cel Mare",
+                "siruta": 124420
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617435",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-292001"
+            ],
+            "fax": [
+                "0233-292001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Stăniţa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Stanita",
+                "siruta": 124340
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617425",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-767501"
+            ],
+            "fax": [
+                "0233-767501"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Săvineşti",
+        "adresa": {
+            "strada": "G-Ral Buniş, Nr. 7",
+            "localitate": {
+                "nume": "Savinesti",
+                "siruta": 120833
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617410",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-281573",
+                "0233-281574"
+            ],
+            "fax": [
+                "0233-281573",
+                "0233-281574"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Secuieni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Secuieni",
+                "siruta": 124242
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617415",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-745004",
+                "0233-745001"
+            ],
+            "fax": [
+                "0233-745004"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sagna",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Sagna",
+                "siruta": 124162
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617395",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-766002"
+            ],
+            "fax": [
+                "0233-766213"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Săbăoani",
+        "adresa": {
+            "strada": "Orizontului, Nr. 56",
+            "localitate": {
+                "nume": "Sabaoani",
+                "siruta": 124215
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-735009",
+                "0233-735105"
+            ],
+            "fax": [
+                "0233-735183"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ruginoasa",
+        "adresa": {
+            "strada": "Aleea Primăriei",
+            "localitate": {
+                "nume": "Ruginoasa",
+                "siruta": 122542
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617183",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-761290"
+            ],
+            "fax": [
+                "0233-761288"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Roznov",
+        "adresa": {
+            "strada": "Tineretului, Nr. 606",
+            "localitate": {
+                "nume": "Roznov",
+                "siruta": 124126
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617390",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-665471",
+                "0233-665435"
+            ],
+            "fax": [
+                "0233-665241"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Români",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Romani",
+                "siruta": 124082
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617385",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-768925"
+            ],
+            "fax": [
+                "0233-768925"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Roman",
+        "adresa": {
+            "strada": "Piaţa Roman Vodă, Nr. 1",
+            "localitate": {
+                "nume": "Roman",
+                "siruta": 120879
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "611022",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-741119",
+                "0233-741651"
+            ],
+            "fax": [
+                "0233-741604"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Rediu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Rediu",
+                "siruta": 124037
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617380",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-299020"
+            ],
+            "fax": [
+                "0233-299021"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Războieni",
+        "adresa": {
+            "strada": "Principală, Fn",
+            "localitate": {
+                "nume": "Razboieni",
+                "siruta": 123996
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617375",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-292901"
+            ],
+            "fax": [
+                "0233-292901"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Răuceşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Raucesti",
+                "siruta": 123923
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617370",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-788003"
+            ],
+            "fax": [
+                "0233-788239"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Poienari",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Poienari",
+                "siruta": 123718
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617360",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-764515",
+                "0233-764584"
+            ],
+            "fax": [
+                "0233-764584"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Poiana Teiului",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Poiana Teiului",
+                "siruta": 123807
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617340",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-266250"
+            ],
+            "fax": [
+                "0233-266025"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Podoleni",
+        "adresa": {
+            "strada": "Speranţei, Nr. 3",
+            "localitate": {
+                "nume": "Podoleni",
+                "siruta": 123683
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617335",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-299458",
+                "0233-299380"
+            ],
+            "fax": [
+                "0233-299380"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pipirig",
+        "adresa": {
+            "strada": "Ion Creangă, Nr. 4",
+            "localitate": {
+                "nume": "Pipirig",
+                "siruta": 123530
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617325",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-252449",
+                "0233-252001"
+            ],
+            "fax": [
+                "0233-252448"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pîngăraţi",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Pangarati",
+                "siruta": 123610
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617305",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-240323",
+                "0233-240317"
+            ],
+            "fax": [
+                "0233-240323",
+                "0233-240317"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Piatra Şoimului",
+        "adresa": {
+            "strada": "Primăriei, Nr. 48",
+            "localitate": {
+                "nume": "Piatra Soimului",
+                "siruta": 123488
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617320",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-296548"
+            ],
+            "fax": [
+                "0233-296598"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Piatra Neamţ",
+        "adresa": {
+            "strada": "Ştefan Cel Mare, Nr. 6-8",
+            "localitate": {
+                "nume": "Piatra-Neamt",
+                "siruta": 120735
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "610101",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-218991"
+            ],
+            "fax": [
+                "0233-215374"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Petricani",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Petricani",
+                "siruta": 123433
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617315",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-785006"
+            ],
+            "fax": [
+                "0233-785006"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Păstrăveni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Pastraveni",
+                "siruta": 123380
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-783005",
+                "0233-783096"
+            ],
+            "fax": [
+                "0233-783005"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pânceşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Pancesti",
+                "siruta": 123763
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617366",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-764766"
+            ],
+            "fax": [
+                "0233-764769"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Oniceni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Oniceni",
+                "siruta": 123264
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617280",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-763507",
+                "0233-763661",
+                "0233-763660"
+            ],
+            "fax": [
+                "0233-763507",
+                "0233-763661"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Negreşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Negresti",
+                "siruta": 122310
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617157",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-246944",
+                "0233-246924",
+                "0233-242648"
+            ],
+            "fax": [
+                "0233-246944"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Moldoveni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Moldoveni",
+                "siruta": 123237
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617275",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-745752",
+                "0233-745862"
+            ],
+            "fax": [
+                "0233-745862",
+                "0233-745752"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mărgineni",
+        "adresa": {
+            "strada": "Str.Principala",
+            "localitate": {
+                "nume": "Margineni",
+                "siruta": 123184
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617270",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-295321",
+                "0233-295300"
+            ],
+            "fax": [
+                "0233-295321"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ion Creangă",
+        "adresa": {
+            "strada": "I.C. Brătianu, Nr. 105",
+            "localitate": {
+                "nume": "Ion Creanga",
+                "siruta": 123111
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617260",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-780013",
+                "0233-780266",
+                "0233-780142"
+            ],
+            "fax": [
+                "0233-780142",
+                "0233-780266"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Icuseşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Icusesti",
+                "siruta": 123022
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617250",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-762512",
+                "0233-762567",
+                "0233-762513",
+                "0233-732521"
+            ],
+            "fax": [
+                "0233-762512"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Horia",
+        "adresa": {
+            "strada": "Pietri, Nr. 1",
+            "localitate": {
+                "nume": "Horia",
+                "siruta": 120931
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617245",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-747304",
+                "0233-747462"
+            ],
+            "fax": [
+                "0233-747341"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Hangu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Hangu",
+                "siruta": 122962
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617240",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-257524",
+                "0233-257501",
+                "0233-257712"
+            ],
+            "fax": [
+                "0233-257524",
+                "0233-257501",
+                "0233-257712"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Grumăzeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Grumazesti",
+                "siruta": 122917
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617235",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-786059",
+                "0233-786364"
+            ],
+            "fax": [
+                "0233-786364"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Grinţieş",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Grinties",
+                "siruta": 122873
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617230",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-265410",
+                "0233-265172"
+            ],
+            "fax": [
+                "0233-265172",
+                "0233-265410"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Girov",
+        "adresa": {
+            "strada": "Calea Romanului, Nr. 337",
+            "localitate": {
+                "nume": "Girov",
+                "siruta": 122711
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617210",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-291000"
+            ],
+            "fax": [
+                "0233-291000"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gîrcina",
+        "adresa": {
+            "strada": "Str.Melchisedec Stefanescu",
+            "localitate": {
+                "nume": "Garcina",
+                "siruta": 122837
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-242100",
+                "0233-242200"
+            ],
+            "fax": [
+                "0233-242200"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ghindăoani",
+        "adresa": {
+            "strada": "Fagul, Nr. 2",
+            "localitate": {
+                "nume": "Ghindaoani",
+                "siruta": 121260
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617026",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-270257",
+                "0233-270258"
+            ],
+            "fax": [
+                "0233-270257",
+                "0233-270258"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gherăeşti",
+        "adresa": {
+            "strada": "Vasile Alecsandri, Nr. 56",
+            "localitate": {
+                "nume": "Gheraesti",
+                "siruta": 122677
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617205",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-746051"
+            ],
+            "fax": [
+                "0233-746450"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gâdinţi",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Gadinti",
+                "siruta": 124171
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617396",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-765155"
+            ],
+            "fax": [
+                "0233-765155"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Făurei",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Faurei",
+                "siruta": 122622
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617195",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-762005",
+                "0233-762006"
+            ],
+            "fax": [
+                "0233-762005"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Fărcaşa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Farcasa",
+                "siruta": 122560
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617190",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-267001",
+                "0233-267394",
+                "0233-267391"
+            ],
+            "fax": [
+                "0233-267001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dumbrava Roşie",
+        "adresa": {
+            "strada": "Dumbravei, Nr. 52",
+            "localitate": {
+                "nume": "Dumbrava Rosie",
+                "siruta": 120780
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617185",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-282494",
+                "0233-280944",
+                "0233-282224"
+            ],
+            "fax": [
+                "0233-282767",
+                "0233-282224"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dulceşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Dulcesti",
+                "siruta": 122472
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617175",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-761602"
+            ],
+            "fax": [
+                "0233-761006"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dragomireşti",
+        "adresa": {
+            "strada": "Principala",
+            "localitate": {
+                "nume": "Dragomiresti",
+                "siruta": 122409
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617165",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-292866",
+                "0233-292616"
+            ],
+            "fax": [
+                "0233-292616",
+                "0233-292876"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Drăgăneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Draganesti",
+                "siruta": 121956
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617107",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-789385",
+                "0233-789386"
+            ],
+            "fax": [
+                "0233-789385"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Doljeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Doljesti",
+                "siruta": 122356
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617160",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-780756",
+                "0233-780514"
+            ],
+            "fax": [
+                "0233-780756"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dochia",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Dochia",
+                "siruta": 122766
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617216",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-291919"
+            ],
+            "fax": [
+                "0233-291920"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dobreni",
+        "adresa": {
+            "strada": "Str. Lascăr Catargiu, Nr 174",
+            "localitate": {
+                "nume": "Dobreni",
+                "siruta": 122294
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617155",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-242755",
+                "0233-242944"
+            ],
+            "fax": [
+                "0233-242755",
+                "0233-242944"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dămuc",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Damuc",
+                "siruta": 122258
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617150",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-256296",
+                "0233-256270"
+            ],
+            "fax": [
+                "0233-256296"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Crăcăoani",
+        "adresa": {
+            "strada": "Principală",
+            "localitate": {
+                "nume": "Cracaoani",
+                "siruta": 122196
+            },
+            "judet": {
+                "nume": "Neamt",
+                "siruta": 10
+            },
+            "cod-postal": "617145",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0233-246001",
+                "0233-246009"
+            ],
+            "fax": [
+                "0233-246009"
+            ]
+        }
+    }
+]

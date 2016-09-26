@@ -1,0 +1,1073 @@
+[
+    {
+        "nume": "Primăria Măxineni",
+        "adresa": {
+            "strada": "Administraţiei, Nr. 42",
+            "localitate": {
+                "nume": "Maxineni",
+                "siruta": 43572
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "817090",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-695795"
+            ],
+            "fax": [
+                "0239-695795",
+                "0239-695776"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Măraşu",
+        "adresa": {
+            "strada": "Principală, Nr. 3",
+            "localitate": {
+                "nume": "Marasu",
+                "siruta": 43509
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "817080",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-696706"
+            ],
+            "fax": [
+                "0239-696706"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Jirlău",
+        "adresa": {
+            "strada": "Rm. Sărat, Nr. 106",
+            "localitate": {
+                "nume": "Jirlau",
+                "siruta": 43475
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "817075",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-667206"
+            ],
+            "fax": [
+                "0239-667130"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Însurăţei",
+        "adresa": {
+            "strada": "Brăilei, Nr. 18",
+            "localitate": {
+                "nume": "Insuratei",
+                "siruta": 43420
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "815300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-660312"
+            ],
+            "fax": [
+                "0239-660480"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ianca",
+        "adresa": {
+            "strada": "Calea Brăilei, Nr. 27",
+            "localitate": {
+                "nume": "Ianca",
+                "siruta": 43340
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "815200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-668877",
+                "0239-668178",
+                "0239-668395"
+            ],
+            "fax": [
+                "0239-668178"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gropeni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Gropeni",
+                "siruta": 43322
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "817070",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-639944"
+            ],
+            "fax": [
+                "0239-639944"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Grădiştea",
+        "adresa": {
+            "strada": "Târgului, Nr. 38",
+            "localitate": {
+                "nume": "Gradistea",
+                "siruta": 43288
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "817065",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-615658"
+            ],
+            "fax": [
+                "0239-615658"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gemenele",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Gemenele",
+                "siruta": 43251
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "817060",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-697336"
+            ],
+            "fax": [
+                "0239-697260"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Galbenu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Galbenu",
+                "siruta": 43199
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "817055",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-696270"
+            ],
+            "fax": [
+                "0239-696270"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Frecăţei",
+        "adresa": {
+            "strada": "Mihai Eminescu, Nr. 101",
+            "localitate": {
+                "nume": "Frecatei",
+                "siruta": 43126
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "817045",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0721-207325"
+            ],
+            "fax": [
+                "0372-871327"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Făurei",
+        "adresa": {
+            "strada": "Republicii, Nr. 38",
+            "localitate": {
+                "nume": "Faurei",
+                "siruta": 42762
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "815100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-661424"
+            ],
+            "fax": [
+                "0239-661424"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dudeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Dudesti",
+                "siruta": 43082
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "817040",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-663415"
+            ],
+            "fax": [
+                "0239-663494"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cireşu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ciresu",
+                "siruta": 43028
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "817035",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-623749"
+            ],
+            "fax": [
+                "0239-638434"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ciocile",
+        "adresa": {
+            "strada": "Principală, Nr. 84",
+            "localitate": {
+                "nume": "Ciocile",
+                "siruta": 42977
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "817030",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-699210",
+                "0239-699296"
+            ],
+            "fax": [
+                "0239-699210"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Chişcani",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Chiscani",
+                "siruta": 42717
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "817025",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-664011"
+            ],
+            "fax": [
+                "0239-664011"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cazaşu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Cazasu",
+                "siruta": 44266
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "817180",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-695369"
+            ],
+            "fax": [
+                "0239-695369"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Brăila",
+        "adresa": {
+            "strada": "Piaţa Independenţei, Nr. 1",
+            "localitate": {
+                "nume": "Braila",
+                "siruta": 42691
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "810210",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-694947"
+            ],
+            "fax": [
+                "0239-692394"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bordei Verde",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Bordei Verde",
+                "siruta": 42922
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "817020",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-696090",
+                "0239-696088"
+            ],
+            "fax": [
+                "0239-696090"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Berteştii De Jos",
+        "adresa": {
+            "strada": "Principală, Nr. 27",
+            "localitate": {
+                "nume": "Bertestii De Jos",
+                "siruta": 42851
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "817010",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-699909"
+            ],
+            "fax": [
+                "0239-699855"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bărăganul",
+        "adresa": {
+            "strada": "Victoriei, Nr. 15",
+            "localitate": {
+                "nume": "Baraganul",
+                "siruta": 42833
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "817005",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-663009"
+            ],
+            "fax": [
+                "0239-663103"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Zăvoaia",
+        "adresa": {
+            "strada": "Dr. Alexandru Vechiu, Nr. 51",
+            "localitate": {
+                "nume": "Zavoaia",
+                "siruta": 44541
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "817220",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-638790"
+            ],
+            "fax": [
+                "0239-638790"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Viziru",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Viziru",
+                "siruta": 44514
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "817215",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-666400",
+                "0239-666490"
+            ],
+            "fax": [
+                "0239-666490"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vişani",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Visani",
+                "siruta": 44471
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "817210",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-696491"
+            ],
+            "fax": [
+                "0239-696491"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Victoria",
+        "adresa": {
+            "strada": "Nuferilor, Nr. 335",
+            "localitate": {
+                "nume": "Victoria",
+                "siruta": 44444
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "817205",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-699729"
+            ],
+            "fax": [
+                "0239-699729"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vădeni",
+        "adresa": {
+            "strada": "Emilia Dumitrescu Nr. 181",
+            "localitate": {
+                "nume": "Vadeni",
+                "siruta": 44408
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "817200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-697664",
+                "0239-697616"
+            ],
+            "fax": [
+                "0239-697616"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Unirea",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Unirea",
+                "siruta": 44364
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "817195",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-653000",
+                "0239-653002"
+            ],
+            "fax": [
+                "0239-653002"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ulmu",
+        "adresa": {
+            "strada": "Liviu Rebreanu, Nr. 25",
+            "localitate": {
+                "nume": "Ulmu",
+                "siruta": 44337
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "817190",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-638171",
+                "0239-638175"
+            ],
+            "fax": [
+                "0239-638171",
+                "0239-638175"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tufeşti",
+        "adresa": {
+            "strada": "Primăriei, Nr. 63",
+            "localitate": {
+                "nume": "Tufesti",
+                "siruta": 44319
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "817185",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-665330",
+                "0239-665306"
+            ],
+            "fax": [
+                "0239-665307"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tudor Vladimirescu",
+        "adresa": {
+            "strada": "Brăilei, Nr. 89",
+            "localitate": {
+                "nume": "Tudor Vladimirescu",
+                "siruta": 44266
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "817180",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-613284",
+                "0239-650190"
+            ],
+            "fax": [
+                "0239-613284"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Traian",
+        "adresa": {
+            "strada": "Principală, Nr. 15",
+            "localitate": {
+                "nume": "Traian",
+                "siruta": 44211
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "817175",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-613239"
+            ],
+            "fax": [
+                "0239-613239"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tichileşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Tichilesti",
+                "siruta": 44186
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "817170",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-664590"
+            ],
+            "fax": [
+                "0239-664590"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şuteşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Sutesti",
+                "siruta": 44159
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "817165",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-667811"
+            ],
+            "fax": [
+                "0239-667811"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Surdila-Găiseanca",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Surdila-Gaiseanca",
+                "siruta": 44122
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "817155",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-650300",
+                "0239-650072"
+            ],
+            "fax": [
+                "0239-650300"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Surdila Greci",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Surdila-Greci",
+                "siruta": 42780
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "817160",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-661000"
+            ],
+            "fax": [
+                "0239-661000"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Stăncuţa",
+        "adresa": {
+            "strada": "Principală, Nr. 187",
+            "localitate": {
+                "nume": "Stancuta",
+                "siruta": 44079
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "817150",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-665668",
+                "0239-665682"
+            ],
+            "fax": [
+                "0239-665668"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Siliştea",
+        "adresa": {
+            "strada": "Principală, Nr. 83",
+            "localitate": {
+                "nume": "Silistea",
+                "siruta": 44006
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "817140",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-638962"
+            ],
+            "fax": [
+                "0239-638962"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Scorţaru Nou",
+        "adresa": {
+            "strada": "Administrației, Nr. 10",
+            "localitate": {
+                "nume": "Scortaru Nou",
+                "siruta": 43938
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "817130",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-697519"
+            ],
+            "fax": [
+                "0239-697519"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Salcia Tudor",
+        "adresa": {
+            "strada": "Principală, Nr. 11",
+            "localitate": {
+                "nume": "Salcia Tudor",
+                "siruta": 43876
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "817125",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-698943"
+            ],
+            "fax": [
+                "0239-698943"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Roşiori",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Rosiori",
+                "siruta": 43821
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "817120",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-699493",
+                "0239-699492"
+            ],
+            "fax": [
+                "0239-699493"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Romanu",
+        "adresa": {
+            "strada": "Sfatului, Nr. 10",
+            "localitate": {
+                "nume": "Romanu",
+                "siruta": 43796
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "817115",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-697142"
+            ],
+            "fax": [
+                "0239-697142"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Râmnicelu",
+        "adresa": {
+            "strada": "Brăilei, Nr. 31",
+            "localitate": {
+                "nume": "Ramnicelu",
+                "siruta": 43741
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "817110",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-698173"
+            ],
+            "fax": [
+                "0239-698229"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Racoviţa",
+        "adresa": {
+            "strada": "Calea Custura, Nr. 53",
+            "localitate": {
+                "nume": "Racovita",
+                "siruta": 43705
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "817105",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-698725"
+            ],
+            "fax": [
+                "0239-698791"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Movila Miresii",
+        "adresa": {
+            "strada": "Orizont, Nr. 773",
+            "localitate": {
+                "nume": "Movila Miresii",
+                "siruta": 43661
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "817100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-697914"
+            ],
+            "fax": [
+                "0239-697914"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mircea Voda",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Mircea Voda",
+                "siruta": 43634
+            },
+            "judet": {
+                "nume": "Braila",
+                "siruta": 10
+            },
+            "cod-postal": "817095",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0239-669583"
+            ],
+            "fax": [
+                "0239-669583"
+            ]
+        }
+    }
+]

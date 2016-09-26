@@ -1,0 +1,2298 @@
+[
+    {
+        "nume": "Primăria Bereşti-Tazlău",
+        "adresa": {
+            "strada": "Nr. 43",
+            "localitate": {
+                "nume": "Beresti-Tazlau",
+                "siruta": 21347
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607050",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-353000",
+                "0234-353100"
+            ],
+            "fax": [
+                "0234-353000"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bereşti-Bistriţa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Beresti-Bistrita",
+                "siruta": 21258
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607040",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-216018"
+            ],
+            "fax": [
+                "0234-216018"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Comăneşti",
+        "adresa": {
+            "strada": "Ciobănuş, Nr. 2",
+            "localitate": {
+                "nume": "Comanesti",
+                "siruta": 20830
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "605200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-374272",
+                "0234-374273"
+            ],
+            "fax": [
+                "0234-374278"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Coloneşti",
+        "adresa": {
+            "strada": "Smaranda Apostoleanu, Nr. 131",
+            "localitate": {
+                "nume": "Colonesti",
+                "siruta": 21908
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607110",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-287600",
+                "0234-287620"
+            ],
+            "fax": [
+                "0234-287800"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cleja",
+        "adresa": {
+            "strada": "Nr. 189",
+            "localitate": {
+                "nume": "Cleja",
+                "siruta": 21864
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607105",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-253012"
+            ],
+            "fax": [
+                "0234-253222"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Casin",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Casin",
+                "siruta": 21739
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607090",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-331067",
+                "0234-331030",
+                "0733-701005"
+            ],
+            "fax": [
+                "0234-331067"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Căiuţi",
+        "adresa": {
+            "strada": "Sat Căiuţi, Nr. 471",
+            "localitate": {
+                "nume": "Caiuti",
+                "siruta": 21766
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607095",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-338401"
+            ],
+            "fax": [
+                "0234-338701"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Buhuşi",
+        "adresa": {
+            "strada": "Republicii, Nr. 5",
+            "localitate": {
+                "nume": "Buhusi",
+                "siruta": 20787
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "605100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-261220"
+            ],
+            "fax": [
+                "0372-897995"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Buhoci",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Buhoci",
+                "siruta": 21677
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607085",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-224146"
+            ],
+            "fax": [
+                "0234-224146"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Buciumi",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Buciumi",
+                "siruta": 20705
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607607",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-339929",
+                "0234-339977"
+            ],
+            "fax": [
+                "0234-339977",
+                "0234-339929"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Brusturoasa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Brusturoasa",
+                "siruta": 21604
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607075",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-381031",
+                "0234-381170"
+            ],
+            "fax": [
+                "0234-381031",
+                "0234-381170"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bogdăneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Bogdanesti",
+                "siruta": 21579
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607070",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-336526",
+                "0234-336500",
+                "0234-336900",
+                "0234-336520"
+            ],
+            "fax": [
+                "0234-336500"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Blăgeşti",
+        "adresa": {
+            "strada": "Primăriei, Nr. 99",
+            "localitate": {
+                "nume": "Blagesti",
+                "siruta": 21515
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607065",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-268010"
+            ],
+            "fax": [
+                "0234-268030"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Berzunţi",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Berzunti",
+                "siruta": 21427
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607060",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-336000"
+            ],
+            "fax": [
+                "0234-336304"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bârsăneşti",
+        "adresa": {
+            "strada": "Principală, Nr. 189",
+            "localitate": {
+                "nume": "Barsanesti",
+                "siruta": 21463
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607035",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-334000"
+            ],
+            "fax": [
+                "0234-334106"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Balcani",
+        "adresa": {
+            "strada": "Nr. 540",
+            "localitate": {
+                "nume": "Balcani",
+                "siruta": 21203
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607030",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-380701",
+                "0234-380680"
+            ],
+            "fax": [
+                "0234-380680"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bacău",
+        "adresa": {
+            "strada": "Calea Mărăşeşti, Nr. 6",
+            "localitate": {
+                "nume": "Bacau",
+                "siruta": 20304
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "600017",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-581504"
+            ],
+            "fax": [
+                "0234-588757"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Asău",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Asau",
+                "siruta": 21132
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607020",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-386338",
+                "0234-386380"
+            ],
+            "fax": [
+                "0234-386338",
+                "0234-386380"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ardeoani",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ardeoani",
+                "siruta": 21105
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607015",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-354122",
+                "0234-354000"
+            ],
+            "fax": [
+                "0234-354122"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Agăş",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Agas",
+                "siruta": 21016
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607005",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-382036",
+                "0234-382620"
+            ],
+            "fax": [
+                "0234-382036",
+                "0234-383620"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pânceşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Pancesti",
+                "siruta": 25102
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607523",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-288080",
+                "0234-288200"
+            ],
+            "fax": [
+                "0234-288388"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Palanca",
+        "adresa": {
+            "strada": "Principală",
+            "localitate": {
+                "nume": "Palanca",
+                "siruta": 23984
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607390",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-385003",
+                "0234-385016"
+            ],
+            "fax": [
+                "0234-385003"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Orbeni",
+        "adresa": {
+            "strada": "Luzi, Nr.178",
+            "localitate": {
+                "nume": "Orbeni",
+                "siruta": 23957
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607385",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-255502"
+            ],
+            "fax": [
+                "0234-255810"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Oneşti",
+        "adresa": {
+            "strada": "B-Dul Oituz, Nr. 17",
+            "localitate": {
+                "nume": "Onesti",
+                "siruta": 20572
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "601010",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-324230",
+                "0234-324243"
+            ],
+            "fax": [
+                "0234-313911"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Onceşti",
+        "adresa": {
+            "strada": "Principală, Nr. 6",
+            "localitate": {
+                "nume": "Oncesti",
+                "siruta": 23877
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607375",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-288610"
+            ],
+            "fax": [
+                "0234-288622"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Oituz",
+        "adresa": {
+            "strada": "Principală, Nr. 1250",
+            "localitate": {
+                "nume": "Oituz",
+                "siruta": 23804
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607365",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-337010",
+                "0234-337503"
+            ],
+            "fax": [
+                "0234-337010",
+                "0234-337503"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Odobeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Odobesti",
+                "siruta": 25442
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607568",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-224610",
+                "0234-220059"
+            ],
+            "fax": [
+                "0234-224610"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Nicolae Bălcescu",
+        "adresa": {
+            "strada": "Eroilor, Nr. 380",
+            "localitate": {
+                "nume": "Nicolae Balcescu",
+                "siruta": 23724
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607355",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-214071",
+                "0234-214596"
+            ],
+            "fax": [
+                "0234-214071",
+                "0234-214596"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Negri",
+        "adresa": {
+            "strada": "Costache Negri, Nr. 2",
+            "localitate": {
+                "nume": "Negri",
+                "siruta": 23653
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607345",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-228001",
+                "0234-228222",
+                "0234-228220"
+            ],
+            "fax": [
+                "0234-228001",
+                "0234-228222",
+                "0234-228220"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Motoşeni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Motoseni",
+                "siruta": 23500
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607325",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-284003",
+                "0234-284009"
+            ],
+            "fax": [
+                "0234-284332"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Moineşti",
+        "adresa": {
+            "strada": "V. Alecsandri, Nr. 14",
+            "localitate": {
+                "nume": "Moinesti",
+                "siruta": 20885
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "605400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-363680",
+                "0740-162602",
+                "0372-764340"
+            ],
+            "fax": [
+                "0234-365428"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mărgineni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Margineni",
+                "siruta": 20475
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607315",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-211032"
+            ],
+            "fax": [
+                "0234-211032"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mănăstirea Casin",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Manastirea Casin",
+                "siruta": 23458
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607310",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-331824"
+            ],
+            "fax": [
+                "0234-331624"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Măgura",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Magura",
+                "siruta": 20420
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607305",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-212406",
+                "0234-212718"
+            ],
+            "fax": [
+                "0234-212623"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Măgireşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Magiresti",
+                "siruta": 23396
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-355000",
+                "0234-355200"
+            ],
+            "fax": [
+                "0234-355200"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Luizi-Călugăra",
+        "adresa": {
+            "strada": "Principală",
+            "localitate": {
+                "nume": "Luizi-Calugara",
+                "siruta": 23369
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607295",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-218011"
+            ],
+            "fax": [
+                "0234-218277"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Livezi",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Livezi",
+                "siruta": 23298
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607285",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-332009"
+            ],
+            "fax": [
+                "0234-332009"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lipova",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Lipova",
+                "siruta": 23216
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607275",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-220610",
+                "0234-220753"
+            ],
+            "fax": [
+                "0234-220753"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Letea Veche",
+        "adresa": {
+            "strada": "Alexandru Ioan Cuza, Nr. 220",
+            "localitate": {
+                "nume": "Letea Veche",
+                "siruta": 20368
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607270",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-213474"
+            ],
+            "fax": [
+                "0234-213474"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Izvoru Berheciului",
+        "adresa": {
+            "strada": "Principală, Nr. 51",
+            "localitate": {
+                "nume": "Izvoru Berheciului",
+                "siruta": 23136
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607260",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-223502"
+            ],
+            "fax": [
+                "0234-223502"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Corbasca",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Corbasca",
+                "siruta": 21980
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607120",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-283399",
+                "0234-283254"
+            ],
+            "fax": [
+                "0234-283399"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Iteşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Itesti",
+                "siruta": 21310
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607047",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-228806",
+                "0234-228803"
+            ],
+            "fax": [
+                "0234-228806"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Huruieşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Huruiesti",
+                "siruta": 23056
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607250",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-286004"
+            ],
+            "fax": [
+                "0234-286289"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Horgeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Horgesti",
+                "siruta": 22950
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607240",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-226002"
+            ],
+            "fax": [
+                "0234-226108"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Zemeş",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Zemes",
+                "siruta": 26298
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607690",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-383037"
+            ],
+            "fax": [
+                "0234-383303"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vultureni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Vultureni",
+                "siruta": 26270
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607665",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-285003",
+                "0234-285115"
+            ],
+            "fax": [
+                "0234-285287"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Valea Seacă",
+        "adresa": {
+            "strada": "Principală, Nr. 373",
+            "localitate": {
+                "nume": "Valea Seaca",
+                "siruta": 26092
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607660",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-255022"
+            ],
+            "fax": [
+                "0234-255420"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Urecheşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Urechesti",
+                "siruta": 26038
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607655",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-335500"
+            ],
+            "fax": [
+                "0234-335591"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ungureni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ungureni",
+                "siruta": 25941
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607645",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-227012",
+                "0234-227001"
+            ],
+            "fax": [
+                "0234-227012"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Traian",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Traian",
+                "siruta": 25870
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607635",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-221042",
+                "0234-221134"
+            ],
+            "fax": [
+                "0234-221050"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tîrgu-Ocna",
+        "adresa": {
+            "strada": "Trandafirilor, Nr. 1",
+            "localitate": {
+                "nume": "Targu Ocna",
+                "siruta": 20974
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "605600",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-344114",
+                "0234-344116",
+                "0729-995923"
+            ],
+            "fax": [
+                "0234-344115"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tătărăşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Tatarasti",
+                "siruta": 25754
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607620",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-286510"
+            ],
+            "fax": [
+                "0234-286630"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Târgu Trotuş",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Targu Trotus",
+                "siruta": 25834
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607630",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-347002"
+            ],
+            "fax": [
+                "0234-347172"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tamaşi",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Tamasi",
+                "siruta": 25709
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607615",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-225025"
+            ],
+            "fax": [
+                "0234-225025"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Strugari",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Strugari",
+                "siruta": 25638
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607595",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-388510",
+                "0234-388734"
+            ],
+            "fax": [
+                "0234-388734"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ştefan Cel Mare",
+        "adresa": {
+            "strada": "Sat Negoieşti, Principală, Nr. 20",
+            "localitate": {
+                "nume": "Stefan Cel Mare",
+                "siruta": 20689
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607605",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-339000"
+            ],
+            "fax": [
+                "0234-339050"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Stănişeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Stanisesti",
+                "siruta": 25530
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607585",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-284608"
+            ],
+            "fax": [
+                "0234-284625"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Hemeiuş",
+        "adresa": {
+            "strada": "Ion Simionescu, Nr. 604",
+            "localitate": {
+                "nume": "Hemeius",
+                "siruta": 20322
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607235",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-217510"
+            ],
+            "fax": [
+                "0234-217675"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Helegiu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Helegiu",
+                "siruta": 22905
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607230",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-333050",
+                "0234-333000"
+            ],
+            "fax": [
+                "0234-333420"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gura Văii",
+        "adresa": {
+            "strada": "Principală, Nr. 857",
+            "localitate": {
+                "nume": "Gura Vaii",
+                "siruta": 20616
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607220",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-334500"
+            ],
+            "fax": [
+                "0234-334826"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Glăvăneşti",
+        "adresa": {
+            "strada": "Principală",
+            "localitate": {
+                "nume": "Glavanesti",
+                "siruta": 22843
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607215",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-282082",
+                "0234-282010"
+            ],
+            "fax": [
+                "0234-282082",
+                "0234-282010"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Solont",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Solont",
+                "siruta": 25497
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607580",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-387701",
+                "0234-387595",
+                "0234-387780"
+            ],
+            "fax": [
+                "0234-387780",
+                "0234-387701"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Slănic Moldova",
+        "adresa": {
+            "strada": "Vasile Alecsandri, Nr. 4",
+            "localitate": {
+                "nume": "Slanic-Moldova",
+                "siruta": 20929
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "605500",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-348119"
+            ],
+            "fax": [
+                "0234-348829"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Secuieni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Secuieni",
+                "siruta": 25371
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607560",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-223002",
+                "0234-223320"
+            ],
+            "fax": [
+                "0234-223305"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Scorţeni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Scorteni",
+                "siruta": 25308
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607550",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-354500"
+            ],
+            "fax": [
+                "0234-354565"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Săuceşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Saucesti",
+                "siruta": 25237
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607540",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-215131",
+                "0234-215218"
+            ],
+            "fax": [
+                "0234-215131",
+                "0234-215218"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Săscut",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Sascut",
+                "siruta": 25077
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607520",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-280639"
+            ],
+            "fax": [
+                "0234-280408"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sărata",
+        "adresa": {
+            "strada": "Principală",
+            "localitate": {
+                "nume": "Sarata (Nicolae Balcescu)",
+                "siruta": 23779
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607361",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-214866",
+                "0234-214919"
+            ],
+            "fax": [
+                "0234-214866"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sănduleni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Sanduleni",
+                "siruta": 25157
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607530",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-335000"
+            ],
+            "fax": [
+                "0234-335000"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Roşiori",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Rosiori",
+                "siruta": 25004
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607510",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-228501"
+            ],
+            "fax": [
+                "0234-228501"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Racova",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Racova",
+                "siruta": 24720
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607475",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-269501",
+                "0234-269503"
+            ],
+            "fax": [
+                "0234-269501",
+                "0234-269503"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Răchitoasa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Rachitoasa",
+                "siruta": 24846
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607490",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-287015"
+            ],
+            "fax": [
+                "0234-287001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Răcăciuni",
+        "adresa": {
+            "strada": "B-Dul Ştefan Cel Mare, Nr. 42",
+            "localitate": {
+                "nume": "Racaciuni",
+                "siruta": 24775
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607480",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-251212"
+            ],
+            "fax": [
+                "0234-251586",
+                "0234-251212"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Prăjeşti",
+        "adresa": {
+            "strada": "Sat Prăjești",
+            "localitate": {
+                "nume": "Prajesti",
+                "siruta": 25914
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607639",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-222242",
+                "0234-222240"
+            ],
+            "fax": [
+                "0234-222242"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Poduri",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Poduri",
+                "siruta": 24640
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607465",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-369004"
+            ],
+            "fax": [
+                "0234-369000"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Podu Turcului",
+        "adresa": {
+            "strada": "Tudor Vladimirescu, Nr. 171",
+            "localitate": {
+                "nume": "Podu Turcului",
+                "siruta": 24533
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607450",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-289226"
+            ],
+            "fax": [
+                "0234-289294"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Plopana",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Plopana",
+                "siruta": 24436
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607440",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-220011"
+            ],
+            "fax": [
+                "0234-220051"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pîrjol",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Parjol",
+                "siruta": 24347
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607430",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-384016"
+            ],
+            "fax": [
+                "0234-384024"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Parincea",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Parincea",
+                "siruta": 24098
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-226530"
+            ],
+            "fax": [
+                "0234-226524"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pârgăreşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Pargaresti",
+                "siruta": 24285
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607425",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-347510"
+            ],
+            "fax": [
+                "0234-347710"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Parava",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Parava",
+                "siruta": 24043
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607395",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-252156"
+            ],
+            "fax": [
+                "0234-252165"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gîrleni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Garlenii De Sus",
+                "siruta": 22790
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607201",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-269263",
+                "0234-268985"
+            ],
+            "fax": [
+                "0234-269263",
+                "0234-268985"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gioseni",
+        "adresa": {
+            "strada": "Principală, Nr. 893",
+            "localitate": {
+                "nume": "Gioseni",
+                "siruta": 25736
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607618",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-225233"
+            ],
+            "fax": [
+                "0234-225233"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ghimeş-Făget",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ghimes-Faget",
+                "siruta": 22718
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607205",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-385611"
+            ],
+            "fax": [
+                "0234-385850"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Găiceana",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Gaiceana",
+                "siruta": 22674
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607195",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-283614",
+                "0234-283977"
+            ],
+            "fax": [
+                "0234-283674"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Filipeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Filipesti",
+                "siruta": 22585
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607185",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-215800",
+                "0234-215951"
+            ],
+            "fax": [
+                "0234-215800"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Filipeni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Filipeni",
+                "siruta": 22497
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607175",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-285500"
+            ],
+            "fax": [
+                "0234-285867"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Faraoani",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Faraoani",
+                "siruta": 22479
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607170",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-254152"
+            ],
+            "fax": [
+                "0234-254010"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dofteana",
+        "adresa": {
+            "strada": "Principală, Nr. 920",
+            "localitate": {
+                "nume": "Dofteana",
+                "siruta": 22399
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607160",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-352001"
+            ],
+            "fax": [
+                "0234-352347"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dealu Morii",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Dealu Morii",
+                "siruta": 22246
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607140",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-282602"
+            ],
+            "fax": [
+                "0234-282656"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dărmăneşti",
+        "adresa": {
+            "strada": "Muncii, Nr. 16",
+            "localitate": {
+                "nume": "Darmanesti",
+                "siruta": 22175
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "605300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-356656"
+            ],
+            "fax": [
+                "0234-356546"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dămieneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Damienesti",
+                "siruta": 22120
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607135",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-222502"
+            ],
+            "fax": [
+                "0234-222502",
+                "0234-222870"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Coţofăneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Cotofanesti",
+                "siruta": 22068
+            },
+            "judet": {
+                "nume": "Bacau",
+                "siruta": 10
+            },
+            "cod-postal": "607130",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0234-330216",
+                "0234-330001"
+            ],
+            "fax": [
+                "0234-330216"
+            ]
+        }
+    }
+]

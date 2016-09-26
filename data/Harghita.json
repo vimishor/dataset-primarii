@@ -1,0 +1,1632 @@
+[
+    {
+        "nume": "Primăria Dârjiu",
+        "adresa": {
+            "strada": "Principală, Nr. 26",
+            "localitate": {
+                "nume": "Darjiu",
+                "siruta": 84399
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537075",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-222002"
+            ],
+            "fax": [
+                "0266-222002"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Odorheiu Secuiesc",
+        "adresa": {
+            "strada": "Piaţa Primăriei, Nr. 5",
+            "localitate": {
+                "nume": "Odorheiu Secuiesc",
+                "siruta": 83142
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "535600",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-218145",
+                "0372-662901"
+            ],
+            "fax": [
+                "0266-218032"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tomeşti",
+        "adresa": {
+            "strada": "Principală, Nr. 682",
+            "localitate": {
+                "nume": "Tomesti",
+                "siruta": 84139
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537037",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-378118"
+            ],
+            "fax": [
+                "0266-378394"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Suseni",
+        "adresa": {
+            "strada": "Principală, Nr. 212",
+            "localitate": {
+                "nume": "Suseni",
+                "siruta": 85939
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537305",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-350004"
+            ],
+            "fax": [
+                "0266-350077"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Subcetate",
+        "adresa": {
+            "strada": "Ilie Câmpeanu, Nr. 16",
+            "localitate": {
+                "nume": "Subcetate",
+                "siruta": 85886
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-345003"
+            ],
+            "fax": [
+                "0266-345184"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şimoneşti",
+        "adresa": {
+            "strada": "Morii, Nr. 249",
+            "localitate": {
+                "nume": "Simonesti",
+                "siruta": 85993
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537310",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-221603",
+                "0266-221824"
+            ],
+            "fax": [
+                "0266-221730",
+                "0266-221824"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Siculeni",
+        "adresa": {
+            "strada": "Principală, Nr. 106",
+            "localitate": {
+                "nume": "Siculeni",
+                "siruta": 85635
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537295",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-379107"
+            ],
+            "fax": [
+                "0266-316951"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Secuieni",
+        "adresa": {
+            "strada": "Principală, Nr. 224",
+            "localitate": {
+                "nume": "Secuieni",
+                "siruta": 85591
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537290",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-244750",
+                "0266-244755"
+            ],
+            "fax": [
+                "0266-244750"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Satu Mare",
+        "adresa": {
+            "strada": "Nr. 450",
+            "localitate": {
+                "nume": "Satu Mare",
+                "siruta": 83188
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537026",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-245140"
+            ],
+            "fax": [
+                "0266-245140"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sărmaş",
+        "adresa": {
+            "strada": "Principală, Nr. 657",
+            "localitate": {
+                "nume": "Sarmas",
+                "siruta": 85537
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537260",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-350603"
+            ],
+            "fax": [
+                "0266-350889"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sântimbru",
+        "adresa": {
+            "strada": "Principală, Nr. 588",
+            "localitate": {
+                "nume": "Santimbru",
+                "siruta": 85742
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537271",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-347099"
+            ],
+            "fax": [
+                "0266-347099"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sânsimion",
+        "adresa": {
+            "strada": "Principală, Nr. 210",
+            "localitate": {
+                "nume": "Sansimion",
+                "siruta": 85859
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537285",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-310388",
+                "0266-334603"
+            ],
+            "fax": [
+                "0266-310388"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sânmartin",
+        "adresa": {
+            "strada": "Principală, Nr. 40",
+            "localitate": {
+                "nume": "Sanmartin",
+                "siruta": 85797
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537280",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-332122",
+                "0266-332242"
+            ],
+            "fax": [
+                "0266-332122"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sândominic",
+        "adresa": {
+            "strada": "Principală, Nr. 507",
+            "localitate": {
+                "nume": "Sandominic",
+                "siruta": 85779
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537275",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-336005"
+            ],
+            "fax": [
+                "0266-336578"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sâncrăieni",
+        "adresa": {
+            "strada": "Principală, Nr. 522",
+            "localitate": {
+                "nume": "Sancraieni",
+                "siruta": 85699
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537265",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-332502",
+                "0266-332741"
+            ],
+            "fax": [
+                "0266-332741"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Săcel",
+        "adresa": {
+            "strada": "Principală, Nr. 70",
+            "localitate": {
+                "nume": "Sacel",
+                "siruta": 85476
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537255",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-221033"
+            ],
+            "fax": [
+                "0266-221001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Remetea",
+        "adresa": {
+            "strada": "P-Ţa Cseres Tibor Nr. 10",
+            "localitate": {
+                "nume": "Remetea",
+                "siruta": 85421
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537250",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-352101"
+            ],
+            "fax": [
+                "0266-352102"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Racu",
+        "adresa": {
+            "strada": "Principală, Nr. 232",
+            "localitate": {
+                "nume": "Racu",
+                "siruta": 85662
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537298",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-379237"
+            ],
+            "fax": [
+                "0266-379575"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Praid",
+        "adresa": {
+            "strada": "Principală, Nr. 394",
+            "localitate": {
+                "nume": "Praid",
+                "siruta": 85350
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537240",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-240175",
+                "0266-240174"
+            ],
+            "fax": [
+                "0266-240175"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Porumbeni",
+        "adresa": {
+            "strada": "Nr. 244\/A",
+            "localitate": {
+                "nume": "Porumbenii Mari",
+                "siruta": 85216
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537214",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-244689"
+            ],
+            "fax": [
+                "0266-244691"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Plăieşii De Jos",
+        "adresa": {
+            "strada": "Principală, Nr. 235",
+            "localitate": {
+                "nume": "Plaiesii De Jos",
+                "siruta": 85298
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537235",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-333010"
+            ],
+            "fax": [
+                "0266-333010"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Păuleni Ciuc",
+        "adresa": {
+            "strada": "Principală, Nr. 76",
+            "localitate": {
+                "nume": "Pauleni-Ciuc",
+                "siruta": 83384
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537230",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-333705"
+            ],
+            "fax": [
+                "0366-815238"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ocland",
+        "adresa": {
+            "strada": "Principală, Nr. 174",
+            "localitate": {
+                "nume": "Ocland",
+                "siruta": 85252
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537225",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-224002",
+                "0266-224023"
+            ],
+            "fax": [
+                "0266-224023"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mugeni",
+        "adresa": {
+            "strada": "Principală, Nr. 150",
+            "localitate": {
+                "nume": "Mugeni",
+                "siruta": 85136
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537205",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-245490"
+            ],
+            "fax": [
+                "0266-245430"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mihăileni",
+        "adresa": {
+            "strada": "Principală, Nr. 288 A",
+            "localitate": {
+                "nume": "Mihaileni",
+                "siruta": 85083
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-326063"
+            ],
+            "fax": [
+                "0266-326155"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Miercurea Ciuc",
+        "adresa": {
+            "strada": "Piaţa Cetăţii Nr. 1",
+            "localitate": {
+                "nume": "Miercurea-Ciuc",
+                "siruta": 83339
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "530110",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-315120"
+            ],
+            "fax": [
+                "0266-371165"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mereşti",
+        "adresa": {
+            "strada": "Principală, Nr. 144",
+            "localitate": {
+                "nume": "Meresti",
+                "siruta": 85065
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537195",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-220688"
+            ],
+            "fax": [
+                "0266-220820"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mărtiniş",
+        "adresa": {
+            "strada": "Principală, Nr. 258",
+            "localitate": {
+                "nume": "Martinis",
+                "siruta": 84932
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537175",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-223046"
+            ],
+            "fax": [
+                "0266-223046"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mădăraş",
+        "adresa": {
+            "strada": "Principală, Nr. 193",
+            "localitate": {
+                "nume": "Madaras",
+                "siruta": 84255
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537071",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-335824"
+            ],
+            "fax": [
+                "0266-335824"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lupeni",
+        "adresa": {
+            "strada": "Principală, Nr. 566",
+            "localitate": {
+                "nume": "Lupeni",
+                "siruta": 84834
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537165",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-248212"
+            ],
+            "fax": [
+                "0266-248212"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lunca De Sus",
+        "adresa": {
+            "strada": "Principală, Nr. 537",
+            "localitate": {
+                "nume": "Lunca De Sus",
+                "siruta": 84763
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537155",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-339101",
+                "0266-339026"
+            ],
+            "fax": [
+                "0266-339026"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lunca De Jos",
+        "adresa": {
+            "strada": "Principală, Nr. 647",
+            "localitate": {
+                "nume": "Lunca De Jos",
+                "siruta": 84665
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537145",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-339610",
+                "0266-339762"
+            ],
+            "fax": [
+                "0266-339762"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lueta",
+        "adresa": {
+            "strada": "Principală, Nr. 397",
+            "localitate": {
+                "nume": "Lueta",
+                "siruta": 84638
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537140",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-220729"
+            ],
+            "fax": [
+                "0266-220534"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Leliceni",
+        "adresa": {
+            "strada": "Principală, Nr. 10",
+            "localitate": {
+                "nume": "Leliceni",
+                "siruta": 85724
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537268",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-310583"
+            ],
+            "fax": [
+                "0266-310583"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lăzarea",
+        "adresa": {
+            "strada": "Principală, Nr. 702",
+            "localitate": {
+                "nume": "Lazarea",
+                "siruta": 84601
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537135",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-352728",
+                "0266-352691"
+            ],
+            "fax": [
+                "0266-352691",
+                "0266-352728"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Joseni",
+        "adresa": {
+            "strada": "Principală, Nr. 666",
+            "localitate": {
+                "nume": "Joseni",
+                "siruta": 84567
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537130",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-354003"
+            ],
+            "fax": [
+                "0266-364498"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gălăuţaş",
+        "adresa": {
+            "strada": "Nr. 1",
+            "localitate": {
+                "nume": "Galautas",
+                "siruta": 84479
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537120",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-345604"
+            ],
+            "fax": [
+                "0266-345712"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Frumoasa",
+        "adresa": {
+            "strada": "Mihălieni, Nr. 7",
+            "localitate": {
+                "nume": "Frumoasa",
+                "siruta": 84424
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537115",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-325282"
+            ],
+            "fax": [
+                "0266-325203"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Feliceni",
+        "adresa": {
+            "strada": "Principală, Nr. 208",
+            "localitate": {
+                "nume": "Feliceni",
+                "siruta": 83204
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537095",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-245311"
+            ],
+            "fax": [
+                "0266-245327"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ditrău",
+        "adresa": {
+            "strada": "Libertăţii, Nr. 9",
+            "localitate": {
+                "nume": "Ditrau",
+                "siruta": 84353
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537090",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-353130"
+            ],
+            "fax": [
+                "0266-353231"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dealu",
+        "adresa": {
+            "strada": "Principală, Nr. 601",
+            "localitate": {
+                "nume": "Dealu",
+                "siruta": 84273
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537080",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-225106"
+            ],
+            "fax": [
+                "0266-225106"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dăneşti",
+        "adresa": {
+            "strada": "Principală, Nr. 781",
+            "localitate": {
+                "nume": "Danesti",
+                "siruta": 84246
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537070",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-327011"
+            ],
+            "fax": [
+                "0266-327168"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cristuru Secuiesc",
+        "adresa": {
+            "strada": "Libertăţii, Nr.27",
+            "localitate": {
+                "nume": "Cristuru Secuiesc",
+                "siruta": 83534
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "535400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-242190"
+            ],
+            "fax": [
+                "0266-206012"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cozmeni",
+        "adresa": {
+            "strada": "Principală, Nr. 200",
+            "localitate": {
+                "nume": "Cozmeni",
+                "siruta": 85813
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537065",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-326668",
+                "0266-326601"
+            ],
+            "fax": [
+                "0266-326668"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Corund",
+        "adresa": {
+            "strada": "Principală, Nr. 589",
+            "localitate": {
+                "nume": "Corund",
+                "siruta": 84184
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537060",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-249344",
+                "0266-249101"
+            ],
+            "fax": [
+                "0266-249101"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Corbu",
+        "adresa": {
+            "strada": "Nr. 331",
+            "localitate": {
+                "nume": "Corbu",
+                "siruta": 84157
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537055",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-338814"
+            ],
+            "fax": [
+                "0266-338744"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ciumani",
+        "adresa": {
+            "strada": "P-Ţa. Borsos Miklós, Nr. 208",
+            "localitate": {
+                "nume": "Ciumani",
+                "siruta": 84095
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537050",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-351006"
+            ],
+            "fax": [
+                "0266-351006"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ciucsângeorgiu",
+        "adresa": {
+            "strada": "Principală, Nr. 131",
+            "localitate": {
+                "nume": "Ciucsangeorgiu",
+                "siruta": 83990
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537040",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-331603"
+            ],
+            "fax": [
+                "0266-331765"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ciceu",
+        "adresa": {
+            "strada": "Principală, Nr. 651",
+            "localitate": {
+                "nume": "Ciceu",
+                "siruta": 85653
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537297",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-379261"
+            ],
+            "fax": [
+                "0266-379267"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cârţa",
+        "adresa": {
+            "strada": "Principală, Nr. 159",
+            "localitate": {
+                "nume": "Carta",
+                "siruta": 84111
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537035",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-378005"
+            ],
+            "fax": [
+                "0266-378320"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Căpâlniţa",
+        "adresa": {
+            "strada": "Principală, Nr. 352",
+            "localitate": {
+                "nume": "Capalnita",
+                "siruta": 83972
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537030",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-247601"
+            ],
+            "fax": [
+                "0266-247524"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Brădeşti",
+        "adresa": {
+            "strada": "Principală, Nr. 89",
+            "localitate": {
+                "nume": "Bradesti",
+                "siruta": 83160
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537025",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-245001"
+            ],
+            "fax": [
+                "0266-245172"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Borsec",
+        "adresa": {
+            "strada": "Carpaţi, Nr. 6\/A",
+            "localitate": {
+                "nume": "Borsec",
+                "siruta": 83507
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "535300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-337001"
+            ],
+            "fax": [
+                "0266-337007"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bilbor",
+        "adresa": {
+            "strada": "Principală, Nr. 120",
+            "localitate": {
+                "nume": "Bilbor",
+                "siruta": 83945
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537020",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-355004"
+            ],
+            "fax": [
+                "0266-355504"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bălan",
+        "adresa": {
+            "strada": "1 Decembrie, Nr. 25",
+            "localitate": {
+                "nume": "Balan",
+                "siruta": 83473
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "535200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-330335"
+            ],
+            "fax": [
+                "0266-330335"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Băile Tuşnad",
+        "adresa": {
+            "strada": "Oltului, Nr. 63",
+            "localitate": {
+                "nume": "Baile Tusnad",
+                "siruta": 83437
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "535100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-335017"
+            ],
+            "fax": [
+                "0266-335006"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Avrămeşti",
+        "adresa": {
+            "strada": "Principală, Nr. 126",
+            "localitate": {
+                "nume": "Avramesti",
+                "siruta": 83856
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537010",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-220024"
+            ],
+            "fax": [
+                "0266-220010"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Atid",
+        "adresa": {
+            "strada": "Principală, Nr. 469",
+            "localitate": {
+                "nume": "Atid",
+                "siruta": 83794
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537005",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-226259"
+            ],
+            "fax": [
+                "0266-226201"
+            ]
+        }
+    },
+    {
+        "nume": "Municipiul Topliţa",
+        "adresa": {
+            "strada": "Nicolae Bălcescu, Nr. 14",
+            "localitate": {
+                "nume": "Toplita",
+                "siruta": 83641
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "535700",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-341772"
+            ],
+            "fax": [
+                "0266-341772"
+            ]
+        }
+    },
+    {
+        "nume": "Municipiul Gheorgheni",
+        "adresa": {
+            "strada": "P-Ţa Libertăţii, Nr. 27",
+            "localitate": {
+                "nume": "Gheorgheni",
+                "siruta": 83570
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "535500",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-364494"
+            ],
+            "fax": [
+                "0266-364753"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Zetea",
+        "adresa": {
+            "strada": "Principală, Nr. 272",
+            "localitate": {
+                "nume": "Zetea",
+                "siruta": 86375
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537360",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-241152",
+                "0266-241112"
+            ],
+            "fax": [
+                "0266-241112"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Voşlobeni",
+        "adresa": {
+            "strada": "Principală, Nr. 62",
+            "localitate": {
+                "nume": "Voslabeni",
+                "siruta": 86348
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537355",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-351602"
+            ],
+            "fax": [
+                "0266-351602"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vlăhiţa",
+        "adresa": {
+            "strada": "Turnătorilor, Nr. 20",
+            "localitate": {
+                "nume": "Vlahita",
+                "siruta": 83758
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "535800",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-246634",
+                "0266-246635",
+                "0266-246636"
+            ],
+            "fax": [
+                "0266-246634",
+                "0266-246635",
+                "0266-246636"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vărşag",
+        "adresa": {
+            "strada": "Principală, Nr. 351",
+            "localitate": {
+                "nume": "Varsag",
+                "siruta": 86320
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537350",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-244451",
+                "0266-244395"
+            ],
+            "fax": [
+                "0266-244395"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ulieş",
+        "adresa": {
+            "strada": "Principală, Nr. 30",
+            "localitate": {
+                "nume": "Ulies",
+                "siruta": 86231
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537340",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-222001",
+                "0266-222111"
+            ],
+            "fax": [
+                "0266-222001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tuşnad",
+        "adresa": {
+            "strada": "Str. Principală, Nr. 176",
+            "localitate": {
+                "nume": "Tusnad",
+                "siruta": 86197
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537335",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-334235"
+            ],
+            "fax": [
+                "0266-334235"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tulgheş",
+        "adresa": {
+            "strada": "Centru, Nr. 339",
+            "localitate": {
+                "nume": "Tulghes",
+                "siruta": 86142
+            },
+            "judet": {
+                "nume": "Harghita",
+                "siruta": 10
+            },
+            "cod-postal": "537330",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0266-338107"
+            ],
+            "fax": [
+                "0266-338454"
+            ]
+        }
+    }
+]

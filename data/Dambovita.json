@@ -1,0 +1,2184 @@
+[
+    {
+        "nume": "Primăria Corneşti",
+        "adresa": {
+            "strada": "Dn Bucureşti - Ploieşti",
+            "localitate": {
+                "nume": "Cornesti",
+                "siruta": 67023
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137150",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-241654"
+            ],
+            "fax": [
+                "0245-241654"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cornăţelu",
+        "adresa": {
+            "strada": "Primăriei, Nr. 37",
+            "localitate": {
+                "nume": "Cornatelu",
+                "siruta": 66964
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137145",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0371-332739"
+            ],
+            "fax": []
+        }
+    },
+    {
+        "nume": "Primăria Corbii Mari",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Corbii Mari",
+                "siruta": 66866
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137135",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-716444"
+            ],
+            "fax": [
+                "0245-716065",
+                "0245-716444"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Conţeşti",
+        "adresa": {
+            "strada": "Primăriei, Nr. 456",
+            "localitate": {
+                "nume": "Contesti",
+                "siruta": 66777
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137125",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-241391",
+                "0245-241390"
+            ],
+            "fax": [
+                "0245-241321",
+                "0245-241391"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Comişani",
+        "adresa": {
+            "strada": "Suseni, Nr. 221",
+            "localitate": {
+                "nume": "Comisani",
+                "siruta": 66740
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137120",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-263147",
+                "0245-263017"
+            ],
+            "fax": [
+                "0245-263017"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cojasca",
+        "adresa": {
+            "strada": "Principală, Nr. 277",
+            "localitate": {
+                "nume": "Cojasca",
+                "siruta": 66704
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137115",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-671565"
+            ],
+            "fax": [
+                "0245-671565"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cobia",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Cobia",
+                "siruta": 66580
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137095",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-713235"
+            ],
+            "fax": [
+                "0245-713235"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ciocăneşti",
+        "adresa": {
+            "strada": "Ciocanesti",
+            "localitate": {
+                "nume": "Ciocanesti",
+                "siruta": 101859
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137090",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-261336"
+            ],
+            "fax": [
+                "0245-261723"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cândeşti",
+        "adresa": {
+            "strada": "Nr. 1",
+            "localitate": {
+                "nume": "Candesti",
+                "siruta": 39967
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137080",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-240123"
+            ],
+            "fax": [
+                "0245-240123"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Butimanu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Butimanu",
+                "siruta": 101573
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137075",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-241040",
+                "0245-241001"
+            ],
+            "fax": [
+                "0245-241001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bucşani",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Bucsani",
+                "siruta": 66483
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137070",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-235041"
+            ],
+            "fax": [
+                "0245-235041"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Buciumeni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Buciumeni",
+                "siruta": 66447
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137065",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-777002"
+            ],
+            "fax": [
+                "0245-777002"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Brezoaele",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Brezoaele",
+                "siruta": 101350
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137060",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-715601"
+            ],
+            "fax": [
+                "0245-715689"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Braniştea",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Branistea",
+                "siruta": 66161
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137050",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-715196",
+                "0245-715031"
+            ],
+            "fax": [
+                "0245-715196"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Brăneşti",
+        "adresa": {
+            "strada": "Principală, Nr. 221",
+            "localitate": {
+                "nume": "Branesti",
+                "siruta": 66018
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137055",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-231275"
+            ],
+            "fax": [
+                "0245-231275"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bilciureşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Bilciuresti",
+                "siruta": 66410
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137045",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-671331"
+            ],
+            "fax": [
+                "0245-671331"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bezdead",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Bezdead",
+                "siruta": 66349
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137035",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-663011"
+            ],
+            "fax": [
+                "0245-663011"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bărbuleţu",
+        "adresa": {
+            "strada": "Sat Gura Bărbuleţului, Nr. 104",
+            "localitate": {
+                "nume": "Barbuletu",
+                "siruta": 66250
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137020",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-240933"
+            ],
+            "fax": []
+        }
+    },
+    {
+        "nume": "Primăria Băleni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Baleni",
+                "siruta": 66198
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137010",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-265004",
+                "0245-265063",
+                "0245-265200"
+            ],
+            "fax": [
+                "0245-265063",
+                "0245-265200"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Aninoasa",
+        "adresa": {
+            "strada": "Constantin Manolescu, Nr. 143",
+            "localitate": {
+                "nume": "Aninoasa",
+                "siruta": 65388
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137005",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-226214"
+            ],
+            "fax": [
+                "0245-226533"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Produleşti",
+        "adresa": {
+            "strada": "Târgoviștei",
+            "localitate": {
+                "nume": "Produlesti",
+                "siruta": 68538
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137375",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-243643",
+                "0245-243641"
+            ],
+            "fax": [
+                "0245-243641"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vulcana Pandele",
+        "adresa": {
+            "strada": "Principală, Nr. 9",
+            "localitate": {
+                "nume": "Vulcana-Pandele",
+                "siruta": 66063
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137540",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-230422",
+                "0245-230340"
+            ],
+            "fax": [
+                "0245-230340"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vulcana Băi",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Vulcana-Bai",
+                "siruta": 69624
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137535",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-230899",
+                "0245-230890"
+            ],
+            "fax": [
+                "0245-230904"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Voineşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Voinesti",
+                "siruta": 69535
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137525",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-679324"
+            ],
+            "fax": [
+                "0245-679450"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vlădeni",
+        "adresa": {
+            "strada": "Principală, Nr. 152",
+            "localitate": {
+                "nume": "Vladeni",
+                "siruta": 67283
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137187",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-660839"
+            ],
+            "fax": [
+                "0245-660839"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vişineşti",
+        "adresa": {
+            "strada": "Principală, Nr. 249",
+            "localitate": {
+                "nume": "Visinesti",
+                "siruta": 69401
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137520",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-662410",
+                "0245-662472",
+                "0245-662442"
+            ],
+            "fax": [
+                "0245-662444"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vişina",
+        "adresa": {
+            "strada": "Mihai Viteazu, Nr. 29",
+            "localitate": {
+                "nume": "Visina",
+                "siruta": 69349
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137515",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-725064",
+                "0245-725200"
+            ],
+            "fax": [
+                "0245-725064",
+                "0245-725200"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vârfuri",
+        "adresa": {
+            "strada": "Şuviţa, Nr. 137",
+            "localitate": {
+                "nume": "Varfuri",
+                "siruta": 69456
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137505",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-233102"
+            ],
+            "fax": [
+                "0245-233063"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Văleni Dâmboviţa",
+        "adresa": {
+            "strada": "Nr. 643",
+            "localitate": {
+                "nume": "Valeni-Dambovita",
+                "siruta": 69312
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137500",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-243317",
+                "0245-724618",
+                "0245-243320"
+            ],
+            "fax": [
+                "0245-243317",
+                "0245-724618",
+                "0245-243320"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Valea Mare",
+        "adresa": {
+            "strada": "Principală, Nr. 218",
+            "localitate": {
+                "nume": "Valea Mare",
+                "siruta": 69189
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137485",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-606323"
+            ],
+            "fax": [
+                "0245-606323"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Valea Lungă",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Valea Lunga",
+                "siruta": 8354
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137465",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-661509",
+                "0245-661641"
+            ],
+            "fax": [
+                "0245-669740"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Văcăreşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Vacaresti",
+                "siruta": 69269
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137495",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-684330"
+            ],
+            "fax": [
+                "0245-684330"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ulmi",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ulmi",
+                "siruta": 65510
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137455",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-631082"
+            ],
+            "fax": [
+                "0245-631082"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ulieşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Uliesti",
+                "siruta": 68985
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137445",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-724519",
+                "0245-724618",
+                "0245-724555"
+            ],
+            "fax": [
+                "0245-724618"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Titu",
+        "adresa": {
+            "strada": "Nicolae Grigorescu, Nr. 1",
+            "localitate": {
+                "nume": "Titu",
+                "siruta": 66090
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "135500",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-651095"
+            ],
+            "fax": [
+                "0245-651097"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tătărani",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Tatarani",
+                "siruta": 68930
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137440",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-238209"
+            ],
+            "fax": [
+                "0245-238388"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tărtăşeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Tartasesti",
+                "siruta": 105543
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137435",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-261261",
+                "0245-261239"
+            ],
+            "fax": [
+                "0245-261261",
+                "0245-261239"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Târgovişte",
+        "adresa": {
+            "strada": "Revolutiei Nr. 1-3",
+            "localitate": {
+                "nume": "Targoviste",
+                "siruta": 65351
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "130010",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-611222",
+                "0245-613928",
+                "0245-611378"
+            ],
+            "fax": [
+                "0245-217951"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şotânga",
+        "adresa": {
+            "strada": "Constantin Brâncoveanu, Nr. 373",
+            "localitate": {
+                "nume": "Sotanga",
+                "siruta": 65486
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137430",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-229013",
+                "0245-229207",
+                "0245-229300"
+            ],
+            "fax": [
+                "0245-229013"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Slobozia Moară",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Slobozia Moara",
+                "siruta": 105151
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137420",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-724174",
+                "0245-724138"
+            ],
+            "fax": [
+                "0245-724174",
+                "0245-724138"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şelaru",
+        "adresa": {
+            "strada": "Nr. 162",
+            "localitate": {
+                "nume": "Selaru",
+                "siruta": 68896
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137425",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-723024"
+            ],
+            "fax": [
+                "0245-723024"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sălcioara",
+        "adresa": {
+            "strada": "Sat Bănești",
+            "localitate": {
+                "nume": "Salcioara",
+                "siruta": 68878
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137410",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-723661"
+            ],
+            "fax": [
+                "0245-723695"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Runcu",
+        "adresa": {
+            "strada": "Principală, Nr. 17",
+            "localitate": {
+                "nume": "Runcu",
+                "siruta": 68725
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-234003",
+                "0245-234218"
+            ],
+            "fax": [
+                "0245-234003"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Răzvad",
+        "adresa": {
+            "strada": "Principala, Nr. 350",
+            "localitate": {
+                "nume": "Razvad",
+                "siruta": 65440
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137395",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-677530",
+                "0245-677516"
+            ],
+            "fax": [
+                "0245-677516"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Râu Alb",
+        "adresa": {
+            "strada": "Sat Râu Alb De Jos, Nr. 177",
+            "localitate": {
+                "nume": "Rau Alb",
+                "siruta": 66296
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137027",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-240740"
+            ],
+            "fax": [
+                "0245-240740"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Răscăeţi",
+        "adresa": {
+            "strada": "Mr. I. Vochin, Nr. 89",
+            "localitate": {
+                "nume": "Rascaeti",
+                "siruta": 69376
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137518",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-725825"
+            ],
+            "fax": [
+                "0245-725825"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Raciu",
+        "adresa": {
+            "strada": "Principală, Nr. 455",
+            "localitate": {
+                "nume": "Raciu",
+                "siruta": 67808
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137267",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0345-524020"
+            ],
+            "fax": [
+                "0345-524020"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Răcari",
+        "adresa": {
+            "strada": "Ana Ipătescu, Nr. 155",
+            "localitate": {
+                "nume": "Racari",
+                "siruta": 68636
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137385",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-658611"
+            ],
+            "fax": [
+                "0245-658070"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pucioasa",
+        "adresa": {
+            "strada": "Fântânelor, Nr. 7",
+            "localitate": {
+                "nume": "Pucioasa",
+                "siruta": 65930
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "135400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-232277"
+            ],
+            "fax": [
+                "0245-760484",
+                "0245-232276"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pucheni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Pucheni",
+                "siruta": 67951
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137285",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-670515"
+            ],
+            "fax": [
+                "0245-670515"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Potlogi",
+        "adresa": {
+            "strada": "Constantin Brâncoveanu, Nr. 63",
+            "localitate": {
+                "nume": "Potlogi",
+                "siruta": 68477
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137370",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-722401"
+            ],
+            "fax": [
+                "0245-722492"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Poiana",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Poiana",
+                "siruta": 68440
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137365",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-721841"
+            ],
+            "fax": [
+                "0245-721723"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pietroşiţa",
+        "adresa": {
+            "strada": "Centru",
+            "localitate": {
+                "nume": "Pietrosita",
+                "siruta": 68413
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137360",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-778247"
+            ],
+            "fax": [
+                "0245-778121"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pietrari",
+        "adresa": {
+            "strada": "Calea Târgoviștei, Nr. 86",
+            "localitate": {
+                "nume": "Pietrari",
+                "siruta": 66287
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137026",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-2408542"
+            ],
+            "fax": [
+                "0245-240926"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Petreşti",
+        "adresa": {
+            "strada": "Principala, Nr. 1",
+            "localitate": {
+                "nume": "Petresti",
+                "siruta": 65761
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137350",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-730100",
+                "0245-730084"
+            ],
+            "fax": [
+                "0245-730100",
+                "0245-730084"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Perşinari",
+        "adresa": {
+            "strada": "Principală",
+            "localitate": {
+                "nume": "Persinari",
+                "siruta": 69296
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137498",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-684618"
+            ],
+            "fax": [
+                "0245-684618"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Odobeşti",
+        "adresa": {
+            "strada": "Băncii, Nr. 1",
+            "localitate": {
+                "nume": "Odobesti",
+                "siruta": 68351
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137345",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-721101",
+                "0245-721236"
+            ],
+            "fax": [
+                "0245-721101",
+                "0245-721236"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ocniţa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ocnita",
+                "siruta": 68333
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137340",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-680208"
+            ],
+            "fax": [
+                "0245-680206"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Nucet",
+        "adresa": {
+            "strada": "Linia Mare, Nr. 485",
+            "localitate": {
+                "nume": "Nucet",
+                "siruta": 68299
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137335",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-267007",
+                "0245-267004"
+            ],
+            "fax": [
+                "0245-267007"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Niculeşti",
+        "adresa": {
+            "strada": "Principală",
+            "localitate": {
+                "nume": "Niculesti",
+                "siruta": 104396
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137330",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-2670606"
+            ],
+            "fax": [
+                "021-2670606"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Moţăieni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Motaieni",
+                "siruta": 65654
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137325",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-232031"
+            ],
+            "fax": [
+                "0245-232031"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Morteni",
+        "adresa": {
+            "strada": "Principală, Nr. 1127",
+            "localitate": {
+                "nume": "Morteni",
+                "siruta": 68262
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137320",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-242707",
+                "0245-242714"
+            ],
+            "fax": [
+                "0245-242707",
+                "0245-242714"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Moroeni",
+        "adresa": {
+            "strada": "Principală, Nr. 152",
+            "localitate": {
+                "nume": "Moroeni",
+                "siruta": 68191
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137310",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-772213"
+            ],
+            "fax": [
+                "0245-772084"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Moreni",
+        "adresa": {
+            "strada": "Alexandru Ioan Cuza, Nr. 15",
+            "localitate": {
+                "nume": "Moreni",
+                "siruta": 65850
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "135300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-667265"
+            ],
+            "fax": [
+                "0245-667265"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mogoşani",
+        "adresa": {
+            "strada": "Principală, Nr. 200",
+            "localitate": {
+                "nume": "Mogosani",
+                "siruta": 68137
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137305",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0730-072328"
+            ],
+            "fax": [
+                "0345-505220"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mătăsaru",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Matasaru",
+                "siruta": 68075
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137295",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0372-252117"
+            ],
+            "fax": [
+                "0371-180506"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Măneşti",
+        "adresa": {
+            "strada": "Principală, Nr. 1",
+            "localitate": {
+                "nume": "Manesti",
+                "siruta": 68011
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137290",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-732011",
+                "0245-732159"
+            ],
+            "fax": [
+                "0245-732159"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Malu Cu Flori",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Malu Cu Flori",
+                "siruta": 67951
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137285",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-670114"
+            ],
+            "fax": [
+                "0245-670114"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lunguleţu",
+        "adresa": {
+            "strada": "Principală",
+            "localitate": {
+                "nume": "Lunguletu",
+                "siruta": 67915
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137280",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-717502"
+            ],
+            "fax": [
+                "0245-717434"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ludeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ludesti",
+                "siruta": 67844
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137270",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0345-527186"
+            ],
+            "fax": [
+                "0345-527186"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lucieni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Lucieni",
+                "siruta": 67782
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137265",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-242530"
+            ],
+            "fax": [
+                "0245-242574"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ion Luca Caragiale",
+        "adresa": {
+            "strada": "Principală",
+            "localitate": {
+                "nume": "I. L. Caragiale",
+                "siruta": 67755
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137255",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-660332"
+            ],
+            "fax": [
+                "0245-660423"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Iedera",
+        "adresa": {
+            "strada": "Principală, Nr. 299",
+            "localitate": {
+                "nume": "Iedera",
+                "siruta": 65869
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137260",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-662018"
+            ],
+            "fax": [
+                "0245-662270"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Hulubeşti",
+        "adresa": {
+            "strada": "Principală",
+            "localitate": {
+                "nume": "Hulubesti",
+                "siruta": 67684
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137250",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-730740"
+            ],
+            "fax": []
+        }
+    },
+    {
+        "nume": "Primăria Gura Șuţii",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Gura Sutii",
+                "siruta": 67657
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137245",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-682259"
+            ],
+            "fax": [
+                "0245-682187"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gura Ocniţei",
+        "adresa": {
+            "strada": "Principală, Nr. 180",
+            "localitate": {
+                "nume": "Gura Ocnitei",
+                "siruta": 67602
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137240",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-673260"
+            ],
+            "fax": [
+                "0245-673260"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gura Foii",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Gura Foii",
+                "siruta": 65716
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137235",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-711586"
+            ],
+            "fax": [
+                "0372-870467"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Glodeni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Glodeni",
+                "siruta": 67531
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137225",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-228303"
+            ],
+            "fax": [
+                "0245-228348"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Găeşti",
+        "adresa": {
+            "strada": "13 Decembrie, Nr. 102 A",
+            "localitate": {
+                "nume": "Gaesti",
+                "siruta": 65690
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "135200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-606081",
+                "0245-606082",
+                "0245-606083",
+                "0245-606084"
+            ],
+            "fax": [
+                "0245-606085"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Finta",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Finta",
+                "siruta": 67470
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137220",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-242406",
+                "0245-242495"
+            ],
+            "fax": [
+                "0245-242495"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Fieni",
+        "adresa": {
+            "strada": "Ing. Aurel Rainu, Nr. 67",
+            "localitate": {
+                "nume": "Fieni",
+                "siruta": 65618
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "135100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-774070",
+                "0245-774071",
+                "0245-774072"
+            ],
+            "fax": [
+                "0245-774073"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dragomireşti",
+        "adresa": {
+            "strada": "Principala, Nr. 136",
+            "localitate": {
+                "nume": "Dragomiresti",
+                "siruta": 67416
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137210",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-236020",
+                "0245-236170"
+            ],
+            "fax": [
+                "0245-236020",
+                "0245-236170"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dragodana",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Dragodana",
+                "siruta": 67336
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-719189"
+            ],
+            "fax": [
+                "0245-719491"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Doiceşti",
+        "adresa": {
+            "strada": "Coloniei, Nr. 62",
+            "localitate": {
+                "nume": "Doicesti",
+                "siruta": 65422
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137195",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-227023"
+            ],
+            "fax": [
+                "0245-227506"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dobra",
+        "adresa": {
+            "strada": "Nr. 538",
+            "localitate": {
+                "nume": "Dobra",
+                "siruta": 67309
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137190",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-242001",
+                "0245-242188"
+            ],
+            "fax": [
+                "0245-242188"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dărmăneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Darmanesti",
+                "siruta": 67265
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137185",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-661306"
+            ],
+            "fax": [
+                "0245-661306"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Crevedia",
+        "adresa": {
+            "strada": "Şoseaua Bucureşti-Târgovişte, Nr. 167",
+            "localitate": {
+                "nume": "Crevedia",
+                "siruta": 102295
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137180",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-241840"
+            ],
+            "fax": [
+                "0245-241840"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Crângurile",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Crangurile",
+                "siruta": 67176
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137171",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-714164",
+                "0245-714015"
+            ],
+            "fax": [
+                "0245-714164"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Costeştii Din Vale",
+        "adresa": {
+            "strada": "Crinului, Nr. 448 A",
+            "localitate": {
+                "nume": "Costestii Din Vale",
+                "siruta": 67130
+            },
+            "judet": {
+                "nume": "Dambovita",
+                "siruta": 10
+            },
+            "cod-postal": "137165",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0245-717025"
+            ],
+            "fax": [
+                "0245-717212"
+            ]
+        }
+    }
+]

@@ -1,0 +1,1693 @@
+[
+    {
+        "nume": "Primăria Călan",
+        "adresa": {
+            "strada": "Gării, Nr. 1",
+            "localitate": {
+                "nume": "Calan",
+                "siruta": 87433
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "335300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-730201"
+            ],
+            "fax": [
+                "0254-732954"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Burjuc",
+        "adresa": {
+            "strada": "Principală, Nr. 59",
+            "localitate": {
+                "nume": "Burjuc",
+                "siruta": 89099
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337165",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-268220"
+            ],
+            "fax": [
+                "0254-268220"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bunila",
+        "adresa": {
+            "strada": "Nr. 7",
+            "localitate": {
+                "nume": "Bunila",
+                "siruta": 89035
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337160",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-735401"
+            ],
+            "fax": [
+                "0254-735401"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bulzeştii De Sus",
+        "adresa": {
+            "strada": "Principală, Nr. 35",
+            "localitate": {
+                "nume": "Bulzestii De Sus",
+                "siruta": 88939
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337150",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-682631"
+            ],
+            "fax": [
+                "0254-682631"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bucureşci",
+        "adresa": {
+            "strada": "Principală, Nr. 25",
+            "localitate": {
+                "nume": "Bucuresci",
+                "siruta": 88877
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337145",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-684178"
+            ],
+            "fax": [
+                "0254-684010"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lupeni",
+        "adresa": {
+            "strada": "Revoluţiei, Nr. 2",
+            "localitate": {
+                "nume": "Lupeni",
+                "siruta": 87068
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "335600",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-560504",
+                "0254-560725",
+                "0254-560680"
+            ],
+            "fax": [
+                "0254-560515"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Luncoiu De Jos",
+        "adresa": {
+            "strada": "Nr. 80 A",
+            "localitate": {
+                "nume": "Luncoiu De Jos",
+                "siruta": 90217
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337310",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-684610",
+                "0254-684821"
+            ],
+            "fax": [
+                "0254-684610"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lunca Cernii De Jos",
+        "adresa": {
+            "strada": "Principală, Nr. 18",
+            "localitate": {
+                "nume": "Lunca Cernii De Jos",
+                "siruta": 90128
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0378-601316"
+            ],
+            "fax": []
+        }
+    },
+    {
+        "nume": "Primăria Lelese",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Lelese",
+                "siruta": 90075
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337295",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-735402"
+            ],
+            "fax": [
+                "0254-738144"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lăpugiu De Jos",
+        "adresa": {
+            "strada": "Principală, Nr. 60",
+            "localitate": {
+                "nume": "Lapugiu De Jos",
+                "siruta": 89963
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337280",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-281782",
+                "0254-281767"
+            ],
+            "fax": [
+                "0254-281782"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ilia",
+        "adresa": {
+            "strada": "Libertăţii, Nr. 56",
+            "localitate": {
+                "nume": "Ilia",
+                "siruta": 89865
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337270",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-282716"
+            ],
+            "fax": [
+                "0254-282716"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Teliucu Inferior",
+        "adresa": {
+            "strada": "Str. Minei, Nr. 2",
+            "localitate": {
+                "nume": "Teliucu Inferior",
+                "siruta": 86945
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337465",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-738105"
+            ],
+            "fax": [
+                "0254-738253"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Topliţa",
+        "adresa": {
+            "strada": "Principală, Nr. 36",
+            "localitate": {
+                "nume": "Toplita",
+                "siruta": 91544
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337480",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-735314",
+                "0254-735310"
+            ],
+            "fax": [
+                "0254-735310"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tomeşti",
+        "adresa": {
+            "strada": "Principală, Nr. 50",
+            "localitate": {
+                "nume": "Tomesti",
+                "siruta": 91456
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337470",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-681889",
+                "0254-681828"
+            ],
+            "fax": [
+                "0254-681828"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şoimuş",
+        "adresa": {
+            "strada": "Principală, Nr. 310",
+            "localitate": {
+                "nume": "Soimus",
+                "siruta": 91349
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337450",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-237350"
+            ],
+            "fax": [
+                "0254-237350"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sîntămăria-Orlea",
+        "adresa": {
+            "strada": "Principală, Nr. 130",
+            "localitate": {
+                "nume": "Santamaria-Orlea",
+                "siruta": 91241
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337440",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-770630"
+            ],
+            "fax": [
+                "0254-777310"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Simeria",
+        "adresa": {
+            "strada": "Avram Iancu, Nr. 23",
+            "localitate": {
+                "nume": "Simeria",
+                "siruta": 87674
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "335900",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-260005"
+            ],
+            "fax": [
+                "0254-260050"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sarmizegetusa",
+        "adresa": {
+            "strada": "Principală, Nr. 4",
+            "localitate": {
+                "nume": "Sarmizegetusa",
+                "siruta": 91063
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337415",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-776510"
+            ],
+            "fax": [
+                "0254-776552"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sălaşu De Sus",
+        "adresa": {
+            "strada": "Principală, Nr. 21",
+            "localitate": {
+                "nume": "Salasu De Sus",
+                "siruta": 91125
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337420",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-779501"
+            ],
+            "fax": [
+                "0254-779501"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Romos",
+        "adresa": {
+            "strada": "Principală, Nr. 114",
+            "localitate": {
+                "nume": "Romos",
+                "siruta": 91009
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337410",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-245603",
+                "0254-245620"
+            ],
+            "fax": [
+                "0254-245603"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ribiţa",
+        "adresa": {
+            "strada": "Principală, Nr. 22",
+            "localitate": {
+                "nume": "Ribita",
+                "siruta": 90814
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-683791"
+            ],
+            "fax": [
+                "0254-683799"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Râu De Mori",
+        "adresa": {
+            "strada": "Principală, Nr. 1",
+            "localitate": {
+                "nume": "Rau De Mori",
+                "siruta": 90887
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337380",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-776046"
+            ],
+            "fax": [
+                "0254-776047"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Rapoltu Mare",
+        "adresa": {
+            "strada": "Principală, Nr. 67",
+            "localitate": {
+                "nume": "Rapoltu Mare",
+                "siruta": 90672
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337365",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-264181"
+            ],
+            "fax": [
+                "0254-264181"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Răchitova",
+        "adresa": {
+            "strada": "Principală, Nr. 25",
+            "localitate": {
+                "nume": "Rachitova",
+                "siruta": 90734
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337370",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-775409",
+                "0254-775410"
+            ],
+            "fax": [
+                "0254-775409"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pui",
+        "adresa": {
+            "strada": "Republicii, Nr. 64",
+            "localitate": {
+                "nume": "Pui",
+                "siruta": 90547
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337345",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-779101"
+            ],
+            "fax": [
+                "0254-779234"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Petroşani",
+        "adresa": {
+            "strada": "1 Decembrie 1918, Nr. 93",
+            "localitate": {
+                "nume": "Petrosani",
+                "siruta": 87004
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "332019",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-541220",
+                "0800-800252"
+            ],
+            "fax": [
+                "0254-545903"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Petrila",
+        "adresa": {
+            "strada": "Republicii, Nr. 196",
+            "localitate": {
+                "nume": "Petrila",
+                "siruta": 87086
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "335800",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-550760",
+                "0254-550977"
+            ],
+            "fax": [
+                "0254-550977"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Peştişu Mic",
+        "adresa": {
+            "strada": "Principală, Nr. 64",
+            "localitate": {
+                "nume": "Pestisu Mic",
+                "siruta": 90440
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337335",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-735735",
+                "0254-735753"
+            ],
+            "fax": [
+                "0254-735735"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Orăştioara De Sus",
+        "adresa": {
+            "strada": "Principală, Nr. 133",
+            "localitate": {
+                "nume": "Orastioara De Sus",
+                "siruta": 90351
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337325",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-246650",
+                "0254-246622"
+            ],
+            "fax": [
+                "0254-246622"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Orăştie",
+        "adresa": {
+            "strada": "Piaţa Aurel Vlaicu, Nr. 3",
+            "localitate": {
+                "nume": "Orastie",
+                "siruta": 87647
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "335700",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-241513"
+            ],
+            "fax": [
+                "0254-242560"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Martineşti",
+        "adresa": {
+            "strada": "Nr. 15",
+            "localitate": {
+                "nume": "Martinesti",
+                "siruta": 90271
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337315",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-246310"
+            ],
+            "fax": [
+                "0254-246468"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Hunedoara",
+        "adresa": {
+            "strada": "Libertăţii, Nr. 17",
+            "localitate": {
+                "nume": "Hunedoara",
+                "siruta": 86829
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "331128",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-716322"
+            ],
+            "fax": [
+                "0254-716087"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Haţeg",
+        "adresa": {
+            "strada": "Piaţa Unirii, Nr. 6",
+            "localitate": {
+                "nume": "Hateg",
+                "siruta": 87585
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "335500",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0354-808120",
+                "0354-808121",
+                "0354-808122",
+                "0354-808123",
+                "0254-770273"
+            ],
+            "fax": [
+                "0254-777756"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Hărău",
+        "adresa": {
+            "strada": "Principală, Nr. 69",
+            "localitate": {
+                "nume": "Harau",
+                "siruta": 89810
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337265",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-233201",
+                "0254-232168"
+            ],
+            "fax": [
+                "0254-233201"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gurasada",
+        "adresa": {
+            "strada": "Principală, Nr. 193",
+            "localitate": {
+                "nume": "Gurasada",
+                "siruta": 89696
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337245",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-648341"
+            ],
+            "fax": [
+                "0254-648338"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ghelari",
+        "adresa": {
+            "strada": "Rusca, Nr. 5",
+            "localitate": {
+                "nume": "Ghelari",
+                "siruta": 86892
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337240",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-735220"
+            ],
+            "fax": [
+                "0254-735201"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Geoagiu",
+        "adresa": {
+            "strada": "Calea Romanilor, Nr. 141",
+            "localitate": {
+                "nume": "Geoagiu",
+                "siruta": 89570
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "335400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-248880",
+                "0254-248881"
+            ],
+            "fax": [
+                "0254-248881"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria General Berthelot",
+        "adresa": {
+            "strada": "Nr. 30",
+            "localitate": {
+                "nume": "General Berthelot",
+                "siruta": 91740
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337235",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-770531"
+            ],
+            "fax": [
+                "0254-770515"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dobra",
+        "adresa": {
+            "strada": "P-Ţa Victorie, Nr. 1",
+            "localitate": {
+                "nume": "Dobra",
+                "siruta": 89437
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337215",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-283241",
+                "0254-283301"
+            ],
+            "fax": [
+                "0254-283101"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Deva",
+        "adresa": {
+            "strada": "P-Ţa Unirii, Nr. 4",
+            "localitate": {
+                "nume": "Deva",
+                "siruta": 86696
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "330152",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-213435",
+                "0254-218325",
+                "0254-232310"
+            ],
+            "fax": [
+                "0254-226176"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Densuș",
+        "adresa": {
+            "strada": "Principală, Nr. 154",
+            "localitate": {
+                "nume": "Densus",
+                "siruta": 89357
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337205",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-775010"
+            ],
+            "fax": [
+                "0254-775010",
+                "0254-775210"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Crîşcior",
+        "adresa": {
+            "strada": "Plopilor, Nr. 6",
+            "localitate": {
+                "nume": "Criscior",
+                "siruta": 87371
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-616367"
+            ],
+            "fax": [
+                "0254-616366"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cîrjiţi",
+        "adresa": {
+            "strada": "Principală, Nr. 1",
+            "localitate": {
+                "nume": "Carjiti",
+                "siruta": 86758
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337175",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-220154",
+                "0254-228648"
+            ],
+            "fax": [
+                "0254-228648"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Certeju De Sus",
+        "adresa": {
+            "strada": "Principală, Nr. 236",
+            "localitate": {
+                "nume": "Certeju De Sus",
+                "siruta": 89259
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337190",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-648714",
+                "0254-648555"
+            ],
+            "fax": [
+                "0254-648720"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cerbăl",
+        "adresa": {
+            "strada": "Nr. 7A",
+            "localitate": {
+                "nume": "Cerbal",
+                "siruta": 89160
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337180",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-735403"
+            ],
+            "fax": [
+                "0254-268328"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Buceş",
+        "adresa": {
+            "strada": "Nr. 79",
+            "localitate": {
+                "nume": "Buces",
+                "siruta": 88797
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337135",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-684328",
+                "0254-684442",
+                "0254-684338"
+            ],
+            "fax": [
+                "0254-684442",
+                "0254-684338"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bretea Română",
+        "adresa": {
+            "strada": "Principală, Nr. 15",
+            "localitate": {
+                "nume": "Bretea Romana",
+                "siruta": 88653
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337115",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-733332",
+                "0254-733356",
+                "0254-733352"
+            ],
+            "fax": [
+                "0254-733356",
+                "0254-733352"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Brănişca",
+        "adresa": {
+            "strada": "Principală, Nr. 67",
+            "localitate": {
+                "nume": "Branisca",
+                "siruta": 88555
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337105",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-282060",
+                "0254-282068"
+            ],
+            "fax": [
+                "0254-282068"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Brad",
+        "adresa": {
+            "strada": "Republicii, Nr. 18",
+            "localitate": {
+                "nume": "Brad",
+                "siruta": 87308
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "335200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-612665"
+            ],
+            "fax": [
+                "0254-612669"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Boşorod",
+        "adresa": {
+            "strada": "Principală, Nr. 73",
+            "localitate": {
+                "nume": "Bosorod",
+                "siruta": 88458
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337095",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-733050",
+                "0254-733039"
+            ],
+            "fax": [
+                "0254-733050",
+                "0254-733039"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Blăjeni",
+        "adresa": {
+            "strada": "Nr. 85",
+            "localitate": {
+                "nume": "Blajeni",
+                "siruta": 88369
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337085",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-682911",
+                "0254-682811"
+            ],
+            "fax": [
+                "0254-682911"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Beriu",
+        "adresa": {
+            "strada": "Principală, Nr. 131",
+            "localitate": {
+                "nume": "Beriu",
+                "siruta": 88270
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337075",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-246170"
+            ],
+            "fax": [
+                "0254-246236"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bătrâna",
+        "adresa": {
+            "strada": "Principală, Nr. 55",
+            "localitate": {
+                "nume": "Batrana",
+                "siruta": 88225
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337070",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0726-170224"
+            ],
+            "fax": []
+        }
+    },
+    {
+        "nume": "Primăria Baru",
+        "adresa": {
+            "strada": "Prof. Dr. Ştefan Gârbea, Nr. 222",
+            "localitate": {
+                "nume": "Baru",
+                "siruta": 88001
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337035",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-778003"
+            ],
+            "fax": [
+                "0254-778003"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Băniţa",
+        "adresa": {
+            "strada": "Gării, Nr. 201",
+            "localitate": {
+                "nume": "Banita",
+                "siruta": 87255
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337065",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-545681"
+            ],
+            "fax": [
+                "0254-545681"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Balsa",
+        "adresa": {
+            "strada": "Str. Principală, Nr. 175",
+            "localitate": {
+                "nume": "Balsa",
+                "siruta": 87852
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337015",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-648001",
+                "0254-648002",
+                "0254-648100"
+            ],
+            "fax": [
+                "0254-648001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Băiţa",
+        "adresa": {
+            "strada": "Principală, Nr. 110",
+            "localitate": {
+                "nume": "Baita",
+                "siruta": 88109
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337045",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-683110"
+            ],
+            "fax": [
+                "0254-683110"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Baia De Criş",
+        "adresa": {
+            "strada": "Tribunului, Nr. 4",
+            "localitate": {
+                "nume": "Baia De Cris",
+                "siruta": 87754
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337005",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-682119"
+            ],
+            "fax": [
+                "0254-682564"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Băcia",
+        "adresa": {
+            "strada": "Principală, Nr. 242",
+            "localitate": {
+                "nume": "Bacia",
+                "siruta": 88056
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337040",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-264580"
+            ],
+            "fax": [
+                "0254-264660"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Aninoasa",
+        "adresa": {
+            "strada": "Libertăţii, Nr. 85",
+            "localitate": {
+                "nume": "Aninoasa",
+                "siruta": 87228
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "335100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-512108"
+            ],
+            "fax": [
+                "0254-512758"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Zam",
+        "adresa": {
+            "strada": "Principală, Nr. 149",
+            "localitate": {
+                "nume": "Zam",
+                "siruta": 92186
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337550",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-280642"
+            ],
+            "fax": [
+                "0254-280638"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vulcan",
+        "adresa": {
+            "strada": "B-Dul Mihai Viteazu, Nr. 31",
+            "localitate": {
+                "nume": "Vulcan",
+                "siruta": 87184
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "336200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-570340",
+                "0254-570011",
+                "0372-733044"
+            ],
+            "fax": [
+                "0254-571910"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vorţa",
+        "adresa": {
+            "strada": "Principală, Nr. 5",
+            "localitate": {
+                "nume": "Vorta",
+                "siruta": 92104
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337540",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-268238"
+            ],
+            "fax": [
+                "0254-268238"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Veţel",
+        "adresa": {
+            "strada": "Mihai Eminescu, Nr. 256",
+            "localitate": {
+                "nume": "Vetel",
+                "siruta": 91991
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337525",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-237733"
+            ],
+            "fax": [
+                "0254-237847"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vaţa De Jos",
+        "adresa": {
+            "strada": "Calea Crişului, Nr. 18",
+            "localitate": {
+                "nume": "Vata De Jos",
+                "siruta": 91928
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337514",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-681054"
+            ],
+            "fax": [
+                "0254-681055"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vălişoara",
+        "adresa": {
+            "strada": "Principală, Nr. 194",
+            "localitate": {
+                "nume": "Valisoara",
+                "siruta": 91946
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337520",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-265432"
+            ],
+            "fax": [
+                "0254-265400"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Uricani",
+        "adresa": {
+            "strada": "1 Mai, Nr. 6",
+            "localitate": {
+                "nume": "Uricani",
+                "siruta": 87148
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "336100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-511121",
+                "0254-511101"
+            ],
+            "fax": [
+                "0254-511127"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Turdaş",
+        "adresa": {
+            "strada": "Principală, Nr. 100",
+            "localitate": {
+                "nume": "Turdas",
+                "siruta": 91697
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337495",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-244710"
+            ],
+            "fax": [
+                "0254-244710"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Toteşti",
+        "adresa": {
+            "strada": "Principală, Nr. 53",
+            "localitate": {
+                "nume": "Totesti",
+                "siruta": 91633
+            },
+            "judet": {
+                "nume": "Hunedoara",
+                "siruta": 10
+            },
+            "cod-postal": "337490",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0254-775640"
+            ],
+            "fax": [
+                "0254-775641"
+            ]
+        }
+    }
+]
