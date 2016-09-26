@@ -22,14 +22,10 @@
     "definitions": {
         "teritoriu": {
             "type": "object",
-            "required": ["nume", "siruta"],
+            "required": ["nume"],
             "properties": {
                 "nume": {
                     "type": "string"
-                },
-                "siruta": {
-                    "type": "integer",
-                    "pattern": "^[0-9]{6}$"
                 }
             }
         },
@@ -42,10 +38,27 @@
                     "type": "string"
                 },
                 "localitate": {
-                    "$ref": "#/definitions/teritoriu"
+                    "allOf": [
+                        { "$ref": "#/definitions/teritoriu" }
+                    ],
+                    "properties": {
+                        "nume": {},
+                        "siruta": {
+                            "type": "integer",
+                            "pattern": "^[0-9]{6}$"
+                        }
+                    },
+                    "additionalProperties": false,
+                    "required": ["siruta"]
                 },
                 "judet": {
-                    "$ref": "#/definitions/teritoriu"
+                    "allOf": [
+                        { "$ref": "#/definitions/teritoriu" }
+                    ],
+                    "properties": {
+                        "nume": {}
+                    },
+                    "additionalProperties": false
                 },
                 "cod-postal": {
                     "description": "",
