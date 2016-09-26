@@ -9,7 +9,7 @@ cât şi din date publicate de [Guvernul României][1] prin intermediul
 [data.gov.ro][2].
 
 Pentru lista completă a seturilor de date folosite, citeşte secţiunea 
-_"Alte date folosite"_ din fisierul [LICENSE.md][3]
+_"Alte date folosite"_ din fişierul [LICENSE.md][3]
 
 ## Contribuie
 
@@ -18,7 +18,7 @@ site-ul [Github][4].
 
 ## Licenţă
 
-Citeste [LICENSE.md][3]
+Citeşte [LICENSE.md][3]
 
 [1]: http://www.gov.ro/
 [2]: http://data.gov.ro/
