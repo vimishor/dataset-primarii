@@ -1,0 +1,40 @@
+; This file is for unifying the coding style for different editors and IDEs.
+; More information at http://editorconfig.org
+
+root = true
+
+[*]
+indent_style = space
+indent_size = 4
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+[*.md]
+trim_trailing_whitespace = false
+
+[*.py]
+ignore_frosted_errors = E103
+skip = runtests.py,build
+balanced_wrapping = true
+not_skip = __init__.py
+
+[.travis.yml]
+indent_size = 2
+indent_style = space
+
+# The JSON files contain newlines inconsistently
+[*.json]
+indent_size = 4
+insert_final_newline = false
+
+# Compacted JSON files shouldn't be changed
+[**.min.json]
+indent_style = ignore
+insert_final_newline = false
+
+# Makefiles always use tabs for indentation
+[Makefile]
+indent_style = tab
+indent_size = 8
