@@ -31,6 +31,7 @@
         },
         "adresa": {
             "type": "object",
+            "additionalProperties": false,
             "required": ["localitate", "judet", "cod-postal", "tara"],
             "properties": {
                 "strada": {
@@ -73,6 +74,7 @@
         },
         "contact": {
             "type": "object",
+            "additionalProperties": false,
             "required": ["telefon"],
             "properties": {
                 "telefon": {
