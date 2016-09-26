@@ -1,5 +1,8 @@
 # Primării
 
+[![Build Status](https://img.shields.io/travis/vimishor/dataset-primarii.svg?style=flat-square)](https://travis-ci.org/vimishor/dataset-primarii)
+[![GitHub release](https://img.shields.io/github/release/vimishor/dataset-primarii.svg?maxAge=2592000&style=flat-square)]()
+
 Lista tuturor primăriilor din România, cu adresă şi numere de telefon.
 
 ## Sursa datelor
