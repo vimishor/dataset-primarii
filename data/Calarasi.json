@@ -1,0 +1,1271 @@
+[
+    {
+        "nume": "Primăria Cuza Vodă",
+        "adresa": {
+            "strada": "Sat Ceacu, Str. 22 Nr. 36",
+            "localitate": {
+                "nume": "Cuza Voda",
+                "siruta": 93316
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917045",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-339397"
+            ],
+            "fax": [
+                "0242-339397"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Curcani",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Curcani",
+                "siruta": 102428
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917040",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-526258",
+                "0242-526153"
+            ],
+            "fax": [
+                "0242-526070"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ciocăneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ciocanesti",
+                "siruta": 93094
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917035",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-337292",
+                "0242-337305"
+            ],
+            "fax": [
+                "0242-337292"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Chiselet",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Chiselet",
+                "siruta": 101831
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917030",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-521023",
+                "0242-521025"
+            ],
+            "fax": [
+                "0242-521023"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Chirnogi",
+        "adresa": {
+            "strada": "Viilor, Nr. 15",
+            "localitate": {
+                "nume": "Chirnogi",
+                "siruta": 101813
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917025",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-524276",
+                "0242-524239",
+                "0242-524245"
+            ],
+            "fax": [
+                "0242-524246",
+                "0242-524239"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Căscioarele",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Cascioarele",
+                "siruta": 101733
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917020",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-525046",
+                "0242-525168"
+            ],
+            "fax": [
+                "0242-525046"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Călăraşi",
+        "adresa": {
+            "strada": "B-Dul 1 Decembrie 1918, Nr. 3",
+            "localitate": {
+                "nume": "Calarasi",
+                "siruta": 92578
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "910040",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-311005"
+            ],
+            "fax": [
+                "0242-318574"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Budeşti",
+        "adresa": {
+            "strada": "Calea Bucureşti, Nr. 75",
+            "localitate": {
+                "nume": "Budesti",
+                "siruta": 101467
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "915100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-528301"
+            ],
+            "fax": [
+                "0242-528301"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Borcea",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Borcea",
+                "siruta": 92970
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917015",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-340063"
+            ],
+            "fax": [
+                "0242-340063"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Belciugatele",
+        "adresa": {
+            "strada": "Prof. Voinescu Vasile, Nr. 307",
+            "localitate": {
+                "nume": "Belciugatele",
+                "siruta": 101092
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917010",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-643125"
+            ],
+            "fax": [
+                "0242-643125"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Alexandru Odobescu",
+        "adresa": {
+            "strada": "Sat Nicolae Bălcescu",
+            "localitate": {
+                "nume": "Alexandru Odobescu",
+                "siruta": 94134
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917007",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-533600",
+                "0242-533700"
+            ],
+            "fax": [
+                "0242-533600"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Fundulea",
+        "adresa": {
+            "strada": "B-Dul 22 Decembrie 1989, Nr. 151",
+            "localitate": {
+                "nume": "Fundulea",
+                "siruta": 103041
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "915200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-642084"
+            ],
+            "fax": [
+                "0242-642030"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Fundeni",
+        "adresa": {
+            "strada": "Trandafirilor, Nr. 25",
+            "localitate": {
+                "nume": "Fundeni",
+                "siruta": 103023
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917110",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-516306"
+            ],
+            "fax": [
+                "0242-516306"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Frumuşani",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Frumusani",
+                "siruta": 102954
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-516012"
+            ],
+            "fax": [
+                "0242-516012"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Frăsinet",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Frasinet",
+                "siruta": 102847
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917090",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-645908"
+            ],
+            "fax": [
+                "0242-645908"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dragoş Vodă",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Dragos Voda",
+                "siruta": 93548
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917085",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-345711",
+                "0242-345733"
+            ],
+            "fax": [
+                "0242-345718"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dragalina",
+        "adresa": {
+            "strada": "Dispensarului, Nr. 3",
+            "localitate": {
+                "nume": "Dragalina",
+                "siruta": 93496
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917080",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-708073"
+            ],
+            "fax": [
+                "0242-708073"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dorobanţu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Dorobantu",
+                "siruta": 93450
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917065",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-335103"
+            ],
+            "fax": [
+                "0242-335103"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dor Mărunt",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Dor Marunt",
+                "siruta": 93389
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917055",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-644220",
+                "0242-644111"
+            ],
+            "fax": [
+                "0242-644111"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dichiseni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Dichiseni",
+                "siruta": 93334
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917050",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-313637"
+            ],
+            "fax": [
+                "0242-700401"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Roseţi",
+        "adresa": {
+            "strada": "G-Ral. Dragalina, Nr. 20",
+            "localitate": {
+                "nume": "Roseti",
+                "siruta": 94321
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917210",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-344022"
+            ],
+            "fax": [
+                "0242-344017"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vlad Ţepeş",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Vlad Tepes",
+                "siruta": 94777
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917295",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-346806",
+                "0242-346808"
+            ],
+            "fax": [
+                "0242-346808"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vîlcelele",
+        "adresa": {
+            "strada": "Florenţa Albu, Nr. 691",
+            "localitate": {
+                "nume": "Valcelele",
+                "siruta": 94740
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917290",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-346605",
+                "0242-346603",
+                "0371-182949"
+            ],
+            "fax": [
+                "0242-346606"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vasilaţi",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Vasilati",
+                "siruta": 105838
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917280",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-532532"
+            ],
+            "fax": [
+                "0242-532532"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Valea Argovei",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Valea Argovei",
+                "siruta": 105721
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917275",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-645623",
+                "0242-645680"
+            ],
+            "fax": [
+                "0242-645680"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Unirea",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Unirea",
+                "siruta": 94660
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917270",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-343028"
+            ],
+            "fax": [
+                "0242-343448"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ulmu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ulmu",
+                "siruta": 94615
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917265",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-338070"
+            ],
+            "fax": [
+                "0242-338070"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ulmeni",
+        "adresa": {
+            "strada": "Șos. Olteniței, Nr. 310",
+            "localitate": {
+                "nume": "Ulmeni",
+                "siruta": 105614
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917260",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-523554"
+            ],
+            "fax": [
+                "0242-523554"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tămădău Mare",
+        "adresa": {
+            "strada": "Principală, Nr. 55",
+            "localitate": {
+                "nume": "Tamadau Mare",
+                "siruta": 105464
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917250",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-643309"
+            ],
+            "fax": [
+                "0242-643309"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ştefan Vodă",
+        "adresa": {
+            "strada": "Viorelelor, Nr. 114",
+            "localitate": {
+                "nume": "Stefan Voda",
+                "siruta": 94599
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917240",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-536758"
+            ],
+            "fax": [
+                "0242-536758"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ştefan Cel Mare",
+        "adresa": {
+            "strada": "Şcolii, Nr. 25",
+            "localitate": {
+                "nume": "Stefan Cel Mare",
+                "siruta": 94571
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917245",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-530077"
+            ],
+            "fax": [
+                "0242-530088"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Spanţov",
+        "adresa": {
+            "strada": "Călăraşi, Nr. 84",
+            "localitate": {
+                "nume": "Spantov",
+                "siruta": 105268
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917230",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-522148",
+                "0242-522143"
+            ],
+            "fax": [
+                "0242-522143"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şoldanu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Soldanu",
+                "siruta": 105393
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917235",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-530530",
+                "0242-530790"
+            ],
+            "fax": [
+                "0242-530530",
+                "0242-530790"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sohatu",
+        "adresa": {
+            "strada": "Barbu Ștefănescu Delavrancea, Nr. 54",
+            "localitate": {
+                "nume": "Sohatu",
+                "siruta": 105231
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917225",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-517005",
+                "0242-517182"
+            ],
+            "fax": [
+                "0242-517005"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Săruleşti",
+        "adresa": {
+            "strada": "Sat Săruleşti-Gară, Str. Mihail Andricu, Nr. 1",
+            "localitate": {
+                "nume": "Sarulesti",
+                "siruta": 104895
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917215",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-311935"
+            ],
+            "fax": [
+                "0242-311935"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Radovanu",
+        "adresa": {
+            "strada": "Principală, Nr. 158",
+            "localitate": {
+                "nume": "Radovanu",
+                "siruta": 104760
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917205",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-517211",
+                "0242-517215",
+                "0242-517466"
+            ],
+            "fax": [
+                "0242-517215"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Plătăreşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Plataresti",
+                "siruta": 104644
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-533044"
+            ],
+            "fax": [
+                "0242-533166"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Perişoru",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Perisoru",
+                "siruta": 94232
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917195",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-346010",
+                "0724-891747"
+            ],
+            "fax": [
+                "0242-346010"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Olteniţa",
+        "adresa": {
+            "strada": "B-Dul Republicii, Nr. 40",
+            "localitate": {
+                "nume": "Oltenita",
+                "siruta": 100629
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "915400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-515770",
+                "0242-515169"
+            ],
+            "fax": [
+                "0242-515087"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Nicolae Bălcescu",
+        "adresa": {
+            "strada": "Principele Mihai, Nr. 37A",
+            "localitate": {
+                "nume": "Nicolae Balcescu",
+                "siruta": 104350
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917190",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-534411"
+            ],
+            "fax": [
+                "0242-534411"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Nana",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Nana",
+                "siruta": 104332
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917185",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-531531"
+            ],
+            "fax": [
+                "0242-531531"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Modelu",
+        "adresa": {
+            "strada": "Plopilor, Nr. 12",
+            "localitate": {
+                "nume": "Modelu",
+                "siruta": 92596
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917180",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-312553"
+            ],
+            "fax": [
+                "0242-312381"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mitreni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Mitreni",
+                "siruta": 100647
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917175",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-525450"
+            ],
+            "fax": [
+                "0242-525322"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mânăstirea",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Manastirea",
+                "siruta": 104190
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917170",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-520018"
+            ],
+            "fax": [
+                "0242-520018"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lupşanu",
+        "adresa": {
+            "strada": "Mihai Viteazu, Nr. 27",
+            "localitate": {
+                "nume": "Lupsanu",
+                "siruta": 93940
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917160",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-646412"
+            ],
+            "fax": [
+                "0242-646412"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Luica",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Luica",
+                "siruta": 104092
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917155",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-527021"
+            ],
+            "fax": []
+        }
+    },
+    {
+        "nume": "Primăria Lehliu-Gară",
+        "adresa": {
+            "strada": "Pompierilor, Nr. 3",
+            "localitate": {
+                "nume": "Lehliu-Gara",
+                "siruta": 93897
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "915300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-641124",
+                "0242-641134"
+            ],
+            "fax": [
+                "0242-641124",
+                "0242-641134"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lehliu",
+        "adresa": {
+            "strada": "Nr. 64",
+            "localitate": {
+                "nume": "Lehliu",
+                "siruta": 93860
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917150",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-645165"
+            ],
+            "fax": [
+                "0242-645165"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Jegălia",
+        "adresa": {
+            "strada": "Şoseaua Călăraşi-Feteşti, Nr. 40",
+            "localitate": {
+                "nume": "Jegalia",
+                "siruta": 93824
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917145",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-342021"
+            ],
+            "fax": [
+                "0242-342138"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Independenţa",
+        "adresa": {
+            "strada": "Unirii, Nr. 42",
+            "localitate": {
+                "nume": "Independenta",
+                "siruta": 93780
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917140",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-535353"
+            ],
+            "fax": [
+                "0242-535353"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ileana",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ileana",
+                "siruta": 103773
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917130",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-646045",
+                "0242-646048"
+            ],
+            "fax": [
+                "0242-646045"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gurbăneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Gurbanesti",
+                "siruta": 103577
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917120",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-317320",
+                "0242-317138"
+            ],
+            "fax": [
+                "0242-317320"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Grădiştea",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Gradistea",
+                "siruta": 93673
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917115",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-336017",
+                "0242-336164"
+            ],
+            "fax": [
+                "0242-336164",
+                "0242-336017"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gălbinaşi",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Galbinasi",
+                "siruta": 105847
+            },
+            "judet": {
+                "nume": "Calarasi"
+            },
+            "cod-postal": "917285",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0242-516814",
+                "0242-516830"
+            ],
+            "fax": [
+                "0242-516814"
+            ]
+        }
+    }
+]

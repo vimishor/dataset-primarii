@@ -1,0 +1,1570 @@
+[
+    {
+        "nume": "Primăria Drăgăneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Draganesti",
+                "siruta": 75230
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807110",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-820130"
+            ],
+            "fax": [
+                "0236-820130"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Jorăşti",
+        "adresa": {
+            "strada": "Principală, Nr. 325",
+            "localitate": {
+                "nume": "Jorasti",
+                "siruta": 76647
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807175",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-331600"
+            ],
+            "fax": [
+                "0236-331600"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Nicoreşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Nicoresti",
+                "siruta": 76816
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807215",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-867021",
+                "0236-867127"
+            ],
+            "fax": [
+                "0236-836766",
+                "0236-867103"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tuluceşti",
+        "adresa": {
+            "strada": "Primăriei, Nr. 12",
+            "localitate": {
+                "nume": "Tulucesti",
+                "siruta": 77340
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-345007",
+                "0236-345707"
+            ],
+            "fax": [
+                "0236-345707"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tudor Vladimirescu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Tudor Vladimirescu",
+                "siruta": 77322
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807295",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-828603",
+                "0236-828606"
+            ],
+            "fax": [
+                "0236-828606"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ţepu",
+        "adresa": {
+            "strada": "Str. Stefan Cel Mare,Nr. 245",
+            "localitate": {
+                "nume": "Tepu",
+                "siruta": 77386
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807305",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-869002"
+            ],
+            "fax": [
+                "0236-869002"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tecuci",
+        "adresa": {
+            "strada": "1 Decembrie 1918, Nr. 66",
+            "localitate": {
+                "nume": "Tecuci",
+                "siruta": 75212
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "805300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0372-364111",
+                "0372-364177"
+            ],
+            "fax": [
+                "0236-816054"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Târgu Bujor",
+        "adresa": {
+            "strada": "G-Ral Eremia Grigorescu, Nr. 105",
+            "localitate": {
+                "nume": "Targu Bujor",
+                "siruta": 75481
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "805200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-340339",
+                "0236-340215"
+            ],
+            "fax": [
+                "0236-340561"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Suhurlui",
+        "adresa": {
+            "strada": "9 Mai 2008, Nr. 665",
+            "localitate": {
+                "nume": "Suhurlui",
+                "siruta": 77117
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807257",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-335511"
+            ],
+            "fax": [
+                "0236-335511"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Suceveni",
+        "adresa": {
+            "strada": "Principală, Nr. 352",
+            "localitate": {
+                "nume": "Suceveni",
+                "siruta": 77297
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807285",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-348260"
+            ],
+            "fax": [
+                "0236-348260"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Smulţi",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Smulti",
+                "siruta": 77279
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807280",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-331955"
+            ],
+            "fax": [
+                "0236-331955",
+                "0236-331933"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Smârdan",
+        "adresa": {
+            "strada": "Principală, Nr. 4",
+            "localitate": {
+                "nume": "Smardan",
+                "siruta": 77233
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807275",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-830020",
+                "0236-830076",
+                "0236-830026"
+            ],
+            "fax": [
+                "0236-830020",
+                "0236-830076",
+                "0236-830026"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Slobozia Conachi",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Slobozia Conachi",
+                "siruta": 77199
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807270",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-824700",
+                "0236-840607"
+            ],
+            "fax": [
+                "0236-831400"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şendreni",
+        "adresa": {
+            "strada": "Nr. 332",
+            "localitate": {
+                "nume": "Sendreni",
+                "siruta": 75123
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807290",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-826375",
+                "0236-826872"
+            ],
+            "fax": [
+                "0236-826375"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Schela",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Schela",
+                "siruta": 77162
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807265",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-828100"
+            ],
+            "fax": [
+                "0236-828165"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Scânteieşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Scanteiesti",
+                "siruta": 77135
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807260",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-348007"
+            ],
+            "fax": [
+                "0236-348000"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Rediu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Rediu",
+                "siruta": 77091
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807255",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-330049",
+                "0236-330355"
+            ],
+            "fax": [
+                "0372-875151"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Rădeşti",
+        "adresa": {
+            "strada": "Principală, Nr. 90",
+            "localitate": {
+                "nume": "Radesti",
+                "siruta": 75597
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807014",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-333494"
+            ],
+            "fax": [
+                "0236-333479"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Priponeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Priponesti",
+                "siruta": 77037
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807250",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-337313",
+                "0236-337351"
+            ],
+            "fax": [
+                "0236-337313"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Poiana",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Poiana",
+                "siruta": 76905
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807226",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-867447",
+                "0236-836696"
+            ],
+            "fax": [
+                "0236-867447"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Piscu",
+        "adresa": {
+            "strada": "Nr. 1464",
+            "localitate": {
+                "nume": "Piscu",
+                "siruta": 77000
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807245",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-827502",
+                "0236-827529"
+            ],
+            "fax": [
+                "0236-827502",
+                "0236-840300",
+                "0236-827529"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pechea",
+        "adresa": {
+            "strada": "Galaţi, Nr. 181",
+            "localitate": {
+                "nume": "Pechea",
+                "siruta": 76978
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807240",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-823507",
+                "0236-823552"
+            ],
+            "fax": [
+                "0236-823507",
+                "0236-823552"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Oancea",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Oancea",
+                "siruta": 76941
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807235",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-343011",
+                "0236-343104"
+            ],
+            "fax": [
+                "0236-343011"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Negrileşti",
+        "adresa": {
+            "strada": "Nicolae Iorga, Nr. 25",
+            "localitate": {
+                "nume": "Negrilesti",
+                "siruta": 75285
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807202",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-832671",
+                "0236-832171"
+            ],
+            "fax": [
+                "0236-832671",
+                "0236-832171"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Nămoloasa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Namoloasa",
+                "siruta": 76772
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807210",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-830504",
+                "0236-830835"
+            ],
+            "fax": [
+                "0236-830504"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Munteni",
+        "adresa": {
+            "strada": "Str. Mihai Eminescu, Nr. 836 Bis",
+            "localitate": {
+                "nume": "Munteni",
+                "siruta": 75267
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-820126",
+                "0236-832644"
+            ],
+            "fax": [
+                "0236-832644",
+                "0236-820126"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Movileni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Movileni",
+                "siruta": 76754
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807195",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-823002"
+            ],
+            "fax": [
+                "0236-823006"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Matca",
+        "adresa": {
+            "strada": "Centru, Nr. 1140",
+            "localitate": {
+                "nume": "Matca",
+                "siruta": 76709
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807185",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-860004",
+                "0236-860003"
+            ],
+            "fax": [
+                "0236-860004",
+                "0236-860003"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Măstăcani",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Mastacani",
+                "siruta": 76727
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807190",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-346503",
+                "0236-346576"
+            ],
+            "fax": [
+                "0236-346980",
+                "0236-346576"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lieşti",
+        "adresa": {
+            "strada": "Str. Principală, Nr. 2095",
+            "localitate": {
+                "nume": "Liesti",
+                "siruta": 76683
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807180",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-821020",
+                "0236-836010"
+            ],
+            "fax": [
+                "0236-821006"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Iveşti",
+        "adresa": {
+            "strada": "Eremia Grigorescu, Nr. 451",
+            "localitate": {
+                "nume": "Ivesti",
+                "siruta": 76610
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807170",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-866004",
+                "0236-866261"
+            ],
+            "fax": [
+                "0236-833726"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Independenţa",
+        "adresa": {
+            "strada": "Tudor Vladimirescu, Nr. 81",
+            "localitate": {
+                "nume": "Independenta",
+                "siruta": 76594
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807165",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-826900",
+                "0236-826907"
+            ],
+            "fax": [
+                "0236-826900"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Griviţa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Grivita",
+                "siruta": 76567
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807160",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-825301",
+                "0236-825302"
+            ],
+            "fax": [
+                "0236-825302"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gohor",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Gohor",
+                "siruta": 76503
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807155",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-865500"
+            ],
+            "fax": [
+                "0236-865500"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ghidigeni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ghidigeni",
+                "siruta": 76415
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807145",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-868202",
+                "0236-835644"
+            ],
+            "fax": [
+                "0236-868220"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Galaţi",
+        "adresa": {
+            "strada": "Domneasca, Nr. 38",
+            "localitate": {
+                "nume": "Galati",
+                "siruta": 75105
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "800258",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-307799",
+                "0236-307775",
+                "0236-307700"
+            ],
+            "fax": [
+                "0236-307797"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Fundeni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Fundeni",
+                "siruta": 76371
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807140",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-821091"
+            ],
+            "fax": [
+                "0236-821202"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Frumuşiţa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Frumusita",
+                "siruta": 76326
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807135",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-344510",
+                "0236-344611"
+            ],
+            "fax": [
+                "0236-343808",
+                "0236-344611"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Folteşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Foltesti",
+                "siruta": 76291
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807130",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-346006"
+            ],
+            "fax": [
+                "0236-346041"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Fârtăneşti",
+        "adresa": {
+            "strada": "Principală, Nr. 606",
+            "localitate": {
+                "nume": "Fartanesti",
+                "siruta": 76264
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807125",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-347439",
+                "0236-347220"
+            ],
+            "fax": [
+                "0236-347439",
+                "0236-347220"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Drăguşeni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Draguseni",
+                "siruta": 76184
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807115",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-331553"
+            ],
+            "fax": [
+                "0236-331301"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cuza Vodă",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Cuza Voda",
+                "siruta": 77206
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807271",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-831437",
+                "0236-823531"
+            ],
+            "fax": [
+                "0236-831437"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cudalbi",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Cudalbi",
+                "siruta": 76166
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807105",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-862055",
+                "0236-862003"
+            ],
+            "fax": [
+                "0236-862003",
+                "0236-862055"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cuca",
+        "adresa": {
+            "strada": "Principală, Nr. 684",
+            "localitate": {
+                "nume": "Cuca",
+                "siruta": 76148
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-331124",
+                "0236-331012"
+            ],
+            "fax": [
+                "0236-331012"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Costache Negri",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Costache Negri",
+                "siruta": 76120
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807095",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-825810",
+                "0236-825886"
+            ],
+            "fax": [
+                "0236-825886"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cosmeşti",
+        "adresa": {
+            "strada": "Principală, Nr. 92",
+            "localitate": {
+                "nume": "Cosmesti",
+                "siruta": 76059
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807085",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-336227"
+            ],
+            "fax": [
+                "0236-336218",
+                "0236-336252"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Corod",
+        "adresa": {
+            "strada": "Ştefan Cel Mare, Fn",
+            "localitate": {
+                "nume": "Corod",
+                "siruta": 75962
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807080",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-864006"
+            ],
+            "fax": [
+                "0236-864002"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Corni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Corni",
+                "siruta": 76013
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807075",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-330820",
+                "0236-330734",
+                "0236-330830"
+            ],
+            "fax": [
+                "0236-330820",
+                "0236-330734",
+                "0236-330830"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cerţeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Certesti",
+                "siruta": 75926
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807070",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-337505",
+                "0236-337536",
+                "0236-337737"
+            ],
+            "fax": [
+                "0236-337536"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cavadineşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Cavadinesti",
+                "siruta": 75873
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807065",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-347509",
+                "0236-347515"
+            ],
+            "fax": [
+                "0236-347515"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Buciumeni",
+        "adresa": {
+            "strada": "Nr. 213",
+            "localitate": {
+                "nume": "Buciumeni",
+                "siruta": 75828
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807060",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-822703",
+                "0236-823457"
+            ],
+            "fax": [
+                "0236-822885"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Braniştea",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Branistea",
+                "siruta": 75720
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807050",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-332408"
+            ],
+            "fax": [
+                "0236-332450"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Brăhăşeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Brahasesti",
+                "siruta": 75775
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807055",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-867605",
+                "0236-867932",
+                "0236-867931"
+            ],
+            "fax": [
+                "0236-867605",
+                "0236-867932"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bereşti-Meria",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Beresti-Meria",
+                "siruta": 75365
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807035",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-342418"
+            ],
+            "fax": [
+                "0236-342434"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bereşti",
+        "adresa": {
+            "strada": "Trandafirilor, Nr. 28",
+            "localitate": {
+                "nume": "Beresti",
+                "siruta": 75347
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "805100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-342524"
+            ],
+            "fax": [
+                "0236-342316"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Barcea",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Barcea",
+                "siruta": 75524
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807005",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-335701",
+                "0236-335702",
+                "0236-335703"
+            ],
+            "fax": [
+                "0236-335701"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Băneasa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Baneasa",
+                "siruta": 75695
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807030",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-348750",
+                "0236-341347"
+            ],
+            "fax": [
+                "0236-341347"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Băleni",
+        "adresa": {
+            "strada": "Principală, Nr. 30",
+            "localitate": {
+                "nume": "Baleni",
+                "siruta": 75677
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807025",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-330530"
+            ],
+            "fax": [
+                "0236-330430"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bălăşeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Balasesti",
+                "siruta": 75622
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807020",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-334782",
+                "0236-334709"
+            ],
+            "fax": [
+                "0236-334782",
+                "0236-334709"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bălăbăneşti",
+        "adresa": {
+            "strada": "Principală, Nr. 22",
+            "localitate": {
+                "nume": "Balabanesti",
+                "siruta": 75551
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807010",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-348508",
+                "0236-348625"
+            ],
+            "fax": [
+                "0236-348508"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vlădeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Vladesti",
+                "siruta": 77545
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807335",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-343299",
+                "0236-343079"
+            ],
+            "fax": [
+                "0236-343299",
+                "0236-343079"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vârlezi",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Varlezi",
+                "siruta": 77518
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807330",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-332230",
+                "0236-332168"
+            ],
+            "fax": [
+                "0236-332230"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vânători",
+        "adresa": {
+            "strada": "Str. Eroilor, Nr. 23",
+            "localitate": {
+                "nume": "Vanatori",
+                "siruta": 75169
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807325",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-344004"
+            ],
+            "fax": [
+                "0236-344383"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Valea Mărului",
+        "adresa": {
+            "strada": "Preot Gheroghe Gafton, Nr. 2",
+            "localitate": {
+                "nume": "Valea Marului",
+                "siruta": 77484
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807320",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-863400",
+                "0236-863444",
+                "0336-402432"
+            ],
+            "fax": [
+                "0236-863400",
+                "0336-402432"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Umbrăreşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Umbraresti",
+                "siruta": 77411
+            },
+            "judet": {
+                "nume": "Galati"
+            },
+            "cod-postal": "807310",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0236-829400",
+                "0236-829877",
+                "0236-829077"
+            ],
+            "fax": [
+                "0236-829400"
+            ]
+        }
+    }
+]

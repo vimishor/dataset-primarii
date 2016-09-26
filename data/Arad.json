@@ -1,0 +1,1853 @@
+[
+    {
+        "nume": "Primăria Curtici",
+        "adresa": {
+            "strada": "Primăriei, Nr. 47",
+            "localitate": {
+                "nume": "Curtici",
+                "siruta": 9501
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "315200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-464004"
+            ],
+            "fax": [
+                "0257-464130"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Craiva",
+        "adresa": {
+            "strada": "Principală, Nr. 108",
+            "localitate": {
+                "nume": "Craiva",
+                "siruta": 10541
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317095",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-324125",
+                "0257-324100"
+            ],
+            "fax": [
+                "0257-324100"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Covăsînţ",
+        "adresa": {
+            "strada": "Principală, Nr. 319",
+            "localitate": {
+                "nume": "Covasint",
+                "siruta": 10523
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317090",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-385005",
+                "0257-385273"
+            ],
+            "fax": [
+                "0257-385000"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Moneasa",
+        "adresa": {
+            "strada": "Principală, Nr. 72",
+            "localitate": {
+                "nume": "Moneasa",
+                "siruta": 11487
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317220",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-313115",
+                "0257-313010"
+            ],
+            "fax": [
+                "0257-313115",
+                "0257-313026"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mişca",
+        "adresa": {
+            "strada": "Principală, Nr. 116",
+            "localitate": {
+                "nume": "Misca",
+                "siruta": 11432
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317215",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-354140"
+            ],
+            "fax": [
+                "0257-354140"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Macea",
+        "adresa": {
+            "strada": "Principală, Nr. 262",
+            "localitate": {
+                "nume": "Macea",
+                "siruta": 11405
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317210",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-536045",
+                "0257-536101"
+            ],
+            "fax": [
+                "0257-536045"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Livada",
+        "adresa": {
+            "strada": "Nr. 355",
+            "localitate": {
+                "nume": "Livada",
+                "siruta": 9342
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317205",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-381055",
+                "0257-381271",
+                "0257-381120"
+            ],
+            "fax": [
+                "0257-381055",
+                "0257-381271",
+                "0257-381120"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lipova",
+        "adresa": {
+            "strada": "Nicolae Bălcescu, Nr. 26",
+            "localitate": {
+                "nume": "Lipova",
+                "siruta": 9583
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "315400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-561133",
+                "0257-563343"
+            ],
+            "fax": [
+                "0257-563067"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Nădlac",
+        "adresa": {
+            "strada": "1 Decembrie, Nr. 24",
+            "localitate": {
+                "nume": "Nadlac",
+                "siruta": 9636
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "315500",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-474325"
+            ],
+            "fax": [
+                "0257-473300"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şilindia",
+        "adresa": {
+            "strada": "Principală, Nr. 384",
+            "localitate": {
+                "nume": "Silindia",
+                "siruta": 12297
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317330",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-372700",
+                "0257-372701"
+            ],
+            "fax": [
+                "0257-372703"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şicula",
+        "adresa": {
+            "strada": "Principală, Nr. 200",
+            "localitate": {
+                "nume": "Sicula",
+                "siruta": 12251
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317325",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-326008"
+            ],
+            "fax": [
+                "0357-815002",
+                "0257-326202"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şepreuş",
+        "adresa": {
+            "strada": "Piaţa Rebeliunii, Nr. 1",
+            "localitate": {
+                "nume": "Sepreus",
+                "siruta": 12233
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317320",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-356262",
+                "0257-356263"
+            ],
+            "fax": [
+                "0257-356262",
+                "0257-356263"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Semlac",
+        "adresa": {
+            "strada": "Principală, Nr. 656",
+            "localitate": {
+                "nume": "Semlac",
+                "siruta": 12046
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317295",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-534102"
+            ],
+            "fax": [
+                "0257-534137"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Seleuş",
+        "adresa": {
+            "strada": "Principală, Nr. 200",
+            "localitate": {
+                "nume": "Seleus",
+                "siruta": 12000
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317290",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-329101"
+            ],
+            "fax": [
+                "0257-329343"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şeitin",
+        "adresa": {
+            "strada": "Revoluţiei, Nr. 47",
+            "localitate": {
+                "nume": "Seitin",
+                "siruta": 12215
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317315",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-415114"
+            ],
+            "fax": [
+                "0257-415202"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Secusigiu",
+        "adresa": {
+            "strada": "Principală, Nr. 275",
+            "localitate": {
+                "nume": "Secusigiu",
+                "siruta": 11959
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317285",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-411320"
+            ],
+            "fax": [
+                "0257-411303",
+                "0257-411304"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sebiş",
+        "adresa": {
+            "strada": "P-Ţa Tineretului, Nr. 1",
+            "localitate": {
+                "nume": "Sebis",
+                "siruta": 9707
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "315700",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-311008",
+                "0257-306074",
+                "0257-306154"
+            ],
+            "fax": [
+                "0257-306065"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Săvârşin",
+        "adresa": {
+            "strada": "Principală, Nr. 37",
+            "localitate": {
+                "nume": "Savarsin",
+                "siruta": 11851
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317270",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-557270"
+            ],
+            "fax": [
+                "0257-557170"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sântana",
+        "adresa": {
+            "strada": "Muncii, Nr. 120A",
+            "localitate": {
+                "nume": "Santana",
+                "siruta": 12108
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317280",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-462082"
+            ],
+            "fax": [
+                "0257-462117"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şagu",
+        "adresa": {
+            "strada": "Principală, Nr. 219",
+            "localitate": {
+                "nume": "Sagu",
+                "siruta": 12153
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317310",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-418101"
+            ],
+            "fax": [
+                "0257-418323"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pleşcuţa",
+        "adresa": {
+            "strada": "Principală, Nr. 82",
+            "localitate": {
+                "nume": "Plescuta",
+                "siruta": 11771
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317260",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-318065",
+                "0257-318093"
+            ],
+            "fax": [
+                "0257-318093"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pilu",
+        "adresa": {
+            "strada": "Principală, Nr. 69",
+            "localitate": {
+                "nume": "Pilu",
+                "siruta": 11744
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317255",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-353818"
+            ],
+            "fax": [
+                "0257-353800"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Petriş",
+        "adresa": {
+            "strada": "Principală, Nr. 253",
+            "localitate": {
+                "nume": "Petris",
+                "siruta": 11673
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317245",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-433701",
+                "0257-433811",
+                "0257-433800"
+            ],
+            "fax": [
+                "0257-433701"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Peregu Mare",
+        "adresa": {
+            "strada": "Principală, Nr. 137",
+            "localitate": {
+                "nume": "Peregu Mare",
+                "siruta": 11646
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317240",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-459101",
+                "0257-459026"
+            ],
+            "fax": [
+                "0257-459161"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pecica",
+        "adresa": {
+            "strada": "Strada 2, Nr. 150",
+            "localitate": {
+                "nume": "Pecica",
+                "siruta": 11593
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317235",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-468323"
+            ],
+            "fax": [
+                "0257-468633"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Păuliş",
+        "adresa": {
+            "strada": "Nr. 1",
+            "localitate": {
+                "nume": "Paulis",
+                "siruta": 11548
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317230",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-388101",
+                "0257-388456"
+            ],
+            "fax": [
+                "0257-388101",
+                "0257-388456"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pâncota",
+        "adresa": {
+            "strada": "Tudor Vladimirescu, Nr. 69",
+            "localitate": {
+                "nume": "Pancota",
+                "siruta": 9663
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "315600",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-466679",
+                "0257-466301"
+            ],
+            "fax": [
+                "0257-466679"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Olari",
+        "adresa": {
+            "strada": "Principală, Nr. 315",
+            "localitate": {
+                "nume": "Olari",
+                "siruta": 11511
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317225",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-377132"
+            ],
+            "fax": [
+                "0257-377011"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Iratoşu",
+        "adresa": {
+            "strada": "Principală, Nr. 1",
+            "localitate": {
+                "nume": "Iratosu",
+                "siruta": 11361
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-454101"
+            ],
+            "fax": [
+                "0257-454114"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ineu",
+        "adresa": {
+            "strada": "Republicii, Nr. 5",
+            "localitate": {
+                "nume": "Ineu",
+                "siruta": 9547
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "315300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-511550"
+            ],
+            "fax": [
+                "0257-511965",
+                "0257-518310"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Igneşti",
+        "adresa": {
+            "strada": "Principală, Nr. 24",
+            "localitate": {
+                "nume": "Ignesti",
+                "siruta": 11316
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317195",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-315501",
+                "0257-315521",
+                "0257-315555"
+            ],
+            "fax": [
+                "0257-315501",
+                "0257-315521"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Hăşmaş",
+        "adresa": {
+            "strada": "Principală, Nr. 216",
+            "localitate": {
+                "nume": "Hasmas",
+                "siruta": 11245
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317185",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-321777"
+            ],
+            "fax": [
+                "0257-321777"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Hălmagiu",
+        "adresa": {
+            "strada": "Primăriei, Nr. 9",
+            "localitate": {
+                "nume": "Halmagiu",
+                "siruta": 11067
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317160",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-319011",
+                "0257-319202",
+                "0257-319177"
+            ],
+            "fax": [
+                "0257-319244"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Hălmăgel",
+        "adresa": {
+            "strada": "Principală, Nr. 1\/A",
+            "localitate": {
+                "nume": "Halmagel",
+                "siruta": 11183
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317180",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-319621"
+            ],
+            "fax": [
+                "0257-319621"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gurahonţ",
+        "adresa": {
+            "strada": "Avram Iancu, Nr. 29",
+            "localitate": {
+                "nume": "Gurahont",
+                "siruta": 10952
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317145",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-316558"
+            ],
+            "fax": [
+                "0257-316335"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Grăniceri",
+        "adresa": {
+            "strada": "Principală, Nr. 10",
+            "localitate": {
+                "nume": "Graniceri",
+                "siruta": 10925
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317140",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-353011",
+                "0257-353150",
+                "0257-353200"
+            ],
+            "fax": [
+                "0257-353150"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ghioroc",
+        "adresa": {
+            "strada": "Nr. 89",
+            "localitate": {
+                "nume": "Ghioroc",
+                "siruta": 10881
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317135",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-461101"
+            ],
+            "fax": [
+                "0257-461425"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Frumuşeni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Frumuseni",
+                "siruta": 9315
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317122",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-455250"
+            ],
+            "fax": [
+                "0257-455252"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Fîntînele",
+        "adresa": {
+            "strada": "Principală, Nr. 115",
+            "localitate": {
+                "nume": "Fantanele",
+                "siruta": 9299
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317120",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-456196",
+                "0257-456169"
+            ],
+            "fax": [
+                "0257-456196"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Felnac",
+        "adresa": {
+            "strada": "Principală, Nr. 330",
+            "localitate": {
+                "nume": "Felnac",
+                "siruta": 10836
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317125",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-411101"
+            ],
+            "fax": [
+                "0257-411202",
+                "0257-411101"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dorobanţi",
+        "adresa": {
+            "strada": "Nr. 410",
+            "localitate": {
+                "nume": "Dorobanti",
+                "siruta": 9510
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "315201",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-535262"
+            ],
+            "fax": [
+                "0257-535252"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dieci",
+        "adresa": {
+            "strada": "Principală, Nr. 139 A",
+            "localitate": {
+                "nume": "Dieci",
+                "siruta": 10710
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317115",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-314408"
+            ],
+            "fax": [
+                "0257-314546"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dezna",
+        "adresa": {
+            "strada": "Avram Iancu, Nr. 63",
+            "localitate": {
+                "nume": "Dezna",
+                "siruta": 10658
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317110",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-312664",
+                "0257-312605"
+            ],
+            "fax": [
+                "0257-312664"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Conop",
+        "adresa": {
+            "strada": "Principală, Nr. 4",
+            "localitate": {
+                "nume": "Conop",
+                "siruta": 10462
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317085",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-433003",
+                "0257-433044"
+            ],
+            "fax": [
+                "0257-433044"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Chişineu-Criş",
+        "adresa": {
+            "strada": "Infrăţirii, Nr. 97",
+            "localitate": {
+                "nume": "Chisineu-Cris",
+                "siruta": 9468
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "315100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-350044"
+            ],
+            "fax": [
+                "0257-350059"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Chişindia",
+        "adresa": {
+            "strada": "Principală, Nr. 191\/A",
+            "localitate": {
+                "nume": "Chisindia",
+                "siruta": 10426
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317080",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-314105",
+                "0257-314014"
+            ],
+            "fax": [
+                "0257-314014"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cermei",
+        "adresa": {
+            "strada": "Principală, Nr. 304",
+            "localitate": {
+                "nume": "Cermei",
+                "siruta": 10382
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317075",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-328101",
+                "0257-238303"
+            ],
+            "fax": [
+                "0257-328101"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cărand",
+        "adresa": {
+            "strada": "Principală, Nr. 71\/B",
+            "localitate": {
+                "nume": "Carand",
+                "siruta": 10355
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317070",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-321522",
+                "0257-321444"
+            ],
+            "fax": [
+                "0257-321522",
+                "0257-321444"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Buteni",
+        "adresa": {
+            "strada": "Principală, Nr. 78",
+            "localitate": {
+                "nume": "Buteni",
+                "siruta": 10300
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317065",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-320129",
+                "0257-320046"
+            ],
+            "fax": [
+                "0257-320129"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Brazii",
+        "adresa": {
+            "strada": "Brazii, Nr. 26",
+            "localitate": {
+                "nume": "Brazii",
+                "siruta": 10248
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317060",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-317508"
+            ],
+            "fax": [
+                "0257-317628"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bocsig",
+        "adresa": {
+            "strada": "Principală, Nr. 591",
+            "localitate": {
+                "nume": "Bocsig",
+                "siruta": 10202
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317055",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-325100"
+            ],
+            "fax": [
+                "0257-325101"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Birchiş",
+        "adresa": {
+            "strada": "Principală, Nr. 162",
+            "localitate": {
+                "nume": "Birchis",
+                "siruta": 10015
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317050",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-434443"
+            ],
+            "fax": [
+                "0257-434500"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Beliu",
+        "adresa": {
+            "strada": "Principală, Nr. 632",
+            "localitate": {
+                "nume": "Beliu",
+                "siruta": 9949
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317040",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-322239",
+                "0257-322422"
+            ],
+            "fax": [
+                "0257-322239",
+                "0257-322422"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bata",
+        "adresa": {
+            "strada": "Principală, Nr. 166",
+            "localitate": {
+                "nume": "Bata",
+                "siruta": 9896
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317020",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-434701"
+            ],
+            "fax": [
+                "0257-434791"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bârzava",
+        "adresa": {
+            "strada": "Principală, Nr. 314",
+            "localitate": {
+                "nume": "Barzava",
+                "siruta": 10113
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317030",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-433108"
+            ],
+            "fax": [
+                "0257-433108",
+                "0257-433311"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bârsa",
+        "adresa": {
+            "strada": "Principală, Nr. 200",
+            "localitate": {
+                "nume": "Barsa",
+                "siruta": 10060
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317025",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-321101",
+                "0257-321219"
+            ],
+            "fax": [
+                "0257-321101",
+                "0257-321219"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Archiş",
+        "adresa": {
+            "strada": "Principală, Nr. 97",
+            "localitate": {
+                "nume": "Archis",
+                "siruta": 9841
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317015",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-323553",
+                "0257-323503"
+            ],
+            "fax": [
+                "0257-323633"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Arad",
+        "adresa": {
+            "strada": "B-Dul Revoluţiei, Nr. 75",
+            "localitate": {
+                "nume": "Arad",
+                "siruta": 9271
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "310130",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-281850",
+                "0257-280259"
+            ],
+            "fax": [
+                "0257-284744",
+                "0257-253842"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Apateu",
+        "adresa": {
+            "strada": "Principală, Nr. 364",
+            "localitate": {
+                "nume": "Apateu",
+                "siruta": 9805
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317010",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-327301"
+            ],
+            "fax": [
+                "0257-327301"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Almaş",
+        "adresa": {
+            "strada": "Principală, Nr. 605",
+            "localitate": {
+                "nume": "Almas",
+                "siruta": 9752
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317005",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-313308"
+            ],
+            "fax": [
+                "0257-313308"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Zimandu Nou",
+        "adresa": {
+            "strada": "Principală, Nr. 248",
+            "localitate": {
+                "nume": "Zimandu Nou",
+                "siruta": 12885
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317425",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-380140",
+                "0257-380141"
+            ],
+            "fax": [
+                "0257-380135"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Zerind",
+        "adresa": {
+            "strada": "Principală, Nr. 1",
+            "localitate": {
+                "nume": "Zerind",
+                "siruta": 12858
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317420",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-355566",
+                "0257-355656"
+            ],
+            "fax": [
+                "0257-355566"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Zărand",
+        "adresa": {
+            "strada": "Principală, Nr. 512",
+            "localitate": {
+                "nume": "Zarand",
+                "siruta": 12821
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317415",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-359011",
+                "0257-359010"
+            ],
+            "fax": [
+                "0257-359011"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Zădăreni",
+        "adresa": {
+            "strada": "Nr. 28",
+            "localitate": {
+                "nume": "Zadareni",
+                "siruta": 10863
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317130",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-413024"
+            ],
+            "fax": [
+                "0257-413306"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Zăbrani",
+        "adresa": {
+            "strada": "Principală, Nr. 95",
+            "localitate": {
+                "nume": "Zabrani",
+                "siruta": 12787
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317410",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-457001"
+            ],
+            "fax": [
+                "0257-457430"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vladimirescu",
+        "adresa": {
+            "strada": "Revoluţiei, Nr. 4",
+            "localitate": {
+                "nume": "Vladimirescu",
+                "siruta": 9404
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317405",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-514902",
+                "0257-514101"
+            ],
+            "fax": [
+                "0257-206280"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vîrfurile",
+        "adresa": {
+            "strada": "Primăriei, Nr. 286",
+            "localitate": {
+                "nume": "Varfurile",
+                "siruta": 12698
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317390",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-318501"
+            ],
+            "fax": [
+                "0257-318506"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vinga",
+        "adresa": {
+            "strada": "Principală, Nr. 27",
+            "localitate": {
+                "nume": "Vinga",
+                "siruta": 12652
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-460126"
+            ],
+            "fax": [
+                "0257-460736"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vărădia De Mureş",
+        "adresa": {
+            "strada": "Principală, Nr. 126",
+            "localitate": {
+                "nume": "Varadia De Mures",
+                "siruta": 12581
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317380",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-417230"
+            ],
+            "fax": [
+                "0257-417230"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ususău",
+        "adresa": {
+            "strada": "Principală, Nr. 87A",
+            "localitate": {
+                "nume": "Ususau",
+                "siruta": 10809
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317375",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-434101",
+                "0257-434141"
+            ],
+            "fax": [
+                "0257-434101"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tauţ",
+        "adresa": {
+            "strada": "Principală, Nr. 613",
+            "localitate": {
+                "nume": "Taut",
+                "siruta": 12466
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317355",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-372222",
+                "0257-372202",
+                "0257-372201"
+            ],
+            "fax": [
+                "0257-372202"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Târnova",
+        "adresa": {
+            "strada": "Principală, Nr. 734",
+            "localitate": {
+                "nume": "Tarnova",
+                "siruta": 12518
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317360",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-370101"
+            ],
+            "fax": [
+                "0257-370101"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şofronea",
+        "adresa": {
+            "strada": "Principală, Nr. 187",
+            "localitate": {
+                "nume": "Sofronea",
+                "siruta": 9379
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317350",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-416101"
+            ],
+            "fax": [
+                "0257-416100"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Socodor",
+        "adresa": {
+            "strada": "Principală, Nr. 1",
+            "localitate": {
+                "nume": "Socodor",
+                "siruta": 12135
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317305",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-358100"
+            ],
+            "fax": [
+                "0257-358112"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şiştarovăţ",
+        "adresa": {
+            "strada": "Principală, Nr. 116",
+            "localitate": {
+                "nume": "Sistarovat",
+                "siruta": 12411
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317345",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0371-122230"
+            ],
+            "fax": [
+                "0257-434200"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şiria",
+        "adresa": {
+            "strada": "Regiment 85 Infanterie, Nr. 184",
+            "localitate": {
+                "nume": "Siria",
+                "siruta": 12377
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317340",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-531101"
+            ],
+            "fax": [
+                "0257-531449"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sintea Mare",
+        "adresa": {
+            "strada": "Principală, Nr. 228",
+            "localitate": {
+                "nume": "Sintea Mare",
+                "siruta": 12064
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-357100"
+            ],
+            "fax": [
+                "0257-357100"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şimand",
+        "adresa": {
+            "strada": "Principală, Nr. 1119",
+            "localitate": {
+                "nume": "Simand",
+                "siruta": 12359
+            },
+            "judet": {
+                "nume": "Arad"
+            },
+            "cod-postal": "317335",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0257-373118",
+                "0257-373700"
+            ],
+            "fax": [
+                "0257-373267"
+            ]
+        }
+    }
+]

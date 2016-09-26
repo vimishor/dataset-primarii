@@ -1,0 +1,1573 @@
+[
+    {
+        "nume": "Primăria Certeze",
+        "adresa": {
+            "strada": "Principală, Nr. 864",
+            "localitate": {
+                "nume": "Certeze",
+                "siruta": 137416
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-858005",
+                "0261-858001",
+                "0261-858040",
+                "0261-858282"
+            ],
+            "fax": [
+                "0261-858005",
+                "0261-858001",
+                "0261-858282"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cehal",
+        "adresa": {
+            "strada": "Nr. 168",
+            "localitate": {
+                "nume": "Cehalut",
+                "siruta": 137372
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447096",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-822245",
+                "0261-822255"
+            ],
+            "fax": [
+                "0261-822245"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Căuaş",
+        "adresa": {
+            "strada": "Principală, Nr. 20",
+            "localitate": {
+                "nume": "Cauas",
+                "siruta": 137309
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447085",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-873416",
+                "0261-873401"
+            ],
+            "fax": [
+                "0261-873416"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Păuleşti",
+        "adresa": {
+            "strada": "Principală, Nr. 83",
+            "localitate": {
+                "nume": "Paulesti",
+                "siruta": 138440
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447230",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-757355",
+                "0261-757306"
+            ],
+            "fax": [
+                "0261-757306"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Oraşu Nou",
+        "adresa": {
+            "strada": "Seini, Nr. 247A",
+            "localitate": {
+                "nume": "Orasu Nou",
+                "siruta": 138360
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447220",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-830001",
+                "0261-830192"
+            ],
+            "fax": [
+                "0261-830001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Odoreu",
+        "adresa": {
+            "strada": "Republicii, Nr. 100",
+            "localitate": {
+                "nume": "Odoreu",
+                "siruta": 138299
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447210",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-775062"
+            ],
+            "fax": [
+                "0261-775062"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Turulung",
+        "adresa": {
+            "strada": "Parcului, Nr. 260",
+            "localitate": {
+                "nume": "Turulung",
+                "siruta": 139223
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447335",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-836340",
+                "0261-836001"
+            ],
+            "fax": [
+                "0261-836100"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Turţ",
+        "adresa": {
+            "strada": "Piaţa Eroilor, Nr. 18",
+            "localitate": {
+                "nume": "Turt",
+                "siruta": 139189
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447330",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-834672",
+                "0261-834575",
+                "0261-834574"
+            ],
+            "fax": [
+                "0261-834574"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tiream",
+        "adresa": {
+            "strada": "Principală, Nr. 490",
+            "localitate": {
+                "nume": "Tiream",
+                "siruta": 139116
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447325",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-873601"
+            ],
+            "fax": [
+                "0261-873601"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Terebeşti",
+        "adresa": {
+            "strada": "Principală, Nr. 166",
+            "localitate": {
+                "nume": "Terebesti",
+                "siruta": 139063
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447320",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-875850"
+            ],
+            "fax": [
+                "0261-875850"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tășnad",
+        "adresa": {
+            "strada": "Nicolae Bălcescu, 1",
+            "localitate": {
+                "nume": "Tasnad",
+                "siruta": 136651
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "445300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-825701",
+                "0261-825860"
+            ],
+            "fax": [
+                "0261-827223"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Târşolţ",
+        "adresa": {
+            "strada": "Principală, Nr. 85",
+            "localitate": {
+                "nume": "Tarsolt",
+                "siruta": 139152
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447315",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-833820",
+                "0261-833824"
+            ],
+            "fax": [
+                "0261-833822"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tarna Mare",
+        "adresa": {
+            "strada": "Principală, Nr. 284",
+            "localitate": {
+                "nume": "Tarna Mare",
+                "siruta": 139018
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447310",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-832323",
+                "0261-832001",
+                "0261-832333"
+            ],
+            "fax": [
+                "0261-832323",
+                "0261-832001",
+                "0261-832333"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Supur",
+        "adresa": {
+            "strada": "Teilor, Nr. 14",
+            "localitate": {
+                "nume": "Supuru De Jos",
+                "siruta": 138930
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-823332"
+            ],
+            "fax": [
+                "0261-823442"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Socond",
+        "adresa": {
+            "strada": "Principală, Nr. 180",
+            "localitate": {
+                "nume": "Socond",
+                "siruta": 138878
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447285",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-871402",
+                "0261-871507",
+                "0261-871636"
+            ],
+            "fax": [
+                "0261-871402"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Săuca",
+        "adresa": {
+            "strada": "Principală, Nr. 36",
+            "localitate": {
+                "nume": "Sauca",
+                "siruta": 138814
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447280",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-822865",
+                "0261-822875"
+            ],
+            "fax": [
+                "0261-822865",
+                "0261-822809"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Satu Mare",
+        "adresa": {
+            "strada": "25 Octombrie, Nr. 1",
+            "localitate": {
+                "nume": "Satu Mare",
+                "siruta": 136492
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "440026",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-807569",
+                "0261-807500"
+            ],
+            "fax": [
+                "0261-710915",
+                "0261-710760"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Santău",
+        "adresa": {
+            "strada": "Nr. 422",
+            "localitate": {
+                "nume": "Santau",
+                "siruta": 138743
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447270",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-823004"
+            ],
+            "fax": [
+                "0261-823015"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sanislău",
+        "adresa": {
+            "strada": "Ogorului, Nr. 965",
+            "localitate": {
+                "nume": "Sanislau",
+                "siruta": 138672
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447260",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-821201"
+            ],
+            "fax": [
+                "0261-821201"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Săcăşeni",
+        "adresa": {
+            "strada": "Principala, 467",
+            "localitate": {
+                "nume": "Sacaseni",
+                "siruta": 138789
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447275",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-822605",
+                "0261-822608"
+            ],
+            "fax": [
+                "0261-822605"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Racşa",
+        "adresa": {
+            "strada": "Principala, Nr. 494",
+            "localitate": {
+                "nume": "Racsa",
+                "siruta": 138404
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447224",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-826851"
+            ],
+            "fax": [
+                "0261-856851"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Porumbeşti",
+        "adresa": {
+            "strada": "Principală, Nr. 17C",
+            "localitate": {
+                "nume": "Porumbesti",
+                "siruta": 137835
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447152",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0361-525014"
+            ],
+            "fax": [
+                "0361-525014"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pomi",
+        "adresa": {
+            "strada": "Principală, Nr. 110",
+            "localitate": {
+                "nume": "Pomi",
+                "siruta": 138627
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447255",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-871701",
+                "0261-871900",
+                "0261-871702"
+            ],
+            "fax": [
+                "0261-871702"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pişcolţ",
+        "adresa": {
+            "strada": "Principală, Nr. 329",
+            "localitate": {
+                "nume": "Piscolt",
+                "siruta": 138583
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447250",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-824800",
+                "0261-824802"
+            ],
+            "fax": [
+                "0261-824802",
+                "0261-824800"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pir",
+        "adresa": {
+            "strada": "Principală, Nr. 51",
+            "localitate": {
+                "nume": "Pir",
+                "siruta": 138547
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447245",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-821702",
+                "0261-821718"
+            ],
+            "fax": [
+                "0261-821718"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Petreşti",
+        "adresa": {
+            "strada": "Pişcotului, Nr. 1",
+            "localitate": {
+                "nume": "Petresti",
+                "siruta": 138510
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447240",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-820063"
+            ],
+            "fax": [
+                "0261-820063"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Negreşti Oaş",
+        "adresa": {
+            "strada": "Victoriei, Nr. 95-97",
+            "localitate": {
+                "nume": "Negresti-Oas",
+                "siruta": 136606
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "445200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-854845",
+                "0261-853112"
+            ],
+            "fax": [
+                "0261-854845",
+                "0261-853112"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Moftin",
+        "adresa": {
+            "strada": "Principală, Nr. 219",
+            "localitate": {
+                "nume": "Moftinu Mic",
+                "siruta": 138217
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447207",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-875116",
+                "0261-875105"
+            ],
+            "fax": [
+                "0261-875116"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Micula",
+        "adresa": {
+            "strada": "Principală, Nr. 293",
+            "localitate": {
+                "nume": "Micula",
+                "siruta": 138173
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447195",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-828601",
+                "0261-828500",
+                "0261-828503"
+            ],
+            "fax": [
+                "0261-828500"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Medieşu Aurit",
+        "adresa": {
+            "strada": "Principală, Nr. 157",
+            "localitate": {
+                "nume": "Mediesu Aurit",
+                "siruta": 138093
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447185",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-842530",
+                "0261-842080"
+            ],
+            "fax": [
+                "0261-842530"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Livada",
+        "adresa": {
+            "strada": "Oaşului, Nr. 4",
+            "localitate": {
+                "nume": "Livada",
+                "siruta": 138048
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447180",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-840083",
+                "0261-840720",
+                "0261-840710",
+                "0261-840714"
+            ],
+            "fax": [
+                "0261-840362"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lazuri",
+        "adresa": {
+            "strada": "Principală, Nr. 76",
+            "localitate": {
+                "nume": "Lazuri",
+                "siruta": 137979
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447170",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-753248",
+                "0261-753210"
+            ],
+            "fax": [
+                "0261-753210"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Homoroade",
+        "adresa": {
+            "strada": "Homorodul De Mijloc, Nr. 285",
+            "localitate": {
+                "nume": "Homoroade",
+                "siruta": 137906
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447163",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-870705",
+                "0261-872333"
+            ],
+            "fax": [
+                "0261-870705"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Hodod",
+        "adresa": {
+            "strada": "Principală, Nr. 164",
+            "localitate": {
+                "nume": "Hodod",
+                "siruta": 137853
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447155",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-829001"
+            ],
+            "fax": [
+                "0261-829001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Halmeu",
+        "adresa": {
+            "strada": "Eliberării, Nr. 57",
+            "localitate": {
+                "nume": "Halmeu",
+                "siruta": 137773
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447145",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-773673",
+                "0261-773002"
+            ],
+            "fax": [
+                "0261-773673",
+                "0261-773002"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gherţa Mică",
+        "adresa": {
+            "strada": "Principală, Nr. 234",
+            "localitate": {
+                "nume": "Gherta Mica",
+                "siruta": 137755
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447140",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-838229",
+                "0261-838108",
+                "0261-838010"
+            ],
+            "fax": [
+                "0261-838010"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Foieni",
+        "adresa": {
+            "strada": "Principală, Nr. 469",
+            "localitate": {
+                "nume": "Foieni",
+                "siruta": 137737
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447135",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-874601",
+                "0261-874798"
+            ],
+            "fax": [
+                "0261-874601",
+                "0261-874798"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dorolt",
+        "adresa": {
+            "strada": "Principală, Nr. 86",
+            "localitate": {
+                "nume": "Dorolt",
+                "siruta": 137684
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447130",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-751238",
+                "0261-751355"
+            ],
+            "fax": [
+                "0261-751355"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Doba",
+        "adresa": {
+            "strada": "Principală, Nr. 56",
+            "localitate": {
+                "nume": "Doba",
+                "siruta": 137620
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447125",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-869115"
+            ],
+            "fax": [
+                "0261-869135"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Culciu",
+        "adresa": {
+            "strada": "Culciu-Mare, Nr. 234",
+            "localitate": {
+                "nume": "Culciu Mare",
+                "siruta": 137559
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447119",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-829610",
+                "0261-829510"
+            ],
+            "fax": [
+                "0261-829516"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Crucişor",
+        "adresa": {
+            "strada": "Principală, Nr. 217",
+            "localitate": {
+                "nume": "Crucisor",
+                "siruta": 137513
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447110",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-821003",
+                "0261-821130"
+            ],
+            "fax": [
+                "0261-821003"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Craidorolţ",
+        "adresa": {
+            "strada": "Principală, Nr. 106",
+            "localitate": {
+                "nume": "Craidorolt",
+                "siruta": 137452
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447105",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-876566",
+                "0261-876567",
+                "0261-876565"
+            ],
+            "fax": [
+                "0261-876566"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ciumeşti",
+        "adresa": {
+            "strada": "Nr. 341",
+            "localitate": {
+                "nume": "Ciumesti",
+                "siruta": 138690
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447262",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-821280"
+            ],
+            "fax": [
+                "0261-821280"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Carei",
+        "adresa": {
+            "strada": "1 Decembrie 1918, Nr. 17",
+            "localitate": {
+                "nume": "Carei",
+                "siruta": 136535
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "445100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-861662",
+                "0261-861663",
+                "0261-861440"
+            ],
+            "fax": [
+                "0261-861663",
+                "0261-861440"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Căpleni",
+        "adresa": {
+            "strada": "Principală, Nr. 619",
+            "localitate": {
+                "nume": "Capleni",
+                "siruta": 136562
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447080",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-873001"
+            ],
+            "fax": [
+                "0261-873121"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cămin",
+        "adresa": {
+            "strada": "Principală, Nr. 195",
+            "localitate": {
+                "nume": "Camin",
+                "siruta": 136571
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447081",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-872789"
+            ],
+            "fax": [
+                "0261-872789"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cămărzana",
+        "adresa": {
+            "strada": "Principală, Nr. 338",
+            "localitate": {
+                "nume": "Camarzana",
+                "siruta": 137283
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447075",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-833001"
+            ],
+            "fax": [
+                "0261-833001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Călineşti-Oaş",
+        "adresa": {
+            "strada": "Principală, Nr. 1",
+            "localitate": {
+                "nume": "Calinesti-Oas",
+                "siruta": 137238
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447070",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-839001"
+            ],
+            "fax": [
+                "0261-839110"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Botiz",
+        "adresa": {
+            "strada": "Mioriţei, Nr. 63",
+            "localitate": {
+                "nume": "Botiz",
+                "siruta": 137194
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447065",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-774026"
+            ],
+            "fax": [
+                "0261-774392"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bogdand",
+        "adresa": {
+            "strada": "Principală, Nr. 310\/A",
+            "localitate": {
+                "nume": "Bogdand",
+                "siruta": 137149
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447060",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-828201"
+            ],
+            "fax": [
+                "0261-828201"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bixad",
+        "adresa": {
+            "strada": "Principală, Nr. 252",
+            "localitate": {
+                "nume": "Bixad",
+                "siruta": 137078
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447055",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-843752",
+                "0261-843715",
+                "0760-685807"
+            ],
+            "fax": [
+                "0261-843800"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Berveni",
+        "adresa": {
+            "strada": "Herman Otto, Nr. 349",
+            "localitate": {
+                "nume": "Berveni",
+                "siruta": 137041
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447050",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-872001",
+                "0261-872131"
+            ],
+            "fax": [
+                "0261-872001",
+                "0261-872131"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Beltiug",
+        "adresa": {
+            "strada": "Principală, Nr. 357",
+            "localitate": {
+                "nume": "Beltiug",
+                "siruta": 136973
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447040",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-870071"
+            ],
+            "fax": [
+                "0261-870071"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bătarci",
+        "adresa": {
+            "strada": "Principală, Nr. 50",
+            "localitate": {
+                "nume": "Batarci",
+                "siruta": 136928
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447030",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-837024"
+            ],
+            "fax": [
+                "0261-837033",
+                "0261-837024"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bârsău",
+        "adresa": {
+            "strada": "Principală, Nr. 277",
+            "localitate": {
+                "nume": "Barsau",
+                "siruta": 137103
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447035",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-876021",
+                "0261-876004"
+            ],
+            "fax": [
+                "0261-876021",
+                "0261-876004"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ardud",
+        "adresa": {
+            "strada": "Noua, Nr. 1",
+            "localitate": {
+                "nume": "Ardud",
+                "siruta": 136857
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447020",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-767130"
+            ],
+            "fax": [
+                "0261-771016"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Viile Satu Mare",
+        "adresa": {
+            "strada": "Republicii, Nr. 1",
+            "localitate": {
+                "nume": "Viile Satu Mare",
+                "siruta": 139401
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447360",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-754224",
+                "0261-754115"
+            ],
+            "fax": [
+                "0261-754224"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vetiş",
+        "adresa": {
+            "strada": "Principală, Nr. 426",
+            "localitate": {
+                "nume": "Vetis",
+                "siruta": 139367
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447355",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-820702",
+                "0261-820741",
+                "0261-806016",
+                "0261-820783"
+            ],
+            "fax": [
+                "0261-820741",
+                "0261-806016",
+                "0261-820783"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vama",
+        "adresa": {
+            "strada": "Tineretului, Nr. 803",
+            "localitate": {
+                "nume": "Vama",
+                "siruta": 139349
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447350",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-857001"
+            ],
+            "fax": [
+                "0261-857161"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Valea Vinului",
+        "adresa": {
+            "strada": "Principală, Nr. 63",
+            "localitate": {
+                "nume": "Valea Vinului",
+                "siruta": 139296
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447345",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-876870",
+                "0261-876746"
+            ],
+            "fax": [
+                "0261-876705"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Urziceni",
+        "adresa": {
+            "strada": "Principală, Nr. 238",
+            "localitate": {
+                "nume": "Urziceni",
+                "siruta": 139269
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447340",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-874215"
+            ],
+            "fax": [
+                "0261-874215"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Apa",
+        "adresa": {
+            "strada": "Principală, Nr. 132",
+            "localitate": {
+                "nume": "Apa",
+                "siruta": 136811
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447015",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-843001",
+                "0261-843366",
+                "0261-843212"
+            ],
+            "fax": [
+                "0261-843001",
+                "0261-843366",
+                "0261-843212"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Andrid",
+        "adresa": {
+            "strada": "Principală, Nr. 508",
+            "localitate": {
+                "nume": "Andrid",
+                "siruta": 136777
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447010",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-820409",
+                "0261-820491"
+            ],
+            "fax": [
+                "0261-820492"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Agriş",
+        "adresa": {
+            "strada": "Csűry Bálint, Nr. 68",
+            "localitate": {
+                "nume": "Agris",
+                "siruta": 137201
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447066",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-878112"
+            ],
+            "fax": [
+                "0261-878111"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Acâş",
+        "adresa": {
+            "strada": "Principală, Nr. 129",
+            "localitate": {
+                "nume": "Acas",
+                "siruta": 136722
+            },
+            "judet": {
+                "nume": "Satu Mare"
+            },
+            "cod-postal": "447005",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0261-871002",
+                "0261-871161"
+            ],
+            "fax": [
+                "0261-871002",
+                "0261-871161"
+            ]
+        }
+    }
+]

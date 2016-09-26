@@ -1,0 +1,2010 @@
+[
+    {
+        "nume": "Primăria Chiliile",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Chiliile",
+                "siruta": 46117
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127160",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0371-352013"
+            ],
+            "fax": []
+        }
+    },
+    {
+        "nume": "Primăria Cernăteşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Cernatesti",
+                "siruta": 46028
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127150",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-508001"
+            ],
+            "fax": [
+                "0238-508001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cătina",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Catina",
+                "siruta": 45968
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127145",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-524003"
+            ],
+            "fax": [
+                "0238-524430"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Căneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Canesti",
+                "siruta": 45897
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127135",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-897317"
+            ],
+            "fax": []
+        }
+    },
+    {
+        "nume": "Primăria Calvini",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Calvini",
+                "siruta": 45762
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127130",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-523647"
+            ],
+            "fax": [
+                "0238-551203"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria C.A. Rosetti",
+        "adresa": {
+            "strada": "Principală, Nr. 41",
+            "localitate": {
+                "nume": "C.A. Rosetti",
+                "siruta": 45824
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127120",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-731001"
+            ],
+            "fax": [
+                "0238-731001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Buzău",
+        "adresa": {
+            "strada": "B-Dul Unirii, Nr. 163",
+            "localitate": {
+                "nume": "Buzau",
+                "siruta": 44827
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "120191",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-717940",
+                "0238-710562"
+            ],
+            "fax": [
+                "0238-717950"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Buda",
+        "adresa": {
+            "strada": "Principală",
+            "localitate": {
+                "nume": "Buda",
+                "siruta": 45682
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127110",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-575345"
+            ],
+            "fax": [
+                "0238-575123"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Breaza",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Breaza",
+                "siruta": 45628
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127105",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-511501"
+            ],
+            "fax": [
+                "0238-511738"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Brăeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Braesti",
+                "siruta": 45548
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127095",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-525067",
+                "0238-525000"
+            ],
+            "fax": [
+                "0238-525005"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Brădeanu",
+        "adresa": {
+            "strada": "Str. Patriei",
+            "localitate": {
+                "nume": "Bradeanu",
+                "siruta": 45502
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127090",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-535057",
+                "0238-535201"
+            ],
+            "fax": [
+                "0238-535201"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bozioru",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Bozioru",
+                "siruta": 45398
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127075",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-708036"
+            ],
+            "fax": [
+                "0238-750333"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Boldu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Boldu",
+                "siruta": 45370
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127070",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-576505"
+            ],
+            "fax": [
+                "0238-576505"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Blăjani",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Blajani",
+                "siruta": 45343
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127065",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-510501",
+                "0238-510758"
+            ],
+            "fax": [
+                "0238-510501"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bisoca",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Bisoca",
+                "siruta": 45254
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127055",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-708841"
+            ],
+            "fax": [
+                "0238-708839"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Berca",
+        "adresa": {
+            "strada": "1 Decembrie 1918, Nr. 427",
+            "localitate": {
+                "nume": "Berca",
+                "siruta": 45110
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127035",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-526537",
+                "0238-526004"
+            ],
+            "fax": [
+                "0238-526537"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Beceni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Beceni",
+                "siruta": 45012
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127025",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-528631"
+            ],
+            "fax": [
+                "0238-520398"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Balta Albă",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Balta Alba",
+                "siruta": 44943
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127015",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-590063",
+                "0238-590005"
+            ],
+            "fax": [
+                "0238-590063"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bălăceanu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Balaceanu",
+                "siruta": 44998
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127020",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-577601",
+                "0238-577635"
+            ],
+            "fax": [
+                "0238-577635"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Amaru",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Amaru",
+                "siruta": 44872
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127005",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-796842"
+            ],
+            "fax": [
+                "0238-796842"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Chiojdu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Chiojdu",
+                "siruta": 46199
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127170",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-599618"
+            ],
+            "fax": [
+                "0238-599500"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mărăcineni",
+        "adresa": {
+            "strada": "Centrală, Nr. 96",
+            "localitate": {
+                "nume": "Maracineni",
+                "siruta": 47382
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127325",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-556547",
+                "0238-556788"
+            ],
+            "fax": [
+                "0238-556788"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Măgura",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Magura",
+                "siruta": 47346
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127320",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-524501"
+            ],
+            "fax": [
+                "0238-524606"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Luciu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Luciu",
+                "siruta": 47319
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127315",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-539301",
+                "0238-530818"
+            ],
+            "fax": [
+                "0238-539301",
+                "0238-530818"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lopătari",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Lopatari",
+                "siruta": 47195
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127295",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-704064"
+            ],
+            "fax": [
+                "0238-704482"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Largu",
+        "adresa": {
+            "strada": "Ion Creangă, Nr. 83",
+            "localitate": {
+                "nume": "Largu",
+                "siruta": 47168
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127290",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-757865"
+            ],
+            "fax": [
+                "0238-757865"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gura Teghii",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Gura Teghii",
+                "siruta": 47088
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127280",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-520000"
+            ],
+            "fax": [
+                "0238-520000"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Grebănu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Grebanu",
+                "siruta": 47015
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127270",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-778714"
+            ],
+            "fax": [
+                "0238-778714"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ziduri",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ziduri",
+                "siruta": 50488
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127720",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-578201"
+            ],
+            "fax": [
+                "0238-570772"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Zărneşti",
+        "adresa": {
+            "strada": "B-Dul Marghiloman,Nr. 117",
+            "localitate": {
+                "nume": "Zarnesti",
+                "siruta": 50460
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127715",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-585175",
+                "0238-585102"
+            ],
+            "fax": [
+                "0238-585175",
+                "0238-585102"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vipereşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Viperesti",
+                "siruta": 50335
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127705",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-599240"
+            ],
+            "fax": [
+                "0238-599334"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vintilă Vodă",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Vintila Voda",
+                "siruta": 50237
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127695",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-529003"
+            ],
+            "fax": [
+                "0238-529292"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Verneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Vernesti",
+                "siruta": 50111
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127675",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-705007"
+            ],
+            "fax": [
+                "0238-705017"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Valea Salciei",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Valea Salciei",
+                "siruta": 50077
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127665",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-575201"
+            ],
+            "fax": [
+                "0238-575201"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Valea Râmnicului",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Valea Ramnicului",
+                "siruta": 50031
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127660",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-574410"
+            ],
+            "fax": [
+                "0238-574410"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vâlcelele",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Valcelele",
+                "siruta": 50406
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127670",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-576857"
+            ],
+            "fax": [
+                "0238-576857"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vadu Paşii",
+        "adresa": {
+            "strada": "Principala, Nr. 26",
+            "localitate": {
+                "nume": "Vadu Pasii",
+                "siruta": 49965
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127650",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-788109"
+            ],
+            "fax": [
+                "0238-788419"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Unguriu",
+        "adresa": {
+            "strada": "Şos. Braşovului, Nr. 83",
+            "localitate": {
+                "nume": "Unguriu",
+                "siruta": 47364
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127322",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-524900"
+            ],
+            "fax": [
+                "0238-524624"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ulmeni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ulmeni",
+                "siruta": 49901
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127645",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-513076",
+                "0238-513004"
+            ],
+            "fax": [
+                "0238-513004"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Topliceni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Topliceni",
+                "siruta": 49778
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127630",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-562116"
+            ],
+            "fax": [
+                "0238-572248",
+                "0238-562116"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tisău",
+        "adresa": {
+            "strada": "Sat Izvoru, Nr. 6",
+            "localitate": {
+                "nume": "Tisau",
+                "siruta": 49741
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127610",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-597560"
+            ],
+            "fax": [
+                "0238-597560"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ţinteşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Tintesti",
+                "siruta": 49858
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127640",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-532070"
+            ],
+            "fax": [
+                "0238-532233"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Stâlpu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Stalpu",
+                "siruta": 49634
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127605",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-753598"
+            ],
+            "fax": [
+                "0238-753598"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Smeeni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Smeeni",
+                "siruta": 49554
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127595",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-732503"
+            ],
+            "fax": [
+                "0238-732549"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Siriu",
+        "adresa": {
+            "strada": "Sat Lunca Jaristei",
+            "localitate": {
+                "nume": "Siriu",
+                "siruta": 49484
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127580",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-520541"
+            ],
+            "fax": [
+                "0238-520541"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Scutelnici",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Scutelnici",
+                "siruta": 49448
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127575",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-583511",
+                "0238-583675",
+                "0238-583601"
+            ],
+            "fax": [
+                "0238-583660"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Scorţoasa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Scortoasa",
+                "siruta": 49322
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127555",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-705613"
+            ],
+            "fax": [
+                "0238-705613"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Săruleşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Sarulesti",
+                "siruta": 49242
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127545",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-704206"
+            ],
+            "fax": [
+                "0238-704206"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Săpoca",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Sapoca",
+                "siruta": 49215
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127540",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-528144"
+            ],
+            "fax": [
+                "0238-528144",
+                "0238-528479"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Săhăteni",
+        "adresa": {
+            "strada": "Str. Principala, Nr. 143",
+            "localitate": {
+                "nume": "Sahateni",
+                "siruta": 49162
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127535",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-594137",
+                "0238-594136"
+            ],
+            "fax": [
+                "0372-892556"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Săgeata",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Sageata",
+                "siruta": 49082
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127525",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-581168"
+            ],
+            "fax": [
+                "0238-581168"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ruşeţu",
+        "adresa": {
+            "strada": "1 Decembrie 1918, Nr. 33",
+            "localitate": {
+                "nume": "Rusetu",
+                "siruta": 49055
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127520",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-733104"
+            ],
+            "fax": [
+                "0238-733179"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Robeasca",
+        "adresa": {
+            "strada": "Șoseaua Buzăului, Nr. 29",
+            "localitate": {
+                "nume": "Robeasca",
+                "siruta": 49028
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127515",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-581800"
+            ],
+            "fax": [
+                "0238-581800"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Râmnicu Sărat",
+        "adresa": {
+            "strada": "B-Dul Nicolae Bălcescu, Nr. 1",
+            "localitate": {
+                "nume": "Ramnicu Sarat",
+                "siruta": 44854
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "125300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-561946",
+                "0238-561947"
+            ],
+            "fax": [
+                "0238-561947"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Râmnicelu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ramnicelu",
+                "siruta": 48977
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127510",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-575707"
+            ],
+            "fax": [
+                "0238-575708"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Racoviţeni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Racoviteni",
+                "siruta": 48931
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127505",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-598134",
+                "0238-598227"
+            ],
+            "fax": [
+                "0238-598134"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Puieşti",
+        "adresa": {
+            "strada": "Strada Nr. 1, Nr. 44",
+            "localitate": {
+                "nume": "Puiesti",
+                "siruta": 48842
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127495",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-576106"
+            ],
+            "fax": [
+                "0238-576109"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Poşta Câlnău",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Posta Calnau",
+                "siruta": 48780
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127485",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-521102"
+            ],
+            "fax": [
+                "0238-521873"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pogoanele",
+        "adresa": {
+            "strada": "Unirii, Nr. 18",
+            "localitate": {
+                "nume": "Pogoanele",
+                "siruta": 48753
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "125200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-552123"
+            ],
+            "fax": [
+                "0238-552165"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Podgoria",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Podgoria",
+                "siruta": 48691
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127480",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-574923"
+            ],
+            "fax": [
+                "0238-574953"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pietroasele",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Pietroasele",
+                "siruta": 48496
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127470",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-512000"
+            ],
+            "fax": [
+                "0238-512000"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pătârlagele",
+        "adresa": {
+            "strada": "Nicolae Bălcescu, Nr. 108",
+            "localitate": {
+                "nume": "Patarlagele",
+                "siruta": 48334
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127430",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-550001",
+                "0238-550185"
+            ],
+            "fax": [
+                "0238-550966",
+                "0238-550001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pârscov",
+        "adresa": {
+            "strada": "Nr. 1048",
+            "localitate": {
+                "nume": "Parscov",
+                "siruta": 48566
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127450",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-527006"
+            ],
+            "fax": [
+                "0238-527006"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pardosi",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Pardosi",
+                "siruta": 48174
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127415",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-774234"
+            ],
+            "fax": [
+                "0238-774234"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pănătău",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Panatau",
+                "siruta": 48236
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127420",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-502013"
+            ],
+            "fax": [
+                "0238-502013"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Odăile",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Odaile",
+                "siruta": 48030
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127395",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-547605",
+                "0238-525494"
+            ],
+            "fax": [
+                "0238-525494"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Nehoiu",
+        "adresa": {
+            "strada": "Aleea Merilor, Nr. 2-4",
+            "localitate": {
+                "nume": "Nehoiu",
+                "siruta": 47925
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "125100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-554548",
+                "0238-554541",
+                "0238-554347",
+                "0238-555050"
+            ],
+            "fax": [
+                "0238-554541"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Năeni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Naeni",
+                "siruta": 47863
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127390",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-597003"
+            ],
+            "fax": [
+                "0238-597003"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Murgeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Murgesti",
+                "siruta": 47827
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127385",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-774202"
+            ],
+            "fax": [
+                "0238-774202"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Movila Banului",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Movila Banului",
+                "siruta": 47783
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127380",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-596601"
+            ],
+            "fax": [
+                "0238-596601"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mînzăleşti",
+        "adresa": {
+            "strada": "Principală, Nr. 1",
+            "localitate": {
+                "nume": "Manzalesti",
+                "siruta": 47649
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127335",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-509508",
+                "0238-509512"
+            ],
+            "fax": [
+                "0238-509508",
+                "0238-509512"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mihăileşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Mihailesti",
+                "siruta": 47587
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127375",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-584005",
+                "0238-584003"
+            ],
+            "fax": [
+                "0238-584003"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Merei",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Merei",
+                "siruta": 47462
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127355",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-559159"
+            ],
+            "fax": [
+                "0238-559159"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mărgăriteşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Margaritesti",
+                "siruta": 47426
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127330",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-757057"
+            ],
+            "fax": [
+                "0238-757057"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Glodeanu-Siliştea",
+        "adresa": {
+            "strada": "Principală, Nr. 88",
+            "localitate": {
+                "nume": "Glodeanu-Silistea",
+                "siruta": 46929
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127260",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-558168",
+                "0238-558377"
+            ],
+            "fax": [
+                "0238-558168"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Glodeanu Sărat",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Glodeanu Sarat",
+                "siruta": 46876
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127255",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-580700",
+                "0238-580714"
+            ],
+            "fax": [
+                "0238-587702"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ghergheasa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ghergheasa",
+                "siruta": 46849
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127250",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-577300"
+            ],
+            "fax": [
+                "0238-577300"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gherăseni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Gheraseni",
+                "siruta": 46812
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127245",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-583331"
+            ],
+            "fax": [
+                "0238-583190"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gălbinaşi",
+        "adresa": {
+            "strada": "Sat Tăbărăşti",
+            "localitate": {
+                "nume": "Galbinasi",
+                "siruta": 46778
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127240",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-580015"
+            ],
+            "fax": [
+                "0238-580022"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Florica",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Florica",
+                "siruta": 47603
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127377",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-582750"
+            ],
+            "fax": [
+                "0238-582750"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cozieni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Cozieni",
+                "siruta": 46563
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127210",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-750943",
+                "0238-750997"
+            ],
+            "fax": [
+                "0238-750943"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Colţi",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Colti",
+                "siruta": 46448
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127195",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-522501"
+            ],
+            "fax": [
+                "0238-502501",
+                "0238-522515"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Costeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Costesti",
+                "siruta": 46493
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-536158"
+            ],
+            "fax": [
+                "0238-536158"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cochirleanca",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Cochirleanca",
+                "siruta": 46386
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127190",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-736370",
+                "0238-736487"
+            ],
+            "fax": [
+                "0238-736370",
+                "0238-736487"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cislău",
+        "adresa": {
+            "strada": "Culturii, Nr. 64",
+            "localitate": {
+                "nume": "Cislau",
+                "siruta": 46322
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127185",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0238-551580"
+            ],
+            "fax": [
+                "0238-551363"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cilibia",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Cilibia",
+                "siruta": 46260
+            },
+            "judet": {
+                "nume": "Buzau"
+            },
+            "cod-postal": "127180",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0371-394318",
+                "0238-539037"
+            ],
+            "fax": []
+        }
+    }
+]

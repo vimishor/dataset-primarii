@@ -1,0 +1,1057 @@
+[
+    {
+        "nume": "Primăria Estelnic",
+        "adresa": {
+            "strada": "Principală, Nr. 175",
+            "localitate": {
+                "nume": "Estelnic",
+                "siruta": 64755
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "527143",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-366670"
+            ],
+            "fax": [
+                "0267-366680"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dobârlău",
+        "adresa": {
+            "strada": "Principală, Nr. 233",
+            "localitate": {
+                "nume": "Dobarlau",
+                "siruta": 64274
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "527085",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-375818"
+            ],
+            "fax": [
+                "0267-375818"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dalnic",
+        "adresa": {
+            "strada": "Principală, Nr. 45",
+            "localitate": {
+                "nume": "Dalnic",
+                "siruta": 64586
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "527121",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-345884"
+            ],
+            "fax": [
+                "0267-345794"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Covasna",
+        "adresa": {
+            "strada": "Piliske, Nr. 1",
+            "localitate": {
+                "nume": "Covasna",
+                "siruta": 63535
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "525200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-340001",
+                "0267-341555",
+                "0267-341880"
+            ],
+            "fax": [
+                "0267-342679"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Comandău",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Comandau",
+                "siruta": 63562
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "527080",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-353092",
+                "0267-353105"
+            ],
+            "fax": [
+                "0267-353105"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Chichiş",
+        "adresa": {
+            "strada": "Europa, Nr. 103",
+            "localitate": {
+                "nume": "Chichis",
+                "siruta": 64247
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "527075",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-347223"
+            ],
+            "fax": [
+                "0267-347061"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cernat",
+        "adresa": {
+            "strada": "Principală, Nr. 459",
+            "localitate": {
+                "nume": "Cernat",
+                "siruta": 64201
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "527070",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-367501"
+            ],
+            "fax": [
+                "0267-367488"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cătălina",
+        "adresa": {
+            "strada": "Gării, Nr. 413",
+            "localitate": {
+                "nume": "Catalina",
+                "siruta": 64149
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "527065",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-346161"
+            ],
+            "fax": [
+                "0267-346161"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Breţcu",
+        "adresa": {
+            "strada": "Nr. 142",
+            "localitate": {
+                "nume": "Bretcu",
+                "siruta": 64103
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "527060",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-368329",
+                "0267-368004"
+            ],
+            "fax": [
+                "0267-368329"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Brateş",
+        "adresa": {
+            "strada": "Principală, Nr. 61",
+            "localitate": {
+                "nume": "Brates",
+                "siruta": 64014
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "527050",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-374715"
+            ],
+            "fax": [
+                "0267-374715"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Brăduţ",
+        "adresa": {
+            "strada": "Şcolii, Nr. 171",
+            "localitate": {
+                "nume": "Bradut",
+                "siruta": 64050
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "527055",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-356321",
+                "0267-377222"
+            ],
+            "fax": [
+                "0267-356321"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Boroşneu Mare",
+        "adresa": {
+            "strada": "Principală, Nr. 393",
+            "localitate": {
+                "nume": "Borosneu Mare",
+                "siruta": 63946
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "527040",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-374191"
+            ],
+            "fax": [
+                "0267-374191"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bodoc",
+        "adresa": {
+            "strada": "Principală, Nr. 65",
+            "localitate": {
+                "nume": "Bodoc",
+                "siruta": 63900
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "527035",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-353447"
+            ],
+            "fax": [
+                "0267-353447"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bixad",
+        "adresa": {
+            "strada": "Principală, Nr. 558",
+            "localitate": {
+                "nume": "Bixad",
+                "siruta": 64522
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "527116",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-365983"
+            ],
+            "fax": [
+                "0267-365979"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Belin",
+        "adresa": {
+            "strada": "Principală, Nr. 390",
+            "localitate": {
+                "nume": "Belin",
+                "siruta": 63875
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "527030",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-355760"
+            ],
+            "fax": [
+                "0267-355779"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Băţani",
+        "adresa": {
+            "strada": "Principală, Nr. 474",
+            "localitate": {
+                "nume": "Batanii Mari",
+                "siruta": 63811
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "527020",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-355426",
+                "0267-355008"
+            ],
+            "fax": [
+                "0267-355426",
+                "0267-355008"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Barcani",
+        "adresa": {
+            "strada": "Principală, Nr. 266",
+            "localitate": {
+                "nume": "Barcani",
+                "siruta": 63642
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "527010",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-372331",
+                "0267-372525"
+            ],
+            "fax": [
+                "0267-372331",
+                "0267-372525"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Baraolt",
+        "adresa": {
+            "strada": "Libertăţii, Nr. 2",
+            "localitate": {
+                "nume": "Baraolt",
+                "siruta": 63456
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "525100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-377507"
+            ],
+            "fax": [
+                "0267-377919"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Arcuş",
+        "adresa": {
+            "strada": "Principală, Nr. 237",
+            "localitate": {
+                "nume": "Arcus",
+                "siruta": 64924
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "527166",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-373675"
+            ],
+            "fax": [
+                "0267-373675"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Aita Mare",
+        "adresa": {
+            "strada": "Principală, Nr. 206",
+            "localitate": {
+                "nume": "Aita Mare",
+                "siruta": 63786
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "527005",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-355582",
+                "0267-355533"
+            ],
+            "fax": [
+                "0267-355582"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Zagon",
+        "adresa": {
+            "strada": "Principală, Nr. 114",
+            "localitate": {
+                "nume": "Zagon",
+                "siruta": 65020
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "527185",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-343022"
+            ],
+            "fax": [
+                "0267-343022"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Zăbala",
+        "adresa": {
+            "strada": "Principală, Nr. 829",
+            "localitate": {
+                "nume": "Zabala",
+                "siruta": 65057
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "527190",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-375213"
+            ],
+            "fax": [
+                "0267-375213"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vârghiş",
+        "adresa": {
+            "strada": "Principală, Nr. 423",
+            "localitate": {
+                "nume": "Varghis",
+                "siruta": 65002
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "527180",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-376206"
+            ],
+            "fax": [
+                "0267-376206"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Valea Mare",
+        "adresa": {
+            "strada": "Principală, Nr. 319",
+            "localitate": {
+                "nume": "Valea Mare",
+                "siruta": 65099
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "527170",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-344653",
+                "0267-344631"
+            ],
+            "fax": [
+                "0267-344653",
+                "0267-344631"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Valea Crişului",
+        "adresa": {
+            "strada": "Principală, Nr. 136",
+            "localitate": {
+                "nume": "Valea Crisului",
+                "siruta": 64915
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "527165",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-374541"
+            ],
+            "fax": [
+                "0267-313844"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vâlcele",
+        "adresa": {
+            "strada": "Sat Araci, Nr. 464",
+            "localitate": {
+                "nume": "Valcele",
+                "siruta": 64988
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "527175",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-330148"
+            ],
+            "fax": [
+                "0267-330148"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Turia",
+        "adresa": {
+            "strada": "Principală, Nr. 835",
+            "localitate": {
+                "nume": "Turia",
+                "siruta": 64880
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "527160",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-367010"
+            ],
+            "fax": [
+                "0267-367010"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Târgu-Secuiesc",
+        "adresa": {
+            "strada": "P-Ţa Gábor Áron, Nr. 24",
+            "localitate": {
+                "nume": "Targu Secuiesc",
+                "siruta": 63759
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "525400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-361974"
+            ],
+            "fax": [
+                "0267-361652"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sita Buzăului",
+        "adresa": {
+            "strada": "Nr. 222",
+            "localitate": {
+                "nume": "Sita Buzaului",
+                "siruta": 63697
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "527155",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-373090"
+            ],
+            "fax": [
+                "0267-373048",
+                "0267-373102"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sfântu Gheorghe",
+        "adresa": {
+            "strada": "Petőfi Sándor, Nr. 2",
+            "localitate": {
+                "nume": "Sfantu Gheorghe",
+                "siruta": 63401
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "520085",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-316957",
+                "0267-315611"
+            ],
+            "fax": [
+                "0267-311243"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sânzieni",
+        "adresa": {
+            "strada": "Principală, Nr. 337",
+            "localitate": {
+                "nume": "Sanzieni",
+                "siruta": 64835
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "527150",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-366019"
+            ],
+            "fax": [
+                "0267-366019"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Reci",
+        "adresa": {
+            "strada": "Principală, Nr. 268",
+            "localitate": {
+                "nume": "Reci",
+                "siruta": 64782
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "527145",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-373803"
+            ],
+            "fax": [
+                "0267-373803"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Poian",
+        "adresa": {
+            "strada": "Principală, Nr. 10",
+            "localitate": {
+                "nume": "Poian",
+                "siruta": 64728
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "527140",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-368629"
+            ],
+            "fax": [
+                "0267-368629"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ozun",
+        "adresa": {
+            "strada": "Gabor Aron, Nr. 75",
+            "localitate": {
+                "nume": "Ozun",
+                "siruta": 64648
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "527130",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-331002"
+            ],
+            "fax": [
+                "0267-331003"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ojdula",
+        "adresa": {
+            "strada": "Principală, Nr. 1008",
+            "localitate": {
+                "nume": "Ojdula",
+                "siruta": 64611
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "527125",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-346555"
+            ],
+            "fax": [
+                "0267-346602"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Moacşa",
+        "adresa": {
+            "strada": "Principală, Nr. 354",
+            "localitate": {
+                "nume": "Moacsa",
+                "siruta": 64577
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "527120",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-345721"
+            ],
+            "fax": [
+                "0267-345721"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Micfalău",
+        "adresa": {
+            "strada": "Principală, Nr. 165",
+            "localitate": {
+                "nume": "Micfalau",
+                "siruta": 64513
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "527115",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-344465"
+            ],
+            "fax": [
+                "0267-344465"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mereni",
+        "adresa": {
+            "strada": "Principală, Nr. 250",
+            "localitate": {
+                "nume": "Mereni",
+                "siruta": 64498
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "527112",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-369971",
+                "0267-369970"
+            ],
+            "fax": [
+                "0267-369971"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Malnaş",
+        "adresa": {
+            "strada": "Str. Principala, Nr.171",
+            "localitate": {
+                "nume": "Malnas",
+                "siruta": 64531
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "527117",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-353800",
+                "0267-353573"
+            ],
+            "fax": [
+                "0267-353800"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lemnia",
+        "adresa": {
+            "strada": "Principală, Nr. 170",
+            "localitate": {
+                "nume": "Lemnia",
+                "siruta": 64470
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "527110",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-369182",
+                "0267-369185"
+            ],
+            "fax": [
+                "0267-369182",
+                "0267-369185"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Întorsura Buzăului",
+        "adresa": {
+            "strada": "Mihai Viteazu, Nr. 173",
+            "localitate": {
+                "nume": "Intorsura Buzaului",
+                "siruta": 63599
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "525300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-370337"
+            ],
+            "fax": [
+                "0267-370944"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ilieni",
+        "adresa": {
+            "strada": "Kossuth Lajos, Nr. 97",
+            "localitate": {
+                "nume": "Ilieni",
+                "siruta": 64434
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "527105",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-347614",
+                "0267-347709"
+            ],
+            "fax": [
+                "0267-347614"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Hăghig",
+        "adresa": {
+            "strada": "Hăghig, Nr. 258",
+            "localitate": {
+                "nume": "Haghig",
+                "siruta": 64407
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "527100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-366904"
+            ],
+            "fax": [
+                "0267-366904"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ghidfalău",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ghidfalau",
+                "siruta": 64354
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "527095",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-353787",
+                "0267-353703"
+            ],
+            "fax": [
+                "0267-353787"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ghelinţa",
+        "adresa": {
+            "strada": "Principală, Nr. 345",
+            "localitate": {
+                "nume": "Ghelinta",
+                "siruta": 64327
+            },
+            "judet": {
+                "nume": "Covasna"
+            },
+            "cod-postal": "527090",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0267-345002"
+            ],
+            "fax": [
+                "0267-345002"
+            ]
+        }
+    }
+]

@@ -1,0 +1,2615 @@
+[
+    {
+        "nume": "Primăria Coteana",
+        "adresa": {
+            "strada": "Dc 92, Nr. 119",
+            "localitate": {
+                "nume": "Coteana",
+                "siruta": 126399
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237095",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-419308",
+                "0249-419319"
+            ],
+            "fax": [
+                "0249-419308"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Corbu",
+        "adresa": {
+            "strada": "Principală, Nr. 217",
+            "localitate": {
+                "nume": "Corbu",
+                "siruta": 126335
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237090",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-481006",
+                "0249-480923"
+            ],
+            "fax": [
+                "0249-481006",
+                "0249-480923"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Corabia",
+        "adresa": {
+            "strada": "Cuza Vodă, Nr. 54",
+            "localitate": {
+                "nume": "Corabia",
+                "siruta": 125551
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "235300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-560703",
+                "0249-506154"
+            ],
+            "fax": [
+                "0249-560703",
+                "0249-506154"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Coloneşti",
+        "adresa": {
+            "strada": "Principală, Nr. 61",
+            "localitate": {
+                "nume": "Colonesti",
+                "siruta": 126237
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237080",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-463001"
+            ],
+            "fax": [
+                "0249-463103"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cîrlogani",
+        "adresa": {
+            "strada": "Centrală, Nr. 104",
+            "localitate": {
+                "nume": "Carlogani",
+                "siruta": 126175
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237065",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-474611"
+            ],
+            "fax": [
+                "0249-474666"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cilieni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Cilieni",
+                "siruta": 126157
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237075",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-534002"
+            ],
+            "fax": [
+                "0249-534002"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cezieni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Cezieni",
+                "siruta": 126111
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237070",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-510102"
+            ],
+            "fax": [
+                "0249-510102"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Caracal",
+        "adresa": {
+            "strada": "Piaţa Victoriei, Nr. 10",
+            "localitate": {
+                "nume": "Caracal",
+                "siruta": 125481
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "235200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-511384"
+            ],
+            "fax": [
+                "0249-517518"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Călui",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Calui",
+                "siruta": 127830
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237291",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-456187"
+            ],
+            "fax": [
+                "0249-456187"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bucinişu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Bucinisu",
+                "siruta": 126086
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237060",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-542057"
+            ],
+            "fax": [
+                "0249-542057"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Brebeni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Brebeni",
+                "siruta": 126004
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237055",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-419008"
+            ],
+            "fax": [
+                "0249-419038"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Brastavăţu",
+        "adresa": {
+            "strada": "A. I. Cuza, Nr. 108",
+            "localitate": {
+                "nume": "Brastavatu",
+                "siruta": 125971
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237045",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-540002"
+            ],
+            "fax": [
+                "0249-540002"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Brâncoveni",
+        "adresa": {
+            "strada": "Primăverii, Nr. 95",
+            "localitate": {
+                "nume": "Brancoveni",
+                "siruta": 126031
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237050",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-708500"
+            ],
+            "fax": [
+                "0249-708501"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bobiceşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Bobicesti",
+                "siruta": 125882
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237035",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-455501"
+            ],
+            "fax": [
+                "0249-455501"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bârza",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Barza",
+                "siruta": 125864
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237031",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-451620"
+            ],
+            "fax": [
+                "0249-708881"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bărăşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Barasti",
+                "siruta": 125757
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237020",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-463575"
+            ],
+            "fax": [
+                "0249-463575"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bălteni",
+        "adresa": {
+            "strada": "Gării, Nr. 39",
+            "localitate": {
+                "nume": "Balteni",
+                "siruta": 128070
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237331",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-481600"
+            ],
+            "fax": [
+                "0249-481600"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Balş",
+        "adresa": {
+            "strada": "Nicolae Bălcescu, Nr. 14",
+            "localitate": {
+                "nume": "Bals",
+                "siruta": 125427
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "235100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-450145"
+            ],
+            "fax": [
+                "0249-450140"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Baldovineşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Baldovinesti",
+                "siruta": 125695
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237005",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-456577"
+            ],
+            "fax": [
+                "0249-456577"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Băbiciu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Babiciu",
+                "siruta": 125668
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237015",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-532033"
+            ],
+            "fax": [
+                "0249-532033"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vădastra",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Vadastra",
+                "siruta": 129736
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237510",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-539012",
+                "0249-539016"
+            ],
+            "fax": [
+                "0249-539016"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vultureşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Vulturesti",
+                "siruta": 130240
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237580",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-469003"
+            ],
+            "fax": [
+                "0249-469003"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vulpeni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Vulpeni",
+                "siruta": 130133
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237565",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-456704"
+            ],
+            "fax": [
+                "0249-456770"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Voineasa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Voineasa",
+                "siruta": 130071
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237560",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0744-586802"
+            ],
+            "fax": [
+                "0744-586802"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vlădila",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Vladila",
+                "siruta": 130035
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237555",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-543003"
+            ],
+            "fax": [
+                "0249-543003"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Urzica",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Urzica",
+                "siruta": 129638
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237500",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-538301"
+            ],
+            "fax": [
+                "0249-538301"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tufeni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Tufeni",
+                "siruta": 129594
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237495",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-483355",
+                "0249-483308"
+            ],
+            "fax": [
+                "0249-483308"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Traian",
+        "adresa": {
+            "strada": "Calea Traian, Nr. 142",
+            "localitate": {
+                "nume": "Traian",
+                "siruta": 129576
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237490",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-543301"
+            ],
+            "fax": [
+                "0249-543624"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Topana",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Topana",
+                "siruta": 129512
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237485",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-469501"
+            ],
+            "fax": [
+                "0249-469501"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tia Mare",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Tia Mare",
+                "siruta": 129479
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237480",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-534401"
+            ],
+            "fax": [
+                "0249-534401"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Teslui",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Teslui",
+                "siruta": 129399
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237470",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-467701"
+            ],
+            "fax": [
+                "0249-467788"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tătuleşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Tatulesti",
+                "siruta": 129326
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237460",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-467601",
+                "0249-467690"
+            ],
+            "fax": [
+                "0249-467601"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Studina",
+        "adresa": {
+            "strada": "I.L. Caragiale, Nr. 14",
+            "localitate": {
+                "nume": "Studina",
+                "siruta": 129193
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237445",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-541007"
+            ],
+            "fax": [
+                "0249-541007"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Strejeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Strejesti",
+                "siruta": 129148
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237440",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-472439",
+                "0249-472006"
+            ],
+            "fax": [
+                "0249-472005"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Stoicăneşti",
+        "adresa": {
+            "strada": "Principală, Nr. 71",
+            "localitate": {
+                "nume": "Stoicanesti",
+                "siruta": 129120
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237435",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-487001",
+                "0249-487131"
+            ],
+            "fax": [
+                "0249-487001",
+                "0249-487131"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Stoeneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Stoenesti",
+                "siruta": 129102
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237430",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-531017"
+            ],
+            "fax": [
+                "0249-531017"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ştefan Cel Mare",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Stefan Cel Mare",
+                "siruta": 129291
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237455",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-538076",
+                "0249-538230"
+            ],
+            "fax": [
+                "0249-538076"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sprâncenata",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Sprancenata",
+                "siruta": 129059
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237425",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-489002"
+            ],
+            "fax": [
+                "0249-489002"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vitomireşti",
+        "adresa": {
+            "strada": "Libertății, Nr. 146",
+            "localitate": {
+                "nume": "Vitomiresti",
+                "siruta": 129923
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237545",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-469314"
+            ],
+            "fax": [
+                "0249-469336"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Spineni",
+        "adresa": {
+            "strada": "Spineni,",
+            "localitate": {
+                "nume": "Spineni",
+                "siruta": 129022
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237415",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-469609"
+            ],
+            "fax": [
+                "0249-469609"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şopîrliţa",
+        "adresa": {
+            "strada": "Principală, Nr. 121",
+            "localitate": {
+                "nume": "Soparlita",
+                "siruta": 128212
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237328",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-455382"
+            ],
+            "fax": []
+        }
+    },
+    {
+        "nume": "Primăria Slătioara",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Slatioara",
+                "siruta": 125383
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237410",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-431790"
+            ],
+            "fax": [
+                "0249-431790"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Slatina",
+        "adresa": {
+            "strada": "Mihail Kogălniceanu Nr. 1",
+            "localitate": {
+                "nume": "Slatina",
+                "siruta": 125356
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "230083",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-423429",
+                "0249-439377"
+            ],
+            "fax": [
+                "0249-439336"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şerbăneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Serbanesti",
+                "siruta": 129255
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237450",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-484001"
+            ],
+            "fax": [
+                "0249-484001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Seaca",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Seaca",
+                "siruta": 128873
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237405",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-488001"
+            ],
+            "fax": [
+                "0249-488001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vişina Nouă",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Visina Noua",
+                "siruta": 129727
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237511",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-539222",
+                "0249-539237"
+            ],
+            "fax": [
+                "0249-539222",
+                "0249-539237"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vişina",
+        "adresa": {
+            "strada": "Principală, Nr. 86",
+            "localitate": {
+                "nume": "Visina",
+                "siruta": 129905
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237540",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-540303",
+                "0249-540503"
+            ],
+            "fax": [
+                "0249-540503"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Verguleasa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Verguleasa",
+                "siruta": 129825
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237530",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-468327"
+            ],
+            "fax": [
+                "0249-468327"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Văleni",
+        "adresa": {
+            "strada": "Soarelui, Nr. 2",
+            "localitate": {
+                "nume": "Valeni",
+                "siruta": 129772
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237520",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-487309"
+            ],
+            "fax": [
+                "0249-487702"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Valea Mare",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Valea Mare",
+                "siruta": 129665
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237505",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-480310"
+            ],
+            "fax": [
+                "0249-480320"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vâlcele",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Valcele",
+                "siruta": 129996
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237525",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-484498"
+            ],
+            "fax": [
+                "0249-484498"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vădăstriţa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Vadastrita",
+                "siruta": 129754
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237515",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-539301",
+                "0249-539330"
+            ],
+            "fax": [
+                "0249-539301",
+                "0249-539330"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Scorniceşti",
+        "adresa": {
+            "strada": "Unirii, Nr. 2",
+            "localitate": {
+                "nume": "Scornicesti",
+                "siruta": 128720
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "235600",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-460444"
+            ],
+            "fax": [
+                "0249-460002"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Schitu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Schitu",
+                "siruta": 128668
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-482302",
+                "0249-482502",
+                "0249-482310"
+            ],
+            "fax": [
+                "0249-482302",
+                "0249-482310"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Scărişoara",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Scarisoara",
+                "siruta": 128622
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237395",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-533361",
+                "0249-533346"
+            ],
+            "fax": [
+                "0249-533346"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sârbii Măgura",
+        "adresa": {
+            "strada": "Coșereni, Nr. 1",
+            "localitate": {
+                "nume": "Sarbii Magura",
+                "siruta": 127929
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237302",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-481595"
+            ],
+            "fax": [
+                "0249-481595"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sâmbureşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Samburesti",
+                "siruta": 128891
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237385",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-469007",
+                "0745-767782"
+            ],
+            "fax": [
+                "0249-469002"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Rusăneşti",
+        "adresa": {
+            "strada": "Principală, Nr. 42",
+            "localitate": {
+                "nume": "Rusanesti",
+                "siruta": 128597
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237380",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-533001"
+            ],
+            "fax": [
+                "0249-533040"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Rotunda",
+        "adresa": {
+            "strada": "Principală",
+            "localitate": {
+                "nume": "Rotunda",
+                "siruta": 128579
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237375",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-542570"
+            ],
+            "fax": [
+                "0249-542330"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Redea",
+        "adresa": {
+            "strada": "Aleea Trandafirilor, Nr.16",
+            "localitate": {
+                "nume": "Redea",
+                "siruta": 128533
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237370",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-544007"
+            ],
+            "fax": [
+                "0249-544072"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Radomireşti",
+        "adresa": {
+            "strada": "Eroilor, Nr. 47",
+            "localitate": {
+                "nume": "Radomiresti",
+                "siruta": 128481
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237365",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-489306"
+            ],
+            "fax": [
+                "0249-489306"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Priseaca",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Priseaca",
+                "siruta": 128445
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237360",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-480001"
+            ],
+            "fax": [
+                "0249-480001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Potcoava",
+        "adresa": {
+            "strada": "Principală, Nr. 86",
+            "localitate": {
+                "nume": "Potcoava",
+                "siruta": 128383
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237355",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-462038"
+            ],
+            "fax": [
+                "0249-462355"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Poboru",
+        "adresa": {
+            "strada": "Primăriei, Nr. 87",
+            "localitate": {
+                "nume": "Poboru",
+                "siruta": 128310
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237345",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-463835"
+            ],
+            "fax": [
+                "0249-463835"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pleşoiu",
+        "adresa": {
+            "strada": "Mihai Eminescu, Nr. 79",
+            "localitate": {
+                "nume": "Plesoiu",
+                "siruta": 128230
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237335",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-474024"
+            ],
+            "fax": [
+                "0249-474121"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Piatra Olt",
+        "adresa": {
+            "strada": "Florilor, Nr. 2",
+            "localitate": {
+                "nume": "Piatra-Olt",
+                "siruta": 128114
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "235500",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-417003",
+                "0249-417656"
+            ],
+            "fax": [
+                "0249-417003"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Perieţi",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Perieti",
+                "siruta": 128061
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237330",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0349-525000"
+            ],
+            "fax": [
+                "0349-525000"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pârscoveni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Parscoveni",
+                "siruta": 128187
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237325",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-455308"
+            ],
+            "fax": [
+                "0249-455308"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Osica De Sus",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Osica De Sus",
+                "siruta": 128016
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237310",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-418064"
+            ],
+            "fax": [
+                "0249-417910"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Osica De Jos",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Osica De Jos",
+                "siruta": 126834
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237153",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-455015",
+                "0249-455085"
+            ],
+            "fax": [
+                "0249-455085"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Orlea",
+        "adresa": {
+            "strada": "Sat Orlea Nouă, Valea Dunării, Nr. 2",
+            "localitate": {
+                "nume": "Orlea",
+                "siruta": 127965
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237307",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-536569",
+                "0249-536331"
+            ],
+            "fax": [
+                "0249-536569",
+                "0249-536331"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Optaşi-Măgura",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Optasi-Magura",
+                "siruta": 127901
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-481535"
+            ],
+            "fax": [
+                "0249-481535",
+                "0249-481545"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Oporelu",
+        "adresa": {
+            "strada": "Principală, Nr. 237",
+            "localitate": {
+                "nume": "Oporelu",
+                "siruta": 127867
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237295",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-468020"
+            ],
+            "fax": [
+                "0249-468020"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Oboga",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Oboga",
+                "siruta": 127821
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237290",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-450129"
+            ],
+            "fax": [
+                "0249-890138"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Obârşia",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Obarsia",
+                "siruta": 127769
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237285",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-541318"
+            ],
+            "fax": [
+                "0249-541440"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Nicolae Titulescu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Nicolae Titulescu",
+                "siruta": 127723
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237280",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-485436"
+            ],
+            "fax": [
+                "0249-485335"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Movileni",
+        "adresa": {
+            "strada": "Principală, Nr. 176",
+            "localitate": {
+                "nume": "Movileni",
+                "siruta": 127698
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237275",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-482024"
+            ],
+            "fax": [
+                "0249-482225"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Morunglav",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Morunglav",
+                "siruta": 127634
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237270",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-455721"
+            ],
+            "fax": [
+                "0249-455721"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Milcov",
+        "adresa": {
+            "strada": "Principală, Nr. 15",
+            "localitate": {
+                "nume": "Ulmi",
+                "siruta": 127563
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237260",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0372-919969"
+            ],
+            "fax": [
+                "0372-919969"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mihăeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Mihaesti",
+                "siruta": 127545
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237255",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-488301"
+            ],
+            "fax": [
+                "0249-488400"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mărunţei",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Maruntei",
+                "siruta": 127509
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237250",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-467301",
+                "0249-467309"
+            ],
+            "fax": [
+                "0249-467301",
+                "0249-467309"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Leleasca",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Leleasca",
+                "siruta": 127420
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237240",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-469502"
+            ],
+            "fax": [
+                "0249-469502"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Izvoarele",
+        "adresa": {
+            "strada": "Tănase Constantin, Nr. 58",
+            "localitate": {
+                "nume": "Izvoarele",
+                "siruta": 127395
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237235",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-486048"
+            ],
+            "fax": [
+                "0249-486078"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Izbiceni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Izbiceni",
+                "siruta": 127377
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237230",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-535002",
+                "0249-535006"
+            ],
+            "fax": [
+                "0249-535001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ipoteşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ipotesti",
+                "siruta": 127581
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237261",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0788-985465"
+            ],
+            "fax": [
+                "0788-985465"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Icoana",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Icoana",
+                "siruta": 127331
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237225",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-483021"
+            ],
+            "fax": [
+                "0249-483011"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Iancu Jianu",
+        "adresa": {
+            "strada": "Barbu Știrbei, Nr. 152",
+            "localitate": {
+                "nume": "Iancu Jianu",
+                "siruta": 127297
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237220",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-456011",
+                "0249-456205"
+            ],
+            "fax": [
+                "0249-456011",
+                "0249-456205"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ianca",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ianca",
+                "siruta": 127260
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237215",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-537005"
+            ],
+            "fax": [
+                "0249-537005"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gura Padinii",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Gura Padinii",
+                "siruta": 127956
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237306",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-536461",
+                "0249-536407"
+            ],
+            "fax": [
+                "0249-536461",
+                "0249-536407"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Grojdibodu",
+        "adresa": {
+            "strada": "Cristache Sălcianu, Nr. 110",
+            "localitate": {
+                "nume": "Grojdibodu",
+                "siruta": 127233
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237210",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-536001"
+            ],
+            "fax": [
+                "0249-536022"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Grădinile",
+        "adresa": {
+            "strada": "Neda Marinescu, Nr. 42",
+            "localitate": {
+                "nume": "Gradinile",
+                "siruta": 129219
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237447",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-541032"
+            ],
+            "fax": [
+                "0249-541100"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Grădinari",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Gradinari",
+                "siruta": 127180
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237205",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-472178"
+            ],
+            "fax": [
+                "0249-472178"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gostavăţu",
+        "adresa": {
+            "strada": "Principală, Nr. 54",
+            "localitate": {
+                "nume": "Gostavatu",
+                "siruta": 127153
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-532321"
+            ],
+            "fax": [
+                "0249-532321"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Giuvărăşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Giuvarasti",
+                "siruta": 127135
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237195",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-535601",
+                "0249-535950"
+            ],
+            "fax": [
+                "0249-535601",
+                "0249-535950"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ghimpeţeni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ghimpeteni",
+                "siruta": 127732
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237281",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-485441"
+            ],
+            "fax": [
+                "0249-485441"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Găvăneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Gavanesti",
+                "siruta": 125720
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237009",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-456502"
+            ],
+            "fax": [
+                "0249-456502"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gârcov",
+        "adresa": {
+            "strada": "Şcolii, Nr. 12",
+            "localitate": {
+                "nume": "Garcov",
+                "siruta": 125597
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237190",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-519502",
+                "0249-519501"
+            ],
+            "fax": [
+                "0249-519503"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Găneasa",
+        "adresa": {
+            "strada": "Gabera, Nr. 21",
+            "localitate": {
+                "nume": "Ganeasa",
+                "siruta": 127073
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237185",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-436171"
+            ],
+            "fax": [
+                "0249-436171"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Fărcaşele",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Farcasele",
+                "siruta": 127028
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237180",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-531302"
+            ],
+            "fax": [
+                "0249-531302"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Fălcoiu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Falcoiu",
+                "siruta": 126987
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237175",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-530357",
+                "0249-530360"
+            ],
+            "fax": [
+                "0249-530357"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Făgeţelu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Fagetelu",
+                "siruta": 126914
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237165",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-469523"
+            ],
+            "fax": [
+                "0249-469523"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Drăghiceni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Draghiceni",
+                "siruta": 125506
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237160",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0349-505119"
+            ],
+            "fax": [
+                "0349-505119"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Drăgăneşti Olt",
+        "adresa": {
+            "strada": "Nicolae Titulescu, Nr. 150",
+            "localitate": {
+                "nume": "Draganesti-Olt",
+                "siruta": 125631
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "235400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-465815"
+            ],
+            "fax": [
+                "0249-465811"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dobrun",
+        "adresa": {
+            "strada": "Principală, Nr. 1",
+            "localitate": {
+                "nume": "Dobrun",
+                "siruta": 126861
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237150",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-455072"
+            ],
+            "fax": [
+                "0249-455072"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dobroteasa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Dobroteasa",
+                "siruta": 126781
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237145",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-469005"
+            ],
+            "fax": [
+                "0249-469010"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dobrosloveni",
+        "adresa": {
+            "strada": "Al.I. Cuza, Nr. 1",
+            "localitate": {
+                "nume": "Dobrosloveni",
+                "siruta": 126727
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237140",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-530022"
+            ],
+            "fax": [
+                "0249-530210"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dobreţu",
+        "adresa": {
+            "strada": "Principală, Nr. 56",
+            "localitate": {
+                "nume": "Dobretu",
+                "siruta": 126683
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237135",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-456052"
+            ],
+            "fax": [
+                "0249-891451"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Deveselu",
+        "adresa": {
+            "strada": "Aurel Vlaicu, Nr. 6",
+            "localitate": {
+                "nume": "Deveselu",
+                "siruta": 126656
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237130",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-510560"
+            ],
+            "fax": [
+                "0249-510580"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dăneasa",
+        "adresa": {
+            "strada": "Mihai Viteazu, Nr. 157",
+            "localitate": {
+                "nume": "Daneasa",
+                "siruta": 126594
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237125",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-467016"
+            ],
+            "fax": [
+                "0249-467016"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Curtişoara",
+        "adresa": {
+            "strada": "D.J. 546",
+            "localitate": {
+                "nume": "Curtisoara",
+                "siruta": 126442
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237115",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-470044"
+            ],
+            "fax": [
+                "0249-470044"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cungrea",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Cungrea",
+                "siruta": 126512
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237105",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-468603"
+            ],
+            "fax": [
+                "0249-468603"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Crîmpoia",
+        "adresa": {
+            "strada": "Principală, Nr. 128",
+            "localitate": {
+                "nume": "Crampoia",
+                "siruta": 126415
+            },
+            "judet": {
+                "nume": "Olt"
+            },
+            "cod-postal": "237100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0249-485020"
+            ],
+            "fax": [
+                "0249-485020"
+            ]
+        }
+    }
+]

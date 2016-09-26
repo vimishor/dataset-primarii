@@ -1,0 +1,2669 @@
+[
+    {
+        "nume": "Primăria Câmpulung Moldovenesc",
+        "adresa": {
+            "strada": "22 Decembrie, Nr. 2",
+            "localitate": {
+                "nume": "Campulung Moldovenesc",
+                "siruta": 146511
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "725100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-314425"
+            ],
+            "fax": [
+                "0230-314725"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Calafindeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Calafindesti",
+                "siruta": 147599
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727105",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-281290"
+            ],
+            "fax": [
+                "0230-281290"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cajvana",
+        "adresa": {
+            "strada": "Principală, Nr. 864",
+            "localitate": {
+                "nume": "Cajvana",
+                "siruta": 147642
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-539222"
+            ],
+            "fax": [
+                "0230-539222"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cacica",
+        "adresa": {
+            "strada": "Sat Pârteştii De Sus, Str. Principală, Nr. 234",
+            "localitate": {
+                "nume": "Cacica",
+                "siruta": 147544
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727095",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-237002"
+            ],
+            "fax": [
+                "0230-237085"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Burla",
+        "adresa": {
+            "strada": "Nr. 391",
+            "localitate": {
+                "nume": "Burla",
+                "siruta": 151148
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727616",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-419550"
+            ],
+            "fax": [
+                "0230-419550"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Buneşti",
+        "adresa": {
+            "strada": "Eroilor, Nr. 7",
+            "localitate": {
+                "nume": "Bunesti",
+                "siruta": 147474
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727090",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-549001"
+            ],
+            "fax": [
+                "0230-549001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Broşteni",
+        "adresa": {
+            "strada": "Bistriţei, Nr. 89",
+            "localitate": {
+                "nume": "Brosteni",
+                "siruta": 147367
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727075",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-549786",
+                "0230-549940"
+            ],
+            "fax": [
+                "0230-549786"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Brodina",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Brodina",
+                "siruta": 147250
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727060",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-566522"
+            ],
+            "fax": [
+                "0230-566522"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Breaza",
+        "adresa": {
+            "strada": "Principală, Nr. 115",
+            "localitate": {
+                "nume": "Breaza",
+                "siruta": 147214
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727055",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-574806"
+            ],
+            "fax": [
+                "0230-574806"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Botoşana",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Botosana",
+                "siruta": 147170
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727050",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-539148"
+            ],
+            "fax": [
+                "0230-539207"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bosanci",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Bosanci",
+                "siruta": 147143
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727045",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-527001"
+            ],
+            "fax": [
+                "0230-527256"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Boroaia",
+        "adresa": {
+            "strada": "Înv. Vasile Tomegea",
+            "localitate": {
+                "nume": "Boroaia",
+                "siruta": 147081
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727040",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-548015",
+                "0230-548016"
+            ],
+            "fax": [
+                "0230-548026"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bogdăneşti",
+        "adresa": {
+            "strada": "Principală, Fn",
+            "localitate": {
+                "nume": "Bogdanesti",
+                "siruta": 147063
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727035",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-570511"
+            ],
+            "fax": [
+                "0230-570511"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bilca",
+        "adresa": {
+            "strada": "Principală, Nr. 923",
+            "localitate": {
+                "nume": "Bilca",
+                "siruta": 147045
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727030",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-411143"
+            ],
+            "fax": [
+                "0230-411110"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Berchişeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Berchisesti",
+                "siruta": 148346
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727216",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0330-562098"
+            ],
+            "fax": [
+                "0330-562098"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bălcăuţi",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Balcauti",
+                "siruta": 147009
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727025",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-280589"
+            ],
+            "fax": [
+                "0230-280589"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bălăceana",
+        "adresa": {
+            "strada": "Principală",
+            "localitate": {
+                "nume": "Balaceana",
+                "siruta": 147688
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727126",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-534860"
+            ],
+            "fax": [
+                "0230-534860"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Baia",
+        "adresa": {
+            "strada": "Principală",
+            "localitate": {
+                "nume": "Baia",
+                "siruta": 146913
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727020",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-540990",
+                "0230-572504"
+            ],
+            "fax": [
+                "0230-540990"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Arbore",
+        "adresa": {
+            "strada": "Principală, Nr. 698 A",
+            "localitate": {
+                "nume": "Arbore",
+                "siruta": 146879
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727015",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-539411",
+                "0230-539410"
+            ],
+            "fax": [
+                "0230-539411"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Adâncata",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Adancata",
+                "siruta": 146806
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727005",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-528566",
+                "0230-528568"
+            ],
+            "fax": [
+                "0230-528571"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Frasin",
+        "adresa": {
+            "strada": "Principală, Nr. 90",
+            "localitate": {
+                "nume": "Frasin",
+                "siruta": 148621
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727245",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-235334"
+            ],
+            "fax": [
+                "0230-235334"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Liteni",
+        "adresa": {
+            "strada": "Mihail Sadoveanu, Nr. 17",
+            "localitate": {
+                "nume": "Liteni",
+                "siruta": 149236
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727335",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-538262",
+                "0230-535843",
+                "0230-535701"
+            ],
+            "fax": [
+                "0230-538262"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Putna",
+        "adresa": {
+            "strada": "Principală, Nr. 252A",
+            "localitate": {
+                "nume": "Putna",
+                "siruta": 150052
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727455",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-414102"
+            ],
+            "fax": [
+                "0230-414102"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Zvoriştea",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Zvoristea",
+                "siruta": 151353
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727640",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-528786"
+            ],
+            "fax": [
+                "0230-538799"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Zamostea",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Zamostea",
+                "siruta": 151255
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727630",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-569873"
+            ],
+            "fax": [
+                "0230-569874"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vultureşti",
+        "adresa": {
+            "strada": "Pleşeşti, Nr. 12",
+            "localitate": {
+                "nume": "Plesesti",
+                "siruta": 151166
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727627",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-538497"
+            ],
+            "fax": [
+                "0230-538497"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Volovăţ",
+        "adresa": {
+            "strada": "Principală, Nr. 1334",
+            "localitate": {
+                "nume": "Volovat",
+                "siruta": 151139
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727615",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-419507",
+                "0230-419504"
+            ],
+            "fax": [
+                "0230-419504"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Voiţinel",
+        "adresa": {
+            "strada": "Principală, Nr. 239",
+            "localitate": {
+                "nume": "Voitinel",
+                "siruta": 148907
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727282",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-412224"
+            ],
+            "fax": [
+                "0230-412224"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vicovu De Sus",
+        "adresa": {
+            "strada": "Primariei, Nr. 4-6",
+            "localitate": {
+                "nume": "Vicovu De Sus",
+                "siruta": 151102
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727610",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-413343",
+                "0230-413006"
+            ],
+            "fax": [
+                "0230-413343"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vicovu De Jos",
+        "adresa": {
+            "strada": "Şoseaua Naţională, Nr. 12B",
+            "localitate": {
+                "nume": "Vicovu De Jos",
+                "siruta": 151086
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727605",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-412222",
+                "0230-412221"
+            ],
+            "fax": [
+                "0230-412222"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vereşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Veresti",
+                "siruta": 151031
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727600",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-537664",
+                "0230-537652",
+                "0371-162740"
+            ],
+            "fax": [
+                "0230-537652"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vatra Moldoviţei",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Vatra Moldovitei",
+                "siruta": 150999
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727595",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-336150"
+            ],
+            "fax": [
+                "0230-336251"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vatra Dornei",
+        "adresa": {
+            "strada": "Mihai Eminescu, Nr. 17",
+            "localitate": {
+                "nume": "Vatra Dornei",
+                "siruta": 146753
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "725700",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-375229"
+            ],
+            "fax": [
+                "0230-375170"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vama",
+        "adresa": {
+            "strada": "Victoriei, Nr. 56",
+            "localitate": {
+                "nume": "Vama",
+                "siruta": 150944
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727590",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-239112"
+            ],
+            "fax": [
+                "0230-239045"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Valea Moldovei",
+        "adresa": {
+            "strada": "Principală, Nr. 280",
+            "localitate": {
+                "nume": "Valea Moldovei",
+                "siruta": 150908
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727580",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-573064"
+            ],
+            "fax": [
+                "0230-573064"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vadu Moldovei",
+        "adresa": {
+            "strada": "Principală, Nr. 389",
+            "localitate": {
+                "nume": "Vadu Moldovei",
+                "siruta": 150775
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727560",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-536506",
+                "0230-545574",
+                "0230-536509"
+            ],
+            "fax": [
+                "0230-545574",
+                "0230-536506"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ulma",
+        "adresa": {
+            "strada": "Principală, Fn",
+            "localitate": {
+                "nume": "Ulma",
+                "siruta": 150711
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727555",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-574942"
+            ],
+            "fax": [
+                "0230-574942"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Udeşti",
+        "adresa": {
+            "strada": "Principală, Fn",
+            "localitate": {
+                "nume": "Udesti",
+                "siruta": 150597
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727535",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-538002",
+                "0230-538001"
+            ],
+            "fax": [
+                "0230-538002",
+                "0230-538001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Todireşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Todiresti",
+                "siruta": 150533
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727530",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-539535"
+            ],
+            "fax": [
+                "0230-539543"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Suceviţa",
+        "adresa": {
+            "strada": "Calea Movileștilor, Nr. 153",
+            "localitate": {
+                "nume": "Sucevita",
+                "siruta": 150427
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727510",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-417102"
+            ],
+            "fax": [
+                "0230-417030"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Suceava",
+        "adresa": {
+            "strada": "B-Dul 1 Mai, Nr. 5A",
+            "localitate": {
+                "nume": "Suceava",
+                "siruta": 146272
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "720262",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-212696"
+            ],
+            "fax": [
+                "0230-520593"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Stulpicani",
+        "adresa": {
+            "strada": "Principală, Fn",
+            "localitate": {
+                "nume": "Stulpicani",
+                "siruta": 150365
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727505",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-574760",
+                "0230-574662"
+            ],
+            "fax": [
+                "0230-574760"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Stroieşti",
+        "adresa": {
+            "strada": "Aleea Teilor, Nr. 416",
+            "localitate": {
+                "nume": "Stroiesti",
+                "siruta": 150329
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727500",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-531254"
+            ],
+            "fax": [
+                "0230-531254"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Straja",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Straja",
+                "siruta": 150301
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727495",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-576947"
+            ],
+            "fax": [
+                "0230-576947"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Solca",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Solca",
+                "siruta": 146717
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "725600",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-477215"
+            ],
+            "fax": [
+                "0230-477215"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Slatina",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Slatina",
+                "siruta": 150267
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727490",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-545981"
+            ],
+            "fax": [
+                "0230-545981"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Siret",
+        "adresa": {
+            "strada": "28 Noiembrie, Nr. 1",
+            "localitate": {
+                "nume": "Siret",
+                "siruta": 146664
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "725500",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-280901"
+            ],
+            "fax": [
+                "0230-280624"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Siminicea",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Siminicea",
+                "siruta": 150230
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727485",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-537021"
+            ],
+            "fax": [
+                "0230-537081"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Serbăuţi",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Serbauti",
+                "siruta": 147624
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727108",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-280481"
+            ],
+            "fax": [
+                "0230-280481"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şcheia",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Scheia",
+                "siruta": 146441
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727525",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-526588"
+            ],
+            "fax": [
+                "0230-526556"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Satu Mare",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Satu Mare",
+                "siruta": 150203
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727480",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-419000"
+            ],
+            "fax": [
+                "0230-419060"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şaru Dornei",
+        "adresa": {
+            "strada": "Sat Neagra Şarului, Nr. 138",
+            "localitate": {
+                "nume": "Saru Dornei",
+                "siruta": 150515
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727515",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-574463"
+            ],
+            "fax": [
+                "0230-574463"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Salcea",
+        "adresa": {
+            "strada": "Principală, Fn",
+            "localitate": {
+                "nume": "Salcea",
+                "siruta": 146389
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727475",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-529319"
+            ],
+            "fax": [
+                "0230-529319"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sadova",
+        "adresa": {
+            "strada": "Principală, Nr. 718",
+            "localitate": {
+                "nume": "Sadova",
+                "siruta": 150187
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727470",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-314200",
+                "0230-578730"
+            ],
+            "fax": [
+                "0230-314200"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Râşca",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Rasca",
+                "siruta": 149575
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727388",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-570737",
+                "0230-570577"
+            ],
+            "fax": []
+        }
+    },
+    {
+        "nume": "Primăria Rădăuţi",
+        "adresa": {
+            "strada": "Piaţa Unirii, Nr. 2-4",
+            "localitate": {
+                "nume": "Radauti",
+                "siruta": 146637
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "725400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-561140",
+                "0230-562931"
+            ],
+            "fax": [
+                "0230-564703"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Rădăşeni",
+        "adresa": {
+            "strada": "Principală, Nr. 29",
+            "localitate": {
+                "nume": "Radaseni",
+                "siruta": 150089
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727460",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-547150"
+            ],
+            "fax": [
+                "0230-547150"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Preuteşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Preutesti",
+                "siruta": 149977
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727445",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-541242"
+            ],
+            "fax": []
+        }
+    },
+    {
+        "nume": "Primăria Pojorâta",
+        "adresa": {
+            "strada": "Centru, Nr. 551",
+            "localitate": {
+                "nume": "Pojorata",
+                "siruta": 149940
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727440",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-236345"
+            ],
+            "fax": [
+                "0230-236345"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Poieni Solca",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Poieni-Solca",
+                "siruta": 146726
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "725601",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0330-501051"
+            ],
+            "fax": [
+                "0330-501052"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Poiana Stampei",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Poiana Stampei",
+                "siruta": 149860
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727430",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-575177"
+            ],
+            "fax": [
+                "0230-575177"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pătrăuţi",
+        "adresa": {
+            "strada": "Principală, Fn",
+            "localitate": {
+                "nume": "Patrauti",
+                "siruta": 149842
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727420",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-528020"
+            ],
+            "fax": [
+                "0230-528300",
+                "0230-528020"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pârteştii De Jos",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Partestii De Jos",
+                "siruta": 149799
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727425",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-237019",
+                "0230-237060"
+            ],
+            "fax": [
+                "0230-237060"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Panaci",
+        "adresa": {
+            "strada": "Principală, Nr. 297",
+            "localitate": {
+                "nume": "Panaci",
+                "siruta": 149691
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727405",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-576525"
+            ],
+            "fax": [
+                "0230-576653"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Păltinoasa",
+        "adresa": {
+            "strada": "Principală, Nr. 439",
+            "localitate": {
+                "nume": "Paltinoasa",
+                "siruta": 149762
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727415",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-231316"
+            ],
+            "fax": [
+                "0230-231316"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ostra",
+        "adresa": {
+            "strada": "Principală, Nr. 42",
+            "localitate": {
+                "nume": "Ostra",
+                "siruta": 149664
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-575268"
+            ],
+            "fax": [
+                "0230-575418"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Muzeu Ciocăneşti",
+        "adresa": {
+            "strada": "Principală, Nr. 39",
+            "localitate": {
+                "nume": "Ciocanesti",
+                "siruta": 149165
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727120",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-578022",
+                "0230-578135"
+            ],
+            "fax": [
+                "0230-578135"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Muşeniţa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Musenita",
+                "siruta": 149628
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727390",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-280162"
+            ],
+            "fax": [
+                "0230-280162"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Moldoviţa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Moldovita",
+                "siruta": 149548
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727385",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-336190"
+            ],
+            "fax": [
+                "0230-336190"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Moldova Suliţa",
+        "adresa": {
+            "strada": "Principală, Fn",
+            "localitate": {
+                "nume": "Moldova-Sulita",
+                "siruta": 149511
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727380",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-572222"
+            ],
+            "fax": [
+                "0230-572222"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Moara",
+        "adresa": {
+            "strada": "Universităţii, Nr. 213",
+            "localitate": {
+                "nume": "Moara",
+                "siruta": 149414
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727370",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-536025"
+            ],
+            "fax": [
+                "0230-536136"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mitocu Dragomirnei",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Mitocu Dragomirnei",
+                "siruta": 146334
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727365",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-533802",
+                "0230-533088"
+            ],
+            "fax": [
+                "0230-533802",
+                "0230-533088"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Milişăuţi",
+        "adresa": {
+            "strada": "Bogdan Vodă, Nr. 4",
+            "localitate": {
+                "nume": "Milisauti",
+                "siruta": 146986
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727360",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-418175",
+                "0230-418072"
+            ],
+            "fax": [
+                "0230-418494"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Marginea",
+        "adresa": {
+            "strada": "Principală, Nr. 2441",
+            "localitate": {
+                "nume": "Marginea",
+                "siruta": 149307
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727345",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-416203"
+            ],
+            "fax": [
+                "0230-416203"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mănăstirea Humorului",
+        "adresa": {
+            "strada": "Ştefan Cel Mare, Nr. 142",
+            "localitate": {
+                "nume": "Manastirea Humorului",
+                "siruta": 149389
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727355",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-572765"
+            ],
+            "fax": [
+                "0230-572838"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mălini",
+        "adresa": {
+            "strada": "Principală, Nr. 979",
+            "localitate": {
+                "nume": "Malini",
+                "siruta": 149325
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727350",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-537305"
+            ],
+            "fax": [
+                "0230-543561"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Izvoarele Sucevei",
+        "adresa": {
+            "strada": "Principală, Nr. 53",
+            "localitate": {
+                "nume": "Izvoarele Sucevei",
+                "siruta": 149192
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727330",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-575990",
+                "0230-575991",
+                "0230-575951"
+            ],
+            "fax": [
+                "0230-575990",
+                "0230-575951"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ipoteşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ipotesti",
+                "siruta": 146290
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727325",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-525501"
+            ],
+            "fax": [
+                "0230-534566"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ilişeşti",
+        "adresa": {
+            "strada": "Principală, Nr. 150",
+            "localitate": {
+                "nume": "Ilisesti",
+                "siruta": 147679
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727130",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-521248"
+            ],
+            "fax": [
+                "0230-521248",
+                "0230-534751"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Iaslovăţ",
+        "adresa": {
+            "strada": "Principală, Nr. 577",
+            "localitate": {
+                "nume": "Iaslovat",
+                "siruta": 146968
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727320",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-418219"
+            ],
+            "fax": [
+                "0230-418090"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Iacobeni",
+        "adresa": {
+            "strada": "Republicii, Nr. 73",
+            "localitate": {
+                "nume": "Iacobeni",
+                "siruta": 149147
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727315",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-577128"
+            ],
+            "fax": [
+                "0230-577128"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Horodniceni",
+        "adresa": {
+            "strada": "Fălticenilor, Nr. 475",
+            "localitate": {
+                "nume": "Horodniceni",
+                "siruta": 149058
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727310",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-545736"
+            ],
+            "fax": [
+                "0230-573642"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Horodnic De Sus",
+        "adresa": {
+            "strada": "Principală, Nr. 1434",
+            "localitate": {
+                "nume": "Horodnic De Sus",
+                "siruta": 149129
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727305",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-415311",
+                "0751-252701"
+            ],
+            "fax": [
+                "0230-415311"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Horodnic De Jos",
+        "adresa": {
+            "strada": "Principală, Nr. 115",
+            "localitate": {
+                "nume": "Horodnic De Jos",
+                "siruta": 149110
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727301",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-415110"
+            ],
+            "fax": [
+                "0230-415260"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Hârtop",
+        "adresa": {
+            "strada": "Principală, Nr. 128",
+            "localitate": {
+                "nume": "Hartop",
+                "siruta": 150016
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727449",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-545111"
+            ],
+            "fax": [
+                "0230-545111"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Hănţeşti",
+        "adresa": {
+            "strada": "Principală, Nr. 528A",
+            "localitate": {
+                "nume": "Hantesti",
+                "siruta": 146851
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727011",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-569081",
+                "0230-569009"
+            ],
+            "fax": [
+                "0230-569048"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gura Humorului",
+        "adresa": {
+            "strada": "Piaţa Republicii, Nr. 14",
+            "localitate": {
+                "nume": "Gura Humorului",
+                "siruta": 146593
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "725300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-235051"
+            ],
+            "fax": [
+                "0230-235051"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Grăniceşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Granicesti",
+                "siruta": 148989
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727290",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-414552"
+            ],
+            "fax": [
+                "0230-414552"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Grămeşti",
+        "adresa": {
+            "strada": "Nr. 116",
+            "localitate": {
+                "nume": "Gramesti",
+                "siruta": 148925
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727285",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-569955"
+            ],
+            "fax": [
+                "0230-569955"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gălăneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Galanesti",
+                "siruta": 148881
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727280",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-412320"
+            ],
+            "fax": [
+                "0230-412320"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Fundu Moldovei",
+        "adresa": {
+            "strada": "Principală, Nr. 283",
+            "localitate": {
+                "nume": "Fundu Moldovei",
+                "siruta": 148774
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727265",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-577411"
+            ],
+            "fax": [
+                "0230-577356"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Frumosu",
+        "adresa": {
+            "strada": "Principală, Nr. 72",
+            "localitate": {
+                "nume": "Frumosu",
+                "siruta": 148738
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727260",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-576338"
+            ],
+            "fax": [
+                "0230-576439"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Frătăuţii Vechi",
+        "adresa": {
+            "strada": "Principală, Nr. 8",
+            "localitate": {
+                "nume": "Fratautii Vechi",
+                "siruta": 148701
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727255",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-411596"
+            ],
+            "fax": [
+                "0230-411582"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Frătăuţii Noi",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Fratautii Noi",
+                "siruta": 148676
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727250",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-411003"
+            ],
+            "fax": [
+                "0230-411003"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Forăşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Forasti",
+                "siruta": 148523
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727235",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-542924",
+                "0230-536710",
+                "0230-542910",
+                "0230-536755"
+            ],
+            "fax": [
+                "0230-542924",
+                "0230-536710"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Fântânele",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Fantanele",
+                "siruta": 148462
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727230",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-537749",
+                "0230-537956"
+            ],
+            "fax": [
+                "0230-537749"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Fântâna Mare",
+        "adresa": {
+            "strada": "Gr. M. Cantacuzino",
+            "localitate": {
+                "nume": "Fantana Mare",
+                "siruta": 150828
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727566",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-543280",
+                "0230-543270"
+            ],
+            "fax": [
+                "0230-543280",
+                "0230-543270"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Fălticeni",
+        "adresa": {
+            "strada": "Republicii Nr. 13",
+            "localitate": {
+                "nume": "Falticeni",
+                "siruta": 146548
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "725200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-541422"
+            ],
+            "fax": [
+                "0230-544942"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dumbrăveni",
+        "adresa": {
+            "strada": "Principală, Nr. 1",
+            "localitate": {
+                "nume": "Dumbraveni",
+                "siruta": 148435
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727225",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-245048"
+            ],
+            "fax": [
+                "0230-529432"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Drăguşeni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Draguseni",
+                "siruta": 148391
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727220",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-546576",
+                "0230-536359"
+            ],
+            "fax": [
+                "0230-546576"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Drăgoieşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Dragoiesti",
+                "siruta": 148364
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727215",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-206201"
+            ],
+            "fax": [
+                "0230-551580"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dorneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Dornesti",
+                "siruta": 148300
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727210",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-568217",
+                "0230-568236"
+            ],
+            "fax": [
+                "0230-568217"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dorna Candrenilor",
+        "adresa": {
+            "strada": "Principală, Nr. 85",
+            "localitate": {
+                "nume": "Dorna Candrenilor",
+                "siruta": 148211
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727190",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-575005"
+            ],
+            "fax": [
+                "0230-575167"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dorna Arini",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Dorna-Arini",
+                "siruta": 148159
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-576018"
+            ],
+            "fax": [
+                "0230-576126"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dolheşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Dolhestii Mari",
+                "siruta": 96904
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727180",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-549212",
+                "0230-540515",
+                "0230-549282"
+            ],
+            "fax": [
+                "0230-549249",
+                "0230-540515"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dolhasca",
+        "adresa": {
+            "strada": "Aleea Esplanadei, Nr. 5",
+            "localitate": {
+                "nume": "Dolhasca",
+                "siruta": 148015
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727170",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-546101"
+            ],
+            "fax": [
+                "0230-546101"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dărmăneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Darmanesti",
+                "siruta": 147964
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727155",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-551532"
+            ],
+            "fax": [
+                "0230-551532"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Crucea",
+        "adresa": {
+            "strada": "Principală, Nr. 151",
+            "localitate": {
+                "nume": "Crucea",
+                "siruta": 147893
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727150",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-575591"
+            ],
+            "fax": [
+                "0230-575733"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Coşna",
+        "adresa": {
+            "strada": "Nr. 1",
+            "localitate": {
+                "nume": "Cosna",
+                "siruta": 148220
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727191",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-575142"
+            ],
+            "fax": [
+                "0230-575142"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cornu Luncii",
+        "adresa": {
+            "strada": "Primăriei",
+            "localitate": {
+                "nume": "Cornu Luncii",
+                "siruta": 147795
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727140",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-542296"
+            ],
+            "fax": [
+                "0230-542296"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Comăneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Comanesti",
+                "siruta": 147189
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727135",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-539217",
+                "0230-539284"
+            ],
+            "fax": [
+                "0230-539217",
+                "0230-539284"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ciprian Porumbescu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ciprian Porumbescu",
+                "siruta": 147704
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727125",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-551662",
+                "0230-206064"
+            ],
+            "fax": [
+                "0230-551662",
+                "0230-206064"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cârlibaba",
+        "adresa": {
+            "strada": "Nr. 83",
+            "localitate": {
+                "nume": "Carlibaba Noua",
+                "siruta": 147722
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727110",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-575802"
+            ],
+            "fax": [
+                "0230-575906"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Capu Câmpului",
+        "adresa": {
+            "strada": "Principală, Nr. 428",
+            "localitate": {
+                "nume": "Capu Campului",
+                "siruta": 150917
+            },
+            "judet": {
+                "nume": "Suceava"
+            },
+            "cod-postal": "727585",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0230-573006"
+            ],
+            "fax": [
+                "0230-573006"
+            ]
+        }
+    }
+]

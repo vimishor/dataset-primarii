@@ -1,0 +1,1494 @@
+[
+    {
+        "nume": "Primăria Josenii Bîrgăului",
+        "adresa": {
+            "strada": "Principală, Nr. 153",
+            "localitate": {
+                "nume": "Josenii Bargaului",
+                "siruta": 33391
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-265360",
+                "0263-265876"
+            ],
+            "fax": [
+                "0263-265359"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Rebra",
+        "adresa": {
+            "strada": "Principală, Nr. 1",
+            "localitate": {
+                "nume": "Rebra",
+                "siruta": 34271
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427235",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-366042"
+            ],
+            "fax": [
+                "0263-366259",
+                "0263-366042"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Uriu",
+        "adresa": {
+            "strada": "Principală, Nr. 317",
+            "localitate": {
+                "nume": "Uriu",
+                "siruta": 35278
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427365",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-348100"
+            ],
+            "fax": [
+                "0263-348303"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tiha Bârgăului",
+        "adresa": {
+            "strada": "Principală, Nr. 452",
+            "localitate": {
+                "nume": "Tiha Bargaului",
+                "siruta": 35107
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427360",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-265654"
+            ],
+            "fax": [
+                "0263-265037"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Telciu",
+        "adresa": {
+            "strada": "Principală, Nr. 744A",
+            "localitate": {
+                "nume": "Telciu",
+                "siruta": 35063
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427355",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-369004"
+            ],
+            "fax": [
+                "0263-369004"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Teaca",
+        "adresa": {
+            "strada": "Principală, Nr. 598",
+            "localitate": {
+                "nume": "Teaca",
+                "siruta": 34994
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427345",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-276124"
+            ],
+            "fax": [
+                "0263-276214",
+                "0263-276213"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Târlişua",
+        "adresa": {
+            "strada": "Principală, Nr. 217",
+            "localitate": {
+                "nume": "Tarlisua",
+                "siruta": 35161
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427330",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-352193"
+            ],
+            "fax": [
+                "0263-352161"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Spermezeu",
+        "adresa": {
+            "strada": "Principală, Nr. 295",
+            "localitate": {
+                "nume": "Spermezeu",
+                "siruta": 34556
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427275",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-346516",
+                "0263-346679"
+            ],
+            "fax": [
+                "0263-346516"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şintereag",
+        "adresa": {
+            "strada": "Principală, Nr. 40",
+            "localitate": {
+                "nume": "Sintereag",
+                "siruta": 34912
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427320",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-351327",
+                "0263-351026"
+            ],
+            "fax": [
+                "0263-351026"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Silivaşu De Câmpie",
+        "adresa": {
+            "strada": "Principală, Nr. 80",
+            "localitate": {
+                "nume": "Silivasu De Campie",
+                "siruta": 34431
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427270",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-356011",
+                "0263-356091",
+                "0263-356020"
+            ],
+            "fax": [
+                "0263-356011",
+                "0263-356091"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şieuţ",
+        "adresa": {
+            "strada": "Sat Șieuț, Nr. 197",
+            "localitate": {
+                "nume": "Sieut",
+                "siruta": 34869
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427315",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-261179",
+                "0263-261439"
+            ],
+            "fax": [
+                "0263-261179",
+                "0263-261439"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şieu-Odorhei",
+        "adresa": {
+            "strada": "Principală, Nr. 47",
+            "localitate": {
+                "nume": "Sieu-Odorhei",
+                "siruta": 34789
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427305",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-351778"
+            ],
+            "fax": [
+                "0263-351706"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şieu Măgheruş",
+        "adresa": {
+            "strada": "Nr. 243",
+            "localitate": {
+                "nume": "Sieu-Magherus",
+                "siruta": 34707
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427295",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-277490",
+                "0263-277052"
+            ],
+            "fax": [
+                "0263-277052"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şieu",
+        "adresa": {
+            "strada": "Principală, Nr. 260",
+            "localitate": {
+                "nume": "Sieu",
+                "siruta": 34654
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427290",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-260159",
+                "0263-260108"
+            ],
+            "fax": [
+                "0263-260159",
+                "0263-260108"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şanţ",
+        "adresa": {
+            "strada": "Principală, Nr. 92",
+            "localitate": {
+                "nume": "Sant",
+                "siruta": 34627
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427285",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-379007",
+                "0263-379199"
+            ],
+            "fax": [
+                "0263-379007",
+                "0263-379199"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sânmihaiu De Câmpie",
+        "adresa": {
+            "strada": "Nr. 53",
+            "localitate": {
+                "nume": "Sanmihaiu De Campie",
+                "siruta": 34486
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427260",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-353414"
+            ],
+            "fax": [
+                "0263-353529"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sângeorz-Băi",
+        "adresa": {
+            "strada": "Izvoarelor, Nr. 2",
+            "localitate": {
+                "nume": "Sangeorz-Bai",
+                "siruta": 32606
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "425300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-370598"
+            ],
+            "fax": [
+                "0263-370749"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Salva",
+        "adresa": {
+            "strada": "Principală, Nr. 153",
+            "localitate": {
+                "nume": "Salva",
+                "siruta": 34404
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427255",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-361202"
+            ],
+            "fax": [
+                "0263-361654"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Runcu-Salvei",
+        "adresa": {
+            "strada": "Principală, Nr. 1",
+            "localitate": {
+                "nume": "Runcu Salvei",
+                "siruta": 34413
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427256",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-352211"
+            ],
+            "fax": [
+                "0263-352207"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Romuli",
+        "adresa": {
+            "strada": "Principala, Nr. 363",
+            "localitate": {
+                "nume": "Romuli",
+                "siruta": 34379
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427250",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-383010",
+                "0263-383181"
+            ],
+            "fax": [
+                "0263-383181"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Rodna",
+        "adresa": {
+            "strada": "Principală, Nr. 756",
+            "localitate": {
+                "nume": "Rodna",
+                "siruta": 34342
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427245",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-377010",
+                "0263-377537"
+            ],
+            "fax": [
+                "0263-377010"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Rebrişoara",
+        "adresa": {
+            "strada": "Principală, Nr. 827",
+            "localitate": {
+                "nume": "Rebrisoara",
+                "siruta": 34299
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427240",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-220162",
+                "0263-229290"
+            ],
+            "fax": [
+                "0263-220161"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Prundu Bârgăului",
+        "adresa": {
+            "strada": "Principală, Nr. 512",
+            "localitate": {
+                "nume": "Prundu Bargaului",
+                "siruta": 34244
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427230",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-265011",
+                "0263-266473"
+            ],
+            "fax": [
+                "0263-265009"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Poiana Ilvei",
+        "adresa": {
+            "strada": "Principală, Nr. 97\/A",
+            "localitate": {
+                "nume": "Poiana Ilvei",
+                "siruta": 33756
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427147",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-375533",
+                "0263-375611"
+            ],
+            "fax": [
+                "0263-375533",
+                "0263-375611"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Petru Rareş",
+        "adresa": {
+            "strada": "Reteag, Nr. 272",
+            "localitate": {
+                "nume": "Petru Rares",
+                "siruta": 34173
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427215",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-344000"
+            ],
+            "fax": [
+                "0263-344000"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Parva",
+        "adresa": {
+            "strada": "Principală, Nr. 162",
+            "localitate": {
+                "nume": "Parva",
+                "siruta": 34164
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427210",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-367194",
+                "0263-367110"
+            ],
+            "fax": [
+                "0263-367194",
+                "0263-367110"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Nuşeni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Nuseni",
+                "siruta": 34084
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-350041",
+                "0263-350299",
+                "0263-350303"
+            ],
+            "fax": [
+                "0263-350041",
+                "0263-350299"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Nimigea",
+        "adresa": {
+            "strada": "Principală, Nr. 1",
+            "localitate": {
+                "nume": "Nimigea",
+                "siruta": 33998
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427190",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-381005",
+                "0263-381027",
+                "0263-381888"
+            ],
+            "fax": [
+                "0263-381005",
+                "0263-381027"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Negrileşti",
+        "adresa": {
+            "strada": "Principală, Nr. 494",
+            "localitate": {
+                "nume": "Negrilesti",
+                "siruta": 32991
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427068",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-344760",
+                "0263-344820"
+            ],
+            "fax": [
+                "0263-344820"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Năsăud",
+        "adresa": {
+            "strada": "P-Ţa Unirii, Nr. 15",
+            "localitate": {
+                "nume": "Nasaud",
+                "siruta": 32553
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "425200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-361026",
+                "0263-361027"
+            ],
+            "fax": [
+                "0263-361028",
+                "0263-361029"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Monor",
+        "adresa": {
+            "strada": "Principală, Nr. 408",
+            "localitate": {
+                "nume": "Monor",
+                "siruta": 33961
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427175",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-261830"
+            ],
+            "fax": [
+                "0263-261752"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Milaş",
+        "adresa": {
+            "strada": "Principală, Nr. 282",
+            "localitate": {
+                "nume": "Milas",
+                "siruta": 33890
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427165",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-354397",
+                "0263-354485"
+            ],
+            "fax": [
+                "0263-354397"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Miceştii De Câmpie",
+        "adresa": {
+            "strada": "Principală, Nr. 18",
+            "localitate": {
+                "nume": "Micestii De Campie",
+                "siruta": 33854
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427160",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-356551",
+                "0263-356539"
+            ],
+            "fax": [
+                "0263-356551",
+                "0263-356539"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Matei",
+        "adresa": {
+            "strada": "Principală, Nr. 182",
+            "localitate": {
+                "nume": "Matei",
+                "siruta": 33667
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427135",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-275144",
+                "0263-275225"
+            ],
+            "fax": [
+                "0263-275144",
+                "0263-275174"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mărişelu",
+        "adresa": {
+            "strada": "Principală, Nr. 150",
+            "localitate": {
+                "nume": "Mariselu",
+                "siruta": 33774
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427150",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-272710"
+            ],
+            "fax": [
+                "0263-272585"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Maieru",
+        "adresa": {
+            "strada": "Principală, Nr. 813",
+            "localitate": {
+                "nume": "Maieru",
+                "siruta": 33630
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427130",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-372892",
+                "0263-372893"
+            ],
+            "fax": [
+                "0263-372892",
+                "0263-372893"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Măgura Ilvei",
+        "adresa": {
+            "strada": "Nr. 420",
+            "localitate": {
+                "nume": "Magura Ilvei",
+                "siruta": 33738
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427145",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-375865",
+                "0263-375711"
+            ],
+            "fax": [
+                "0263-375711",
+                "0263-375865"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lunca Ilvei",
+        "adresa": {
+            "strada": "Grănicerilor, Nr. 198",
+            "localitate": {
+                "nume": "Lunca Ilvei",
+                "siruta": 33612
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427125",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-378151"
+            ],
+            "fax": [
+                "0263-378008"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Livezile",
+        "adresa": {
+            "strada": "Nr. 161",
+            "localitate": {
+                "nume": "Livezile",
+                "siruta": 33550
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427120",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-270220",
+                "0263-270034"
+            ],
+            "fax": [
+                "0263-270220",
+                "0263-270034"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Leşu",
+        "adresa": {
+            "strada": "Principală, Nr. 133 A",
+            "localitate": {
+                "nume": "Lesu",
+                "siruta": 33523
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427115",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-375093"
+            ],
+            "fax": [
+                "0263-375093"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lechinţa",
+        "adresa": {
+            "strada": "Independenţei, Nr. 509",
+            "localitate": {
+                "nume": "Lechinta",
+                "siruta": 33444
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427105",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-274433",
+                "0263-274325",
+                "0263-274006"
+            ],
+            "fax": [
+                "0263-274325"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ilva Mică",
+        "adresa": {
+            "strada": "Principală, Nr. 200",
+            "localitate": {
+                "nume": "Ilva Mica",
+                "siruta": 33373
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427095",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-373554"
+            ],
+            "fax": [
+                "0263-373683"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ilva Mare",
+        "adresa": {
+            "strada": "Principală, Nr. 243",
+            "localitate": {
+                "nume": "Ilva Mare",
+                "siruta": 33346
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427090",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-376026",
+                "0263-376008"
+            ],
+            "fax": [
+                "0263-376026",
+                "0263-376008"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Galaţii Bistriţei",
+        "adresa": {
+            "strada": "Principală, Nr. 241",
+            "localitate": {
+                "nume": "Galatii Bistritei",
+                "siruta": 33284
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427085",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-273107",
+                "0263-273004",
+                "0263-273353"
+            ],
+            "fax": [
+                "0263-273004",
+                "0263-273107"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Feldru",
+        "adresa": {
+            "strada": "Principală, Nr. 186",
+            "localitate": {
+                "nume": "Feldru",
+                "siruta": 33257
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427080",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-374339",
+                "0263-374301",
+                "0263-374310"
+            ],
+            "fax": [
+                "0263-374310",
+                "0263-374301"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dumitrița",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Dumitrita",
+                "siruta": 32919
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427037",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-271756"
+            ],
+            "fax": [
+                "0263-271768"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dumitra",
+        "adresa": {
+            "strada": "Principală, Nr. 140",
+            "localitate": {
+                "nume": "Dumitra",
+                "siruta": 33211
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427075",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-380140",
+                "0263-380018"
+            ],
+            "fax": [
+                "0263-380140",
+                "0263-380018"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Coşbuc",
+        "adresa": {
+            "strada": "Principală, Nr. 368",
+            "localitate": {
+                "nume": "Cosbuc",
+                "siruta": 33186
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427070",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-368019",
+                "0263-368016"
+            ],
+            "fax": [
+                "0263-368016"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ciceu-Giurgeşti",
+        "adresa": {
+            "strada": "Principală, Nr. 287 A",
+            "localitate": {
+                "nume": "Ciceu-Giurgesti",
+                "siruta": 32964
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427065",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-345090"
+            ],
+            "fax": [
+                "0263-345090"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ciceu Mihăieşti",
+        "adresa": {
+            "strada": "Nr. 42",
+            "localitate": {
+                "nume": "Ciceu-Mihaiesti",
+                "siruta": 34217
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427218",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-344500"
+            ],
+            "fax": [
+                "0263-344500"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Chiuza",
+        "adresa": {
+            "strada": "Principală, Nr. 14A",
+            "localitate": {
+                "nume": "Chiuza",
+                "siruta": 33131
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427060",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-346001"
+            ],
+            "fax": [
+                "0263-346173"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Chiochiş",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Chiochis",
+                "siruta": 33024
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427045",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-355320",
+                "0263-355310",
+                "0263-355327"
+            ],
+            "fax": [
+                "0263-355320"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cetate",
+        "adresa": {
+            "strada": "Satu Nou, Nr. 53",
+            "localitate": {
+                "nume": "Cetate",
+                "siruta": 32884
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427035",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-271419",
+                "0263-271535",
+                "0263-271729"
+            ],
+            "fax": [
+                "0263-271729"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Căianu Mic",
+        "adresa": {
+            "strada": "Nr.100",
+            "localitate": {
+                "nume": "Caianu Mic",
+                "siruta": 32820
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427025",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-347000"
+            ],
+            "fax": [
+                "0263-347000"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Budeşti",
+        "adresa": {
+            "strada": "Nr. 120",
+            "localitate": {
+                "nume": "Budesti",
+                "siruta": 32777
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427020",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-353106",
+                "0263-353101"
+            ],
+            "fax": [
+                "0263-353101"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Budacu De Jos",
+        "adresa": {
+            "strada": "Principală, Nr. 251",
+            "localitate": {
+                "nume": "Budacu De Jos",
+                "siruta": 32713
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427015",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-272006"
+            ],
+            "fax": [
+                "0263-272006"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Braniştea",
+        "adresa": {
+            "strada": "Principală, Nr. 101",
+            "localitate": {
+                "nume": "Branistea",
+                "siruta": 32679
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427010",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-349000"
+            ],
+            "fax": [
+                "0263-349275"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bistriţa Bârgăului",
+        "adresa": {
+            "strada": "Principală, Nr. 1326",
+            "localitate": {
+                "nume": "Bistrita Bargaului",
+                "siruta": 32642
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427005",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-265286"
+            ],
+            "fax": [
+                "0263-265286"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bistriţa",
+        "adresa": {
+            "strada": "P-Ţa Centrală, Nr. 6",
+            "localitate": {
+                "nume": "Bistrita",
+                "siruta": 32401
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "420040",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-223923",
+                "0263-224706",
+                "0263-235377"
+            ],
+            "fax": [
+                "0263-231046"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Beclean",
+        "adresa": {
+            "strada": "Sediu Vechi: Aleea Ghiocelului, Nr. 6 Sediu Nou: Aleea Trandafirilor, Nr. 2",
+            "localitate": {
+                "nume": "Beclean",
+                "siruta": 32492
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "425100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-343687"
+            ],
+            "fax": [
+                "0263-343686"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Zagra",
+        "adresa": {
+            "strada": "Principală, Nr. 45",
+            "localitate": {
+                "nume": "Zagra",
+                "siruta": 35438
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427385",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-384209",
+                "0263-384212"
+            ],
+            "fax": [
+                "0263-384209"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Urmeniş",
+        "adresa": {
+            "strada": "Principală, Nr. 204",
+            "localitate": {
+                "nume": "Urmenis",
+                "siruta": 35321
+            },
+            "judet": {
+                "nume": "Bistrita-Nasaud"
+            },
+            "cod-postal": "427370",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0263-354177",
+                "0263-354157",
+                "0263-354155"
+            ],
+            "fax": [
+                "0263-354177"
+            ]
+        }
+    }
+]

@@ -1,0 +1,1370 @@
+[
+    {
+        "nume": "Primăria Ghimbav",
+        "adresa": {
+            "strada": "Lungă, Nr. 69",
+            "localitate": {
+                "nume": "Ghimbav",
+                "siruta": 40223
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507075",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-258006",
+                "0268-506604"
+            ],
+            "fax": [
+                "0268-258355"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Fundata",
+        "adresa": {
+            "strada": "Principală, Nr. 56",
+            "localitate": {
+                "nume": "Fundata",
+                "siruta": 41006
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507070",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-236651"
+            ],
+            "fax": [
+                "0268-238068"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Feldioara",
+        "adresa": {
+            "strada": "Octavian Goga, Nr. 55",
+            "localitate": {
+                "nume": "Feldioara",
+                "siruta": 40964
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507065",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-265403"
+            ],
+            "fax": [
+                "0268-265403"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Făgăraş",
+        "adresa": {
+            "strada": "Republicii, Nr. 3",
+            "localitate": {
+                "nume": "Fagaras",
+                "siruta": 40287
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "505200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-211313"
+            ],
+            "fax": [
+                "0268-213020"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dumbrăviţa",
+        "adresa": {
+            "strada": "Mare, Nr. 1176",
+            "localitate": {
+                "nume": "Dumbravita",
+                "siruta": 40937
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507060",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-483100",
+                "0268-483014"
+            ],
+            "fax": [
+                "0268-483014"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Drăguş",
+        "adresa": {
+            "strada": "Principală, Nr. 42",
+            "localitate": {
+                "nume": "Dragus",
+                "siruta": 42254
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507251",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-249618",
+                "0268-249601"
+            ],
+            "fax": [
+                "0268-249601"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Crizbav",
+        "adresa": {
+            "strada": "Principală, Nr. 141",
+            "localitate": {
+                "nume": "Crizbav",
+                "siruta": 41051
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507081",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-481820"
+            ],
+            "fax": [
+                "0268-481755"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cristian",
+        "adresa": {
+            "strada": "Piaţa Libertăţii, Nr. 1",
+            "localitate": {
+                "nume": "Cristian",
+                "siruta": 40919
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507055",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-257376"
+            ],
+            "fax": [
+                "0268-257733"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Comana",
+        "adresa": {
+            "strada": "Principală, Nr. 3",
+            "localitate": {
+                "nume": "Comana",
+                "siruta": 40866
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507051",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-287501"
+            ],
+            "fax": [
+                "0268-287511",
+                "0268-287501"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Codlea",
+        "adresa": {
+            "strada": "Lungă, Nr. 33",
+            "localitate": {
+                "nume": "Codlea",
+                "siruta": 40250
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "505100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-251650"
+            ],
+            "fax": [
+                "0268-251650",
+                "0268-251809"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cincu",
+        "adresa": {
+            "strada": "Pieţii, Nr. 254",
+            "localitate": {
+                "nume": "Cincu",
+                "siruta": 40839
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507045",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-244101"
+            ],
+            "fax": [
+                "0268-244360"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Caţa",
+        "adresa": {
+            "strada": "Principală, Nr. 223",
+            "localitate": {
+                "nume": "Cata",
+                "siruta": 40777
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507040",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-248621",
+                "0268-248533"
+            ],
+            "fax": [
+                "0268-248563"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Buneşti",
+        "adresa": {
+            "strada": "Principală, Nr. 119",
+            "localitate": {
+                "nume": "Bunesti",
+                "siruta": 40713
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507035",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-248710"
+            ],
+            "fax": [
+                "0268-248710"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Budila",
+        "adresa": {
+            "strada": "Principală, Nr. 261",
+            "localitate": {
+                "nume": "Budila",
+                "siruta": 40697
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507030",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-518153",
+                "0268-518117"
+            ],
+            "fax": [
+                "0268-518153"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Braşov",
+        "adresa": {
+            "strada": "Eroilor, Nr. 8",
+            "localitate": {
+                "nume": "Brasov",
+                "siruta": 40205
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "500007",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-416550"
+            ],
+            "fax": [
+                "0268-470147"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bran",
+        "adresa": {
+            "strada": "P-Ţa I. G. Stoian, Nr. 1",
+            "localitate": {
+                "nume": "Bran",
+                "siruta": 40642
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507025",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-236416",
+                "0268-236413"
+            ],
+            "fax": [
+                "0268-236413",
+                "0268-236416"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bod",
+        "adresa": {
+            "strada": "Şcolii, Nr. 139",
+            "localitate": {
+                "nume": "Bod",
+                "siruta": 40615
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507015",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-283099",
+                "0268-283046"
+            ],
+            "fax": [
+                "0268-283190"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Beclean",
+        "adresa": {
+            "strada": "Principală, Nr. 196",
+            "localitate": {
+                "nume": "Beclean",
+                "siruta": 40553
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507010",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-518668"
+            ],
+            "fax": [
+                "0268-518668"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Augustin",
+        "adresa": {
+            "strada": "Lungă, Nr. 238",
+            "localitate": {
+                "nume": "Augustin",
+                "siruta": 41569
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507151",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-284993"
+            ],
+            "fax": [
+                "0374-279816"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Apaţa",
+        "adresa": {
+            "strada": "Principală, Nr. 57",
+            "localitate": {
+                "nume": "Apata",
+                "siruta": 40535
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507005",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-284504"
+            ],
+            "fax": [
+                "0268-284648"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Săcele",
+        "adresa": {
+            "strada": "P-Ţa Libertăţii, Nr. 17",
+            "localitate": {
+                "nume": "Sacele",
+                "siruta": 40447
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "505600",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-276164"
+            ],
+            "fax": [
+                "0268-273091"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Zărneşti",
+        "adresa": {
+            "strada": "Mitropolit Ioan Meţianu, Nr. 1",
+            "localitate": {
+                "nume": "Zarnesti",
+                "siruta": 40508
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "505800",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-515777"
+            ],
+            "fax": [
+                "0268-222012"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vulcan",
+        "adresa": {
+            "strada": "Principală, Nr. 1",
+            "localitate": {
+                "nume": "Vulcan",
+                "siruta": 42405
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507270",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-256354"
+            ],
+            "fax": [
+                "0268-256554"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Voila",
+        "adresa": {
+            "strada": "Principală, Nr. 124",
+            "localitate": {
+                "nume": "Voila",
+                "siruta": 42316
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507260",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-517615"
+            ],
+            "fax": [
+                "0268-517620"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Viştea",
+        "adresa": {
+            "strada": "Principală, Nr. 132",
+            "localitate": {
+                "nume": "Vistea De Jos",
+                "siruta": 42245
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507254",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-247303",
+                "0268-247304"
+            ],
+            "fax": [
+                "0268-247303"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Victoria",
+        "adresa": {
+            "strada": "Stadionului, Nr. 14",
+            "localitate": {
+                "nume": "Victoria",
+                "siruta": 40474
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "505700",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-241008",
+                "0268-241525"
+            ],
+            "fax": [
+                "0268-241501"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vama Buzăului",
+        "adresa": {
+            "strada": "Principală, Nr. 425",
+            "localitate": {
+                "nume": "Vama Buzaului",
+                "siruta": 42192
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507245",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-288505"
+            ],
+            "fax": [
+                "0268-288830"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ungra",
+        "adresa": {
+            "strada": "Principală, Nr. 189",
+            "localitate": {
+                "nume": "Ungra",
+                "siruta": 42165
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507240",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-248211"
+            ],
+            "fax": []
+        }
+    },
+    {
+        "nume": "Primăria Ucea",
+        "adresa": {
+            "strada": "Sat Ucea De Jos, Nr. 78",
+            "localitate": {
+                "nume": "Ucea",
+                "siruta": 42101
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507235",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-247150",
+                "0268-247176"
+            ],
+            "fax": [
+                "0268-247275"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ticuş",
+        "adresa": {
+            "strada": "Ticuşu Vechi, Nr. 198",
+            "localitate": {
+                "nume": "Ticus",
+                "siruta": 42085
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507232",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-285828"
+            ],
+            "fax": [
+                "0268-285807"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Teliu",
+        "adresa": {
+            "strada": "Tudor Vladimirescu, Nr. 449",
+            "localitate": {
+                "nume": "Teliu",
+                "siruta": 42067
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507225",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-518316"
+            ],
+            "fax": [
+                "0268-518316"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tărlungeni",
+        "adresa": {
+            "strada": "Zizinului, Nr. 2",
+            "localitate": {
+                "nume": "Tarlungeni",
+                "siruta": 42012
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507220",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-365713"
+            ],
+            "fax": [
+                "0268-365072"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şoarş",
+        "adresa": {
+            "strada": "Principală, Nr. 111",
+            "localitate": {
+                "nume": "Soars",
+                "siruta": 41952
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507215",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-285454",
+                "0268-285440"
+            ],
+            "fax": [
+                "0268-285440"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şinca Nouă",
+        "adresa": {
+            "strada": "Principală, Nr. 358",
+            "localitate": {
+                "nume": "Sinca Noua",
+                "siruta": 41658
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507210",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-228698",
+                "0268-228721"
+            ],
+            "fax": [
+                "0268-228721"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şinca",
+        "adresa": {
+            "strada": "Principală, Nr. 314",
+            "localitate": {
+                "nume": "Sinca",
+                "siruta": 41863
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507206",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-245301",
+                "0268-245555"
+            ],
+            "fax": [
+                "0268-245555"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şercaia",
+        "adresa": {
+            "strada": "Principală, Nr. 82",
+            "localitate": {
+                "nume": "Sercaia",
+                "siruta": 41827
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507195",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-245809"
+            ],
+            "fax": [
+                "0268-245923"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sânpetru",
+        "adresa": {
+            "strada": "Republicii, Nr. 646",
+            "localitate": {
+                "nume": "Sanpetru",
+                "siruta": 41934
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507190",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-360118",
+                "0268-360028",
+                "0268-360172"
+            ],
+            "fax": [
+                "0268-360118"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sâmbăta De Sus",
+        "adresa": {
+            "strada": "Lisei, Nr. 150",
+            "localitate": {
+                "nume": "Sambata De Sus",
+                "siruta": 42361
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507266",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-246901"
+            ],
+            "fax": [
+                "0268-246901",
+                "0368-816325"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Rupea",
+        "adresa": {
+            "strada": "Republicii, Nr. 169",
+            "localitate": {
+                "nume": "Rupea",
+                "siruta": 40401
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "505500",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-260490"
+            ],
+            "fax": [
+                "0268-260788"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Recea",
+        "adresa": {
+            "strada": "Principală, Nr. 42",
+            "localitate": {
+                "nume": "Recea",
+                "siruta": 41747
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507180",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-246003"
+            ],
+            "fax": [
+                "0268-246003"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Râşnov",
+        "adresa": {
+            "strada": "I. Luca Caragiale, Nr. 21",
+            "localitate": {
+                "nume": "Rasnov",
+                "siruta": 40376
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "505400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-230002",
+                "0268-230115",
+                "0268-230027"
+            ],
+            "fax": [
+                "0368-401858"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Racoş",
+        "adresa": {
+            "strada": "Dr. Imreh Barna, Nr. 13",
+            "localitate": {
+                "nume": "Racos",
+                "siruta": 41710
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507175",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-286809"
+            ],
+            "fax": [
+                "0268-286809"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Prejmer",
+        "adresa": {
+            "strada": "Mare, Nr. 565",
+            "localitate": {
+                "nume": "Prejmer",
+                "siruta": 41676
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507165",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-362003",
+                "0268-362363"
+            ],
+            "fax": [
+                "0268-362363"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Predeal",
+        "adresa": {
+            "strada": "Bvd. Mihail Saulescu , Nr. 127",
+            "localitate": {
+                "nume": "Predeal",
+                "siruta": 40312
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "505300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-456237",
+                "0268-456332",
+                "0268-455256"
+            ],
+            "fax": [
+                "0268-455425"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Poiana Mărului",
+        "adresa": {
+            "strada": "Principală, Nr. 189",
+            "localitate": {
+                "nume": "Poiana Marului",
+                "siruta": 41630
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507160",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0368-008176"
+            ],
+            "fax": [
+                "0368-008177"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Părău",
+        "adresa": {
+            "strada": "Principală, Nr. 214",
+            "localitate": {
+                "nume": "Parau",
+                "siruta": 41587
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507155",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-287155",
+                "0268-287112"
+            ],
+            "fax": [
+                "0268-287155",
+                "0268-287178"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ormeniş",
+        "adresa": {
+            "strada": "Principală, Nr. 291",
+            "localitate": {
+                "nume": "Ormenis",
+                "siruta": 41550
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507150",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-284974"
+            ],
+            "fax": [
+                "0372-002771"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Moieciu",
+        "adresa": {
+            "strada": "Sat Moieciu De Jos, Principală, Nr. 330A",
+            "localitate": {
+                "nume": "Moieciu",
+                "siruta": 41471
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507130",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0368-446458",
+                "0368-446459",
+                "0368-446457"
+            ],
+            "fax": [
+                "0368-446458",
+                "0368-446459",
+                "0368-446457"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mândra",
+        "adresa": {
+            "strada": "Principală, Nr. 364",
+            "localitate": {
+                "nume": "Mandra",
+                "siruta": 41426
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507125",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-247618"
+            ],
+            "fax": [
+                "0268-247619"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Măieruş",
+        "adresa": {
+            "strada": "Nicolae Bălcescu, Nr. 2",
+            "localitate": {
+                "nume": "Maierus",
+                "siruta": 41391
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507120",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-284771"
+            ],
+            "fax": [
+                "0268-284757"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lisa",
+        "adresa": {
+            "strada": "Principală, Nr. 194",
+            "localitate": {
+                "nume": "Lisa",
+                "siruta": 41355
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507115",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-246795",
+                "0268-246825"
+            ],
+            "fax": [
+                "0268-246795"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Jibert",
+        "adresa": {
+            "strada": "Principală, Nr. 129",
+            "localitate": {
+                "nume": "Jibert",
+                "siruta": 41293
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507110",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-285585",
+                "0268-285584"
+            ],
+            "fax": [
+                "0268-285528"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Homorod",
+        "adresa": {
+            "strada": "Principală, Nr. 403",
+            "localitate": {
+                "nume": "Homorod",
+                "siruta": 41257
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507105",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-286542"
+            ],
+            "fax": [
+                "0268-286601"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Holbav",
+        "adresa": {
+            "strada": "Principală, Nr. 39",
+            "localitate": {
+                "nume": "Holbav",
+                "siruta": 42423
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507272",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-483670",
+                "0268-483669"
+            ],
+            "fax": [
+                "0268-483669"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Hoghiz",
+        "adresa": {
+            "strada": "Făgăraşului, Nr. 161",
+            "localitate": {
+                "nume": "Hoghiz",
+                "siruta": 41186
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507095",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-286226",
+                "0268-286138"
+            ],
+            "fax": [
+                "0268-286138"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Hârseni",
+        "adresa": {
+            "strada": "Principală, Nr. 175",
+            "localitate": {
+                "nume": "Harseni",
+                "siruta": 41122
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507090",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-247800"
+            ],
+            "fax": [
+                "0268-247800",
+                "0268-247832"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Hărman",
+        "adresa": {
+            "strada": "Pieţii, Nr. 1",
+            "localitate": {
+                "nume": "Harman",
+                "siruta": 41097
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507085",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-367523",
+                "0268-367221"
+            ],
+            "fax": [
+                "0268-367144"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Hălchiu",
+        "adresa": {
+            "strada": "Feldioarei, Nr. 1",
+            "localitate": {
+                "nume": "Halchiu",
+                "siruta": 41042
+            },
+            "judet": {
+                "nume": "Brasov"
+            },
+            "cod-postal": "507080",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0268-481174"
+            ],
+            "fax": [
+                "0268-481003"
+            ]
+        }
+    }
+]

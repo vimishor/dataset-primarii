@@ -1,0 +1,1655 @@
+[
+    {
+        "nume": "Primăria Cîlnic",
+        "adresa": {
+            "strada": "Nr. 276",
+            "localitate": {
+                "nume": "Calnic",
+                "siruta": 79745
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217145",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-276102",
+                "0253-276527"
+            ],
+            "fax": [
+                "0253-276102"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cătunele",
+        "adresa": {
+            "strada": "Sat Valea Perilor",
+            "localitate": {
+                "nume": "Catunele",
+                "siruta": 79594
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217135",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-411023"
+            ],
+            "fax": [
+                "0253-411023"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Căpreni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Capreni",
+                "siruta": 79503
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217125",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-282096",
+                "0253-282132"
+            ],
+            "fax": [
+                "0253-282096"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bustuchin",
+        "adresa": {
+            "strada": "Principală, Nr. 24",
+            "localitate": {
+                "nume": "Bustuchin",
+                "siruta": 79415
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217115",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-475156",
+                "0253-475125"
+            ],
+            "fax": [
+                "0253-475156"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bumbeşti-Jiu",
+        "adresa": {
+            "strada": "Parângului, Nr. 101",
+            "localitate": {
+                "nume": "Bumbesti-Jiu",
+                "siruta": 79317
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "215100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-463465"
+            ],
+            "fax": [
+                "0253-463872"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bumbeşti Pitic",
+        "adresa": {
+            "strada": "Principală, Nr. 43",
+            "localitate": {
+                "nume": "Bumbesti-Pitic",
+                "siruta": 79371
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217110",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-232200"
+            ],
+            "fax": [
+                "0253-232200"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Brăneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Branesti",
+                "siruta": 79246
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-288022",
+                "0253-288100"
+            ],
+            "fax": [
+                "0253-288022"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Borăscu",
+        "adresa": {
+            "strada": "Principală",
+            "localitate": {
+                "nume": "Borascu",
+                "siruta": 79166
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217090",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-287001",
+                "0253-287304",
+                "0253-287303"
+            ],
+            "fax": [
+                "0253-287001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bolboşi",
+        "adresa": {
+            "strada": "Principală, Nr. 69",
+            "localitate": {
+                "nume": "Bolbosi",
+                "siruta": 79086
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217080",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-287505",
+                "0253-287755"
+            ],
+            "fax": [
+                "0253-287505",
+                "0253-287755"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bîlteni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Balteni",
+                "siruta": 79013
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217060",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-233302"
+            ],
+            "fax": [
+                "0253-233302"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Berleşti",
+        "adresa": {
+            "strada": "Principală",
+            "localitate": {
+                "nume": "Parau Viu",
+                "siruta": 78971
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217074",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-271080"
+            ],
+            "fax": [
+                "0253-271080"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bengeşti Ciocadia",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Bengesti-Ciocadia",
+                "siruta": 78873
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217065",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-273742",
+                "0253-274036"
+            ],
+            "fax": [
+                "0253-274036"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bărbăteşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Barbatesti",
+                "siruta": 78837
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217055",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-270503"
+            ],
+            "fax": [
+                "0253-270503"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Băleşti",
+        "adresa": {
+            "strada": "Nr. 229",
+            "localitate": {
+                "nume": "Balesti",
+                "siruta": 77929
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217045",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-220037"
+            ],
+            "fax": [
+                "0253-220038"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bălăneşti",
+        "adresa": {
+            "strada": "Sat Voiteştii Din Vale, Nr. 228",
+            "localitate": {
+                "nume": "Balanesti",
+                "siruta": 78757
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217035",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-270114"
+            ],
+            "fax": [
+                "0253-270287"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mătăsari",
+        "adresa": {
+            "strada": "Principală, Nr. 253A",
+            "localitate": {
+                "nume": "Matasari",
+                "siruta": 80855
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217295",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-376551",
+                "0253-376782"
+            ],
+            "fax": [
+                "0253-376782"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Logreşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Logresti",
+                "siruta": 80766
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217285",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-284027",
+                "0253-284067"
+            ],
+            "fax": [
+                "0253-284027"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Licurici",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Licurici",
+                "siruta": 80720
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217280",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-231647",
+                "0253-231677"
+            ],
+            "fax": [
+                "0253-231647"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Leleşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Lelesti",
+                "siruta": 80686
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217275",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-278484",
+                "0253-278687"
+            ],
+            "fax": [
+                "0253-278687"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Jupanesti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Jupanesti",
+                "siruta": 80622
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217270",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-230697"
+            ],
+            "fax": [
+                "0253-230697"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ioneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ionesti",
+                "siruta": 80579
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217265",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-288505"
+            ],
+            "fax": [
+                "0253-288505"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Hurezani",
+        "adresa": {
+            "strada": "Principală, Nr. 80",
+            "localitate": {
+                "nume": "Hurezani",
+                "siruta": 80515
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217260",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-231107"
+            ],
+            "fax": [
+                "0253-231107"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Godineşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Godinesti",
+                "siruta": 80436
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217250",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-377001"
+            ],
+            "fax": [
+                "0253-377001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Glogova",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Glogova",
+                "siruta": 80409
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217245",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-411411"
+            ],
+            "fax": [
+                "0253-411411"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Fărcăşeşti",
+        "adresa": {
+            "strada": "Principala Nr.1",
+            "localitate": {
+                "nume": "Farcasesti",
+                "siruta": 80294
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217235",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-289544"
+            ],
+            "fax": [
+                "0253-289651"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Drăguţeşti",
+        "adresa": {
+            "strada": "Nr. 115",
+            "localitate": {
+                "nume": "Dragutesti",
+                "siruta": 78025
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217225",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-227625",
+                "0253-227543"
+            ],
+            "fax": [
+                "0253-227518",
+                "0253-227543"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dragoteşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Dragotesti",
+                "siruta": 80258
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217220",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-376701",
+                "0253-376000"
+            ],
+            "fax": [
+                "0253-376701"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dăneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Danesti",
+                "siruta": 80132
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-271600"
+            ],
+            "fax": [
+                "0253-271855"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dănciuleşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Danciulesti",
+                "siruta": 80052
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217190",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-289007",
+                "0253-289356"
+            ],
+            "fax": [
+                "0253-289007"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cruşeţ",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Cruset",
+                "siruta": 79941
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217175",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-283075"
+            ],
+            "fax": [
+                "0253-283101"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Crasna",
+        "adresa": {
+            "strada": "Cărpiniş, Nr. 79",
+            "localitate": {
+                "nume": "Crasna",
+                "siruta": 79843
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217165",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-474216",
+                "0253-474101"
+            ],
+            "fax": [
+                "0253-474101"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Negomir",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Negomir",
+                "siruta": 80999
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217310",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-285100",
+                "0253-285121"
+            ],
+            "fax": [
+                "0253-285121"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Muşeteşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Musetesti",
+                "siruta": 80917
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-272501"
+            ],
+            "fax": [
+                "0253-272501"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Motru",
+        "adresa": {
+            "strada": "Gării, Nr. 1",
+            "localitate": {
+                "nume": "Motru",
+                "siruta": 78150
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "215200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0372-788536",
+                "0253-410560",
+                "0372-362558"
+            ],
+            "fax": [
+                "0253-410560",
+                "0253-410007"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ciuperceni",
+        "adresa": {
+            "strada": "Nr. 91",
+            "localitate": {
+                "nume": "Ciuperceni",
+                "siruta": 79665
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217155",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-276526"
+            ],
+            "fax": [
+                "0253-276106"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Stejari",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Stejari",
+                "siruta": 82252
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217470",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-235282",
+                "0253-235302",
+                "0253-235262"
+            ],
+            "fax": [
+                "0253-235282"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Stăneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Stanesti",
+                "siruta": 82145
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217455",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-273022",
+                "0253-273355"
+            ],
+            "fax": [
+                "0253-273355",
+                "0253-273022"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Târgu Cărbuneşti",
+        "adresa": {
+            "strada": "Trandafirilor, Nr. 41",
+            "localitate": {
+                "nume": "Targu Carbunesti",
+                "siruta": 78338
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "215500",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-378603"
+            ],
+            "fax": [
+                "0253-378663"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ţânţăreni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Tantareni",
+                "siruta": 82699
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217535",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-473109",
+                "0253-473108"
+            ],
+            "fax": [
+                "0253-473109"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Stoina",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Stoina",
+                "siruta": 82323
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217480",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-281020"
+            ],
+            "fax": [
+                "0253-281120"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Slivileşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Slivilesti",
+                "siruta": 82056
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217445",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-335300"
+            ],
+            "fax": []
+        }
+    },
+    {
+        "nume": "Primăria Scoarţa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Scoarta",
+                "siruta": 81870
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217425",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-280222"
+            ],
+            "fax": [
+                "0253-280222"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Schela",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Schela",
+                "siruta": 82038
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217420",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-226538"
+            ],
+            "fax": [
+                "0253-226733"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Săuleşti",
+        "adresa": {
+            "strada": "Com.Saulesti,Sat.Saulesti,Jud.Gorj",
+            "localitate": {
+                "nume": "Saulesti",
+                "siruta": 81825
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217415",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-472126"
+            ],
+            "fax": [
+                "0253-472001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Samarineşti",
+        "adresa": {
+            "strada": "Nr. 12",
+            "localitate": {
+                "nume": "Samarinesti",
+                "siruta": 81665
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-412012"
+            ],
+            "fax": [
+                "0253-412012"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Săcelu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Sacelu",
+                "siruta": 81763
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217410",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-275502"
+            ],
+            "fax": [
+                "0253-275687",
+                "0253-275502"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Runcu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Runcu",
+                "siruta": 81585
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217390",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-278818",
+                "0253-278808"
+            ],
+            "fax": [
+                "0253-278818",
+                "0253-279400"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Rovinari",
+        "adresa": {
+            "strada": "Florilor, Nr. 2",
+            "localitate": {
+                "nume": "Rovinari",
+                "siruta": 79059
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "215400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-371011",
+                "0253-371095"
+            ],
+            "fax": [
+                "0253-371004"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Roşia De Amaradia",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Rosia De Amaradia",
+                "siruta": 81503
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217380",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-232504"
+            ],
+            "fax": [
+                "0253-232504"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Prigoria",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Prigoria",
+                "siruta": 81424
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217370",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0374-013444"
+            ],
+            "fax": [
+                "0374-013444"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Polovragi",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Polovragi",
+                "siruta": 81399
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217365",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-476135"
+            ],
+            "fax": [
+                "0253-476015"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Plopşoru",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Valeni",
+                "siruta": 81273
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217345",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-285655"
+            ],
+            "fax": [
+                "0253-285660"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Peştişani",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Pestisani",
+                "siruta": 81193
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217335",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-277151",
+                "0253-277100"
+            ],
+            "fax": [
+                "0253-277100",
+                "0253-277151"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Padeş",
+        "adresa": {
+            "strada": "Sat Călugăreni",
+            "localitate": {
+                "nume": "Calugareni",
+                "siruta": 81102
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217327",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-471101",
+                "0253-471298"
+            ],
+            "fax": [
+                "0253-471298"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Novaci",
+        "adresa": {
+            "strada": "Parângului, Nr. 79",
+            "localitate": {
+                "nume": "Novaci",
+                "siruta": 78267
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "215300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-466221",
+                "0253-466552"
+            ],
+            "fax": [
+                "0253-466552"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vladimir",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Vladimir",
+                "siruta": 82877
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217550",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-230131",
+                "0253-230299",
+                "0253-230175"
+            ],
+            "fax": [
+                "0253-230175"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Văgiuleşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Vagiulesti",
+                "siruta": 82788
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217545",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-412505"
+            ],
+            "fax": [
+                "0253-412424"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Urdari",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Urdari",
+                "siruta": 82742
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217540",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-233465"
+            ],
+            "fax": [
+                "0253-233465"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Turcineşti",
+        "adresa": {
+            "strada": "Principală, Nr. 175",
+            "localitate": {
+                "nume": "Turcinesti",
+                "siruta": 78098
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217530",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-226549"
+            ],
+            "fax": [
+                "0253-226735"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Turceni",
+        "adresa": {
+            "strada": "Muncii, Nr. 12",
+            "localitate": {
+                "nume": "Turceni",
+                "siruta": 82626
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217520",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-335024",
+                "0253-335025",
+                "0353-410330"
+            ],
+            "fax": [
+                "0253-335026"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Turburea",
+        "adresa": {
+            "strada": "Nr. 96",
+            "localitate": {
+                "nume": "Turburea",
+                "siruta": 82564
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217515",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-472383"
+            ],
+            "fax": [
+                "0253-472383"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tismana",
+        "adresa": {
+            "strada": "Principală, Nr. 1",
+            "localitate": {
+                "nume": "Tismana",
+                "siruta": 82449
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217495",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-206101",
+                "0253-374421"
+            ],
+            "fax": [
+                "0253-206102"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ţicleni",
+        "adresa": {
+            "strada": "Petroliştilor, Nr. 769",
+            "localitate": {
+                "nume": "Ticleni",
+                "siruta": 78463
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "215600",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-234361"
+            ],
+            "fax": [
+                "0253-234333"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Teleşti",
+        "adresa": {
+            "strada": "Principală, Fn",
+            "localitate": {
+                "nume": "Telesti",
+                "siruta": 82403
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217490",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-276482"
+            ],
+            "fax": [
+                "0253-276158"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Baia De Fier",
+        "adresa": {
+            "strada": "Principală, Nr. 364",
+            "localitate": {
+                "nume": "Baia De Fier",
+                "siruta": 78720
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217030",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-461202"
+            ],
+            "fax": [
+                "0253-461012"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Arcani",
+        "adresa": {
+            "strada": "Principală",
+            "localitate": {
+                "nume": "Arcani",
+                "siruta": 78677
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217025",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-278004",
+                "0253-278303"
+            ],
+            "fax": [
+                "0253-278004"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Aninoasa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Aninoasa",
+                "siruta": 78613
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217020",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-477223",
+                "0253-477110"
+            ],
+            "fax": [
+                "0253-477223"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Alimpeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Alimpesti",
+                "siruta": 78551
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217015",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-275181",
+                "0253-275103"
+            ],
+            "fax": [
+                "0253-275182"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Albeni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Albeni",
+                "siruta": 78481
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "217005",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-274484",
+                "0253-274402"
+            ],
+            "fax": [
+                "0253-274402"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Târgu Jiu",
+        "adresa": {
+            "strada": "B-Dul Constantin Brâncuşi, Nr. 19",
+            "localitate": {
+                "nume": "Targu Jiu",
+                "siruta": 77821
+            },
+            "judet": {
+                "nume": "Gorj"
+            },
+            "cod-postal": "210192",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0253-212299",
+                "0253-213317"
+            ],
+            "fax": [
+                "0253-215882"
+            ]
+        }
+    }
+]

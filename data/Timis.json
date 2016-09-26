@@ -1,0 +1,2327 @@
+[
+    {
+        "nume": "Primăria Chevereşu Mare",
+        "adresa": {
+            "strada": "Cheveresu Mare, Nr.277",
+            "localitate": {
+                "nume": "Cheveresu Mare",
+                "siruta": 156320
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307105",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-415008"
+            ],
+            "fax": [
+                "0256-415112"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Checea",
+        "adresa": {
+            "strada": "Principală, Nr. 184",
+            "localitate": {
+                "nume": "Checea",
+                "siruta": 156302
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307102",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-360373"
+            ],
+            "fax": [
+                "0256-234862"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cenei",
+        "adresa": {
+            "strada": "Principală, Nr. 134",
+            "localitate": {
+                "nume": "Cenei",
+                "siruta": 156286
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-366101"
+            ],
+            "fax": [
+                "0256-366416"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cenad",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Cenad",
+                "siruta": 156268
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307095",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-374507",
+                "0256-374501"
+            ],
+            "fax": [
+                "0256-374501"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cărpiniş",
+        "adresa": {
+            "strada": "Str. Iii, Nr. 42",
+            "localitate": {
+                "nume": "Carpinis",
+                "siruta": 156222
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307090",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-365001"
+            ],
+            "fax": [
+                "0256-365001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Buziaş",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Buzias",
+                "siruta": 155412
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "305100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-321450"
+            ],
+            "fax": [
+                "0256-321451"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bucovăţ",
+        "adresa": {
+            "strada": "Principală, Nr. 183",
+            "localitate": {
+                "nume": "Bucovat (Remetea Mare)",
+                "siruta": 158421
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307352",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-296282"
+            ],
+            "fax": [
+                "0256-296283"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Brestovăţ",
+        "adresa": {
+            "strada": "Principală, Nr. 20",
+            "localitate": {
+                "nume": "Brestovat",
+                "siruta": 156160
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307085",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-231460"
+            ],
+            "fax": [
+                "0256-231460"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Boldur",
+        "adresa": {
+            "strada": "Principală, Nr. 176",
+            "localitate": {
+                "nume": "Boldur",
+                "siruta": 156115
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307080",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-356947"
+            ],
+            "fax": [
+                "0256-356947"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bogda",
+        "adresa": {
+            "strada": "Principală, Nr. 9",
+            "localitate": {
+                "nume": "Bogda",
+                "siruta": 156044
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307070",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-231230"
+            ],
+            "fax": [
+                "0256-234325"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Birda",
+        "adresa": {
+            "strada": "Principală, Nr. 110",
+            "localitate": {
+                "nume": "Birda",
+                "siruta": 157111
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307187",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-312530",
+                "0256-312583"
+            ],
+            "fax": [
+                "0256-312530"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Biled",
+        "adresa": {
+            "strada": "Principală, Nr. 359",
+            "localitate": {
+                "nume": "Biled",
+                "siruta": 155920
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307060",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-377001"
+            ],
+            "fax": [
+                "0256-377300"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bethausen",
+        "adresa": {
+            "strada": "Str.Principala Nr. 66",
+            "localitate": {
+                "nume": "Bethausen",
+                "siruta": 155859
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307050",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-333303",
+                "0256-333502"
+            ],
+            "fax": [
+                "0256-333319"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Belinţ",
+        "adresa": {
+            "strada": "Principală, Nr. 147",
+            "localitate": {
+                "nume": "Belint",
+                "siruta": 155804
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307045",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-327165",
+                "0256-327126"
+            ],
+            "fax": [
+                "0256-327165"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Becicherecu Mic",
+        "adresa": {
+            "strada": "Principală, Nr. 649",
+            "localitate": {
+                "nume": "Becicherecu Mic",
+                "siruta": 155779
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307040",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-378501"
+            ],
+            "fax": [
+                "0256-378805"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Beba Veche",
+        "adresa": {
+            "strada": "Str. Beba Veche, Nr. 292",
+            "localitate": {
+                "nume": "Beba Veche",
+                "siruta": 155733
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307035",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-385501",
+                "0256-385600"
+            ],
+            "fax": [
+                "0256-385501"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bârna",
+        "adresa": {
+            "strada": "Principală, Nr. 71",
+            "localitate": {
+                "nume": "Barna",
+                "siruta": 155966
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307025",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-334415"
+            ],
+            "fax": [
+                "0256-334400"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bara",
+        "adresa": {
+            "strada": "Principală, Nr. 44",
+            "localitate": {
+                "nume": "Bara",
+                "siruta": 155671
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307020",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-333101"
+            ],
+            "fax": [
+                "0256-333101"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Banloc",
+        "adresa": {
+            "strada": "Principală, Nr. 405",
+            "localitate": {
+                "nume": "Banloc",
+                "siruta": 155608
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307010",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-417308",
+                "0256-417222"
+            ],
+            "fax": [
+                "0256-417308"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Balint",
+        "adresa": {
+            "strada": "Principală, Nr. 135",
+            "localitate": {
+                "nume": "Balint",
+                "siruta": 155555
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307005",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-333201",
+                "0256-333100"
+            ],
+            "fax": [
+                "0256-333100"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ciacova",
+        "adresa": {
+            "strada": "P-Ţa Cetăţii, Nr. 8",
+            "localitate": {
+                "nume": "Ciacova",
+                "siruta": 156366
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307110",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-399500",
+                "0256-399600"
+            ],
+            "fax": [
+                "0256-399600"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Voiteg",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Voiteg",
+                "siruta": 159348
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307470",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-392401"
+            ],
+            "fax": [
+                "0256-392434"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şandra",
+        "adresa": {
+            "strada": "Principală, Nr. 6",
+            "localitate": {
+                "nume": "Sandra",
+                "siruta": 155939
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307065",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-379149"
+            ],
+            "fax": [
+                "0256-379494"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Victor Vlad Delamarina",
+        "adresa": {
+            "strada": "Principală, Nr. 127",
+            "localitate": {
+                "nume": "Victor Vlad Delamarina",
+                "siruta": 159268
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307460",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-354741",
+                "0256-336666"
+            ],
+            "fax": [
+                "0256-336666",
+                "0256-351667"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Variaş",
+        "adresa": {
+            "strada": "Nr. 619",
+            "localitate": {
+                "nume": "Varias",
+                "siruta": 159222
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307455",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-387563",
+                "0256-387870"
+            ],
+            "fax": [
+                "0256-387870"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vălcani",
+        "adresa": {
+            "strada": "Nr. 222",
+            "localitate": {
+                "nume": "Valcani",
+                "siruta": 156758
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307153",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-385205",
+                "0256-385454"
+            ],
+            "fax": [
+                "0256-385205"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Uivar",
+        "adresa": {
+            "strada": "Principală, Nr. 348",
+            "localitate": {
+                "nume": "Uivar",
+                "siruta": 159151
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307445",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-366501",
+                "0256-366590",
+                "0256-382294"
+            ],
+            "fax": [
+                "0256-366501"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Traian Vuia",
+        "adresa": {
+            "strada": "Sat Sudriaş, Nr. 163A",
+            "localitate": {
+                "nume": "Traian Vuia",
+                "siruta": 159133
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307435",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-324479",
+                "0256-324491"
+            ],
+            "fax": [
+                "0256-324479"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tormac",
+        "adresa": {
+            "strada": "Principala, Nr. 467",
+            "localitate": {
+                "nume": "Tormac",
+                "siruta": 159044
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307430",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-392801"
+            ],
+            "fax": [
+                "0256-392801"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Topolovăţu Mare",
+        "adresa": {
+            "strada": "Principală, Nr. 321",
+            "localitate": {
+                "nume": "Topolovatu Mare",
+                "siruta": 158975
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307420",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-332037",
+                "0256-332011"
+            ],
+            "fax": [
+                "0256-332011"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tomnatic",
+        "adresa": {
+            "strada": "Principală, Nr. 258",
+            "localitate": {
+                "nume": "Tomnatic",
+                "siruta": 157567
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307255",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-374025",
+                "0256-374473",
+                "0256-374243"
+            ],
+            "fax": [
+                "0256-374243"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tomeşti",
+        "adresa": {
+            "strada": "Principală, Nr. 46",
+            "localitate": {
+                "nume": "Colonia Fabricii",
+                "siruta": 158902
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307410",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-326168"
+            ],
+            "fax": [
+                "0256-331536"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Timişoara",
+        "adresa": {
+            "strada": "Bd-Ul Constantin Daiconovici Loga, Nr. 1",
+            "localitate": {
+                "nume": "Timisoara",
+                "siruta": 155252
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "300030",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-408300",
+                "0256-408309"
+            ],
+            "fax": [
+                "0256-490635"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Teremia Mare",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Teremia Mare",
+                "siruta": 158868
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307405",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-380001",
+                "0256-380002",
+                "0256-380003",
+                "0256-380051"
+            ],
+            "fax": [
+                "0256-380001",
+                "0256-380005",
+                "0256-380051"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Stiuca",
+        "adresa": {
+            "strada": "Nr. 111",
+            "localitate": {
+                "nume": "Stiuca",
+                "siruta": 158813
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-335937"
+            ],
+            "fax": [
+                "0256-335711"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Secaş",
+        "adresa": {
+            "strada": "Principală, Nr. 19",
+            "localitate": {
+                "nume": "Secas",
+                "siruta": 158617
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307390",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-327311"
+            ],
+            "fax": [
+                "0256-327311"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Satchinez",
+        "adresa": {
+            "strada": "Str. Daliei , Nr. 82",
+            "localitate": {
+                "nume": "Satchinez",
+                "siruta": 158537
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307365",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-379500"
+            ],
+            "fax": [
+                "0256-379502"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Saravale",
+        "adresa": {
+            "strada": "Principală, Nr. 167",
+            "localitate": {
+                "nume": "Saravale",
+                "siruta": 158760
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307387",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-376665"
+            ],
+            "fax": [
+                "0256-376603"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sânpetru Mare",
+        "adresa": {
+            "strada": "Nr. 1",
+            "localitate": {
+                "nume": "Sanpetru Mare",
+                "siruta": 158742
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307385",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-376001"
+            ],
+            "fax": [
+                "0256-376177"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sânnicolau Mare",
+        "adresa": {
+            "strada": "Republicii, Nr. 15",
+            "localitate": {
+                "nume": "Sannicolau Mare",
+                "siruta": 155537
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "305600",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-370366",
+                "0256-370340"
+            ],
+            "fax": [
+                "0256-370350"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sânmihaiu Român",
+        "adresa": {
+            "strada": "Principală, Nr. 1",
+            "localitate": {
+                "nume": "Sanmihaiu Roman",
+                "siruta": 158706
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307380",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-294984",
+                "0256-363501"
+            ],
+            "fax": [
+                "0256-294984"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sânandrei",
+        "adresa": {
+            "strada": "Principală, Nr. 516",
+            "localitate": {
+                "nume": "Sanandrei",
+                "siruta": 158662
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307375",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-383500"
+            ],
+            "fax": [
+                "0256-383806"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şag",
+        "adresa": {
+            "strada": "A Ii-A, Nr. 49",
+            "localitate": {
+                "nume": "Sag",
+                "siruta": 158788
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307395",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-395368"
+            ],
+            "fax": [
+                "0256-395368"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sacoşu Turcesc",
+        "adresa": {
+            "strada": "Principală, Nr. 98",
+            "localitate": {
+                "nume": "Sacosu Turcesc",
+                "siruta": 158458
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307355",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-411491"
+            ],
+            "fax": [
+                "0256-411487"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Săcălaz",
+        "adresa": {
+            "strada": "Strada A Iv-A, Nr. 368",
+            "localitate": {
+                "nume": "Sacalaz",
+                "siruta": 158573
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307370",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-367101"
+            ],
+            "fax": [
+                "0256-367101"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Remetea Mare",
+        "adresa": {
+            "strada": "Principală, Nr. 112",
+            "localitate": {
+                "nume": "Remetea Mare",
+                "siruta": 158403
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307350",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-230201",
+                "0256-230288"
+            ],
+            "fax": [
+                "0256-230288"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Recaş",
+        "adresa": {
+            "strada": "Calea Timişoarei, Nr 86",
+            "localitate": {
+                "nume": "Recas",
+                "siruta": 158323
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307340",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0356-177278"
+            ],
+            "fax": [
+                "0356-177279"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Racoviţa",
+        "adresa": {
+            "strada": "Principală, Nr. 331",
+            "localitate": {
+                "nume": "Racovita",
+                "siruta": 158252
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307330",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0372-227401",
+                "0372-227400"
+            ],
+            "fax": [
+                "0372-227401"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pişchia",
+        "adresa": {
+            "strada": "Principală, Nr. 261",
+            "localitate": {
+                "nume": "Pischia",
+                "siruta": 158190
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307325",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-234101"
+            ],
+            "fax": [
+                "0256-234101"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pietroasa",
+        "adresa": {
+            "strada": "Principală, Nr. 109",
+            "localitate": {
+                "nume": "Pietroasa",
+                "siruta": 158145
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307320",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-334780"
+            ],
+            "fax": [
+                "0256-334608"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pesac",
+        "adresa": {
+            "strada": "Nr. 360",
+            "localitate": {
+                "nume": "Pesac",
+                "siruta": 158127
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307316",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-382888"
+            ],
+            "fax": [
+                "0256-382888"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Periam",
+        "adresa": {
+            "strada": "Mureşului, Nr. 1 Bis",
+            "localitate": {
+                "nume": "Periam",
+                "siruta": 158118
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307315",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-375001"
+            ],
+            "fax": [
+                "0256-375002"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Peciu Nou",
+        "adresa": {
+            "strada": "Principală, Nr. 189",
+            "localitate": {
+                "nume": "Peciu Nou",
+                "siruta": 158074
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307310",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-414201",
+                "0256-414500"
+            ],
+            "fax": [
+                "0256-414826"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Parţa",
+        "adresa": {
+            "strada": "Principală, Nr. 282",
+            "localitate": {
+                "nume": "Parta",
+                "siruta": 158797
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307396",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-392264"
+            ],
+            "fax": [
+                "0256-392264"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pădureni",
+        "adresa": {
+            "strada": "Principală, Nr. 220",
+            "localitate": {
+                "nume": "Padureni",
+                "siruta": 157442
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307236",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-411133"
+            ],
+            "fax": [
+                "0256-411104"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Otelec",
+        "adresa": {
+            "strada": "Grădiniţei, Nr. 471\/B",
+            "localitate": {
+                "nume": "Otelec",
+                "siruta": 159179
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307447",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-232809"
+            ],
+            "fax": [
+                "0256-232809"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ortişoara",
+        "adresa": {
+            "strada": "Principală, Nr. 258\/A",
+            "localitate": {
+                "nume": "Ortisoara",
+                "siruta": 158029
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307305",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-233266"
+            ],
+            "fax": [
+                "0256-211131"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ohaba Lungă",
+        "adresa": {
+            "strada": "Str. Principală Nr. 33",
+            "localitate": {
+                "nume": "Ohaba Lunga",
+                "siruta": 157978
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-333309"
+            ],
+            "fax": [
+                "0256-333309"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Nitchidorf",
+        "adresa": {
+            "strada": "Nr. 212",
+            "localitate": {
+                "nume": "Nitchidorf",
+                "siruta": 157932
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307295",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-413101",
+                "0256-413010"
+            ],
+            "fax": [
+                "0256-413101",
+                "0256-413010"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Nădrag",
+        "adresa": {
+            "strada": "P-Ţa Centrală, Nr. 2",
+            "localitate": {
+                "nume": "Nadrag",
+                "siruta": 157905
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307290",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-328304"
+            ],
+            "fax": [
+                "0256-328304"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Moşniţa Nouă",
+        "adresa": {
+            "strada": "Principală, Nr. 73",
+            "localitate": {
+                "nume": "Mosnita Noua",
+                "siruta": 157843
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307285",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-393503",
+                "0256-393494"
+            ],
+            "fax": [
+                "0256-393529"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Moraviţa",
+        "adresa": {
+            "strada": "Principală, Nr. 261",
+            "localitate": {
+                "nume": "Moravita",
+                "siruta": 157790
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307280",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-397251"
+            ],
+            "fax": [
+                "0256-397251"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Masloc",
+        "adresa": {
+            "strada": "Principală, Nr. 95",
+            "localitate": {
+                "nume": "Masloc",
+                "siruta": 157692
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307270",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-231205"
+            ],
+            "fax": [
+                "0256-231209"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Margina",
+        "adresa": {
+            "strada": "Principală, Nr. 1",
+            "localitate": {
+                "nume": "Margina",
+                "siruta": 157594
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307260",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-326000",
+                "0256-326061"
+            ],
+            "fax": [
+                "0256-326197"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mănăştiur",
+        "adresa": {
+            "strada": "Principală, Nr. 297",
+            "localitate": {
+                "nume": "Manastiur",
+                "siruta": 157745
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307275",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-325850",
+                "0256-325896"
+            ],
+            "fax": [
+                "0256-325850"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lugoj",
+        "adresa": {
+            "strada": "P-Ta Victoriei Nr.4",
+            "localitate": {
+                "nume": "Lugoj",
+                "siruta": 155369
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "305500",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-351441",
+                "0256-351240"
+            ],
+            "fax": [
+                "0256-350393"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lovrin",
+        "adresa": {
+            "strada": "Principală, Nr. 206",
+            "localitate": {
+                "nume": "Lovrin",
+                "siruta": 157549
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307250",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-381002"
+            ],
+            "fax": [
+                "0256-381207"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Livezile",
+        "adresa": {
+            "strada": "Principală, Nr. 191",
+            "localitate": {
+                "nume": "Livezile",
+                "siruta": 155626
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307012",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-415933"
+            ],
+            "fax": [
+                "0356-816051"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Liebling",
+        "adresa": {
+            "strada": "Principală, Nr. 528",
+            "localitate": {
+                "nume": "Liebling",
+                "siruta": 157503
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307245",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-396501"
+            ],
+            "fax": [
+                "0256-396421"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lenauheim",
+        "adresa": {
+            "strada": "Nr. 258",
+            "localitate": {
+                "nume": "Lenauheim",
+                "siruta": 157460
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307240",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-360428"
+            ],
+            "fax": [
+                "0256-381775"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Jimbolia",
+        "adresa": {
+            "strada": "Tudor Vladimirescu, Nr. 81",
+            "localitate": {
+                "nume": "Jimbolia",
+                "siruta": 155500
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "305400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-360770",
+                "0256-360764"
+            ],
+            "fax": [
+                "0256-360784"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Jebel",
+        "adresa": {
+            "strada": "Principală, Nr. 251",
+            "localitate": {
+                "nume": "Jebel",
+                "siruta": 157433
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307235",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-394500",
+                "0256-394015"
+            ],
+            "fax": [
+                "0256-394015"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Jamu Mare",
+        "adresa": {
+            "strada": "Principală, Nr. 181",
+            "localitate": {
+                "nume": "Jamu Mare",
+                "siruta": 157371
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307230",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-235101",
+                "0256-235102"
+            ],
+            "fax": [
+                "0256-235298"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Iecea Mare",
+        "adresa": {
+            "strada": "Principală, Nr. 127 A",
+            "localitate": {
+                "nume": "Iecea Mare",
+                "siruta": 156231
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307091",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-365713"
+            ],
+            "fax": [
+                "0256-365885"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gottlob",
+        "adresa": {
+            "strada": "Principală, Nr. 274",
+            "localitate": {
+                "nume": "Gottlob",
+                "siruta": 157558
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307251",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-383289",
+                "0256-383104"
+            ],
+            "fax": [
+                "0256-383104"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Giulvăz",
+        "adresa": {
+            "strada": "Nr. 172",
+            "localitate": {
+                "nume": "Giulvaz",
+                "siruta": 157326
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307225",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-416201",
+                "0256-416543"
+            ],
+            "fax": [
+                "0256-416201",
+                "0256-416543"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Giroc",
+        "adresa": {
+            "strada": "Semenic, Nr. 54",
+            "localitate": {
+                "nume": "Giroc",
+                "siruta": 155323
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307220",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-395648"
+            ],
+            "fax": [
+                "0256-395798"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Giera",
+        "adresa": {
+            "strada": "Principală, Nr. 192",
+            "localitate": {
+                "nume": "Giera",
+                "siruta": 157282
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307215",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-415401"
+            ],
+            "fax": [
+                "0256-415401"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Giarmata",
+        "adresa": {
+            "strada": "Principală, Nr. 445",
+            "localitate": {
+                "nume": "Giarmata",
+                "siruta": 157255
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307210",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-369101"
+            ],
+            "fax": [
+                "0256-369102"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ghizela",
+        "adresa": {
+            "strada": "Principală, Nr. 41",
+            "localitate": {
+                "nume": "Ghizela",
+                "siruta": 157200
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307205",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-232501"
+            ],
+            "fax": [
+                "0256-232501"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ghiroda",
+        "adresa": {
+            "strada": "Str. Victoria, Nr. 46",
+            "localitate": {
+                "nume": "Ghiroda",
+                "siruta": 155298
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-205201"
+            ],
+            "fax": [
+                "0256-287406"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ghilad",
+        "adresa": {
+            "strada": "Principală, Nr. 972\/A",
+            "localitate": {
+                "nume": "Ghilad",
+                "siruta": 156393
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307113",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-418221"
+            ],
+            "fax": [
+                "0256-418205"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Găvojdia",
+        "adresa": {
+            "strada": "Principală, Nr. 295",
+            "localitate": {
+                "nume": "Gavojdia",
+                "siruta": 157040
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307180",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-335921",
+                "0256-335938"
+            ],
+            "fax": [
+                "0256-335921"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gătaia",
+        "adresa": {
+            "strada": "Carpaţi, Nr. 106",
+            "localitate": {
+                "nume": "Gataia",
+                "siruta": 157095
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307185",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-410001"
+            ],
+            "fax": [
+                "0256-410001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Foeni",
+        "adresa": {
+            "strada": "Str. Principala Nr. 381",
+            "localitate": {
+                "nume": "Foeni",
+                "siruta": 157013
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307175",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-413401",
+                "0256-413403"
+            ],
+            "fax": [
+                "0256-413606"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Fibiş",
+        "adresa": {
+            "strada": "Str. Principala Nr. 94",
+            "localitate": {
+                "nume": "Fibis",
+                "siruta": 157718
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307272",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-232095"
+            ],
+            "fax": [
+                "0256-232095"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Fârdea",
+        "adresa": {
+            "strada": "Principală, Nr. 107",
+            "localitate": {
+                "nume": "Fardea",
+                "siruta": 156936
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307165",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-335411"
+            ],
+            "fax": [
+                "0256-335459"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Făget",
+        "adresa": {
+            "strada": "Calea Lugojului, Nr. 25",
+            "localitate": {
+                "nume": "Faget",
+                "siruta": 156810
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "305300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-320494",
+                "0256-320611"
+            ],
+            "fax": [
+                "0256-320641"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dumbrăviţa",
+        "adresa": {
+            "strada": "Petöfi Sándor, Nr. 31",
+            "localitate": {
+                "nume": "Dumbravita",
+                "siruta": 155270
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307160",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-214272"
+            ],
+            "fax": [
+                "0256-401095"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dumbrava",
+        "adresa": {
+            "strada": "Principală, Nr. 336",
+            "localitate": {
+                "nume": "Dumbrava",
+                "siruta": 156776
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307155",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-325553"
+            ],
+            "fax": [
+                "0256-325553"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dudeştii Vechi",
+        "adresa": {
+            "strada": "Principală, Nr. 255",
+            "localitate": {
+                "nume": "Dudestii Vechi",
+                "siruta": 156721
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307150",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-384104"
+            ],
+            "fax": [
+                "0256-384504"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dudeştii Noi",
+        "adresa": {
+            "strada": "Calea Becicherechiului, Nr. 29",
+            "localitate": {
+                "nume": "Dudestii Noi",
+                "siruta": 155788
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307041",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-378294",
+                "0256-378020"
+            ],
+            "fax": [
+                "0256-378294"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Deta",
+        "adresa": {
+            "strada": "Victoriei, Nr. 32",
+            "localitate": {
+                "nume": "Deta",
+                "siruta": 155467
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "305200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-390466"
+            ],
+            "fax": [
+                "0256-390511"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Denta",
+        "adresa": {
+            "strada": "Str. Principala Nr. 224",
+            "localitate": {
+                "nume": "Denta",
+                "siruta": 156678
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307145",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-398403"
+            ],
+            "fax": [
+                "0256-398403"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Darova",
+        "adresa": {
+            "strada": "Principală, Nr. 152",
+            "localitate": {
+                "nume": "Darova",
+                "siruta": 156632
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307140",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-232310"
+            ],
+            "fax": [
+                "0256-232310"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Curtea",
+        "adresa": {
+            "strada": "Principală, Nr. 268",
+            "localitate": {
+                "nume": "Curtea",
+                "siruta": 156598
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307135",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-334748",
+                "0256-334633"
+            ],
+            "fax": [
+                "0256-334748"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Criciova",
+        "adresa": {
+            "strada": "Principală, Nr. 51",
+            "localitate": {
+                "nume": "Criciova",
+                "siruta": 156543
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307130",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-335807",
+                "0256-335939"
+            ],
+            "fax": [
+                "0256-335807"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Costeiu",
+        "adresa": {
+            "strada": "Principală, Nr. 282A",
+            "localitate": {
+                "nume": "Costeiu",
+                "siruta": 156482
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307125",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-326500"
+            ],
+            "fax": [
+                "0256-326500"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Comloşu Mare",
+        "adresa": {
+            "strada": "Nr. 655",
+            "localitate": {
+                "nume": "Comlosu Mare",
+                "siruta": 156446
+            },
+            "judet": {
+                "nume": "Timis"
+            },
+            "cod-postal": "307120",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0256-364114",
+                "0256-364128"
+            ],
+            "fax": [
+                "0256-364114"
+            ]
+        }
+    }
+]

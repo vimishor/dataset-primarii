@@ -1,0 +1,1258 @@
+[
+    {
+        "nume": "Primăria Giurgiu",
+        "adresa": {
+            "strada": "B-Dul Bucureşti, Nr. 49-51",
+            "localitate": {
+                "nume": "Giurgiu",
+                "siruta": 100530
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "080044",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-213587",
+                "0246-213588"
+            ],
+            "fax": [
+                "0246-215405"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ghimpaţi",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ghimpati",
+                "siruta": 103247
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087095",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-276409"
+            ],
+            "fax": [
+                "0246-276256"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Găujani",
+        "adresa": {
+            "strada": "Șoseaua Giurgiului, Nr. 48",
+            "localitate": {
+                "nume": "Gaujani",
+                "siruta": 103201
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087090",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-250822"
+            ],
+            "fax": [
+                "0246-250822"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Găiseni",
+        "adresa": {
+            "strada": "Principală, Nr. 64",
+            "localitate": {
+                "nume": "Gaiseni",
+                "siruta": 103096
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087085",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-259117",
+                "0246-259193"
+            ],
+            "fax": [
+                "0246-259193"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Frăteşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Fratesti",
+                "siruta": 102918
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087080",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0372-755850",
+                "0373-501070"
+            ],
+            "fax": [
+                "0373-501069"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Floreşti-Stoeneşti",
+        "adresa": {
+            "strada": "1 Decembrie 1918, Nr. 123",
+            "localitate": {
+                "nume": "Floresti-Stoenesti",
+                "siruta": 102794
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087075",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-256258",
+                "0246-256005"
+            ],
+            "fax": [
+                "0246-256005"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Daia",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Daia",
+                "siruta": 102455
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087070",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-244085"
+            ],
+            "fax": [
+                "0246-244085"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Crevedia Mare",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Crevedia Mare",
+                "siruta": 102357
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087060",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-264155"
+            ],
+            "fax": [
+                "0246-264266"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cosoba",
+        "adresa": {
+            "strada": "Principală, Nr. 344",
+            "localitate": {
+                "nume": "Cosoba",
+                "siruta": 104029
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087152",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-253887",
+                "0246-253739"
+            ],
+            "fax": [
+                "0246-253887"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Comana",
+        "adresa": {
+            "strada": "Şerban Cantacuzino, Nr. 50",
+            "localitate": {
+                "nume": "Comana",
+                "siruta": 102115
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087055",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-283114"
+            ],
+            "fax": [
+                "0246-283114"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Colibaşi",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Colibasi",
+                "siruta": 102080
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087050",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-227111"
+            ],
+            "fax": [
+                "0246-227111"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Clejani",
+        "adresa": {
+            "strada": "Principala, Fn",
+            "localitate": {
+                "nume": "Clejani",
+                "siruta": 101993
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087045",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-261176",
+                "0246-261003"
+            ],
+            "fax": [
+                "0246-261003"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Călugăreni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Calugareni",
+                "siruta": 101671
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087040",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-281240"
+            ],
+            "fax": [
+                "0246-281240"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Buturugeni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Buturugeni",
+                "siruta": 101626
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087035",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-277110",
+                "0246-277168"
+            ],
+            "fax": [
+                "0246-277110"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bulbucata",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Bulbucata",
+                "siruta": 101528
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087030",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-275312"
+            ],
+            "fax": [
+                "0246-275433"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bucşani",
+        "adresa": {
+            "strada": "Principală, Nr. 242",
+            "localitate": {
+                "nume": "Bucsani",
+                "siruta": 101387
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087020",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-263075"
+            ],
+            "fax": [
+                "0246-263075"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bolintin Vale",
+        "adresa": {
+            "strada": "Libertăţii, Nr. 1",
+            "localitate": {
+                "nume": "Bolintin-Vale",
+                "siruta": 101207
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "085100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-270990",
+                "0246-271187"
+            ],
+            "fax": [
+                "0246-270990"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bolintin Deal",
+        "adresa": {
+            "strada": "Muncii, Nr. 18",
+            "localitate": {
+                "nume": "Bolintin-Deal",
+                "siruta": 101172
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087015",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-273074"
+            ],
+            "fax": [
+                "0246-273074"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Băneasa",
+        "adresa": {
+            "strada": "Principală, Nr. 92",
+            "localitate": {
+                "nume": "Baneasa",
+                "siruta": 101010
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087010",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-285101"
+            ],
+            "fax": [
+                "0246-285101"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vedea",
+        "adresa": {
+            "strada": "Arsache, Nr. 130",
+            "localitate": {
+                "nume": "Vedea",
+                "siruta": 105918
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087260",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-240120"
+            ],
+            "fax": [
+                "0246-240120"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vărăşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Varasti",
+                "siruta": 105883
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087245",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-237121"
+            ],
+            "fax": [
+                "0246-237205"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vânătorii Mici",
+        "adresa": {
+            "strada": "Principală, Nr. 70",
+            "localitate": {
+                "nume": "Vanatorii Mici",
+                "siruta": 105981
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087250",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-265026"
+            ],
+            "fax": [
+                "0246-265026"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Valea Dragului",
+        "adresa": {
+            "strada": "Principală, Nr. 287",
+            "localitate": {
+                "nume": "Valea Dragului",
+                "siruta": 105785
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087240",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-258878"
+            ],
+            "fax": [
+                "0246-258878"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ulmi",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ulmi",
+                "siruta": 105632
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087230",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-255046"
+            ],
+            "fax": [
+                "0246-255046",
+                "0246-255049"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Toporu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Toporu",
+                "siruta": 154718
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087225",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-236107"
+            ],
+            "fax": [
+                "0246-236107"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Stoeneşti",
+        "adresa": {
+            "strada": "Principală, Nr. 72",
+            "localitate": {
+                "nume": "Stoenesti",
+                "siruta": 105357
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087220",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-234521"
+            ],
+            "fax": [
+                "0246-234520"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Stăneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Stanesti",
+                "siruta": 105302
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087215",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-235107"
+            ],
+            "fax": [
+                "0246-235107"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Slobozia",
+        "adresa": {
+            "strada": "Giurgiului, Nr. 694",
+            "localitate": {
+                "nume": "Slobozia",
+                "siruta": 100558
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087210",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-242089"
+            ],
+            "fax": [
+                "0246-242079"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Singureni",
+        "adresa": {
+            "strada": "Palatului, Nr. 906",
+            "localitate": {
+                "nume": "Singureni",
+                "siruta": 105115
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087205",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-234213"
+            ],
+            "fax": [
+                "0246-234213"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Schitu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Schitu",
+                "siruta": 104984
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-276219"
+            ],
+            "fax": [
+                "0246-890699"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Săbăreni",
+        "adresa": {
+            "strada": "Teilor, Nr. 1",
+            "localitate": {
+                "nume": "Sabareni",
+                "siruta": 104038
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087153",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-253293"
+            ],
+            "fax": [
+                "0246-253358"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Roata De Jos",
+        "adresa": {
+            "strada": "Republicii, Nr. 65",
+            "localitate": {
+                "nume": "Roata De Jos",
+                "siruta": 104840
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087195",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-266115"
+            ],
+            "fax": [
+                "0246-266115",
+                "0346-815928"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Răsuceni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Rasuceni",
+                "siruta": 104797
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087190",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0371-316585"
+            ],
+            "fax": [
+                "0372-002159"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Putineiu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Putineiu",
+                "siruta": 104724
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087185",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0372-772770"
+            ],
+            "fax": [
+                "0246-233103"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Prundu",
+        "adresa": {
+            "strada": "Primăriei, Nr. 1",
+            "localitate": {
+                "nume": "Prundu",
+                "siruta": 104699
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087180",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-245117"
+            ],
+            "fax": [
+                "0246-245120"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Oinacu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Oinacu",
+                "siruta": 104528
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087175",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-239143"
+            ],
+            "fax": [
+                "0246-239145"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ogrezeni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ogrezeni",
+                "siruta": 104494
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087170",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-250234",
+                "0246-250250",
+                "0246-250050"
+            ],
+            "fax": [
+                "0246-250234"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mihăileşti",
+        "adresa": {
+            "strada": "Bucureşti, Nr. 142",
+            "localitate": {
+                "nume": "Mihailesti",
+                "siruta": 104145
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "085200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-278004"
+            ],
+            "fax": [
+                "0246-278392"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mihai Bravu",
+        "adresa": {
+            "strada": "Şoseaua Principală, Nr. 76",
+            "localitate": {
+                "nume": "Mihai Bravu",
+                "siruta": 104127
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087165",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-286115"
+            ],
+            "fax": [
+                "0246-286115"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mârşa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Marsa",
+                "siruta": 104234
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087160",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-268187",
+                "0246-268235",
+                "0246-268236"
+            ],
+            "fax": [
+                "0246-268187"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Malu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Malu",
+                "siruta": 105927
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087261",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-241106"
+            ],
+            "fax": [
+                "0246-241106"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Letca Nouă",
+        "adresa": {
+            "strada": "Primăriei, Nr. 26",
+            "localitate": {
+                "nume": "Letca Noua",
+                "siruta": 104056
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087155",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-260015"
+            ],
+            "fax": [
+                "0246-260015"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Joiţa",
+        "adresa": {
+            "strada": "Calea Bucureşti Dj 601 A, Nr. 156",
+            "localitate": {
+                "nume": "Joita",
+                "siruta": 104001
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087150",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-252250",
+                "0246-252168"
+            ],
+            "fax": [
+                "0246-252168"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Izvoarele",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Isvoarele",
+                "siruta": 103906
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087140",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-248104",
+                "0246-248016"
+            ],
+            "fax": [
+                "0246-248104"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Isvoarele",
+        "adresa": {
+            "strada": "Principală, Nr. 243",
+            "localitate": {
+                "nume": "Isvoarele (Hotarele)",
+                "siruta": 103666
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087127",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0371-017335"
+            ],
+            "fax": []
+        }
+    },
+    {
+        "nume": "Primăria Iepureşti",
+        "adresa": {
+            "strada": "Mihai Viteazul, Nr. 85",
+            "localitate": {
+                "nume": "Iepuresti",
+                "siruta": 103700
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087130",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-232188"
+            ],
+            "fax": [
+                "0246-232168"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Hotarele",
+        "adresa": {
+            "strada": "Hotarele",
+            "localitate": {
+                "nume": "Hotarele",
+                "siruta": 103648
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087125",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-247205"
+            ],
+            "fax": [
+                "0246-247205"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Herăşti",
+        "adresa": {
+            "strada": "Principală, Nr. 3",
+            "localitate": {
+                "nume": "Herasti",
+                "siruta": 103657
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087126",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-253495"
+            ],
+            "fax": [
+                "0246-253495"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Greaca",
+        "adresa": {
+            "strada": "Principală, Nr. 133",
+            "localitate": {
+                "nume": "Greaca",
+                "siruta": 103489
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087120",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-246042"
+            ],
+            "fax": [
+                "0246-246042"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Grădinari",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Gradinari",
+                "siruta": 103416
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087115",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0371-187103"
+            ],
+            "fax": [
+                "0246-251514"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gostinu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Gostinu",
+                "siruta": 103363
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087110",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-229141"
+            ],
+            "fax": [
+                "0246-229141"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gostinari",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Gostinari",
+                "siruta": 103381
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087105",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-259368"
+            ],
+            "fax": [
+                "0246-259367"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gogoşari",
+        "adresa": {
+            "strada": "Petre Ghelmez, Nr. 94",
+            "localitate": {
+                "nume": "Gogosari",
+                "siruta": 103318
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-228114"
+            ],
+            "fax": [
+                "0246-228159"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Adunaţii Copăceni",
+        "adresa": {
+            "strada": "Şoseaua Giurgiului, Nr. 120",
+            "localitate": {
+                "nume": "Adunatii-Copaceni",
+                "siruta": 100790
+            },
+            "judet": {
+                "nume": "Giurgiu"
+            },
+            "cod-postal": "087005",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0246-282176"
+            ],
+            "fax": [
+                "0246-282176"
+            ]
+        }
+    }
+]

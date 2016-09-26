@@ -1,0 +1,1822 @@
+[
+    {
+        "nume": "Primăria Ciuchici",
+        "adresa": {
+            "strada": "Principală, Nr. 261",
+            "localitate": {
+                "nume": "Ciuchici",
+                "siruta": 51993
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327080",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-576201",
+                "0255-576290"
+            ],
+            "fax": [
+                "0255-576201",
+                "0255-576240",
+                "0255-576290"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ciclova Română",
+        "adresa": {
+            "strada": "Principală, Nr. 203",
+            "localitate": {
+                "nume": "Ciclova Romana",
+                "siruta": 51957
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327075",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-575305"
+            ],
+            "fax": [
+                "0255-575305"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Rusca Montană",
+        "adresa": {
+            "strada": "Principală, Nr. 450",
+            "localitate": {
+                "nume": "Rusca Montana",
+                "siruta": 53737
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327320",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-536090",
+                "0255-536058"
+            ],
+            "fax": [
+                "0255-536001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Reşiţa",
+        "adresa": {
+            "strada": "P-Ţa 1 Decembrie 1918, Nr. 1A",
+            "localitate": {
+                "nume": "Resita",
+                "siruta": 50807
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "320084",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-211692",
+                "0255-215314"
+            ],
+            "fax": [
+                "0255-215314"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ramna",
+        "adresa": {
+            "strada": "Principală, Nr. 26",
+            "localitate": {
+                "nume": "Ramna",
+                "siruta": 53648
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327310",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-528001",
+                "0255-528185"
+            ],
+            "fax": [
+                "0255-528001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Răcăşdia",
+        "adresa": {
+            "strada": "Principală, Nr. 535",
+            "localitate": {
+                "nume": "Racasdia",
+                "siruta": 53684
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327315",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-575493"
+            ],
+            "fax": [
+                "0255-575493"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Prigor",
+        "adresa": {
+            "strada": "Principală, Nr. 323",
+            "localitate": {
+                "nume": "Prigor",
+                "siruta": 53586
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327305",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-243887",
+                "0255-243832"
+            ],
+            "fax": [
+                "0255-243887"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pojejena",
+        "adresa": {
+            "strada": "Principală, Nr. 277",
+            "localitate": {
+                "nume": "Pojejena",
+                "siruta": 53522
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-544355"
+            ],
+            "fax": [
+                "0255-544355"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Păltiniş",
+        "adresa": {
+            "strada": "Principală, Nr. 164",
+            "localitate": {
+                "nume": "Paltinis",
+                "siruta": 53434
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327295",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-522804"
+            ],
+            "fax": [
+                "0255-522804"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Oţelu Roşu",
+        "adresa": {
+            "strada": "Rozelor, Nr. 2",
+            "localitate": {
+                "nume": "Otelu Rosu",
+                "siruta": 51216
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "325700",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-530803"
+            ],
+            "fax": [
+                "0255-206086"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Oraviţa",
+        "adresa": {
+            "strada": "1 Decembrie 1918, Nr. 60",
+            "localitate": {
+                "nume": "Oravita",
+                "siruta": 51127
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "325600",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-571133",
+                "0255-571400"
+            ],
+            "fax": [
+                "0255-572815"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ocna De Fier",
+        "adresa": {
+            "strada": "Vale, Nr. 107B",
+            "localitate": {
+                "nume": "Ocna De Fier",
+                "siruta": 50996
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327290",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-527802",
+                "0255-527929"
+            ],
+            "fax": [
+                "0355-814315"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Obreja",
+        "adresa": {
+            "strada": "Principală, Nr. 164",
+            "localitate": {
+                "nume": "Obreja",
+                "siruta": 53381
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327285",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-534501",
+                "0255-534567"
+            ],
+            "fax": [
+                "0255-534567"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Naidăş",
+        "adresa": {
+            "strada": "Principală, Nr. 1",
+            "localitate": {
+                "nume": "Naidas",
+                "siruta": 53354
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327280",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-576412"
+            ],
+            "fax": [
+                "0255-576412"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Moldova Nouă",
+        "adresa": {
+            "strada": "Nicolae Bălcescu, Nr. 26",
+            "localitate": {
+                "nume": "Moldova Noua",
+                "siruta": 51065
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "325500",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-540997"
+            ],
+            "fax": [
+                "0255-540759"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mehadica",
+        "adresa": {
+            "strada": "Nr. 71",
+            "localitate": {
+                "nume": "Mehadica",
+                "siruta": 53336
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327275",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-563339",
+                "0255-563334"
+            ],
+            "fax": [
+                "0255-563334"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mehadia",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Mehadia",
+                "siruta": 53283
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327270",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-523121",
+                "0255-523428"
+            ],
+            "fax": [
+                "0255-523121"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Măureni",
+        "adresa": {
+            "strada": "Principala, Nr. 371",
+            "localitate": {
+                "nume": "Maureni",
+                "siruta": 53256
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327265",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-526001"
+            ],
+            "fax": [
+                "0255-526001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Marga",
+        "adresa": {
+            "strada": "Principală, Nr. 217",
+            "localitate": {
+                "nume": "Marga",
+                "siruta": 53229
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327260",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-524401"
+            ],
+            "fax": []
+        }
+    },
+    {
+        "nume": "Primăria Lupac",
+        "adresa": {
+            "strada": "Principală, Nr. 1",
+            "localitate": {
+                "nume": "Lupac",
+                "siruta": 53176
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327255",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-233715",
+                "0255-233735"
+            ],
+            "fax": [
+                "0255-233723"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Luncaviţa",
+        "adresa": {
+            "strada": "Principală, Nr. 43",
+            "localitate": {
+                "nume": "Luncavita",
+                "siruta": 53149
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327250",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-261101",
+                "0255-261102"
+            ],
+            "fax": [
+                "0255-261101",
+                "0255-261102"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lăpuşnicu Mare",
+        "adresa": {
+            "strada": "Principală, Nr. 133",
+            "localitate": {
+                "nume": "Lapusnicu Mare",
+                "siruta": 53112
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327245",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-244005",
+                "0255-244006"
+            ],
+            "fax": [
+                "0255-244006"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lăpuşnicel",
+        "adresa": {
+            "strada": "Nr. 278",
+            "localitate": {
+                "nume": "Lapusnicel",
+                "siruta": 53078
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327240",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0724-360455",
+                "0785-255277",
+                "0762-606076"
+            ],
+            "fax": []
+        }
+    },
+    {
+        "nume": "Primăria Iablaniţa",
+        "adresa": {
+            "strada": "Principală, Nr. 89B",
+            "localitate": {
+                "nume": "Iablanita",
+                "siruta": 53032
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327235",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-563443",
+                "0255-563412"
+            ],
+            "fax": [
+                "0255-563443",
+                "0255-563444"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Grădinari",
+        "adresa": {
+            "strada": "Principală, Nr. 190",
+            "localitate": {
+                "nume": "Gradinari",
+                "siruta": 53005
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327230",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-575722"
+            ],
+            "fax": [
+                "0255-575722"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Goruia",
+        "adresa": {
+            "strada": "Principală, Nr. 211",
+            "localitate": {
+                "nume": "Goruia",
+                "siruta": 52963
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327225",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-234501",
+                "0255-234611"
+            ],
+            "fax": [
+                "0255-234501"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Glimboca",
+        "adresa": {
+            "strada": "Principală, Nr. 367",
+            "localitate": {
+                "nume": "Glimboca",
+                "siruta": 52945
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327220",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-534378"
+            ],
+            "fax": [
+                "0255-534378"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gîrnic",
+        "adresa": {
+            "strada": "Nr. 77",
+            "localitate": {
+                "nume": "Garnic",
+                "siruta": 52918
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327215",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0731-306970"
+            ],
+            "fax": [
+                "0372-897791"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Forotic",
+        "adresa": {
+            "strada": "Principală, Nr. 1",
+            "localitate": {
+                "nume": "Forotic",
+                "siruta": 52865
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327210",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0371-105291",
+                "0744-361682"
+            ],
+            "fax": [
+                "0355-081282"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Fârliug",
+        "adresa": {
+            "strada": "Principală, Nr. 80",
+            "localitate": {
+                "nume": "Farliug",
+                "siruta": 52794
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-235414",
+                "0255-235455",
+                "0255-235401"
+            ],
+            "fax": [
+                "0255-235401"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ezeriş",
+        "adresa": {
+            "strada": "Principală, Nr. 1",
+            "localitate": {
+                "nume": "Ezeris",
+                "siruta": 52767
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327195",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-235301"
+            ],
+            "fax": [
+                "0372-872715"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Eftimie Murgu",
+        "adresa": {
+            "strada": "Nr. 265",
+            "localitate": {
+                "nume": "Eftimie Murgu",
+                "siruta": 53719
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327190",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-243210"
+            ],
+            "fax": [
+                "0255-243210"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Domaşnea",
+        "adresa": {
+            "strada": "Principală, Nr. 318",
+            "localitate": {
+                "nume": "Domasnea",
+                "siruta": 52730
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327185",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-263101"
+            ],
+            "fax": [
+                "0255-263101"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dognecea",
+        "adresa": {
+            "strada": "Principală, Nr. 639",
+            "localitate": {
+                "nume": "Dognecea",
+                "siruta": 52703
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327180",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-236305",
+                "0255-236499"
+            ],
+            "fax": [
+                "0255-236305",
+                "0255-236499"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Doclin",
+        "adresa": {
+            "strada": "Nr. 1",
+            "localitate": {
+                "nume": "Doclin",
+                "siruta": 52669
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327175",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-527001"
+            ],
+            "fax": [
+                "0255-527001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dalboşeţ",
+        "adresa": {
+            "strada": "Principală, Nr. 130",
+            "localitate": {
+                "nume": "Dalboset",
+                "siruta": 52589
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327165",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-243403",
+                "0255-243406",
+                "0255-243405"
+            ],
+            "fax": [
+                "0255-243403",
+                "0255-243405"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Coronini",
+        "adresa": {
+            "strada": "Nr. 58",
+            "localitate": {
+                "nume": "Coronini",
+                "siruta": 53498
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327160",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-544192",
+                "0255-544115"
+            ],
+            "fax": [
+                "0255-544115"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cornereva",
+        "adresa": {
+            "strada": "Principală, Nr. 330",
+            "localitate": {
+                "nume": "Cornereva",
+                "siruta": 52179
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327110",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0374-942818",
+                "0758-327317"
+            ],
+            "fax": [
+                "0374-092608"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cornea",
+        "adresa": {
+            "strada": "Principală, Nr. 261",
+            "localitate": {
+                "nume": "Cornea",
+                "siruta": 52124
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327105",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-261312",
+                "0255-261388"
+            ],
+            "fax": [
+                "0255-261388"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Copăcele",
+        "adresa": {
+            "strada": "Principală, Nr. 122",
+            "localitate": {
+                "nume": "Copacele",
+                "siruta": 52071
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-510132"
+            ],
+            "fax": [
+                "0255-510132"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Constantin Daicoviciu",
+        "adresa": {
+            "strada": "Principală, Nr. 11",
+            "localitate": {
+                "nume": "Constantin Daicoviciu",
+                "siruta": 51886
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327090",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-510126"
+            ],
+            "fax": [
+                "0255-510126"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ciudanoviţa",
+        "adresa": {
+            "strada": "Principală, Fn",
+            "localitate": {
+                "nume": "Ciudanovita",
+                "siruta": 52044
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327085",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0726-354889"
+            ],
+            "fax": [
+                "0372-874699"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cărbunari",
+        "adresa": {
+            "strada": "Principală, Nr. 304",
+            "localitate": {
+                "nume": "Carbunari",
+                "siruta": 51859
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327070",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0372-799587"
+            ],
+            "fax": [
+                "0355-790695",
+                "0355-818659"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Caraşova",
+        "adresa": {
+            "strada": "Principală, Nr. 274",
+            "localitate": {
+                "nume": "Carasova",
+                "siruta": 51813
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327065",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-232000"
+            ],
+            "fax": [
+                "0255-232406"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Caransebeş",
+        "adresa": {
+            "strada": "P-Ţa Revoluţiei, Nr. 1",
+            "localitate": {
+                "nume": "Caransebes",
+                "siruta": 51029
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "325400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-514885",
+                "0255-514887",
+                "0255-514889"
+            ],
+            "fax": [
+                "0255-515139"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bucoşniţa",
+        "adresa": {
+            "strada": "Nr. 81",
+            "localitate": {
+                "nume": "Bucosnita",
+                "siruta": 51760
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327060",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-519400"
+            ],
+            "fax": [
+                "0255-519400"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Buchin",
+        "adresa": {
+            "strada": "Principală, Nr. 4B",
+            "localitate": {
+                "nume": "Buchin",
+                "siruta": 51706
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327055",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-516163"
+            ],
+            "fax": [
+                "0255-516151"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Brebu Nou",
+        "adresa": {
+            "strada": "Gărâna, Nr. 66",
+            "localitate": {
+                "nume": "Garana",
+                "siruta": 51680
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327051",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0751-112380"
+            ],
+            "fax": [
+                "0355-814480"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Brebu",
+        "adresa": {
+            "strada": "Gării, Nr. 21",
+            "localitate": {
+                "nume": "Brebu",
+                "siruta": 51635
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327045",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-232524",
+                "0255-232666"
+            ],
+            "fax": [
+                "0255-232524"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bozovici",
+        "adresa": {
+            "strada": "Mihai Eminescu, Nr. 251B",
+            "localitate": {
+                "nume": "Bozovici",
+                "siruta": 51582
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327040",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-242145",
+                "0255-242612"
+            ],
+            "fax": [
+                "0255-242145",
+                "0255-242612"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bolvaşniţa",
+        "adresa": {
+            "strada": "Principală, Nr. 141A",
+            "localitate": {
+                "nume": "Bolvasnita",
+                "siruta": 51555
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327035",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0371-106133"
+            ],
+            "fax": []
+        }
+    },
+    {
+        "nume": "Primăria Bocşa",
+        "adresa": {
+            "strada": "1 Decembrie 1918, Nr. 22",
+            "localitate": {
+                "nume": "Bocsa",
+                "siruta": 50978
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "325300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0355-566605",
+                "0355-566606",
+                "0355-566607"
+            ],
+            "fax": [
+                "0255-555226",
+                "0355-566600"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Berzovia",
+        "adresa": {
+            "strada": "Revoluţia Din Decembrie, Nr. 123",
+            "localitate": {
+                "nume": "Berzovia",
+                "siruta": 51519
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327030",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-525601",
+                "0255-525910",
+                "0255-525871"
+            ],
+            "fax": [
+                "0255-525910",
+                "0255-525871"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Berzasca",
+        "adresa": {
+            "strada": "Principală, Nr. 282",
+            "localitate": {
+                "nume": "Berzasca",
+                "siruta": 51458
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327025",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-545650"
+            ],
+            "fax": [
+                "0255-545651"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Berlişte",
+        "adresa": {
+            "strada": "Principală, Nr. 99",
+            "localitate": {
+                "nume": "Berliste",
+                "siruta": 51396
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327020",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-576101"
+            ],
+            "fax": [
+                "0255-576101"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Băuţar",
+        "adresa": {
+            "strada": "Principală, Nr. 55",
+            "localitate": {
+                "nume": "Bautar",
+                "siruta": 51341
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327015",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-521602",
+                "0255-521658"
+            ],
+            "fax": [
+                "0255-521658"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bănia",
+        "adresa": {
+            "strada": "Principală, Nr. 120",
+            "localitate": {
+                "nume": "Bania",
+                "siruta": 51314
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327010",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-243611",
+                "0255-243718"
+            ],
+            "fax": [
+                "0255-243718"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Băile Herculane",
+        "adresa": {
+            "strada": "Mihai Eminescu, Nr. 10",
+            "localitate": {
+                "nume": "Baile Herculane",
+                "siruta": 50932
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "325200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-560439"
+            ],
+            "fax": [
+                "0255-560321"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Armeniş",
+        "adresa": {
+            "strada": "Principală, Nr. 368",
+            "localitate": {
+                "nume": "Armenis",
+                "siruta": 51252
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327005",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-529604"
+            ],
+            "fax": [
+                "0255-529888"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Anina",
+        "adresa": {
+            "strada": "M. Hammer, Nr. 2",
+            "localitate": {
+                "nume": "Anina",
+                "siruta": 50898
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "325100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-240115"
+            ],
+            "fax": [
+                "0255-240115"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Zorlenţu Mare",
+        "adresa": {
+            "strada": "Principală, Nr. 34",
+            "localitate": {
+                "nume": "Zorlentu Mare",
+                "siruta": 54706
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327450",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-232719"
+            ],
+            "fax": [
+                "0255-232720"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Zăvoi",
+        "adresa": {
+            "strada": "Haţegului, Nr. 186",
+            "localitate": {
+                "nume": "Zavoi",
+                "siruta": 54626
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327435",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-534822"
+            ],
+            "fax": [
+                "0255-534801"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vrani",
+        "adresa": {
+            "strada": "Principală, Nr. 93A",
+            "localitate": {
+                "nume": "Vrani",
+                "siruta": 54582
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327430",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0355-081086",
+                "0768-102435"
+            ],
+            "fax": [
+                "0355-081087"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vermeş",
+        "adresa": {
+            "strada": "Principală, Nr. 152",
+            "localitate": {
+                "nume": "Vermes",
+                "siruta": 54546
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327425",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-526401"
+            ],
+            "fax": [
+                "0255-526603"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Varadia",
+        "adresa": {
+            "strada": "Principala, Nr. 379",
+            "localitate": {
+                "nume": "Varadia",
+                "siruta": 54519
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327420",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-576709"
+            ],
+            "fax": [
+                "0255-576709"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Văliug",
+        "adresa": {
+            "strada": "Principală, Nr. 56",
+            "localitate": {
+                "nume": "Valiug",
+                "siruta": 54494
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327415",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-235601",
+                "0255-235691"
+            ],
+            "fax": [
+                "0255-235601"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Turnu Ruieni",
+        "adresa": {
+            "strada": "Principală, Nr. 45",
+            "localitate": {
+                "nume": "Turnu Ruieni",
+                "siruta": 54421
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327405",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-510221"
+            ],
+            "fax": [
+                "0255-510221"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Topleţ",
+        "adresa": {
+            "strada": "Principală, Nr. 155",
+            "localitate": {
+                "nume": "Toplet",
+                "siruta": 54396
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-522409",
+                "0255-522102",
+                "0255-522271"
+            ],
+            "fax": [
+                "0255-522409"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tîrnova",
+        "adresa": {
+            "strada": "Principală, Nr. 377",
+            "localitate": {
+                "nume": "Tarnova",
+                "siruta": 54369
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327385",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-234704",
+                "0255-234757"
+            ],
+            "fax": [
+                "0255-234707"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ticvaniu Mare",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ticvaniu Mare",
+                "siruta": 54314
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327395",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-577100"
+            ],
+            "fax": [
+                "0255-577100",
+                "0255-577101"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Teregova",
+        "adresa": {
+            "strada": "Principală, Nr. 358",
+            "localitate": {
+                "nume": "Teregova",
+                "siruta": 54289
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327390",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-260005",
+                "0255-260007",
+                "0255-260291"
+            ],
+            "fax": [
+                "0255-260007"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şopotu Nou",
+        "adresa": {
+            "strada": "Principală, Nr. 19",
+            "localitate": {
+                "nume": "Sopotu Nou",
+                "siruta": 54172
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327370",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-244915"
+            ],
+            "fax": [
+                "0255-244949",
+                "0355-814364"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Socol",
+        "adresa": {
+            "strada": "Principală, Nr. 126",
+            "localitate": {
+                "nume": "Socol",
+                "siruta": 54118
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327365",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-544841"
+            ],
+            "fax": [
+                "0255-544814"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Slatina Timiş",
+        "adresa": {
+            "strada": "Principală, Nr. 32",
+            "localitate": {
+                "nume": "Slatina-Timis",
+                "siruta": 54065
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327360",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-260844"
+            ],
+            "fax": [
+                "0255-260899"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sicheviţa",
+        "adresa": {
+            "strada": "Sicheviţa, Nr. 396",
+            "localitate": {
+                "nume": "Sichevita",
+                "siruta": 53862
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327335",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-545005"
+            ],
+            "fax": [
+                "0255-545188"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sasca Montană",
+        "adresa": {
+            "strada": "Principală, Nr. 375",
+            "localitate": {
+                "nume": "Sasca Montana",
+                "siruta": 53808
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327330",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-576565"
+            ],
+            "fax": [
+                "0255-576514"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sacu",
+        "adresa": {
+            "strada": "Principală, Nr. 52",
+            "localitate": {
+                "nume": "Sacu",
+                "siruta": 53764
+            },
+            "judet": {
+                "nume": "Caras-Severin"
+            },
+            "cod-postal": "327325",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0255-510340"
+            ],
+            "fax": [
+                "0255-510410"
+            ]
+        }
+    }
+]

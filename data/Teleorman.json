@@ -1,0 +1,2252 @@
+[
+    {
+        "nume": "Primăria Conteşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Contesti",
+                "siruta": 152573
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147085",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-334296"
+            ],
+            "fax": [
+                "0247-334296"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ciuperceni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ciuperceni",
+                "siruta": 151718
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147080",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-419590"
+            ],
+            "fax": [
+                "0247-419590"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ciolăneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ciolanesti",
+                "siruta": 152528
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147075",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-336401"
+            ],
+            "fax": [
+                "0247-336450"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cervenia",
+        "adresa": {
+            "strada": "Vedea, Nr. 123",
+            "localitate": {
+                "nume": "Cervenia",
+                "siruta": 152519
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147070",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-333542"
+            ],
+            "fax": [
+                "0247-333541"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Călmăţuiu De Sus",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Calmatuiu De Sus",
+                "siruta": 152476
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147065",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-356211"
+            ],
+            "fax": [
+                "0247-356211"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Călmăţuiu",
+        "adresa": {
+            "strada": "Principala, Nr. 1",
+            "localitate": {
+                "nume": "Calmatuiu",
+                "siruta": 152421
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147060",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-430620",
+                "0247-430629"
+            ],
+            "fax": [
+                "0247-430620"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Călineşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Calinesti",
+                "siruta": 152369
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147055",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-431177"
+            ],
+            "fax": [
+                "0247-431004"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Buzescu",
+        "adresa": {
+            "strada": "Str. Cuza Vodă",
+            "localitate": {
+                "nume": "Buzescu",
+                "siruta": 152341
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147050",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-330635"
+            ],
+            "fax": [
+                "0247-330723"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bujoru",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Bujoru",
+                "siruta": 152323
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147045",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-335609"
+            ],
+            "fax": [
+                "0247-335609"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bujoreni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Bujoreni",
+                "siruta": 152289
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147040",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-443169"
+            ],
+            "fax": [
+                "0247-443169"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Brinceni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Branceni",
+                "siruta": 152261
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147035",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-431448"
+            ],
+            "fax": [
+                "0247-431448"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bragadiru",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Bragadiru",
+                "siruta": 152243
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147030",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-335203",
+                "0247-335106",
+                "0247-335065"
+            ],
+            "fax": [
+                "0247-335065"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Botoroaga",
+        "adresa": {
+            "strada": "Principală, Nr. 12",
+            "localitate": {
+                "nume": "Botoroaga",
+                "siruta": 152181
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147025",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-442106",
+                "0247-442111",
+                "0247-442338"
+            ],
+            "fax": [
+                "0247-442111"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bogdana",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Bogdana",
+                "siruta": 152136
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147020",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-329013"
+            ],
+            "fax": [
+                "0247-329013"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Blejeşti",
+        "adresa": {
+            "strada": "Piteşti, Nr. 317",
+            "localitate": {
+                "nume": "Blejesti",
+                "siruta": 152092
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147015",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-452502"
+            ],
+            "fax": [
+                "0247-452502"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Beuca",
+        "adresa": {
+            "strada": "Gării, Nr. 6",
+            "localitate": {
+                "nume": "Beuca",
+                "siruta": 152813
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147121",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-336255"
+            ],
+            "fax": [
+                "0247-336255"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Beciu",
+        "adresa": {
+            "strada": "Dj 546",
+            "localitate": {
+                "nume": "Beciu",
+                "siruta": 153641
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147257",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-356918"
+            ],
+            "fax": [
+                "0247-356918"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Balaci",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Balaci",
+                "siruta": 152001
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147005",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-336003"
+            ],
+            "fax": [
+                "0247-336003"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Băbăiţa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Babaita",
+                "siruta": 152047
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147010",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-433122"
+            ],
+            "fax": [
+                "0247-433115"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Alexandria",
+        "adresa": {
+            "strada": "Dunării, Nr. 139",
+            "localitate": {
+                "nume": "Alexandria",
+                "siruta": 151807
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "140010",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-317732",
+                "0247-317733"
+            ],
+            "fax": [
+                "0247-317728"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pietroşani",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Pietrosani",
+                "siruta": 153598
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147250",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-334402"
+            ],
+            "fax": [
+                "0247-334402"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Poroschia",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Poroschia",
+                "siruta": 151843
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147280",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-318787"
+            ],
+            "fax": [
+                "0247-318787"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Poeni",
+        "adresa": {
+            "strada": "G-Ral Gheorghe Rădulescu, Nr. 48",
+            "localitate": {
+                "nume": "Poeni",
+                "siruta": 153703
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147270",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-457109"
+            ],
+            "fax": [
+                "0247-457005"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Plosca",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Plosca",
+                "siruta": 153614
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147265",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-327501"
+            ],
+            "fax": [
+                "0247-327501"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Plopii-Slăviteşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Plopii-Slavitesti",
+                "siruta": 153632
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147255",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-356701",
+                "0247-356809"
+            ],
+            "fax": [
+                "0247-356809"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Piatra",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Piatra",
+                "siruta": 153570
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147245",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-361103"
+            ],
+            "fax": [
+                "0247-361103"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Peretu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Peretu",
+                "siruta": 153552
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147240",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-327167"
+            ],
+            "fax": [
+                "0247-327167"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Orbeasca",
+        "adresa": {
+            "strada": "Şoseaua Alexandriei, Nr. 124",
+            "localitate": {
+                "nume": "Orbeasca",
+                "siruta": 153507
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147235",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-430010"
+            ],
+            "fax": [
+                "0247-430207"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Olteni",
+        "adresa": {
+            "strada": "Alexandriei, Nr. 30",
+            "localitate": {
+                "nume": "Olteni",
+                "siruta": 153482
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147230",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-432118"
+            ],
+            "fax": [
+                "0247-432118"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Nenciuleşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Nenciulesti",
+                "siruta": 153222
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147186",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-330961"
+            ],
+            "fax": [
+                "0247-330961"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Necşeşti",
+        "adresa": {
+            "strada": "Principală, Nr. 69",
+            "localitate": {
+                "nume": "Necsesti",
+                "siruta": 153446
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147225",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-708025"
+            ],
+            "fax": [
+                "0247-708026"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Năsturelu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Nasturelu",
+                "siruta": 153419
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147220",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-368807"
+            ],
+            "fax": [
+                "0247-368011"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Nanov",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Nanov",
+                "siruta": 151825
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147215",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-319944"
+            ],
+            "fax": [
+                "0247-319902"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Moşteni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Mosteni",
+                "siruta": 153393
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147210",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-356012"
+            ],
+            "fax": [
+                "0247-356012"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mereni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Mereni",
+                "siruta": 62137
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147205",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-450608",
+                "0247-450510"
+            ],
+            "fax": [
+                "0247-450608"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mavrodin",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Mavrodin",
+                "siruta": 153213
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147185",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-330802"
+            ],
+            "fax": []
+        }
+    },
+    {
+        "nume": "Primăria Mârzăneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Marzanesti",
+                "siruta": 153348
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-331808",
+                "0247-331999"
+            ],
+            "fax": [
+                "0247-331808"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Măldăeni",
+        "adresa": {
+            "strada": "Principală, Nr. 40",
+            "localitate": {
+                "nume": "Maldaeni",
+                "siruta": 153286
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147195",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-337112"
+            ],
+            "fax": [
+                "0247-337112"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Măgura",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Magura",
+                "siruta": 153259
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147190",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-331502",
+                "0247-331742",
+                "0247-320689"
+            ],
+            "fax": [
+                "0247-331502",
+                "0247-331742"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lunca",
+        "adresa": {
+            "strada": "Principală, Nr. 129",
+            "localitate": {
+                "nume": "Lunca",
+                "siruta": 153160
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147180",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-358362"
+            ],
+            "fax": [
+                "0247-358362"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Zimnicea",
+        "adresa": {
+            "strada": "Giurgiu, Nr. 1",
+            "localitate": {
+                "nume": "Zimnicea",
+                "siruta": 151987
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "145400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-366431"
+            ],
+            "fax": [
+                "0247-366780"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Zimbreasca",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Zambreasca",
+                "siruta": 154987
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147445",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-338401"
+            ],
+            "fax": [
+                "0247-338401"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vităneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Vitanesti",
+                "siruta": 153810
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147440",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-331225"
+            ],
+            "fax": [
+                "0247-331225"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vîrtoape",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Vartoape",
+                "siruta": 154932
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147425",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-338202"
+            ],
+            "fax": [
+                "0247-338202"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Viişoara",
+        "adresa": {
+            "strada": "Principală, Nr. 673",
+            "localitate": {
+                "nume": "Viisoara",
+                "siruta": 154923
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147435",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-360615"
+            ],
+            "fax": [
+                "0247-360506"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Videle",
+        "adresa": {
+            "strada": "Republicii, Nr. 2",
+            "localitate": {
+                "nume": "Videle",
+                "siruta": 151914
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "145300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-453017"
+            ],
+            "fax": [
+                "0247-453015"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vedea",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Vedea",
+                "siruta": 154861
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147430",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-337901"
+            ],
+            "fax": [
+                "0247-337901"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Uda Clocociov",
+        "adresa": {
+            "strada": "Clocociov, Nr. 9",
+            "localitate": {
+                "nume": "Uda-Clocociov",
+                "siruta": 154362
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147356",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0373-550246",
+                "0373-550249",
+                "0373-550248"
+            ],
+            "fax": [
+                "0373-550246",
+                "0373-550247"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Turnu Măgurele",
+        "adresa": {
+            "strada": "Republicii, Nr. 2",
+            "localitate": {
+                "nume": "Turnu Magurele",
+                "siruta": 151692
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "145200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-416451",
+                "0247-416452"
+            ],
+            "fax": [
+                "0247-416453",
+                "0247-416587"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Troianul",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Troianul",
+                "siruta": 154807
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147415",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-328003"
+            ],
+            "fax": [
+                "0247-328977"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Trivalea-Moşteni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Trivalea-Mosteni",
+                "siruta": 154763
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147410",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-708009"
+            ],
+            "fax": [
+                "0247-708010",
+                "0372-253958"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Traian",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Traian",
+                "siruta": 154745
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147405",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-420613"
+            ],
+            "fax": [
+                "0247-420613"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ţigăneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Tiganesti",
+                "siruta": 154843
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147420",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-330001",
+                "0247-330054"
+            ],
+            "fax": [
+                "0247-330339"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tătărăştii De Sus",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Tatarastii De Sus",
+                "siruta": 154674
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-337868"
+            ],
+            "fax": [
+                "0247-337713"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tătărăştii De Jos",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Tatarastii De Jos",
+                "siruta": 154594
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147390",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-337703"
+            ],
+            "fax": [
+                "0247-337703"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Talpa",
+        "adresa": {
+            "strada": "22 Decembrie 1989, Nr. 1",
+            "localitate": {
+                "nume": "Talpa",
+                "siruta": 154521
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147380",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-898255"
+            ],
+            "fax": [
+                "0247-898255"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Suhaia",
+        "adresa": {
+            "strada": "Şoseaua Dunării, Nr. 220",
+            "localitate": {
+                "nume": "Suhaia",
+                "siruta": 154479
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147370",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-451100",
+                "0247-451474"
+            ],
+            "fax": [
+                "0247-451474"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ştorobăneasa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Storobaneasa",
+                "siruta": 154503
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147375",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-332876"
+            ],
+            "fax": [
+                "0247-332876"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Stejaru",
+        "adresa": {
+            "strada": "Principală, Nr. 101",
+            "localitate": {
+                "nume": "Stejaru",
+                "siruta": 154424
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147365",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-337602"
+            ],
+            "fax": [
+                "0247-337602"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Smirdioasa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Smardioasa",
+                "siruta": 154399
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147360",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-332286"
+            ],
+            "fax": [
+                "0247-332286"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Slobozia Mândra",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Slobozia Mandra",
+                "siruta": 154353
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147355",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-359046"
+            ],
+            "fax": [
+                "0247-359114"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Siliştea Gumeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Silistea Gumesti",
+                "siruta": 154291
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147350",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-336083"
+            ],
+            "fax": []
+        }
+    },
+    {
+        "nume": "Primăria Siliştea",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Silistea",
+                "siruta": 154237
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147345",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-452633"
+            ],
+            "fax": [
+                "0247-452633"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sfinţeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Sfintesti",
+                "siruta": 154175
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147340",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-337425"
+            ],
+            "fax": []
+        }
+    },
+    {
+        "nume": "Primăria Segarcea Vale",
+        "adresa": {
+            "strada": "Şos. Turnu Măgurele, Nr. 102",
+            "localitate": {
+                "nume": "Segarcea-Vale",
+                "siruta": 154193
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147335",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-358794",
+                "0247-358841"
+            ],
+            "fax": [
+                "0247-358794"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Seaca",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Seaca",
+                "siruta": 154148
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147330",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-420850"
+            ],
+            "fax": [
+                "0247-420850"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Scurtu Mare",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Scurtu Mare",
+                "siruta": 154077
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147320",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0731-835480",
+                "0767-167785"
+            ],
+            "fax": []
+        }
+    },
+    {
+        "nume": "Primăria Scrioaştea",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Scrioastea",
+                "siruta": 154022
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147315",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-459406"
+            ],
+            "fax": [
+                "0247-459406"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sârbeni",
+        "adresa": {
+            "strada": "Primăriei, Nr. 186",
+            "localitate": {
+                "nume": "Sarbeni",
+                "siruta": 154326
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147310",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-459105"
+            ],
+            "fax": [
+                "0247-459105"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Salcia",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Salcia",
+                "siruta": 153945
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-357099",
+                "0247-357095"
+            ],
+            "fax": [
+                "0247-357099"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Saelele",
+        "adresa": {
+            "strada": "Principală, Nr. 1",
+            "localitate": {
+                "nume": "Saelele",
+                "siruta": 153197
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147183",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-358489"
+            ],
+            "fax": [
+                "0247-358489"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Săceni",
+        "adresa": {
+            "strada": "Dunării, Nr. 1",
+            "localitate": {
+                "nume": "Saceni",
+                "siruta": 153981
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147305",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-337402"
+            ],
+            "fax": [
+                "0247-337402"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Roşiorii De Vede",
+        "adresa": {
+            "strada": "Dunării, Nr. 58",
+            "localitate": {
+                "nume": "Rosiorii De Vede",
+                "siruta": 151889
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "145100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-466250"
+            ],
+            "fax": [
+                "0247-466141"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Răsmireşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Rasmiresti",
+                "siruta": 153918
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147295",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-328403"
+            ],
+            "fax": [
+                "0247-328566"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Rădoieşti",
+        "adresa": {
+            "strada": "Principală, Nr. 86",
+            "localitate": {
+                "nume": "Radoiesti",
+                "siruta": 153865
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147290",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-337303"
+            ],
+            "fax": [
+                "0247-337303"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Putineiu",
+        "adresa": {
+            "strada": "Principală, Nr. 8",
+            "localitate": {
+                "nume": "Putineiu",
+                "siruta": 153838
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147285",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-358139",
+                "0247-358136"
+            ],
+            "fax": [
+                "0247-358139"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Purani",
+        "adresa": {
+            "strada": "Şos. Piteşti, Nr. 17",
+            "localitate": {
+                "nume": "Puranii De Sus",
+                "siruta": 154264
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147348",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-452780"
+            ],
+            "fax": [
+                "0372-874788"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Liţa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Lita",
+                "siruta": 151772
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147175",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-359506",
+                "0247-359511"
+            ],
+            "fax": [
+                "0247-359506",
+                "0247-359577"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lisa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Lisa",
+                "siruta": 153133
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147170",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-360703"
+            ],
+            "fax": [
+                "0247-360703"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Izvoarele",
+        "adresa": {
+            "strada": "Căminului, Nr. 3",
+            "localitate": {
+                "nume": "Isvoarele",
+                "siruta": 153115
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147165",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-333838"
+            ],
+            "fax": [
+                "0247-333838"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Islaz",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Islaz",
+                "siruta": 151745
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147160",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-420206"
+            ],
+            "fax": [
+                "0247-420306"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gratia",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Gratia",
+                "siruta": 153071
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147155",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-458301"
+            ],
+            "fax": [
+                "0247-458252"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gălăteni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Galateni",
+                "siruta": 153035
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147150",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-434034"
+            ],
+            "fax": [
+                "0247-434034"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Furculeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Furculesti",
+                "siruta": 152957
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147145",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-328768"
+            ],
+            "fax": [
+                "0247-328637"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Frumoasa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Frumoasa",
+                "siruta": 153008
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147140",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-335902",
+                "0347-809140"
+            ],
+            "fax": [
+                "0247-335902"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Frăsinet",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Frasinet",
+                "siruta": 152065
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147012",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-433531"
+            ],
+            "fax": [
+                "0247-433531"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Fântânele",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Fantanele",
+                "siruta": 154488
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147371",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-451082",
+                "0247-451263"
+            ],
+            "fax": [
+                "0247-451082",
+                "0247-451263"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Drăgăneşti Vlaşca",
+        "adresa": {
+            "strada": "Nicolae Titulescu, Nr. 2",
+            "localitate": {
+                "nume": "Draganesti-Vlasca",
+                "siruta": 152911
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147135",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-440705"
+            ],
+            "fax": [
+                "0247-440357"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Drăgăneşti De Vede",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Draganesti De Vede",
+                "siruta": 152877
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147130",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-466392"
+            ],
+            "fax": [
+                "0247-466392"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Drăcşenei",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Dracsenei",
+                "siruta": 152804
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147120",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-337033"
+            ],
+            "fax": [
+                "0247-337033"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dracea",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Dracea",
+                "siruta": 152680
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147101",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0347-807230"
+            ],
+            "fax": [
+                "0347-807230"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dobroteşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Dobrotesti",
+                "siruta": 152779
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147115",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-336802"
+            ],
+            "fax": [
+                "0247-336816"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dideşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Didesti",
+                "siruta": 152733
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147110",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-336720"
+            ],
+            "fax": [
+                "0247-336720"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Crîngu",
+        "adresa": {
+            "strada": "Principală, Nr. 93",
+            "localitate": {
+                "nume": "Crangu",
+                "siruta": 152671
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-329623"
+            ],
+            "fax": [
+                "0247-329623"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Crevenicu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Crevenicu",
+                "siruta": 151941
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147105",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-450171"
+            ],
+            "fax": [
+                "0247-450171"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Crângeni",
+        "adresa": {
+            "strada": "Principală, Nr. 50",
+            "localitate": {
+                "nume": "Crangeni",
+                "siruta": 152626
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147095",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-356209"
+            ],
+            "fax": [
+                "0247-356209"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cosmeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Cosmesti",
+                "siruta": 152591
+            },
+            "judet": {
+                "nume": "Teleorman"
+            },
+            "cod-postal": "147090",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0247-452118"
+            ],
+            "fax": []
+        }
+    }
+]

@@ -1,0 +1,952 @@
+[
+    {
+        "nume": "Primăria Domneşti",
+        "adresa": {
+            "strada": "Șos. Alexandru Ioan Cuza, Nr. 25-27",
+            "localitate": {
+                "nume": "Domnesti",
+                "siruta": 102589
+            },
+            "judet": {
+                "nume": "Ilfov"
+            },
+            "cod-postal": "077090",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-3515256",
+                "021-3515257"
+            ],
+            "fax": [
+                "021-3515256",
+                "021-3515257"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dobroeşti",
+        "adresa": {
+            "strada": "Cuza Voda Nr. 23",
+            "localitate": {
+                "nume": "Dobroesti",
+                "siruta": 179329
+            },
+            "judet": {
+                "nume": "Ilfov"
+            },
+            "cod-postal": "077085",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-2554595",
+                "021-2553320"
+            ],
+            "fax": [
+                "021-2554595",
+                "021-2553320"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dascălu",
+        "adresa": {
+            "strada": "Victorie, Nr. 87",
+            "localitate": {
+                "nume": "Dascalu",
+                "siruta": 102482
+            },
+            "judet": {
+                "nume": "Ilfov"
+            },
+            "cod-postal": "077075",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-2673188"
+            ],
+            "fax": [
+                "021-2673189"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dărăşti-Ilfov",
+        "adresa": {
+            "strada": "Mihai Eminescu, Nr. 6",
+            "localitate": {
+                "nume": "Darasti-Ilfov",
+                "siruta": 102534
+            },
+            "judet": {
+                "nume": "Ilfov"
+            },
+            "cod-postal": "077080",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-3692020",
+                "021-3692021"
+            ],
+            "fax": [
+                "021-3692021"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cornetu",
+        "adresa": {
+            "strada": "Şos. Alexandriei, Nr. 140",
+            "localitate": {
+                "nume": "Cornetu",
+                "siruta": 102222
+            },
+            "judet": {
+                "nume": "Ilfov"
+            },
+            "cod-postal": "077070",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-4689220"
+            ],
+            "fax": [
+                "021-4689220",
+                "021-4689020"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Corbeanca",
+        "adresa": {
+            "strada": "Independenţei, Nr. 14",
+            "localitate": {
+                "nume": "Corbeanca",
+                "siruta": 102179
+            },
+            "judet": {
+                "nume": "Ilfov"
+            },
+            "cod-postal": "077065",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-2666031"
+            ],
+            "fax": [
+                "021-2666010"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Copăceni",
+        "adresa": {
+            "strada": "Şos. Principală, Nr. 190",
+            "localitate": {
+                "nume": "Copaceni",
+                "siruta": 102561
+            },
+            "judet": {
+                "nume": "Ilfov"
+            },
+            "cod-postal": "077006",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-4687174"
+            ],
+            "fax": [
+                "021-4687173"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Clinceni",
+        "adresa": {
+            "strada": "Principală, Nr. 107A",
+            "localitate": {
+                "nume": "Clinceni",
+                "siruta": 102044
+            },
+            "judet": {
+                "nume": "Ilfov"
+            },
+            "cod-postal": "077060",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-3694041",
+                "021-3694393"
+            ],
+            "fax": [
+                "021-3694041",
+                "021-3694393"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ciorogârla",
+        "adresa": {
+            "strada": "Şos. Bucureşti, Nr. 112",
+            "localitate": {
+                "nume": "Ciorogarla",
+                "siruta": 101966
+            },
+            "judet": {
+                "nume": "Ilfov"
+            },
+            "cod-postal": "077055",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-3131590"
+            ],
+            "fax": [
+                "021-3131590"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ciolpani",
+        "adresa": {
+            "strada": "Mănăstirii, Nr. 132",
+            "localitate": {
+                "nume": "Ciolpani",
+                "siruta": 101911
+            },
+            "judet": {
+                "nume": "Ilfov"
+            },
+            "cod-postal": "077050",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-2668123"
+            ],
+            "fax": [
+                "021-2668123",
+                "021-2668045"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Chitila",
+        "adresa": {
+            "strada": "Ion Olteanu, Nr. 6",
+            "localitate": {
+                "nume": "Chitila",
+                "siruta": 179294
+            },
+            "judet": {
+                "nume": "Ilfov"
+            },
+            "cod-postal": "077045",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-4363709",
+                "021-4363711"
+            ],
+            "fax": [
+                "021-4363710",
+                "021-027915"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Chiajna",
+        "adresa": {
+            "strada": "Păcii, Nr. 75",
+            "localitate": {
+                "nume": "Chiajna",
+                "siruta": 179258
+            },
+            "judet": {
+                "nume": "Ilfov"
+            },
+            "cod-postal": "077040",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-4361122",
+                "021-4360067"
+            ],
+            "fax": [
+                "021-4361144"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cernica",
+        "adresa": {
+            "strada": "Traian, Nr.10",
+            "localitate": {
+                "nume": "Cernica",
+                "siruta": 101751
+            },
+            "judet": {
+                "nume": "Ilfov"
+            },
+            "cod-postal": "077035",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-2555508"
+            ],
+            "fax": [
+                "021-2555508"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Buftea",
+        "adresa": {
+            "strada": "Piaţa Mihai Eminescu, Nr. 1",
+            "localitate": {
+                "nume": "Buftea",
+                "siruta": 100585
+            },
+            "judet": {
+                "nume": "Ilfov"
+            },
+            "cod-postal": "070000",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "031-8241231",
+                "031-8241234"
+            ],
+            "fax": [
+                "031-8241238",
+                "021-3500667"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Brăneşti",
+        "adresa": {
+            "strada": "I.C. Brătianu, 69",
+            "localitate": {
+                "nume": "Branesti",
+                "siruta": 101305
+            },
+            "judet": {
+                "nume": "Ilfov"
+            },
+            "cod-postal": "077030",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-3501258",
+                "021-3150983",
+                "0330-819365"
+            ],
+            "fax": [
+                "021-3501258"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bragadiru",
+        "adresa": {
+            "strada": "Şos. Alexandriei, Nr. 249",
+            "localitate": {
+                "nume": "Bragadiru",
+                "siruta": 179230
+            },
+            "judet": {
+                "nume": "Ilfov"
+            },
+            "cod-postal": "077025",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-4480795"
+            ],
+            "fax": [
+                "021-4480795",
+                "021-4480572"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Berceni",
+        "adresa": {
+            "strada": "B-Dul 1 Mai, Nr. 233",
+            "localitate": {
+                "nume": "Berceni",
+                "siruta": 101154
+            },
+            "judet": {
+                "nume": "Ilfov"
+            },
+            "cod-postal": "077020",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-3612703",
+                "021-3651966",
+                "021-3651968"
+            ],
+            "fax": [
+                "021-3612703"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Baloteşti",
+        "adresa": {
+            "strada": "Calea Bucureşti, Nr. 89",
+            "localitate": {
+                "nume": "Saftica",
+                "siruta": 100996
+            },
+            "judet": {
+                "nume": "Ilfov"
+            },
+            "cod-postal": "077017",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-3511093",
+                "021-3511092"
+            ],
+            "fax": [
+                "021-3521885"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Afumati",
+        "adresa": {
+            "strada": "Şos. Bucureşti-Urziceni, Nr. 151",
+            "localitate": {
+                "nume": "Afumati",
+                "siruta": 100843
+            },
+            "judet": {
+                "nume": "Ilfov"
+            },
+            "cod-postal": "077010",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-3529424"
+            ],
+            "fax": [
+                "021-3501287"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria 1 Decembrie",
+        "adresa": {
+            "strada": "Şos. Giurgiului, Nr. 196 Bl. P22 Ap. 13-14",
+            "localitate": {
+                "nume": "1 Decembrie",
+                "siruta": 102552
+            },
+            "judet": {
+                "nume": "Ilfov"
+            },
+            "cod-postal": "077005",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-3691315"
+            ],
+            "fax": [
+                "021-3691317"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Voluntari",
+        "adresa": {
+            "strada": "B-Dul Voluntari, Nr. 74",
+            "localitate": {
+                "nume": "Voluntari",
+                "siruta": 179560
+            },
+            "judet": {
+                "nume": "Ilfov"
+            },
+            "cod-postal": "077190",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "031-4036110"
+            ],
+            "fax": [
+                "031-4036179"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vidra",
+        "adresa": {
+            "strada": "Principală, Nr. 80",
+            "localitate": {
+                "nume": "Vidra",
+                "siruta": 105945
+            },
+            "judet": {
+                "nume": "Ilfov"
+            },
+            "cod-postal": "077185",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-3612265",
+                "021-3612266"
+            ],
+            "fax": [
+                "021-3612264"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tunari",
+        "adresa": {
+            "strada": "Mihai Eminescu, Nr. 1",
+            "localitate": {
+                "nume": "Tunari",
+                "siruta": 105589
+            },
+            "judet": {
+                "nume": "Ilfov"
+            },
+            "cod-postal": "077180",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-2675310"
+            ],
+            "fax": [
+                "021-2675300"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ştefăneştii De Jos",
+        "adresa": {
+            "strada": "Şos. Ştefăneşti, Nr. 116",
+            "localitate": {
+                "nume": "Stefanestii De Jos",
+                "siruta": 105428
+            },
+            "judet": {
+                "nume": "Ilfov"
+            },
+            "cod-postal": "077175",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-3613529"
+            ],
+            "fax": [
+                "021-3613529"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Snagov",
+        "adresa": {
+            "strada": "Şos. Ghermăneşti, Nr. 49",
+            "localitate": {
+                "nume": "Snagov",
+                "siruta": 105179
+            },
+            "judet": {
+                "nume": "Ilfov"
+            },
+            "cod-postal": "077165",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-4910653",
+                "021-4910642"
+            ],
+            "fax": [
+                "021-4910653"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Popeşti Leordeni",
+        "adresa": {
+            "strada": "P-Ţa Sfânta Maria, Nr. 1",
+            "localitate": {
+                "nume": "Popesti-Leordeni",
+                "siruta": 179542
+            },
+            "judet": {
+                "nume": "Ilfov"
+            },
+            "cod-postal": "077160",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-3614029",
+                "021-3614023"
+            ],
+            "fax": [
+                "021-3614025"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Petrăchioaia",
+        "adresa": {
+            "strada": "Şos. Vânători, Nr. 300",
+            "localitate": {
+                "nume": "Petrachioaia",
+                "siruta": 104591
+            },
+            "judet": {
+                "nume": "Ilfov"
+            },
+            "cod-postal": "077155",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-3617444",
+                "021-3617443"
+            ],
+            "fax": [
+                "021-3617443"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pantelimon",
+        "adresa": {
+            "strada": "Sfântu Gheorghe, Nr. 32",
+            "localitate": {
+                "nume": "Pantelimon",
+                "siruta": 179524
+            },
+            "judet": {
+                "nume": "Ilfov"
+            },
+            "cod-postal": "077145",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-3502442",
+                "021-3502444"
+            ],
+            "fax": [
+                "021-3502442",
+                "021-3017075"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Otopeni",
+        "adresa": {
+            "strada": "23 August, Nr. 10",
+            "localitate": {
+                "nume": "Otopeni",
+                "siruta": 179490
+            },
+            "judet": {
+                "nume": "Ilfov"
+            },
+            "cod-postal": "075100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-3520033"
+            ],
+            "fax": [
+                "021-3520034"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Periş",
+        "adresa": {
+            "strada": "Principală, Nr. 211",
+            "localitate": {
+                "nume": "Peris",
+                "siruta": 104555
+            },
+            "judet": {
+                "nume": "Ilfov"
+            },
+            "cod-postal": "077150",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-2670210"
+            ],
+            "fax": [
+                "021-2670245"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Nuci",
+        "adresa": {
+            "strada": "Calea Bucureşti, Nr. 201",
+            "localitate": {
+                "nume": "Nuci",
+                "siruta": 104430
+            },
+            "judet": {
+                "nume": "Ilfov"
+            },
+            "cod-postal": "077140",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-2696010"
+            ],
+            "fax": [
+                "021-2696010"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mogoşoaia",
+        "adresa": {
+            "strada": "Şoseaua Bucureşti-Târgovişte, Nr. 138",
+            "localitate": {
+                "nume": "Mogosoaia",
+                "siruta": 179472
+            },
+            "judet": {
+                "nume": "Ilfov"
+            },
+            "cod-postal": "077135",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-3516692"
+            ],
+            "fax": [
+                "021-3516695"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Moara Vlăsiei",
+        "adresa": {
+            "strada": "Şos. Eroilor, Nr. 199",
+            "localitate": {
+                "nume": "Moara Vlasiei",
+                "siruta": 104252
+            },
+            "judet": {
+                "nume": "Ilfov"
+            },
+            "cod-postal": "077130",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-2672135",
+                "021-2672056"
+            ],
+            "fax": [
+                "021-2672056"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Măgurele",
+        "adresa": {
+            "strada": "Călugăreni, Nr. 2-4",
+            "localitate": {
+                "nume": "Magurele",
+                "siruta": 179418
+            },
+            "judet": {
+                "nume": "Ilfov"
+            },
+            "cod-postal": "077125",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-4574091"
+            ],
+            "fax": [
+                "021-4574165",
+                "021-4574504"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Jilava",
+        "adresa": {
+            "strada": "Şos. Giurgiului, Nr. 279",
+            "localitate": {
+                "nume": "Jilava",
+                "siruta": 179392
+            },
+            "judet": {
+                "nume": "Ilfov"
+            },
+            "cod-postal": "077120",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-4570115"
+            ],
+            "fax": [
+                "021-4571171"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gruiu",
+        "adresa": {
+            "strada": "Şoseaua Gruiu-Snagov, Nr. 152",
+            "localitate": {
+                "nume": "Gruiu",
+                "siruta": 103522
+            },
+            "judet": {
+                "nume": "Ilfov"
+            },
+            "cod-postal": "077115",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-3508008",
+                "021-3508009"
+            ],
+            "fax": [
+                "021-3671729"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Grădiştea",
+        "adresa": {
+            "strada": "Primăriei, Nr. 29",
+            "localitate": {
+                "nume": "Gradistea",
+                "siruta": 103452
+            },
+            "judet": {
+                "nume": "Ilfov"
+            },
+            "cod-postal": "077110",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-2662760"
+            ],
+            "fax": [
+                "021-2662009"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Glina",
+        "adresa": {
+            "strada": "Libertăţii, Nr. 292",
+            "localitate": {
+                "nume": "Glina",
+                "siruta": 179356
+            },
+            "judet": {
+                "nume": "Ilfov"
+            },
+            "cod-postal": "077105",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-4671214"
+            ],
+            "fax": [
+                "021-4671198"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Găneasa",
+        "adresa": {
+            "strada": "Ştefan Cel Mare, Nr. 34",
+            "localitate": {
+                "nume": "Ganeasa",
+                "siruta": 103149
+            },
+            "judet": {
+                "nume": "Ilfov"
+            },
+            "cod-postal": "077100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-3513060"
+            ],
+            "fax": [
+                "021-3513060"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dragomireşti Vale",
+        "adresa": {
+            "strada": "Micşunelelor, Nr. 87",
+            "localitate": {
+                "nume": "Dragomiresti-Vale",
+                "siruta": 102614
+            },
+            "judet": {
+                "nume": "Ilfov"
+            },
+            "cod-postal": "077095",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "021-4367132",
+                "021-4367165"
+            ],
+            "fax": [
+                "021-4367165"
+            ]
+        }
+    }
+]

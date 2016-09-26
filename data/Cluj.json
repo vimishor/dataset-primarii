@@ -1,0 +1,1932 @@
+[
+    {
+        "nume": "Primăria Căşeiu",
+        "adresa": {
+            "strada": "Principală, Nr. 54",
+            "localitate": {
+                "nume": "Caseiu",
+                "siruta": 56675
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407155",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-229101",
+                "0264-229000"
+            ],
+            "fax": [
+                "0264-229101"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Căpuşu Mare",
+        "adresa": {
+            "strada": "Nr. 24",
+            "localitate": {
+                "nume": "Capusu Mare",
+                "siruta": 56577
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407145",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-350006",
+                "0264-350010"
+            ],
+            "fax": [
+                "0264-350006",
+                "0264-350010"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Câmpia Turzii",
+        "adresa": {
+            "strada": "Laminoriştilor, Nr. 2",
+            "localitate": {
+                "nume": "Campia Turzii",
+                "siruta": 55366
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "405100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-368001",
+                "0264-368002"
+            ],
+            "fax": [
+                "0264-365467"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cămăraşu",
+        "adresa": {
+            "strada": "Principală , Nr. 126",
+            "localitate": {
+                "nume": "Camarasu",
+                "siruta": 56531
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407140",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-288002",
+                "0264-288064",
+                "0264-288065"
+            ],
+            "fax": [
+                "0264-288064"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Călăţele",
+        "adresa": {
+            "strada": "Principală, Nr. 100",
+            "localitate": {
+                "nume": "Calatele",
+                "siruta": 56470
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407135",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-352304",
+                "0264-352560"
+            ],
+            "fax": [
+                "0264-352304",
+                "0264-352560"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Călăraşi",
+        "adresa": {
+            "strada": "Principală, Nr. 316",
+            "localitate": {
+                "nume": "Calarasi",
+                "siruta": 56434
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407130",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-356086",
+                "0264-356088"
+            ],
+            "fax": [
+                "0264-356088",
+                "0264-356086"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Căianu",
+        "adresa": {
+            "strada": "Principală, Nr. 48",
+            "localitate": {
+                "nume": "Caianu",
+                "siruta": 56363
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407120",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-280007"
+            ],
+            "fax": [
+                "0264-280027"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Buza",
+        "adresa": {
+            "strada": "Principală, Nr. 63",
+            "localitate": {
+                "nume": "Buza",
+                "siruta": 56336
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407115",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-219687"
+            ],
+            "fax": [
+                "0264-219687"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Borşa",
+        "adresa": {
+            "strada": "Principală, Nr. 262",
+            "localitate": {
+                "nume": "Borsa",
+                "siruta": 56274
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407110",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-355489",
+                "0264-355289"
+            ],
+            "fax": [
+                "0264-355474"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bonţida",
+        "adresa": {
+            "strada": "Mihai Eminescu, Nr. 446",
+            "localitate": {
+                "nume": "Bontida",
+                "siruta": 56229
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407105",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-262259"
+            ],
+            "fax": [
+                "0264-262259"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bobîlna",
+        "adresa": {
+            "strada": "Principală, Nr. 37",
+            "localitate": {
+                "nume": "Bobalna",
+                "siruta": 56103
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407085",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-355046",
+                "0264-355086"
+            ],
+            "fax": [
+                "0264-355046"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Beliş",
+        "adresa": {
+            "strada": "Principală, Nr. 105\/A",
+            "localitate": {
+                "nume": "Belis",
+                "siruta": 56023
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407075",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-334002",
+                "0264-334191"
+            ],
+            "fax": [
+                "0264-334002"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Băişoara",
+        "adresa": {
+            "strada": "Principală, Nr. 153",
+            "localitate": {
+                "nume": "Baisoara",
+                "siruta": 55927
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407065",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-333660",
+                "0264-333650",
+                "0264-333100"
+            ],
+            "fax": [
+                "0264-333650",
+                "0264-333100"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Baciu",
+        "adresa": {
+            "strada": "Aleea Nufărului, Nr. 1",
+            "localitate": {
+                "nume": "Baciu",
+                "siruta": 55847
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407055",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-260314",
+                "0264-260355"
+            ],
+            "fax": [
+                "0264-260699"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Aşchileu",
+        "adresa": {
+            "strada": "Principală, Nr. 179",
+            "localitate": {
+                "nume": "Aschileu",
+                "siruta": 55776
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407045",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-286765"
+            ],
+            "fax": [
+                "0264-286765"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Apahida",
+        "adresa": {
+            "strada": "Libertăţii, Nr. 122",
+            "localitate": {
+                "nume": "Apahida",
+                "siruta": 55696
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407035",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-231777",
+                "0264-231797"
+            ],
+            "fax": [
+                "0264-231475"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Aluniş",
+        "adresa": {
+            "strada": "Principală, Nr. 83",
+            "localitate": {
+                "nume": "Alunis",
+                "siruta": 55632
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407030",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-263505"
+            ],
+            "fax": [
+                "0264-263505"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Aiton",
+        "adresa": {
+            "strada": "Morii, Nr. 419\/A",
+            "localitate": {
+                "nume": "Aiton",
+                "siruta": 55605
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407025",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-310400",
+                "0264-310404"
+            ],
+            "fax": [
+                "0264-310400",
+                "0264-310404"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Aghireşu",
+        "adresa": {
+            "strada": "Fabricii, Nr. 86",
+            "localitate": {
+                "nume": "Aghiresu",
+                "siruta": 55491
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407010",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-358001"
+            ],
+            "fax": [
+                "0264-357252"
+            ]
+        }
+    },
+    {
+        "nume": "Municipiul Dej",
+        "adresa": {
+            "strada": "1 Mai, Nr. 2",
+            "localitate": {
+                "nume": "Dej",
+                "siruta": 55017
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "405200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-211790"
+            ],
+            "fax": [
+                "0264-212388"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vultureni",
+        "adresa": {
+            "strada": "Principală, Nr. 73",
+            "localitate": {
+                "nume": "Vultureni",
+                "siruta": 60106
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407595",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-271078",
+                "0264-271032"
+            ],
+            "fax": [
+                "0264-271032"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Viişoara",
+        "adresa": {
+            "strada": "Principală, Nr. 589",
+            "localitate": {
+                "nume": "Viisoara",
+                "siruta": 60071
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407590",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-327561",
+                "0264-327560",
+                "0264-327794",
+                "0264-327601"
+            ],
+            "fax": [
+                "0264-327561"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Valea Ierii",
+        "adresa": {
+            "strada": "Nr. 50",
+            "localitate": {
+                "nume": "Valea Ierii",
+                "siruta": 60035
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407585",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0374-961930"
+            ],
+            "fax": [
+                "0374-091297"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vad",
+        "adresa": {
+            "strada": "Principală, Nr. 146",
+            "localitate": {
+                "nume": "Vad",
+                "siruta": 59951
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407575",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-225201"
+            ],
+            "fax": [
+                "0264-225201"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Unguraş",
+        "adresa": {
+            "strada": "Nr. 486",
+            "localitate": {
+                "nume": "Unguras",
+                "siruta": 59899
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407570",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-224650",
+                "0264-224700"
+            ],
+            "fax": [
+                "0264-224700"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tureni",
+        "adresa": {
+            "strada": "Principală, Nr. 243",
+            "localitate": {
+                "nume": "Tureni",
+                "siruta": 59773
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407560",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-310009"
+            ],
+            "fax": [
+                "0264-310009"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Turda",
+        "adresa": {
+            "strada": "P-Ţa 1 Decembrie 1918, Nr. 28",
+            "localitate": {
+                "nume": "Turda",
+                "siruta": 55268
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "401184",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-313160"
+            ],
+            "fax": [
+                "0264-317081"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tritenii De Jos",
+        "adresa": {
+            "strada": "Principală, Nr. 392",
+            "localitate": {
+                "nume": "Tritenii De Jos",
+                "siruta": 59700
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407550",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-285998"
+            ],
+            "fax": [
+                "0264-285998"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ţaga",
+        "adresa": {
+            "strada": "Principală, Nr. 23",
+            "localitate": {
+                "nume": "Taga",
+                "siruta": 59835
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407565",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-248701",
+                "0264-248601"
+            ],
+            "fax": [
+                "0264-248601",
+                "0264-248701"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şuatu",
+        "adresa": {
+            "strada": "Principală, Nr. 685",
+            "localitate": {
+                "nume": "Suatu",
+                "siruta": 59666
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407545",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-281574",
+                "0264-281611"
+            ],
+            "fax": [
+                "0264-281574"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sic",
+        "adresa": {
+            "strada": "A Ii-A, Nr. 4",
+            "localitate": {
+                "nume": "Sic",
+                "siruta": 59425
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407540",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-228101"
+            ],
+            "fax": [
+                "0264-228306"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Săvădisla",
+        "adresa": {
+            "strada": "Principală, Nr. 35",
+            "localitate": {
+                "nume": "Savadisla",
+                "siruta": 59336
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407505",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-374271",
+                "0264-374275"
+            ],
+            "fax": [
+                "0264-374433"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sânpaul",
+        "adresa": {
+            "strada": "Principală, Nr. 195",
+            "localitate": {
+                "nume": "Sanpaul",
+                "siruta": 59595
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407530",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-282810"
+            ],
+            "fax": [
+                "0264-282805"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sânmartin",
+        "adresa": {
+            "strada": "Principală, Nr. 207",
+            "localitate": {
+                "nume": "Sanmartin",
+                "siruta": 59504
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407520",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-246694",
+                "0264-246666"
+            ],
+            "fax": [
+                "0264-246694"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sănduleşti",
+        "adresa": {
+            "strada": "Principală, Nr. 169",
+            "localitate": {
+                "nume": "Sandulesti",
+                "siruta": 55320
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407500",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-280434"
+            ],
+            "fax": [
+                "0264-280434"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sâncraiu",
+        "adresa": {
+            "strada": "Principală, Nr. 340",
+            "localitate": {
+                "nume": "Sancraiu",
+                "siruta": 59443
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407515",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-257588"
+            ],
+            "fax": [
+                "0264-257588"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Săcuieu",
+        "adresa": {
+            "strada": "Principală, Nr. 130",
+            "localitate": {
+                "nume": "Sacuieu",
+                "siruta": 59292
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407495",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-257672"
+            ],
+            "fax": [
+                "0372-877610"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Rîşca",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Risca",
+                "siruta": 59247
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407490",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-375204"
+            ],
+            "fax": [
+                "0264-375611"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Recea Cristur",
+        "adresa": {
+            "strada": "Principală, Nr. 158",
+            "localitate": {
+                "nume": "Recea-Cristur",
+                "siruta": 59149
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407480",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-227528",
+                "0264-227526"
+            ],
+            "fax": [
+                "0264-227526"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Poieni",
+        "adresa": {
+            "strada": "Principală, Nr. 268",
+            "localitate": {
+                "nume": "Poieni",
+                "siruta": 59050
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407470",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-255099",
+                "0264-255010"
+            ],
+            "fax": [
+                "0264-255099",
+                "0264-255010"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ploscoş",
+        "adresa": {
+            "strada": "Principala, Nr. 50",
+            "localitate": {
+                "nume": "Ploscos",
+                "siruta": 59005
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407465",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0371-324975"
+            ],
+            "fax": []
+        }
+    },
+    {
+        "nume": "Primăria Petreştii De Jos",
+        "adresa": {
+            "strada": "Principală, Nr. 76",
+            "localitate": {
+                "nume": "Petrestii De Jos",
+                "siruta": 58927
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407455",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-310260"
+            ],
+            "fax": [
+                "0264-310260"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Panticeu",
+        "adresa": {
+            "strada": "Principală, Nr. 93",
+            "localitate": {
+                "nume": "Panticeu",
+                "siruta": 58865
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407445",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-227840",
+                "0264-227705"
+            ],
+            "fax": [
+                "0264-227840"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Palatca",
+        "adresa": {
+            "strada": "Principală, Nr. 455",
+            "localitate": {
+                "nume": "Palatca",
+                "siruta": 58801
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407450",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-276441",
+                "0264-276466",
+                "0264-276440"
+            ],
+            "fax": [
+                "0264-276441"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Negreni",
+        "adresa": {
+            "strada": "Principală, Nr. 63",
+            "localitate": {
+                "nume": "Negreni",
+                "siruta": 57190
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407440",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-258223",
+                "0264-258222",
+                "0264-002527"
+            ],
+            "fax": [
+                "0264-258223",
+                "0264-258222",
+                "0264-002527"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Moldoveneşti",
+        "adresa": {
+            "strada": "Principală, Nr. 240",
+            "localitate": {
+                "nume": "Moldovenesti",
+                "siruta": 58730
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407430",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-329701",
+                "0264-329710"
+            ],
+            "fax": [
+                "0264-329701",
+                "0264-329710"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mociu",
+        "adresa": {
+            "strada": "Principală, Nr. 26",
+            "localitate": {
+                "nume": "Mociu",
+                "siruta": 58632
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407420",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-235212",
+                "0264-235501"
+            ],
+            "fax": [
+                "0264-235235"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mintiu Gherlii",
+        "adresa": {
+            "strada": "Principală, Nr. 184",
+            "localitate": {
+                "nume": "Mintiu Gherlii",
+                "siruta": 58561
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407410",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-241767",
+                "0264-247002"
+            ],
+            "fax": [
+                "0264-241767"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mihai Viteazu",
+        "adresa": {
+            "strada": "Principală, Nr. 1014",
+            "localitate": {
+                "nume": "Mihai Viteazu",
+                "siruta": 55286
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407405",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-329101",
+                "0264-329100"
+            ],
+            "fax": [
+                "0264-329100",
+                "0264-286101"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mica",
+        "adresa": {
+            "strada": "Principală, Nr. 209",
+            "localitate": {
+                "nume": "Mica",
+                "siruta": 55179
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407395",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-226100",
+                "0264-226130",
+                "0264-226007"
+            ],
+            "fax": [
+                "0264-226100",
+                "0264-226130",
+                "0264-226007"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mărişel",
+        "adresa": {
+            "strada": "Principală, Nr. 610",
+            "localitate": {
+                "nume": "Marisel",
+                "siruta": 58543
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407390",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-334162"
+            ],
+            "fax": [
+                "0264-891936"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mărgău",
+        "adresa": {
+            "strada": "Principală, Nr. 204",
+            "localitate": {
+                "nume": "Margau",
+                "siruta": 58473
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407380",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0371-138035"
+            ],
+            "fax": [
+                "0372-002986"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mănăstireni",
+        "adresa": {
+            "strada": "Principală, Nr. 222",
+            "localitate": {
+                "nume": "Manastireni",
+                "siruta": 58400
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407370",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-375208",
+                "0264-375266"
+            ],
+            "fax": [
+                "0264-375201"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Măguri-Răcătău",
+        "adresa": {
+            "strada": "Principală, Nr. 88",
+            "localitate": {
+                "nume": "Maguri-Racatau",
+                "siruta": 58366
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407365",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-334433"
+            ],
+            "fax": [
+                "0264-334433"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Luna",
+        "adresa": {
+            "strada": "Principală, Nr. 192",
+            "localitate": {
+                "nume": "Luna",
+                "siruta": 58320
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407360",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-368236"
+            ],
+            "fax": [
+                "0264-368236"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Jucu",
+        "adresa": {
+            "strada": "Principală, Nr. 112",
+            "localitate": {
+                "nume": "Jucu De Sus",
+                "siruta": 58268
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407354",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-233084"
+            ],
+            "fax": [
+                "0264-233084",
+                "0264-233086"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Jichişu De Jos",
+        "adresa": {
+            "strada": "Principală, Nr. 55",
+            "localitate": {
+                "nume": "Jichisu De Jos",
+                "siruta": 55115
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407345",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-212480",
+                "0264-227304"
+            ],
+            "fax": [
+                "0264-212480"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Izvoru Crişului",
+        "adresa": {
+            "strada": "Principală, Nr. 39",
+            "localitate": {
+                "nume": "Izvoru Crisului",
+                "siruta": 58213
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407340",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-257140"
+            ],
+            "fax": [
+                "0264-257198"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Iclod",
+        "adresa": {
+            "strada": "Nr. 440\/A",
+            "localitate": {
+                "nume": "Iclod",
+                "siruta": 58151
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407335",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-263218",
+                "0264-263370",
+                "0264-263395"
+            ],
+            "fax": [
+                "0264-263218"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Iara",
+        "adresa": {
+            "strada": "Principală, Nr. 282",
+            "localitate": {
+                "nume": "Iara",
+                "siruta": 58017
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407315",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-333001",
+                "0264-333247"
+            ],
+            "fax": [
+                "0264-333001",
+                "0264-333247"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Huedin",
+        "adresa": {
+            "strada": "Horea, Nr. 1",
+            "localitate": {
+                "nume": "Huedin",
+                "siruta": 55455
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "405400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-351548"
+            ],
+            "fax": [
+                "0264-351564"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gilău",
+        "adresa": {
+            "strada": "Principală, Nr. 723",
+            "localitate": {
+                "nume": "Gilau",
+                "siruta": 57911
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407310",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-371646"
+            ],
+            "fax": [
+                "0264-371709"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gherla",
+        "adresa": {
+            "strada": "Bobâlna, Nr. 2",
+            "localitate": {
+                "nume": "Gherla",
+                "siruta": 55393
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "405300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-241476",
+                "0264-241926",
+                "0264-241775"
+            ],
+            "fax": [
+                "0264-241666"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Geaca",
+        "adresa": {
+            "strada": "Principală, Nr. 183",
+            "localitate": {
+                "nume": "Geaca",
+                "siruta": 57840
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-287406",
+                "0264-287438",
+                "0264-287407"
+            ],
+            "fax": [
+                "0264-287407"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gârbău",
+        "adresa": {
+            "strada": "Principală, Nr. 5",
+            "localitate": {
+                "nume": "Garbau",
+                "siruta": 57957
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407295",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-283734"
+            ],
+            "fax": [
+                "0264-283616"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Frata",
+        "adresa": {
+            "strada": "Principală, Nr. 419",
+            "localitate": {
+                "nume": "Frata",
+                "siruta": 57751
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407285",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-282498"
+            ],
+            "fax": [
+                "0264-282499"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Floreşti",
+        "adresa": {
+            "strada": "Avram Iancu, Nr. 170",
+            "localitate": {
+                "nume": "Floresti",
+                "siruta": 57715
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407280",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-265101"
+            ],
+            "fax": [
+                "0264-265101"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Fizeşu Gherlii",
+        "adresa": {
+            "strada": "Principală, Nr. 317",
+            "localitate": {
+                "nume": "Fizesu Gherlii",
+                "siruta": 57653
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407275",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-248102",
+                "0264-248001"
+            ],
+            "fax": [
+                "0264-248001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Feleacu",
+        "adresa": {
+            "strada": "Principală, Nr. 131",
+            "localitate": {
+                "nume": "Feleacu",
+                "siruta": 57591
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407270",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-237097"
+            ],
+            "fax": [
+                "0264-237097"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dăbâca",
+        "adresa": {
+            "strada": "Principală, Nr. 339",
+            "localitate": {
+                "nume": "Dabaca",
+                "siruta": 57555
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407265",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-355973"
+            ],
+            "fax": [
+                "0264-355951"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cuzdrioara",
+        "adresa": {
+            "strada": "Mihai Eminescu, Nr. 107",
+            "localitate": {
+                "nume": "Cuzdrioara",
+                "siruta": 55071
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407260",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-213928",
+                "0264-229960"
+            ],
+            "fax": [
+                "0264-213928"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Corneşti",
+        "adresa": {
+            "strada": "Principală, Nr. 14",
+            "localitate": {
+                "nume": "Cornesti",
+                "siruta": 57458
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407250",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-355516",
+                "0264-355515"
+            ],
+            "fax": [
+                "0264-355515"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cojocna",
+        "adresa": {
+            "strada": "Republicii, Nr. 106",
+            "localitate": {
+                "nume": "Cojocna",
+                "siruta": 57369
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407240",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-234075"
+            ],
+            "fax": [
+                "0264-234075",
+                "0264-285172"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cluj Napoca",
+        "adresa": {
+            "strada": "Calea Moţilor, Nr. 1-5",
+            "localitate": {
+                "nume": "Cluj-Napoca",
+                "siruta": 54984
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "400001",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-596030"
+            ],
+            "fax": [
+                "0264-599329"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ciurila",
+        "adresa": {
+            "strada": "Principală, Nr. 5",
+            "localitate": {
+                "nume": "Ciurila",
+                "siruta": 57234
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407230",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0364-806500"
+            ],
+            "fax": [
+                "0364-806500"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ciucea",
+        "adresa": {
+            "strada": "Principală, Nr. 9",
+            "localitate": {
+                "nume": "Ciucea",
+                "siruta": 57172
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407225",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-259001"
+            ],
+            "fax": [
+                "0264-259001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Chiuieşti",
+        "adresa": {
+            "strada": "Nr. 150",
+            "localitate": {
+                "nume": "Chiuiesti",
+                "siruta": 57092
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407215",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-225600",
+                "0264-225609"
+            ],
+            "fax": [
+                "0264-225600"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Chinteni",
+        "adresa": {
+            "strada": "Principală, Nr. 144",
+            "localitate": {
+                "nume": "Chinteni",
+                "siruta": 56997
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407205",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-271771"
+            ],
+            "fax": [
+                "0264-271771"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ceanu Mare",
+        "adresa": {
+            "strada": "Principală, Nr. 101\/C",
+            "localitate": {
+                "nume": "Ceanu Mare",
+                "siruta": 56853
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407185",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-367715"
+            ],
+            "fax": [
+                "0264-327101",
+                "0264-367715"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cătina",
+        "adresa": {
+            "strada": "Principală, Nr. 154",
+            "localitate": {
+                "nume": "Catina",
+                "siruta": 56782
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407170",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-287618",
+                "0264-287602"
+            ],
+            "fax": [
+                "0264-287618",
+                "0264-287602"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Câţcău",
+        "adresa": {
+            "strada": "Nr. 100",
+            "localitate": {
+                "nume": "Catcau",
+                "siruta": 57323
+            },
+            "judet": {
+                "nume": "Cluj"
+            },
+            "cod-postal": "407180",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0264-225101"
+            ],
+            "fax": [
+                "0264-225301"
+            ]
+        }
+    }
+]

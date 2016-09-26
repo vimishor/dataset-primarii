@@ -1,0 +1,101 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "title": "Primarie",
+    "description": "Reprezentarea unei primarii.",
+    "type": "object",
+    "additionalProperties": false,
+    "required": ["nume", "adresa", "contact"],
+    "properties": {
+        "nume": {
+            "description": "Denumirea primariei.",
+            "type": "string"
+        },
+        "adresa": {
+            "description": "Adresa primariei.",
+            "$ref": "#/definitions/adresa"
+        },
+        "contact": {
+            "description": "Modalitati de contact.",
+            "$ref": "#/definitions/contact"
+        }
+    },
+    "definitions": {
+        "teritoriu": {
+            "type": "object",
+            "required": ["nume"],
+            "properties": {
+                "nume": {
+                    "type": "string"
+                }
+            }
+        },
+        "adresa": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["localitate", "judet", "cod-postal", "tara"],
+            "properties": {
+                "strada": {
+                    "description": "",
+                    "type": "string"
+                },
+                "localitate": {
+                    "allOf": [
+                        { "$ref": "#/definitions/teritoriu" }
+                    ],
+                    "properties": {
+                        "nume": {},
+                        "siruta": {
+                            "type": "integer",
+                            "pattern": "^[0-9]{6}$"
+                        }
+                    },
+                    "additionalProperties": false,
+                    "required": ["siruta"]
+                },
+                "judet": {
+                    "allOf": [
+                        { "$ref": "#/definitions/teritoriu" }
+                    ],
+                    "properties": {
+                        "nume": {}
+                    },
+                    "additionalProperties": false
+                },
+                "cod-postal": {
+                    "description": "",
+                    "type": "string",
+                    "pattern": "^[0-9]{6}$"
+                },
+                "tara": {
+                    "description": "",
+                    "type": "string"
+                }
+            }
+        },
+        "contact": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["telefon"],
+            "properties": {
+                "telefon": {
+                    "description": "Numar de telefon.",
+                    "type": "array",
+                    "minItems": 1,
+                    "items": {
+                        "type": "string",
+                        "format": "^[0-9]{3,4}-[0-9]{6,7}$"
+                    }
+                },
+                "fax": {
+                    "description": "Numar de FAX.",
+                    "type": "array",
+                    "minItems": 0,
+                    "items": {
+                        "type": "string",
+                        "pattern": "^[0-9]{3,4}-[0-9]{6,7}$"
+                    }
+                }
+            }
+        }
+    }
+}

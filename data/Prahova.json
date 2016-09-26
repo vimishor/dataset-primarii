@@ -1,0 +1,2474 @@
+[
+    {
+        "nume": "Primăria Brazi",
+        "adresa": {
+            "strada": "Teilor, Nr. 45",
+            "localitate": {
+                "nume": "Brazi",
+                "siruta": 130712
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107080",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-480700",
+                "0244-480780",
+                "0244-480770"
+            ],
+            "fax": [
+                "0244-480700",
+                "0244-480631",
+                "0244-480690"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Boldeşti-Scăeni",
+        "adresa": {
+            "strada": "Calea Unirii, Nr. 67",
+            "localitate": {
+                "nume": "Boldesti-Scaeni",
+                "siruta": 131078
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "105300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-211287",
+                "0244-211363"
+            ],
+            "fax": [
+                "0244-211287",
+                "0244-211363"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Boldeşti-Grădiştea",
+        "adresa": {
+            "strada": "Sat Boldești, Strada Principală, Nr. 339",
+            "localitate": {
+                "nume": "Boldesti-Gradistea",
+                "siruta": 132379
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107075",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-448000"
+            ],
+            "fax": [
+                "0244-448000"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Blejoi",
+        "adresa": {
+            "strada": "Şos. Ploieşti-Văleni, Nr. 1003",
+            "localitate": {
+                "nume": "Blejoi",
+                "siruta": 130687
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107070",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-410660",
+                "0244-410445"
+            ],
+            "fax": [
+                "0244-410445"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bertea",
+        "adresa": {
+            "strada": "Nr. 550",
+            "localitate": {
+                "nume": "Bertea",
+                "siruta": 132351
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107065",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-247101",
+                "0244-247081"
+            ],
+            "fax": [
+                "0244-247101"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Berceni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Berceni",
+                "siruta": 130623
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107060",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-470588",
+                "0244-470209"
+            ],
+            "fax": [
+                "0244-470209",
+                "0244-470588"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bătrâni",
+        "adresa": {
+            "strada": "Principală, Nr. 174",
+            "localitate": {
+                "nume": "Batrani",
+                "siruta": 135333
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107536",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-421379",
+                "0244-421377"
+            ],
+            "fax": [
+                "0244-421377"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bărcăneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Barcanesti",
+                "siruta": 130561
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107055",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-276595",
+                "0244-277481",
+                "0244-277482"
+            ],
+            "fax": [
+                "0244-276595"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Băneşti",
+        "adresa": {
+            "strada": "Gherghiceni, Nr. 495",
+            "localitate": {
+                "nume": "Banesti",
+                "siruta": 132324
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107050",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-348131",
+                "0244-348212"
+            ],
+            "fax": [
+                "0244-348608"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bălteşti",
+        "adresa": {
+            "strada": "Principală, Nr. 23",
+            "localitate": {
+                "nume": "Baltesti",
+                "siruta": 132280
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107045",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-219023"
+            ],
+            "fax": [
+                "0244-219486"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Balta Doamnei",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Balta Doamnei",
+                "siruta": 132235
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107040",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-469311"
+            ],
+            "fax": [
+                "0244-469311"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Băicoi",
+        "adresa": {
+            "strada": "Unirii, Nr. 21",
+            "localitate": {
+                "nume": "Baicoi",
+                "siruta": 130990
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "105200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-260830",
+                "0244-260816"
+            ],
+            "fax": [
+                "0244-260987"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Baba Ana",
+        "adresa": {
+            "strada": "Principală, Nr. 354",
+            "localitate": {
+                "nume": "Baba Ana",
+                "siruta": 132173
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107035",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-251211",
+                "0244-255061"
+            ],
+            "fax": [
+                "0244-251211",
+                "0244-255061"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Azuga",
+        "adresa": {
+            "strada": "Victoriei, Nr. 61",
+            "localitate": {
+                "nume": "Azuga",
+                "siruta": 130963
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "105100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-326300"
+            ],
+            "fax": [
+                "0244-326330"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ariceştii Rahtivani",
+        "adresa": {
+            "strada": "Principală, Nr. 75",
+            "localitate": {
+                "nume": "Aricestii Rahtivani",
+                "siruta": 132084
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107025",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-380080",
+                "0244-380036",
+                "0244-380068"
+            ],
+            "fax": [
+                "0244-380080",
+                "0244-360036"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ariceşti Zeletin",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Aricestii Zeletin",
+                "siruta": 132146
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107030",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-418145",
+                "0244-418073"
+            ],
+            "fax": [
+                "0244-418073"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Apostolache",
+        "adresa": {
+            "strada": "Mihai Viteazu, Nr. 6",
+            "localitate": {
+                "nume": "Apostolache",
+                "siruta": 132020
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107020",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-443008"
+            ],
+            "fax": [
+                "0244-443309"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Aluniş",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Alunis",
+                "siruta": 131997
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107015",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-248052"
+            ],
+            "fax": [
+                "0244-248052"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Albeşti-Paleologu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Albesti-Paleologu",
+                "siruta": 131942
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107010",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-232853"
+            ],
+            "fax": [
+                "0244-232853"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Adunaţi",
+        "adresa": {
+            "strada": "Nr. 87",
+            "localitate": {
+                "nume": "Adunati",
+                "siruta": 131906
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107005",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-395053",
+                "0244-395121"
+            ],
+            "fax": [
+                "0244-395053"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Măneciu",
+        "adresa": {
+            "strada": "Tabla Buţii, Nr. 273",
+            "localitate": {
+                "nume": "Maneciu",
+                "siruta": 134096
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107355",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-295225"
+            ],
+            "fax": [
+                "0244-295400"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Măgureni",
+        "adresa": {
+            "strada": "Principală, Nr. 980",
+            "localitate": {
+                "nume": "Magureni",
+                "siruta": 134069
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107350",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-384760",
+                "0244-384203",
+                "0244-384898"
+            ],
+            "fax": [
+                "0244-384203"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Măgurele",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Magurele",
+                "siruta": 134023
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107345",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-217401",
+                "0244-217701"
+            ],
+            "fax": [
+                "0244-217701",
+                "0244-217401"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lipăneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Lipanesti",
+                "siruta": 133973
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107340",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-215217"
+            ],
+            "fax": [
+                "0244-215151"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lapoş",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Lapos",
+                "siruta": 133928
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107335",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-444654",
+                "0244-444655"
+            ],
+            "fax": [
+                "0244-444654"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Jugureni",
+        "adresa": {
+            "strada": "Principală, Nr. 123",
+            "localitate": {
+                "nume": "Jugureni",
+                "siruta": 133875
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107330",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-891903"
+            ],
+            "fax": []
+        }
+    },
+    {
+        "nume": "Primăria Izvoarele",
+        "adresa": {
+            "strada": "Gării, Nr. 381",
+            "localitate": {
+                "nume": "Izvoarele",
+                "siruta": 133802
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107320",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-292384",
+                "0244-292047"
+            ],
+            "fax": [
+                "0244-292384",
+                "0244-292045",
+                "0244-292047"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Iordăcheanu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Iordacheanu",
+                "siruta": 133731
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107310",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-440149"
+            ],
+            "fax": [
+                "0244-440101"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gura Vitioarei",
+        "adresa": {
+            "strada": "Principală, Nr. 214",
+            "localitate": {
+                "nume": "Gura Vitioarei",
+                "siruta": 131844
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107305",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-285067"
+            ],
+            "fax": [
+                "0244-285300"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gura Vadului",
+        "adresa": {
+            "strada": "Principală, Nr. 420",
+            "localitate": {
+                "nume": "Gura Vadului",
+                "siruta": 133697
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-251005"
+            ],
+            "fax": [
+                "0244-251005"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gornet-Cricov",
+        "adresa": {
+            "strada": "Principală, Fn",
+            "localitate": {
+                "nume": "Gornet-Cricov",
+                "siruta": 133624
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107290",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-440649",
+                "0244-440594"
+            ],
+            "fax": [
+                "0244-440649"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gornet",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Gornet",
+                "siruta": 133571
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107285",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-419251",
+                "0244-419103",
+                "0244-419215"
+            ],
+            "fax": [
+                "0244-419251"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gorgota",
+        "adresa": {
+            "strada": "Principală, Nr. 70",
+            "localitate": {
+                "nume": "Gorgota",
+                "siruta": 133517
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107275",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-474041",
+                "0244-474511"
+            ],
+            "fax": [
+                "0244-474041",
+                "0244-474511"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gherghiţa",
+        "adresa": {
+            "strada": "Principală, Fn",
+            "localitate": {
+                "nume": "Gherghita",
+                "siruta": 133438
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107265",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-474662",
+                "0244-474663"
+            ],
+            "fax": [
+                "0244-474662"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Fulga",
+        "adresa": {
+            "strada": "Principală",
+            "localitate": {
+                "nume": "Fulga",
+                "siruta": 133394
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107260",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-449000",
+                "0244-449057"
+            ],
+            "fax": [
+                "0244-449000"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Floreşti",
+        "adresa": {
+            "strada": "Principală, Nr. 604",
+            "localitate": {
+                "nume": "Floresti",
+                "siruta": 133349
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107255",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-369502"
+            ],
+            "fax": [
+                "0244-362161"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Filipeştii De Târg",
+        "adresa": {
+            "strada": "Cuza Vodă, Nr. 718",
+            "localitate": {
+                "nume": "Filipestii De Targ",
+                "siruta": 133223
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107250",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-389489",
+                "0244-389599",
+                "0244-389208"
+            ],
+            "fax": [
+                "0244-389599"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Filipeştii De Pădure",
+        "adresa": {
+            "strada": "Valea Rea, Nr. 343-344",
+            "localitate": {
+                "nume": "Filipestii De Padure",
+                "siruta": 133170
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107245",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-386801",
+                "0244-386172"
+            ],
+            "fax": [
+                "0244-386094"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Fântânele",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Fantanele",
+                "siruta": 133287
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107240",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-442000",
+                "0244-442575"
+            ],
+            "fax": [
+                "0244-442575"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dumbrăveşti",
+        "adresa": {
+            "strada": "Nr. 98",
+            "localitate": {
+                "nume": "Dumbravesti",
+                "siruta": 131470
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107230",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-226057"
+            ],
+            "fax": [
+                "0244-226183"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vâlcăneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Valcanesti",
+                "siruta": 136205
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107655",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-227550"
+            ],
+            "fax": [
+                "0244-227033"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vadu Sapat",
+        "adresa": {
+            "strada": "Nr. 193",
+            "localitate": {
+                "nume": "Vadu Sapat",
+                "siruta": 133321
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107244",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-442178"
+            ],
+            "fax": [
+                "0244-442595"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Urlaţi",
+        "adresa": {
+            "strada": "23 August, Nr. 9",
+            "localitate": {
+                "nume": "Urlati",
+                "siruta": 131639
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "106300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-271634",
+                "0244-271429"
+            ],
+            "fax": [
+                "0244-270010"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tomşani",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Tomsani",
+                "siruta": 135903
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107615",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-237000"
+            ],
+            "fax": [
+                "0244-237205"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tinosu",
+        "adresa": {
+            "strada": "Principală, Nr. 338",
+            "localitate": {
+                "nume": "Tinosu",
+                "siruta": 135869
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107610",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-482702",
+                "0244-482900"
+            ],
+            "fax": [
+                "0244-482900",
+                "0244-482702"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Telega",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Telega",
+                "siruta": 135798
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107600",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-368468",
+                "0244-368011"
+            ],
+            "fax": [
+                "0244-368011"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Teişani",
+        "adresa": {
+            "strada": "Principală, Nr. 517",
+            "localitate": {
+                "nume": "Teisani",
+                "siruta": 135734
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107595",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-288207",
+                "0244-288572"
+            ],
+            "fax": [
+                "0244-288572"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tătaru",
+        "adresa": {
+            "strada": "Sat Podgoria, Nr. 253",
+            "localitate": {
+                "nume": "Tataru",
+                "siruta": 135690
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107585",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-460096",
+                "0244-460200"
+            ],
+            "fax": [
+                "0244-460200"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Târgşoru Vechi",
+        "adresa": {
+            "strada": "Sat Strejnicu, Str. Principală, Nr. 173",
+            "localitate": {
+                "nume": "Targsoru Vechi",
+                "siruta": 130927
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107590",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-482291",
+                "0244-482270",
+                "0244-482555"
+            ],
+            "fax": [
+                "0244-482555",
+                "0244-482291"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Talea",
+        "adresa": {
+            "strada": "Principală, Nr. 248",
+            "localitate": {
+                "nume": "Talea",
+                "siruta": 135663
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107580",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-391600",
+                "0244-391506"
+            ],
+            "fax": [
+                "0244-391506"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Surani",
+        "adresa": {
+            "strada": "Principală, Nr. 231",
+            "localitate": {
+                "nume": "Surani",
+                "siruta": 135413
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107545",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-416020"
+            ],
+            "fax": [
+                "0244-416134"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ştefeşti",
+        "adresa": {
+            "strada": "Nr. 162 B",
+            "localitate": {
+                "nume": "Stefesti",
+                "siruta": 135627
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107575",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-243030"
+            ],
+            "fax": [
+                "0244-243416"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Starchiojd",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Starchiojd",
+                "siruta": 135324
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107535",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-420203",
+                "0244-420134"
+            ],
+            "fax": [
+                "0244-420134"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şotrile",
+        "adresa": {
+            "strada": "Nr. 42",
+            "localitate": {
+                "nume": "Sotrile",
+                "siruta": 135556
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107565",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-359001",
+                "0244-359234"
+            ],
+            "fax": [
+                "0244-359001",
+                "0244-359234"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şoimari",
+        "adresa": {
+            "strada": "Nr. 518 Bis",
+            "localitate": {
+                "nume": "Soimari",
+                "siruta": 135510
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107560",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-416330",
+                "0244-416331",
+                "0244-416103"
+            ],
+            "fax": [
+                "0244-416330",
+                "0244-416331",
+                "0244-416103"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Slănic",
+        "adresa": {
+            "strada": "Str. Alexandru Odobescu, Nr. 2",
+            "localitate": {
+                "nume": "Slanic",
+                "siruta": 131586
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "106200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-240299"
+            ],
+            "fax": [
+                "0244-240704"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şirna",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Sirna",
+                "siruta": 135440
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107550",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-485012"
+            ],
+            "fax": [
+                "0244-485500"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sinaia",
+        "adresa": {
+            "strada": "B-Dul Carol I, Nr. 47",
+            "localitate": {
+                "nume": "Sinaia",
+                "siruta": 131559
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "106100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-311788"
+            ],
+            "fax": [
+                "0244-314509"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Secăria",
+        "adresa": {
+            "strada": "Nr. 367 A",
+            "localitate": {
+                "nume": "Secaria",
+                "siruta": 135235
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107530",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-394081"
+            ],
+            "fax": [
+                "0244-394091"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Scorţeni",
+        "adresa": {
+            "strada": "Principală-Centru, Nr. 2",
+            "localitate": {
+                "nume": "Scorteni",
+                "siruta": 135173
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107525",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-355221"
+            ],
+            "fax": [
+                "0244-355221"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dumbrava",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Dumbrava",
+                "siruta": 133107
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107220",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-471400",
+                "0244-471921"
+            ],
+            "fax": [
+                "0244-471921"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Drajna",
+        "adresa": {
+            "strada": "Sat Drajna De Sus, Neagoie Basarab, Nr. 25",
+            "localitate": {
+                "nume": "Drajna",
+                "siruta": 132896
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107190",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-290202"
+            ],
+            "fax": [
+                "0244-290736"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Drăgăneşti",
+        "adresa": {
+            "strada": "Principală, Nr. 381",
+            "localitate": {
+                "nume": "Draganesti",
+                "siruta": 133027
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107210",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-465208"
+            ],
+            "fax": [
+                "0244-465208"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sângeru",
+        "adresa": {
+            "strada": "Nr. 560",
+            "localitate": {
+                "nume": "Sangeru",
+                "siruta": 135253
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107515",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-441016",
+                "0244-441070"
+            ],
+            "fax": [
+                "0244-441377",
+                "0244-441060"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sălciile",
+        "adresa": {
+            "strada": "Nr. 297",
+            "localitate": {
+                "nume": "Salciile",
+                "siruta": 135155
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107510",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-444000"
+            ],
+            "fax": [
+                "0244-444120"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Salcia",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Salcia",
+                "siruta": 135137
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107505",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-441026"
+            ],
+            "fax": [
+                "0244-441026"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Râfov",
+        "adresa": {
+            "strada": "Sat Moara Domnească, Nr. 235",
+            "localitate": {
+                "nume": "Rafov",
+                "siruta": 135039
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107495",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-478416"
+            ],
+            "fax": [
+                "0244-478928",
+                "0244-478589"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Puchenii Mari",
+        "adresa": {
+            "strada": "Nr. 257",
+            "localitate": {
+                "nume": "Puchenii Mari",
+                "siruta": 134951
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107485",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-477305",
+                "0244-477000"
+            ],
+            "fax": [
+                "0244-477305"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Proviţa De Sus",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Provita De Sus",
+                "siruta": 134906
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107480",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-354567"
+            ],
+            "fax": [
+                "0244-354567"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Proviţa De Jos",
+        "adresa": {
+            "strada": "Principală, Nr. 494 A",
+            "localitate": {
+                "nume": "Provita De Jos",
+                "siruta": 134862
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107475",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-354227"
+            ],
+            "fax": [
+                "0244-354792"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Predeal Sărari",
+        "adresa": {
+            "strada": "Sat Predeal, Nr. 68",
+            "localitate": {
+                "nume": "Predeal-Sarari",
+                "siruta": 134755
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107460",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-287164"
+            ],
+            "fax": [
+                "0244-287164"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Poseşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Posesti",
+                "siruta": 134648
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107440",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-422003",
+                "0244-422201"
+            ],
+            "fax": [
+                "0244-422201",
+                "0244-422003"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Poienarii Burchii",
+        "adresa": {
+            "strada": "G-Ral Angelescu, Nr. 22",
+            "localitate": {
+                "nume": "Poienarii Burchii",
+                "siruta": 134568
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107430",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-486244"
+            ],
+            "fax": [
+                "0244-486244"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Poiana Câmpina",
+        "adresa": {
+            "strada": "Uzinei, Nr. 462",
+            "localitate": {
+                "nume": "Poiana Campina",
+                "siruta": 131283
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107425",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-351367",
+                "0244-351920"
+            ],
+            "fax": [
+                "0244-351367"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Podenii Noi",
+        "adresa": {
+            "strada": "Principală, Nr. 41",
+            "localitate": {
+                "nume": "Podenii Noi",
+                "siruta": 134452
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107410",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-414032"
+            ],
+            "fax": [
+                "0244-414032"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Plopu",
+        "adresa": {
+            "strada": "Principală, Nr. 223",
+            "localitate": {
+                "nume": "Plopu",
+                "siruta": 134407
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107405",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-460592",
+                "0244-460786"
+            ],
+            "fax": [
+                "0244-460592",
+                "0244-460786"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Plopeni",
+        "adresa": {
+            "strada": "Independenţei, Nr. 12",
+            "localitate": {
+                "nume": "Plopeni",
+                "siruta": 131452
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "105900",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-220132",
+                "0244-220734"
+            ],
+            "fax": [
+                "0244-220172"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Varbilău",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Varbilau",
+                "siruta": 136143
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107650",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-244091"
+            ],
+            "fax": [
+                "0244-244202"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vălenii De Munte",
+        "adresa": {
+            "strada": "Bd Nicolae Iorga Nr. 77",
+            "localitate": {
+                "nume": "Valenii De Munte",
+                "siruta": 131826
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "106400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-280816",
+                "0244-280866"
+            ],
+            "fax": [
+                "0244-280631"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Valea Doftanei",
+        "adresa": {
+            "strada": "Str. Principala, Nr. 156",
+            "localitate": {
+                "nume": "Valea Doftanei",
+                "siruta": 136107
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107640",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-365367"
+            ],
+            "fax": [
+                "0244-365202"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Valea Călugărească",
+        "adresa": {
+            "strada": "Principală, Fn",
+            "localitate": {
+                "nume": "Valea Calugareasca",
+                "siruta": 135958
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107620",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-235444"
+            ],
+            "fax": [
+                "0244-235444"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ploieşti",
+        "adresa": {
+            "strada": "Bd Republicii Nr. 2",
+            "localitate": {
+                "nume": "Ploiesti",
+                "siruta": 130543
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "100008",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-516699",
+                "0244-595063"
+            ],
+            "fax": [
+                "0244-513829"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Păuleşti",
+        "adresa": {
+            "strada": "Principală, Nr. 650",
+            "localitate": {
+                "nume": "Paulesti",
+                "siruta": 130856
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-224300",
+                "0244-224580",
+                "0244-224290"
+            ],
+            "fax": [
+                "0244-224580",
+                "0244-224290"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Păcureţi",
+        "adresa": {
+            "strada": "Nr. 114 B",
+            "localitate": {
+                "nume": "Pacureti",
+                "siruta": 134345
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107395",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-219099"
+            ],
+            "fax": [
+                "0244-219099"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Olari",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Olari",
+                "siruta": 133474
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107269",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-471300",
+                "0244-471301"
+            ],
+            "fax": [
+                "0244-471300"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mizil",
+        "adresa": {
+            "strada": "Bulevardul Unirii, Nr. 14",
+            "localitate": {
+                "nume": "Mizil",
+                "siruta": 131416
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "105800",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-250027"
+            ],
+            "fax": [
+                "0244-251120"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Măneşti",
+        "adresa": {
+            "strada": "Principală, Nr. 134",
+            "localitate": {
+                "nume": "Manesti",
+                "siruta": 134201
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107375",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-484470"
+            ],
+            "fax": [
+                "0244-484470"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cosminele",
+        "adresa": {
+            "strada": "Principală, Nr. 91",
+            "localitate": {
+                "nume": "Cosminele",
+                "siruta": 132841
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107185",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-228005",
+                "0244-228220"
+            ],
+            "fax": [
+                "0244-228005"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cornu",
+        "adresa": {
+            "strada": "B-Dul Eroilor, Nr. 750",
+            "localitate": {
+                "nume": "Cornu",
+                "siruta": 132805
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107175",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-367461"
+            ],
+            "fax": [
+                "0244-367402"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Comarnic",
+        "adresa": {
+            "strada": "Republicii, Nr. 104",
+            "localitate": {
+                "nume": "Comarnic",
+                "siruta": 131345
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "105700",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-360076"
+            ],
+            "fax": [
+                "0244-360076"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Colceag",
+        "adresa": {
+            "strada": "Sat Colceag",
+            "localitate": {
+                "nume": "Colceag",
+                "siruta": 132761
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107170",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-447001",
+                "0244-447000"
+            ],
+            "fax": [
+                "0244-447001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cocorăştii Mislii",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Cocorastii Mislii",
+                "siruta": 132725
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107165",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-229030"
+            ],
+            "fax": [
+                "0244-229030"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cocorăştii Colt",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Cocorastii Colt",
+                "siruta": 134247
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107379",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-484100"
+            ],
+            "fax": [
+                "0244-484100"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ciorani",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ciorani",
+                "siruta": 132681
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107155",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-462025",
+                "0749-033941"
+            ],
+            "fax": [
+                "0244-462025"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Chiojdeanca",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Chiojdeanca",
+                "siruta": 132654
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107150",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-461000"
+            ],
+            "fax": [
+                "0244-461000"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ceraşu",
+        "adresa": {
+            "strada": "Principală, Fn",
+            "localitate": {
+                "nume": "Cerasu",
+                "siruta": 132583
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107140",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-297112"
+            ],
+            "fax": [
+                "0244-297532"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ceptura",
+        "adresa": {
+            "strada": "Sat Ceptura De Jos, Nr. 266",
+            "localitate": {
+                "nume": "Ceptura",
+                "siruta": 132510
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107125",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-445002",
+                "0244-445662"
+            ],
+            "fax": [
+                "0244-445002"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cărbuneşti",
+        "adresa": {
+            "strada": "Principală, Nr. 170",
+            "localitate": {
+                "nume": "Carbunesti",
+                "siruta": 132495
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107120",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-299119"
+            ],
+            "fax": [
+                "0244-299119"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Câmpina",
+        "adresa": {
+            "strada": "B-Dul Culturii, Nr. 18",
+            "localitate": {
+                "nume": "Campina",
+                "siruta": 131265
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "105600",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-337454",
+                "0244-332071",
+                "0244-336916"
+            ],
+            "fax": [
+                "0244-371458"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Călugăreni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Calugareni",
+                "siruta": 132468
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107115",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-448668"
+            ],
+            "fax": [
+                "0244-448668"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Buşteni",
+        "adresa": {
+            "strada": "B-Dul Libertăţii, Nr. 91",
+            "localitate": {
+                "nume": "Busteni",
+                "siruta": 131229
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "105500",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-322005"
+            ],
+            "fax": [
+                "0244-320752"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bucov",
+        "adresa": {
+            "strada": "Constantin Stere, Nr. 1",
+            "localitate": {
+                "nume": "Bucov",
+                "siruta": 130794
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107110",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-275046"
+            ],
+            "fax": [
+                "0244-275170",
+                "0344-816380"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Brebu",
+        "adresa": {
+            "strada": "Mînăstirei, Nr. 802",
+            "localitate": {
+                "nume": "Brebu",
+                "siruta": 51626
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "107100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-357521"
+            ],
+            "fax": [
+                "0244-358041"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Breaza",
+        "adresa": {
+            "strada": "Republicii, Nr. 82B",
+            "localitate": {
+                "nume": "Breaza",
+                "siruta": 131103
+            },
+            "judet": {
+                "nume": "Prahova"
+            },
+            "cod-postal": "105400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0244-340508"
+            ],
+            "fax": [
+                "0244-340428"
+            ]
+        }
+    }
+]

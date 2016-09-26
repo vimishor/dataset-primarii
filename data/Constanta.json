@@ -1,0 +1,1656 @@
+[
+    {
+        "nume": "Primăria Costineşti",
+        "adresa": {
+            "strada": "Catedrala Tineretului, Nr. 8",
+            "localitate": {
+                "nume": "Costinesti",
+                "siruta": 60749
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907090",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-734342"
+            ],
+            "fax": [
+                "0241-734711"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lipniţa",
+        "adresa": {
+            "strada": "Morii, Nr. 350",
+            "localitate": {
+                "nume": "Lipnita",
+                "siruta": 62066
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907165",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-856545",
+                "0241-856600"
+            ],
+            "fax": [
+                "0241-856545",
+                "0241-856600"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mangalia",
+        "adresa": {
+            "strada": "Şos. Constanţei, Nr. 13",
+            "localitate": {
+                "nume": "Mangalia",
+                "siruta": 60491
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "905500",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-751011",
+                "0241-751030",
+                "0241-751060",
+                "0241-751411",
+                "0241-751499",
+                "0241-751905",
+                "0756-201258",
+                "0756-201259"
+            ],
+            "fax": [
+                "0241-755606"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Saraiu",
+        "adresa": {
+            "strada": "Tulcei, Nr. 29",
+            "localitate": {
+                "nume": "Saraiu",
+                "siruta": 62832
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907255",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-873355"
+            ],
+            "fax": [
+                "0241-873355"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Saligny",
+        "adresa": {
+            "strada": "Şcolii, Nr. 15",
+            "localitate": {
+                "nume": "Saligny",
+                "siruta": 62324
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907203",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0371-111743"
+            ],
+            "fax": [
+                "0372-877343"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Săcele",
+        "adresa": {
+            "strada": "Cetatea Histriei, Nr. 20",
+            "localitate": {
+                "nume": "Sacele",
+                "siruta": 62887
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907260",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-876005"
+            ],
+            "fax": [
+                "0241-876031"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Raşova",
+        "adresa": {
+            "strada": "Dunării, Nr. 31",
+            "localitate": {
+                "nume": "Rasova",
+                "siruta": 62805
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907250",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0769-052946"
+            ],
+            "fax": []
+        }
+    },
+    {
+        "nume": "Primăria Poarta Albă",
+        "adresa": {
+            "strada": "Calea Bucureşti, Nr. 25",
+            "localitate": {
+                "nume": "Poarta Alba",
+                "siruta": 62770
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907245",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-853228"
+            ],
+            "fax": [
+                "0241-853228"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Peştera",
+        "adresa": {
+            "strada": "Izvorului, Nr. 25A",
+            "localitate": {
+                "nume": "Pestera",
+                "siruta": 62716
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907240",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-856800",
+                "0241-856872",
+                "0241-856802"
+            ],
+            "fax": [
+                "0241-856800",
+                "0241-856872",
+                "0241-856802"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pecineaga",
+        "adresa": {
+            "strada": "Ştefan Cel Mare, Nr. 61",
+            "localitate": {
+                "nume": "Pecineaga",
+                "siruta": 62681
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907235",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-858510"
+            ],
+            "fax": [
+                "0241-858524"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pantelimon",
+        "adresa": {
+            "strada": "Principală, Nr. 214",
+            "localitate": {
+                "nume": "Pantelimon",
+                "siruta": 62618
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907230",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-874466",
+                "0241-874408"
+            ],
+            "fax": [
+                "0241-874466"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ovidiu",
+        "adresa": {
+            "strada": "Sănătăţii, Nr. 7",
+            "localitate": {
+                "nume": "Ovidiu",
+                "siruta": 60696
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "905900",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-255340"
+            ],
+            "fax": [
+                "0241-255341"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ostrov",
+        "adresa": {
+            "strada": "1 Mai, Nr. 19",
+            "localitate": {
+                "nume": "Ostrov",
+                "siruta": 62547
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907220",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-857010",
+                "0241-857151"
+            ],
+            "fax": [
+                "0241-857151"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Oltina",
+        "adresa": {
+            "strada": "Lalelelor, Nr. 742",
+            "localitate": {
+                "nume": "Oltina",
+                "siruta": 62495
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907215",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-851852"
+            ],
+            "fax": [
+                "0241-851833"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Nicolae Bălcescu",
+        "adresa": {
+            "strada": "Carol I, Nr. 26",
+            "localitate": {
+                "nume": "Nicolae Balcescu",
+                "siruta": 62459
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907210",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-257016"
+            ],
+            "fax": [
+                "0241-257333"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Negru Vodă",
+        "adresa": {
+            "strada": "Şoseaua Mangaliei, Nr. 13",
+            "localitate": {
+                "nume": "Negru Voda",
+                "siruta": 62404
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "905800",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-780195"
+            ],
+            "fax": [
+                "0241-780948"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Năvodari",
+        "adresa": {
+            "strada": "Dobrogei, Nr. 1",
+            "localitate": {
+                "nume": "Navodari",
+                "siruta": 60516
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "905700",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-761603",
+                "0241-760353"
+            ],
+            "fax": [
+                "0241-761606"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Murfatlar",
+        "adresa": {
+            "strada": "Calea Dobrogei, Nr. 1",
+            "localitate": {
+                "nume": "Murfatlar",
+                "siruta": 62379
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "905100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-234350"
+            ],
+            "fax": [
+                "0241-234516"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mircea Vodă",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Mircea Voda",
+                "siruta": 62299
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-853099",
+                "0241-853188"
+            ],
+            "fax": [
+                "0241-853099"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mihail Kogălniceanu",
+        "adresa": {
+            "strada": "Tudor Vladimirescu, Nr. 42",
+            "localitate": {
+                "nume": "Mihail Kogalniceanu",
+                "siruta": 62208
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907195",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-258156",
+                "0241-258787"
+            ],
+            "fax": [
+                "0241-258156"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mihai Viteazu",
+        "adresa": {
+            "strada": "Principală, Nr. 46",
+            "localitate": {
+                "nume": "Mihai Viteazu",
+                "siruta": 62262
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907190",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-767130"
+            ],
+            "fax": [
+                "0241-767130"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mereni",
+        "adresa": {
+            "strada": "Șoseaua Libertăţii, Nr. 112",
+            "localitate": {
+                "nume": "Mereni",
+                "siruta": 62146
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907180",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-859203"
+            ],
+            "fax": [
+                "0241-859336"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Medgidia",
+        "adresa": {
+            "strada": "Decebal, Nr. 35",
+            "localitate": {
+                "nume": "Medgidia",
+                "siruta": 60856
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "905600",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-812300",
+                "0241-820800"
+            ],
+            "fax": [
+                "0241-810619"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lumina",
+        "adresa": {
+            "strada": "Mare, Nr. 170",
+            "localitate": {
+                "nume": "Lumina",
+                "siruta": 60703
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907175",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-251744",
+                "0241-251828"
+            ],
+            "fax": [
+                "0241-251828"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Limanu",
+        "adresa": {
+            "strada": "Castanului, Nr. 32",
+            "localitate": {
+                "nume": "Limanu",
+                "siruta": 60641
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907160",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-858204"
+            ],
+            "fax": [
+                "0241-858201"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Istria",
+        "adresa": {
+            "strada": "Primăriei, Nr. 10",
+            "localitate": {
+                "nume": "Istria",
+                "siruta": 62039
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907155",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-522581"
+            ],
+            "fax": [
+                "0241-522581"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ion Corvin",
+        "adresa": {
+            "strada": "Sf. Andrei, Nr. 50",
+            "localitate": {
+                "nume": "Ion Corvin",
+                "siruta": 61960
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907150",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-856200",
+                "0241-856464"
+            ],
+            "fax": [
+                "0241-856464"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Independenţa",
+        "adresa": {
+            "strada": "Constanţei, Nr. 37",
+            "localitate": {
+                "nume": "Independenta",
+                "siruta": 61880
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907145",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-857860"
+            ],
+            "fax": [
+                "0241-857930"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Horia",
+        "adresa": {
+            "strada": "Principală, Nr. 31",
+            "localitate": {
+                "nume": "Horia",
+                "siruta": 61835
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907140",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-257750"
+            ],
+            "fax": [
+                "0241-257750"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Hârşova",
+        "adresa": {
+            "strada": "Piaţa 1 Decembrie 1989, Nr. 1",
+            "localitate": {
+                "nume": "Harsova",
+                "siruta": 60810
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "905400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-870301"
+            ],
+            "fax": [
+                "0241-870300"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Grădina",
+        "adresa": {
+            "strada": "Victoriei, Nr. 39",
+            "localitate": {
+                "nume": "Gradina",
+                "siruta": 63027
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907278",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-853800"
+            ],
+            "fax": [
+                "0241-853800"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ghindăreşti",
+        "adresa": {
+            "strada": "Aleea Cimitirului, Nr. 386",
+            "localitate": {
+                "nume": "Ghindaresti",
+                "siruta": 61853
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907135",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-873077",
+                "0241-873060",
+                "0241-873099"
+            ],
+            "fax": [
+                "0241-873077",
+                "0241-873060"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gârliciu",
+        "adresa": {
+            "strada": "1 Decembrie 1918, Nr. 33",
+            "localitate": {
+                "nume": "Garliciu",
+                "siruta": 61817
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907130",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-873713"
+            ],
+            "fax": [
+                "0241-873713"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Fântânele",
+        "adresa": {
+            "strada": "Basarabia, Nr. 85",
+            "localitate": {
+                "nume": "Fantanele",
+                "siruta": 61407
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907071",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-769668"
+            ],
+            "fax": [
+                "0241-769668"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Eforie",
+        "adresa": {
+            "strada": "Progresului, Nr. 1",
+            "localitate": {
+                "nume": "Eforie Sud",
+                "siruta": 60464
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "905360",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-748633",
+                "0241-748149",
+                "0241-748811",
+                "0241-748881"
+            ],
+            "fax": [
+                "0241-748979",
+                "0241-748281"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dumbrăveni",
+        "adresa": {
+            "strada": "Principală, Nr. 17",
+            "localitate": {
+                "nume": "Dumbraveni",
+                "siruta": 61899
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907125",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0766-403192"
+            ],
+            "fax": []
+        }
+    },
+    {
+        "nume": "Primăria Dobromir",
+        "adresa": {
+            "strada": "Băneasa, Nr. 28",
+            "localitate": {
+                "nume": "Dobromir",
+                "siruta": 61746
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907115",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0788-891305"
+            ],
+            "fax": []
+        }
+    },
+    {
+        "nume": "Primăria Deleni",
+        "adresa": {
+            "strada": "Şcolii, Nr. 103",
+            "localitate": {
+                "nume": "Deleni",
+                "siruta": 61684
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907110",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-854621"
+            ],
+            "fax": [
+                "0241-854621"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cuza Vodă",
+        "adresa": {
+            "strada": "Medgidiei, Nr. 58",
+            "localitate": {
+                "nume": "Cuza Voda",
+                "siruta": 61149
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907041",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-818176"
+            ],
+            "fax": [
+                "0241-811115"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cumpăna",
+        "adresa": {
+            "strada": "Şos. Constanţei, Nr. 132",
+            "localitate": {
+                "nume": "Cumpana",
+                "siruta": 61639
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907105",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-739003",
+                "0241-730788"
+            ],
+            "fax": [
+                "0241-739003",
+                "0241-730788"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Crucea",
+        "adresa": {
+            "strada": "Şoseaua Constanţei, Nr. 45",
+            "localitate": {
+                "nume": "Crucea",
+                "siruta": 61568
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907095",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-874703",
+                "0241-874825"
+            ],
+            "fax": [
+                "0241-874825"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Corbu",
+        "adresa": {
+            "strada": "Principală, Nr. 8",
+            "localitate": {
+                "nume": "Corbu",
+                "siruta": 61522
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907085",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-765105",
+                "0241-765100"
+            ],
+            "fax": [
+                "0241-765100"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Constanţa",
+        "adresa": {
+            "strada": "Bd Tomis Nr. 51",
+            "localitate": {
+                "nume": "Constanta",
+                "siruta": 60428
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "900725",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-708100",
+                "0241-708105"
+            ],
+            "fax": [
+                "0241-488101"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Comana",
+        "adresa": {
+            "strada": "Principală, Nr. 13",
+            "localitate": {
+                "nume": "Comana",
+                "siruta": 61461
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907080",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-859444",
+                "0241-859458"
+            ],
+            "fax": [
+                "0241-859458",
+                "0241-859444"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cogealac",
+        "adresa": {
+            "strada": "Gării, Nr. 30",
+            "localitate": {
+                "nume": "Cogealac",
+                "siruta": 61381
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907070",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-769101"
+            ],
+            "fax": [
+                "0241-769030"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cobadin",
+        "adresa": {
+            "strada": "Primăverii, Nr. 2",
+            "localitate": {
+                "nume": "Cobadin",
+                "siruta": 61327
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907065",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-855129"
+            ],
+            "fax": [
+                "0241-855129"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ciocirlia",
+        "adresa": {
+            "strada": "1 Decembrie, Nr. 54",
+            "localitate": {
+                "nume": "Ciocirlia",
+                "siruta": 61292
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907060",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-875555",
+                "0241-875539"
+            ],
+            "fax": [
+                "0241-875555",
+                "0241-875539"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ciobanu",
+        "adresa": {
+            "strada": "Eroilor, Nr. 74",
+            "localitate": {
+                "nume": "Ciobanu",
+                "siruta": 61265
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907055",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-874302"
+            ],
+            "fax": [
+                "0241-874302",
+                "0241-874288"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Chirnogeni",
+        "adresa": {
+            "strada": "Primăriei, Nr. 16",
+            "localitate": {
+                "nume": "Chirnogeni",
+                "siruta": 61229
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907050",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-854305"
+            ],
+            "fax": [
+                "0241-854545"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cernavodă",
+        "adresa": {
+            "strada": "Ovidiu, Nr. 11",
+            "localitate": {
+                "nume": "Cernavoda",
+                "siruta": 60785
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "905200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-487108",
+                "0241-487101"
+            ],
+            "fax": [
+                "0241-239578",
+                "0241-487124"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cerchezu",
+        "adresa": {
+            "strada": "G-Ral Cerchez, Nr. 28",
+            "localitate": {
+                "nume": "Cerchezu",
+                "siruta": 61176
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907045",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-780204"
+            ],
+            "fax": [
+                "0241-780204"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Castelu",
+        "adresa": {
+            "strada": "Republicii, Nr. 58",
+            "localitate": {
+                "nume": "Castelu",
+                "siruta": 61130
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907040",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-811831"
+            ],
+            "fax": [
+                "0241-811831"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bărăganu",
+        "adresa": {
+            "strada": "Petre Marinescu, Nr. 185",
+            "localitate": {
+                "nume": "Baraganu",
+                "siruta": 61648
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907181",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-859252"
+            ],
+            "fax": [
+                "0241-859250"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Băneasa",
+        "adresa": {
+            "strada": "Trandafirilor, Nr. 101",
+            "localitate": {
+                "nume": "Baneasa",
+                "siruta": 61078
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907035",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-850150",
+                "0241-850088"
+            ],
+            "fax": [
+                "0241-850150"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Amzacea",
+        "adresa": {
+            "strada": "Str. Amzaciei, Nr. 25",
+            "localitate": {
+                "nume": "Amzacea",
+                "siruta": 63090
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907030",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-819913",
+                "0241-819994"
+            ],
+            "fax": [
+                "0241-819994"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Aliman",
+        "adresa": {
+            "strada": "Principală, Nr. 40",
+            "localitate": {
+                "nume": "Aliman",
+                "siruta": 61014
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907025",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-856207",
+                "0241-856222"
+            ],
+            "fax": [
+                "0241-856207",
+                "0241-856222"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Albeşti",
+        "adresa": {
+            "strada": "Şos. Mangaliei, Nr. 31",
+            "localitate": {
+                "nume": "Albesti",
+                "siruta": 60954
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907020",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-736708"
+            ],
+            "fax": [
+                "0241-736708"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Agigea",
+        "adresa": {
+            "strada": "Octavian Goga, Nr. 4",
+            "localitate": {
+                "nume": "Agigea",
+                "siruta": 63269
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907015",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-738172"
+            ],
+            "fax": [
+                "0241-738172"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Adamclisi",
+        "adresa": {
+            "strada": "Traian, Nr. 39",
+            "localitate": {
+                "nume": "Adamclisi",
+                "siruta": 60892
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907010",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-854623",
+                "0241-854688"
+            ],
+            "fax": [
+                "0241-854623"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria 23 August",
+        "adresa": {
+            "strada": "Şos. Constanţei",
+            "localitate": {
+                "nume": "23 August",
+                "siruta": 60605
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907005",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-733018"
+            ],
+            "fax": [
+                "0241-733018"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vulturu",
+        "adresa": {
+            "strada": "Eroilor, Nr. 45",
+            "localitate": {
+                "nume": "Vulturu",
+                "siruta": 62663
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907305",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-859801"
+            ],
+            "fax": [
+                "0241-859801"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Valu Lui Traian",
+        "adresa": {
+            "strada": "Primăriei, Nr. 1",
+            "localitate": {
+                "nume": "Valu Lui Traian",
+                "siruta": 63134
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-231353",
+                "0241-231006"
+            ],
+            "fax": [
+                "0241-231353"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tuzla",
+        "adresa": {
+            "strada": "Şos. Constanţei, Nr. 80A",
+            "localitate": {
+                "nume": "Tuzla",
+                "siruta": 60730
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907295",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-747564"
+            ],
+            "fax": []
+        }
+    },
+    {
+        "nume": "Primăria Tortoman",
+        "adresa": {
+            "strada": "1 Decembrie, Nr. 32",
+            "localitate": {
+                "nume": "Tortoman",
+                "siruta": 62967
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907290",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-827111"
+            ],
+            "fax": [
+                "0241-811850"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Topraisar",
+        "adresa": {
+            "strada": "Școlii, Nr. 15",
+            "localitate": {
+                "nume": "Topraisar",
+                "siruta": 63081
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907285",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-785238",
+                "0241-785118"
+            ],
+            "fax": [
+                "0241-785001",
+                "0241-785118"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Topalu",
+        "adresa": {
+            "strada": "Preot Luca Nicolae, Fn",
+            "localitate": {
+                "nume": "Topalu",
+                "siruta": 63054
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907280",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-256002",
+                "0241-256206"
+            ],
+            "fax": [
+                "0241-256206",
+                "0241-256002"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tîrguşor",
+        "adresa": {
+            "strada": "Constanţei, Nr. 72",
+            "localitate": {
+                "nume": "Targusor",
+                "siruta": 62994
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907275",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-874577",
+                "0241-874500"
+            ],
+            "fax": [
+                "0241-874577",
+                "0241-874500"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Techirghiol",
+        "adresa": {
+            "strada": "Dr. V. Climescu, Nr. 24",
+            "localitate": {
+                "nume": "Techirghiol",
+                "siruta": 60543
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "906100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-735622"
+            ],
+            "fax": [
+                "0241-735314"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Siliştea",
+        "adresa": {
+            "strada": "Primăriei, Nr. 121",
+            "localitate": {
+                "nume": "Silistea",
+                "siruta": 62958
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907270",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-820449"
+            ],
+            "fax": [
+                "0241-820449"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Seimeni",
+        "adresa": {
+            "strada": "Principala, Nr. 95",
+            "localitate": {
+                "nume": "Seimeni",
+                "siruta": 62912
+            },
+            "judet": {
+                "nume": "Constanta"
+            },
+            "cod-postal": "907265",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0241-236931"
+            ],
+            "fax": [
+                "0241-236931"
+            ]
+        }
+    }
+]

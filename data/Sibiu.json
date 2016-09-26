@@ -1,0 +1,1509 @@
+[
+    {
+        "nume": "Primăria Cisnădie",
+        "adresa": {
+            "strada": "Piaţa Revoluţiei, Nr. 1",
+            "localitate": {
+                "nume": "Cisnadie",
+                "siruta": 143744
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "555300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-561147"
+            ],
+            "fax": [
+                "0269-561012"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ocna Sibiului",
+        "adresa": {
+            "strada": "P-Ţa Traian, Nr. 6",
+            "localitate": {
+                "nume": "Ocna Sibiului",
+                "siruta": 143860
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "555600",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-541301"
+            ],
+            "fax": [
+                "0269-541302"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Târnava",
+        "adresa": {
+            "strada": "1 Decembrie 1918, Nr. 5",
+            "localitate": {
+                "nume": "Tarnava",
+                "siruta": 143655
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557275",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-806775"
+            ],
+            "fax": [
+                "0269-806781"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tălmaciu",
+        "adresa": {
+            "strada": "Nicolae Bălcescu, Nr. 24",
+            "localitate": {
+                "nume": "Talmaciu",
+                "siruta": 145836
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "555700",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-555401",
+                "0269-555359"
+            ],
+            "fax": [
+                "0269-550101"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şura Mică",
+        "adresa": {
+            "strada": "Șoseaua Sibiului, Nr. 174",
+            "localitate": {
+                "nume": "Sura Mica",
+                "siruta": 145809
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557270",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-577101"
+            ],
+            "fax": [
+                "0269-577096"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şura Mare",
+        "adresa": {
+            "strada": "Str. Principală, Nr. 252",
+            "localitate": {
+                "nume": "Sura Mare",
+                "siruta": 145774
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557265",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-543567",
+                "0269-543288",
+                "0269-543400"
+            ],
+            "fax": [
+                "0269-543567",
+                "0269-543400"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Slimnic",
+        "adresa": {
+            "strada": "Principala, Nr. 6",
+            "localitate": {
+                "nume": "Slimnic",
+                "siruta": 145612
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557240",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-856101",
+                "0269-856333"
+            ],
+            "fax": [
+                "0269-856319"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sibiu",
+        "adresa": {
+            "strada": "Str. Samuel Brukenthal Nr.2",
+            "localitate": {
+                "nume": "Sibiu",
+                "siruta": 143469
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "550024",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-208800"
+            ],
+            "fax": [
+                "0269-208811"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şelimbăr",
+        "adresa": {
+            "strada": "Str. Mihai Viteazu, Nr. 164",
+            "localitate": {
+                "nume": "Selimbar",
+                "siruta": 143566
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557260",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-560292"
+            ],
+            "fax": [
+                "0269-560295"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şeica Mică",
+        "adresa": {
+            "strada": "Principală, Nr. 75",
+            "localitate": {
+                "nume": "Seica Mica",
+                "siruta": 145747
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557255",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-514506",
+                "0269-514521"
+            ],
+            "fax": [
+                "0269-514544"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şeica Mare",
+        "adresa": {
+            "strada": "Şos. Sibiului, Nr. 415",
+            "localitate": {
+                "nume": "Seica Mare",
+                "siruta": 145676
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557245",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-853113"
+            ],
+            "fax": [
+                "0269-853989"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sălişte",
+        "adresa": {
+            "strada": "Str. Steaza Nr. 9",
+            "localitate": {
+                "nume": "Saliste",
+                "siruta": 145505
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557225",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-553512"
+            ],
+            "fax": [
+                "0269-553363"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sadu",
+        "adresa": {
+            "strada": "Inocenţiu Micu Klein, Nr. 36",
+            "localitate": {
+                "nume": "Sadu",
+                "siruta": 145480
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557220",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-568119"
+            ],
+            "fax": [
+                "0269-568027"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Roşia",
+        "adresa": {
+            "strada": "Principală, Nr. 22",
+            "localitate": {
+                "nume": "Rosia",
+                "siruta": 145417
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557210",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-582301"
+            ],
+            "fax": [
+                "0269-582305"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Râu Sadului",
+        "adresa": {
+            "strada": "Principală, Nr. 247",
+            "localitate": {
+                "nume": "Rau Sadului",
+                "siruta": 145391
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557205",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-567001",
+                "0269-567600"
+            ],
+            "fax": [
+                "0269-567101"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Răşinari",
+        "adresa": {
+            "strada": "Octavian Goga, Nr. 1520",
+            "localitate": {
+                "nume": "Rasinari",
+                "siruta": 143539
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-557200"
+            ],
+            "fax": [
+                "0269-557200"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Racoviţa",
+        "adresa": {
+            "strada": "Str. Principală Nr.416",
+            "localitate": {
+                "nume": "Racovita",
+                "siruta": 145364
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557195",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-527201",
+                "0269-525101"
+            ],
+            "fax": [
+                "0269-527421"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Porumbacu De Jos",
+        "adresa": {
+            "strada": "Principală, Nr. 253",
+            "localitate": {
+                "nume": "Porumbacu De Jos",
+                "siruta": 145300
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557190",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-522101"
+            ],
+            "fax": [
+                "0269-522201"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Poplaca",
+        "adresa": {
+            "strada": "Principală, Nr. 572",
+            "localitate": {
+                "nume": "Poplaca",
+                "siruta": 143511
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557185",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-573101"
+            ],
+            "fax": [
+                "0269-573100"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Poiana Sibiului",
+        "adresa": {
+            "strada": "Str. Vadu Nr. 412",
+            "localitate": {
+                "nume": "Poiana Sibiului",
+                "siruta": 145284
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557180",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-531101"
+            ],
+            "fax": [
+                "0269-531110"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Păuca",
+        "adresa": {
+            "strada": "Principală, Nr. 172",
+            "localitate": {
+                "nume": "Pauca",
+                "siruta": 145239
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557175",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-580101"
+            ],
+            "fax": [
+                "0269-580111"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Orlat",
+        "adresa": {
+            "strada": "Str. Avram Iancu, Nr. 202",
+            "localitate": {
+                "nume": "Orlat",
+                "siruta": 145211
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557170",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-571455",
+                "0269-571104"
+            ],
+            "fax": [
+                "0269-571455",
+                "0269-571104"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Nocrich",
+        "adresa": {
+            "strada": "Principală, Nr. 274",
+            "localitate": {
+                "nume": "Nocrich",
+                "siruta": 145159
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557165",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-582102",
+                "0269-582140"
+            ],
+            "fax": [
+                "0269-582144"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Moşna",
+        "adresa": {
+            "strada": "Str. Principala , Nr.76",
+            "localitate": {
+                "nume": "Mosna",
+                "siruta": 145113
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557160",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-862041"
+            ],
+            "fax": [
+                "0269-862290"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mihăileni",
+        "adresa": {
+            "strada": "Principală, Nr. 165",
+            "localitate": {
+                "nume": "Mihaileni",
+                "siruta": 145051
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557155",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-254522"
+            ],
+            "fax": [
+                "0269-254633"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Miercurea Sibiului",
+        "adresa": {
+            "strada": "Ilie Măcelariu, Nr. 48",
+            "localitate": {
+                "nume": "Miercurea Sibiului",
+                "siruta": 144937
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557150",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-533102"
+            ],
+            "fax": [
+                "0269-533124",
+                "0269-533213"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Micăsasa",
+        "adresa": {
+            "strada": "Str. 1 Decembrie 1918, Nr. 144",
+            "localitate": {
+                "nume": "Micasasa",
+                "siruta": 145006
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557145",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-514302",
+                "0269-514414"
+            ],
+            "fax": [
+                "0269-514302"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Merghindeal",
+        "adresa": {
+            "strada": "Principală, Nr. 60",
+            "localitate": {
+                "nume": "Merghindeal",
+                "siruta": 144973
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557140",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-517501",
+                "0269-517505"
+            ],
+            "fax": [
+                "0269-517501"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mediaş",
+        "adresa": {
+            "strada": "Piaţa Corneliu Coposu Nr. 3",
+            "localitate": {
+                "nume": "Medias",
+                "siruta": 143628
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "551018",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-803803",
+                "0269-803800"
+            ],
+            "fax": [
+                "0269-841198"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Marpod",
+        "adresa": {
+            "strada": "Principală, Nr. 327",
+            "localitate": {
+                "nume": "Marpod",
+                "siruta": 144900
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557135",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-584111",
+                "0269-583289"
+            ],
+            "fax": [
+                "0269-584111"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ludoş",
+        "adresa": {
+            "strada": "Principală, Nr. 73",
+            "localitate": {
+                "nume": "Ludos",
+                "siruta": 144875
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557130",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-589101"
+            ],
+            "fax": [
+                "0269-589111"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Loamneş",
+        "adresa": {
+            "strada": "Principală, Nr. 203",
+            "localitate": {
+                "nume": "Loamnes",
+                "siruta": 144802
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557120",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-537179",
+                "0269-537101"
+            ],
+            "fax": [
+                "0269-537108"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Laslea",
+        "adresa": {
+            "strada": "Str. Principală Nr. 33",
+            "localitate": {
+                "nume": "Laslea",
+                "siruta": 144740
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557115",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-516253"
+            ],
+            "fax": [
+                "0269-516253"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Jina",
+        "adresa": {
+            "strada": "Principală, Nr. 1210",
+            "localitate": {
+                "nume": "Jina",
+                "siruta": 144722
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557110",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-532101"
+            ],
+            "fax": [
+                "0269-532211"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Iacobeni",
+        "adresa": {
+            "strada": "Principală, Nr. 57",
+            "localitate": {
+                "nume": "Iacobeni",
+                "siruta": 144660
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557105",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-513750"
+            ],
+            "fax": [
+                "0269-513750"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Hoghilag",
+        "adresa": {
+            "strada": "Principală, Nr. 305",
+            "localitate": {
+                "nume": "Hoghilag",
+                "siruta": 144624
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-866801",
+                "0269-865181"
+            ],
+            "fax": [
+                "0269-865181"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gura Râului",
+        "adresa": {
+            "strada": "Principală, Nr. 566",
+            "localitate": {
+                "nume": "Gura Raului",
+                "siruta": 144606
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557095",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-572001"
+            ],
+            "fax": [
+                "0269-572101",
+                "0269-572491"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dumbrăveni",
+        "adresa": {
+            "strada": "Mihai Eminescu, Nr. 6",
+            "localitate": {
+                "nume": "Dumbraveni",
+                "siruta": 143815
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "555500",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-865326",
+                "0269-865611"
+            ],
+            "fax": [
+                "0269-866021"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dîrlos",
+        "adresa": {
+            "strada": "Principală, Nr. 596",
+            "localitate": {
+                "nume": "Darlos",
+                "siruta": 144562
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557090",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-852400"
+            ],
+            "fax": [
+                "0269-852440"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cristian",
+        "adresa": {
+            "strada": "Strada I, Nr. 1",
+            "localitate": {
+                "nume": "Cristian",
+                "siruta": 143496
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557085",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-579215"
+            ],
+            "fax": [
+                "0269-579215"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Copşa Mică",
+        "adresa": {
+            "strada": "Str. Aleea Castanilor, Nr. 8",
+            "localitate": {
+                "nume": "Copsa Mica",
+                "siruta": 143780
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "555400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-840120"
+            ],
+            "fax": [
+                "0269-840149"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cîrţişoara",
+        "adresa": {
+            "strada": "Principală, Nr. 55",
+            "localitate": {
+                "nume": "Cartisoara",
+                "siruta": 144544
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557075",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-521620"
+            ],
+            "fax": [
+                "0269-521505"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Chirpăr",
+        "adresa": {
+            "strada": "Principală, Nr. 47",
+            "localitate": {
+                "nume": "Chirpar",
+                "siruta": 144465
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557080",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-586101",
+                "0269-586178"
+            ],
+            "fax": [
+                "0269-586228"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cârţa",
+        "adresa": {
+            "strada": "Str. Principala, Nr.104",
+            "localitate": {
+                "nume": "Carta",
+                "siruta": 144517
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557070",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-521101"
+            ],
+            "fax": [
+                "0269-521134"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bruiu",
+        "adresa": {
+            "strada": "Str. Principala Nr.19",
+            "localitate": {
+                "nume": "Bruiu",
+                "siruta": 144429
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557065",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-586501"
+            ],
+            "fax": [
+                "0269-586576"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Brateiu",
+        "adresa": {
+            "strada": "Principală, Nr. 513",
+            "localitate": {
+                "nume": "Brateiu",
+                "siruta": 144358
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557055",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-863101",
+                "0269-863050"
+            ],
+            "fax": [
+                "0269-863056"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Brădeni",
+        "adresa": {
+            "strada": "Principală, Nr. 31",
+            "localitate": {
+                "nume": "Bradeni",
+                "siruta": 144385
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557060",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-518101",
+                "0269-518152"
+            ],
+            "fax": [
+                "0269-518131"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Boiţa",
+        "adresa": {
+            "strada": "Traian, Nr. 263",
+            "localitate": {
+                "nume": "Boita",
+                "siruta": 145845
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "555701",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-556136"
+            ],
+            "fax": [
+                "0269-556136"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Blăjel",
+        "adresa": {
+            "strada": "Tudor Vladimirescu, Nr. 70",
+            "localitate": {
+                "nume": "Blajel",
+                "siruta": 144312
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557050",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-851101",
+                "0269-851006",
+                "0269-851100",
+                "0269-851202"
+            ],
+            "fax": [
+                "0269-851100",
+                "0269-851006"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Biertan",
+        "adresa": {
+            "strada": "1 Decembrie, Nr. 19",
+            "localitate": {
+                "nume": "Biertan",
+                "siruta": 144205
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557045",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-868359"
+            ],
+            "fax": [
+                "0269-806676"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bazna",
+        "adresa": {
+            "strada": "Tudor Vladimirescu, Nr. 500",
+            "localitate": {
+                "nume": "Bazna",
+                "siruta": 144161
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557030",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-850102"
+            ],
+            "fax": [
+                "0269-850050"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bârghiş",
+        "adresa": {
+            "strada": "Principală, Nr.199",
+            "localitate": {
+                "nume": "Barghis",
+                "siruta": 144241
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557035",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-517101"
+            ],
+            "fax": [
+                "0269-517106"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Axente Sever",
+        "adresa": {
+            "strada": "Principală, Nr. 308",
+            "localitate": {
+                "nume": "Axente Sever",
+                "siruta": 144125
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557025",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-840001",
+                "0269-847100"
+            ],
+            "fax": [
+                "0269-847100"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Avrig",
+        "adresa": {
+            "strada": "Str. Gheorghe Lazăr, Nr. 10",
+            "localitate": {
+                "nume": "Avrig",
+                "siruta": 144063
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "555200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-523101",
+                "0269-524101"
+            ],
+            "fax": [
+                "0269-524401"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Aţel",
+        "adresa": {
+            "strada": "Str. Regele Mihai I, Nr. 388",
+            "localitate": {
+                "nume": "Atel",
+                "siruta": 144009
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557020",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-515714",
+                "0269-515713"
+            ],
+            "fax": [
+                "0269-515777"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Arpaşu De Jos",
+        "adresa": {
+            "strada": "Principală, Nr. 214",
+            "localitate": {
+                "nume": "Arpasu De Jos",
+                "siruta": 143968
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557015",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-520101"
+            ],
+            "fax": [
+                "0269-520120"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Apoldu De Jos",
+        "adresa": {
+            "strada": "Principală, Nr. 72",
+            "localitate": {
+                "nume": "Apoldu De Jos",
+                "siruta": 143931
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557010",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-588101"
+            ],
+            "fax": [
+                "0269-588101",
+                "0269-588111"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Alţîna",
+        "adresa": {
+            "strada": "Principală, Nr. 94",
+            "localitate": {
+                "nume": "Altina",
+                "siruta": 143897
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557005",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-581101"
+            ],
+            "fax": [
+                "0269-581156",
+                "0269-581399"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Alma",
+        "adresa": {
+            "strada": "Mihai Eminescu, Nr. 226",
+            "localitate": {
+                "nume": "Alma",
+                "siruta": 144018
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557021",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-257545",
+                "0269-257544"
+            ],
+            "fax": [
+                "0269-257535"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Agnita",
+        "adresa": {
+            "strada": "Piaţa Republicii, Nr. 19",
+            "localitate": {
+                "nume": "Agnita",
+                "siruta": 143691
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "555100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-510465"
+            ],
+            "fax": [
+                "0269-512000"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vurpăr",
+        "adresa": {
+            "strada": "Principală, Nr. 455",
+            "localitate": {
+                "nume": "Vurpar",
+                "siruta": 146003
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557295",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-544001"
+            ],
+            "fax": [
+                "0269-544110"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Valea Viilor",
+        "adresa": {
+            "strada": "Principală, Nr. 342",
+            "localitate": {
+                "nume": "Valea Viilor",
+                "siruta": 145970
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557290",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-515400",
+                "0269-515109",
+                "0269-515199"
+            ],
+            "fax": [
+                "0269-515199"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Turnu Roşu",
+        "adresa": {
+            "strada": "Olteţ, Nr. 54",
+            "localitate": {
+                "nume": "Turnu Rosu",
+                "siruta": 145943
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557285",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-527888"
+            ],
+            "fax": [
+                "0269-577601"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tilişca",
+        "adresa": {
+            "strada": "Nr. 531",
+            "localitate": {
+                "nume": "Tilisca",
+                "siruta": 145916
+            },
+            "judet": {
+                "nume": "Sibiu"
+            },
+            "cod-postal": "557280",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0269-554002"
+            ],
+            "fax": [
+                "0269-554101"
+            ]
+        }
+    }
+]

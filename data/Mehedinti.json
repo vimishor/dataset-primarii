@@ -1,0 +1,1542 @@
+[
+    {
+        "nume": "Primăria Drobeta Turnu Severin",
+        "adresa": {
+            "strada": "Mareşal Averescu, Nr. 2",
+            "localitate": {
+                "nume": "Drobeta-Turnu Severin",
+                "siruta": 109782
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "220131",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-314379",
+                "0252-341194"
+            ],
+            "fax": [
+                "0252-326252",
+                "0252-316317"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dîrvari",
+        "adresa": {
+            "strada": "Calea Traian, Nr. 121",
+            "localitate": {
+                "nume": "Darvari",
+                "siruta": 111569
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227155",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-392101"
+            ],
+            "fax": [
+                "0252-897921"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Livezile",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Livezile",
+                "siruta": 112619
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227310",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-354101",
+                "0252-354102"
+            ],
+            "fax": [
+                "0252-354101"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Obârşia De Câmp",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Obarsia De Camp",
+                "siruta": 112753
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227325",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-391851"
+            ],
+            "fax": []
+        }
+    },
+    {
+        "nume": "Primăria Malovăţ",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Malovat",
+                "siruta": 112673
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227315",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-707211"
+            ],
+            "fax": [
+                "0252-707210"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Jiana",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Jiana",
+                "siruta": 112557
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227305",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-358845"
+            ],
+            "fax": [
+                "0252-358845"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tâmna",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Tamna",
+                "siruta": 113741
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227470",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-375001"
+            ],
+            "fax": [
+                "0252-375001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sviniţa",
+        "adresa": {
+            "strada": "Strada 2, Nr. 26",
+            "localitate": {
+                "nume": "Svinita",
+                "siruta": 113616
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227440",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-368407",
+                "0374-018097"
+            ],
+            "fax": [
+                "0252-368407"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Strehaia",
+        "adresa": {
+            "strada": "Republicii, Nr. 124",
+            "localitate": {
+                "nume": "Strehaia",
+                "siruta": 110125
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "225300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-370159",
+                "0252-370109"
+            ],
+            "fax": [
+                "0252-306082"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Stîngăceaua",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Stangaceaua",
+                "siruta": 113527
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227430",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-373530",
+                "0252-373671",
+                "0252-373534"
+            ],
+            "fax": [
+                "0252-373530",
+                "0252-373671"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sovarna",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Sovarna",
+                "siruta": 113705
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227465",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-386481"
+            ],
+            "fax": [
+                "0252-386481"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şişeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Sisesti",
+                "siruta": 113634
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227455",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-384144",
+                "0252-384003"
+            ],
+            "fax": [
+                "0252-384144",
+                "0252-384003"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şimian",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Simian",
+                "siruta": 109835
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227445",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-338693"
+            ],
+            "fax": [
+                "0252-338693"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Salcia",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Salcia",
+                "siruta": 113509
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227425",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-391603"
+            ],
+            "fax": []
+        }
+    },
+    {
+        "nume": "Primăria Rogova",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Rogova",
+                "siruta": 113475
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227420",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-353001"
+            ],
+            "fax": [
+                "0252-392292"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Punghina",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Punghina",
+                "siruta": 113402
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227410",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-395785"
+            ],
+            "fax": [
+                "0252-395785"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Prunişor",
+        "adresa": {
+            "strada": "Str Primarie Nr 1",
+            "localitate": {
+                "nume": "Prunisor",
+                "siruta": 113242
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227390",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0352-884887"
+            ],
+            "fax": [
+                "0252-339013"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pristol",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Pristol",
+                "siruta": 113215
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227385",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-394502"
+            ],
+            "fax": [
+                "0252-394502"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Poroina Mare",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Poroina Mare",
+                "siruta": 113162
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227380",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-352847",
+                "0252-352875"
+            ],
+            "fax": [
+                "0252-352875"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ponoarele",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ponoarele",
+                "siruta": 113000
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227360",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-381512"
+            ],
+            "fax": [
+                "0252-381512"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Podeni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Podeni",
+                "siruta": 112968
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227355",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-388390"
+            ],
+            "fax": [
+                "0252-388390"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pătulele",
+        "adresa": {
+            "strada": "Zilele Recunoștinței",
+            "localitate": {
+                "nume": "Patulele",
+                "siruta": 112888
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227350",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-392503",
+                "0252-392815"
+            ],
+            "fax": [
+                "0252-392815"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pădina",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Padina Mare",
+                "siruta": 112815
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227344",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-356750"
+            ],
+            "fax": [
+                "0252-356750"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Orşova",
+        "adresa": {
+            "strada": "1 Decembrie 1918, Nr. 20",
+            "localitate": {
+                "nume": "Orsova",
+                "siruta": 110072
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "225200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0372-764195"
+            ],
+            "fax": [
+                "0252-361337"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Oprişor",
+        "adresa": {
+            "strada": "Principală, Nr. 155",
+            "localitate": {
+                "nume": "Oprisor",
+                "siruta": 112780
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227335",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0371-054222",
+                "0756-120145",
+                "0756-120146"
+            ],
+            "fax": [
+                "0756-120147",
+                "0756-120148"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Obîrşia-Cloşani",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Obîrşia-Cloşani",
+                "siruta": 110036
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227330",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-216925"
+            ],
+            "fax": [
+                "0252-216841"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Izvorul Bîrzii",
+        "adresa": {
+            "strada": "Principală",
+            "localitate": {
+                "nume": "Izvoru Barzii",
+                "siruta": 112478
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227295",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-707443",
+                "0252-707555"
+            ],
+            "fax": [
+                "0252-707443",
+                "0252-707555"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Isverna",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Isverna",
+                "siruta": 112389
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227285",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-388151"
+            ],
+            "fax": [
+                "0252-388151"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Iloviţa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ilovita",
+                "siruta": 112343
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227280",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-216451",
+                "0252-216475"
+            ],
+            "fax": [
+                "0252-216475"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ilovăţ",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ilovat",
+                "siruta": 112272
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227270",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-384601"
+            ],
+            "fax": [
+                "0252-384601"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Huşnicioara",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Husnicioara",
+                "siruta": 112138
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227250",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-342881"
+            ],
+            "fax": [
+                "0252-342894"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Hinova",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Hinova",
+                "siruta": 112085
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227245",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-354288"
+            ],
+            "fax": [
+                "0252-354288"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gruia",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Gruia",
+                "siruta": 112049
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227240",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-394001",
+                "0252-394030"
+            ],
+            "fax": [
+                "0252-394001",
+                "0252-394030"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Grozeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Grozesti",
+                "siruta": 111998
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227235",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-373750"
+            ],
+            "fax": [
+                "0252-373750"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Greci",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Greci",
+                "siruta": 111925
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227225",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-374250"
+            ],
+            "fax": [
+                "0252-374250"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gogoşu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Gogosu",
+                "siruta": 111872
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227220",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-357228",
+                "0252-357104"
+            ],
+            "fax": [
+                "0252-357104"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Godeanu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Godeanu",
+                "siruta": 111827
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227215",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-388540"
+            ],
+            "fax": [
+                "0252-388540"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Gârla Mare",
+        "adresa": {
+            "strada": "Principală, Nr. 592",
+            "localitate": {
+                "nume": "Garla Mare",
+                "siruta": 111792
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227210",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-393012"
+            ],
+            "fax": [
+                "0252-393059"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Floresti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Floresti",
+                "siruta": 111694
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-383322",
+                "0252-383375"
+            ],
+            "fax": [
+                "0252-383322",
+                "0252-383375"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Eşelniţa",
+        "adresa": {
+            "strada": "Teilor, Nr. 542",
+            "localitate": {
+                "nume": "Eselnita",
+                "siruta": 112254
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227195",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-365070"
+            ],
+            "fax": [
+                "0252-365143"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dumbrava",
+        "adresa": {
+            "strada": "Principală, Fn",
+            "localitate": {
+                "nume": "Dumbrava",
+                "siruta": 111587
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227175",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-342661"
+            ],
+            "fax": [
+                "0252-342661"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dubova",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Dubova",
+                "siruta": 112931
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227170",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-368002"
+            ],
+            "fax": [
+                "0252-368002"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Devesel",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Devesel",
+                "siruta": 111499
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227160",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-353257"
+            ],
+            "fax": [
+                "0252-707111"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cujmir",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Cujmir",
+                "siruta": 111453
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227150",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-390011"
+            ],
+            "fax": [
+                "0252-390016"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Corlăţel",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Corlatel",
+                "siruta": 111426
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227145",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-708990"
+            ],
+            "fax": [
+                "0252-708990",
+                "0372-251563"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Corcova",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Corcova",
+                "siruta": 111284
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227125",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-383464"
+            ],
+            "fax": [
+                "0252-383464"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cireşu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ciresu",
+                "siruta": 111239
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227120",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-388650"
+            ],
+            "fax": [
+                "0252-388650"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Căzăneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Cazanesti",
+                "siruta": 111104
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-385062",
+                "0252-385051",
+                "0252-385261"
+            ],
+            "fax": [
+                "0252-385062",
+                "0252-385051",
+                "0252-385261"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Butoieşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Butoiesti",
+                "siruta": 111015
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227090",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-373226"
+            ],
+            "fax": [
+                "0252-373226"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Burila Mare",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Burila Mare",
+                "siruta": 110955
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227085",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-357401"
+            ],
+            "fax": [
+                "0252-358038"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Broşteni",
+        "adresa": {
+            "strada": "Nr. 50",
+            "localitate": {
+                "nume": "Brosteni",
+                "siruta": 110884
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227075",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-383020"
+            ],
+            "fax": [
+                "0252-383118"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Brezniţa-Ocol",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Breznita-Ocol",
+                "siruta": 110839
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227070",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-210146"
+            ],
+            "fax": [
+                "0252-210146"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Brezniţa Motru",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Breznita-Motru",
+                "siruta": 110759
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227060",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-374001"
+            ],
+            "fax": [
+                "0252-374001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Braniştea",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Branistea",
+                "siruta": 113867
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227491",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-395190"
+            ],
+            "fax": [
+                "0252-395190"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bîlvăneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Balvanesti",
+                "siruta": 110697
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227055",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-216091"
+            ],
+            "fax": [
+                "0252-216091"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Balta",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Balta",
+                "siruta": 110465
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227030",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-388001"
+            ],
+            "fax": [
+                "0252-388001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bălăciţa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Balacita",
+                "siruta": 110544
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227040",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-356444"
+            ],
+            "fax": [
+                "0252-356444"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bala",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Bala",
+                "siruta": 110303
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227010",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-386001"
+            ],
+            "fax": [
+                "0252-386001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Baia De Aramă",
+        "adresa": {
+            "strada": "Tudor Vladimirescu, Nr. 23",
+            "localitate": {
+                "nume": "Baia De Arama",
+                "siruta": 109933
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "225100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-381473"
+            ],
+            "fax": [
+                "0252-381473"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bâcleş",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Bacles",
+                "siruta": 110580
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227045",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-375263"
+            ],
+            "fax": [
+                "0252-375263"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vrata",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Vrata",
+                "siruta": 111809
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227211",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-393435"
+            ],
+            "fax": [
+                "0252-393435"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Voloiac",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Voloiac",
+                "siruta": 113983
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227505",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0374-040040"
+            ],
+            "fax": []
+        }
+    },
+    {
+        "nume": "Primăria Vlădaia",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Vladaia",
+                "siruta": 113938
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227500",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-356506"
+            ],
+            "fax": [
+                "0252-356506"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vânjuleţ",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Vanjulet",
+                "siruta": 113901
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227495",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-352203"
+            ],
+            "fax": [
+                "0252-352203"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vânju Mare",
+        "adresa": {
+            "strada": "Rahovei, Nr. 8",
+            "localitate": {
+                "nume": "Vanju Mare",
+                "siruta": 110241
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "225400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-350660"
+            ],
+            "fax": [
+                "0252-350097"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vânători",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Vanatori",
+                "siruta": 113858
+            },
+            "judet": {
+                "nume": "Mehedinti"
+            },
+            "cod-postal": "227490",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0252-391049"
+            ],
+            "fax": [
+                "0252-391049"
+            ]
+        }
+    }
+]

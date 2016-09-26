@@ -1,0 +1,2085 @@
+[
+    {
+        "nume": "Primăria Creţeni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Creteni",
+                "siruta": 169315
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247120",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-772922",
+                "0250-772901"
+            ],
+            "fax": [
+                "0250-772922"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Costeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Costesti",
+                "siruta": 169262
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247115",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-863330"
+            ],
+            "fax": [
+                "0250-863330"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Copăceni",
+        "adresa": {
+            "strada": "Sat Ulmeţu, Principală, Nr. 16",
+            "localitate": {
+                "nume": "Copaceni",
+                "siruta": 169226
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247105",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-868379"
+            ],
+            "fax": [
+                "0250-868302"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cernişoara",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Cernisoara",
+                "siruta": 169057
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247095",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-868503"
+            ],
+            "fax": [
+                "0250-868503"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Călimăneşti",
+        "adresa": {
+            "strada": "Calea Lui Traian, Nr. 306",
+            "localitate": {
+                "nume": "Calimanesti",
+                "siruta": 167918
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "245600",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-750080"
+            ],
+            "fax": [
+                "0250-750082"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Câineni",
+        "adresa": {
+            "strada": "Sat Câinenii Mici",
+            "localitate": {
+                "nume": "Caineni",
+                "siruta": 169119
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247085",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0350-425926"
+            ],
+            "fax": [
+                "0350-425926"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Buneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Bunesti",
+                "siruta": 168979
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247075",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-774490"
+            ],
+            "fax": [
+                "0250-774434"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bujoreni",
+        "adresa": {
+            "strada": "Sat Olteni, Nr. 273",
+            "localitate": {
+                "nume": "Bujoreni",
+                "siruta": 168915
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247065",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-741983",
+                "0250-742501"
+            ],
+            "fax": [
+                "0250-742501"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Budeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Budesti",
+                "siruta": 168808
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247055",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-760374"
+            ],
+            "fax": [
+                "0250-733993"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Brezoi",
+        "adresa": {
+            "strada": "Lotrului, Nr. 2",
+            "localitate": {
+                "nume": "Brezoi",
+                "siruta": 167801
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "245500",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-778470"
+            ],
+            "fax": [
+                "0250-778240"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Boişoara",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Boisoara",
+                "siruta": 168764
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247050",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-756621"
+            ],
+            "fax": [
+                "0250-756621"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Berislăveşti",
+        "adresa": {
+            "strada": "Principală, Nr. 84",
+            "localitate": {
+                "nume": "Berislavesti",
+                "siruta": 168693
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247040",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-753061",
+                "0250-753077"
+            ],
+            "fax": [
+                "0250-753061"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Berbeşti",
+        "adresa": {
+            "strada": "Principală, Nr. 35",
+            "localitate": {
+                "nume": "Berbesti",
+                "siruta": 168611
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247030",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-869345",
+                "0250-869001"
+            ],
+            "fax": [
+                "0250-869345"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bărbăteşti",
+        "adresa": {
+            "strada": "Sat Bodeşti, Nr. 337",
+            "localitate": {
+                "nume": "Barbatesti",
+                "siruta": 168577
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247025",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-864629"
+            ],
+            "fax": [
+                "0250-864629"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bălceşti",
+        "adresa": {
+            "strada": "Aleea Petrache Poenaru, Nr. 1",
+            "localitate": {
+                "nume": "Balcesti",
+                "siruta": 168461
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "245400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-840352",
+                "0250-840185"
+            ],
+            "fax": [
+                "0250-840352",
+                "0250-840185"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Băile Olăneşti",
+        "adresa": {
+            "strada": "1 Decembrie, Nr. 1",
+            "localitate": {
+                "nume": "Baile Olanesti",
+                "siruta": 167696
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "245300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-775012"
+            ],
+            "fax": [
+                "0250-775099"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Băile Govora",
+        "adresa": {
+            "strada": "Tudor Vladimirescu, Nr. 75-77",
+            "localitate": {
+                "nume": "Baile Govora",
+                "siruta": 167641
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "245200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-770460",
+                "0250-770800"
+            ],
+            "fax": [
+                "0250-770460"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Băbeni",
+        "adresa": {
+            "strada": "Dragoş Vrânceanu, Nr. 167",
+            "localitate": {
+                "nume": "Babeni",
+                "siruta": 168381
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "245100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-765160",
+                "0250-765765"
+            ],
+            "fax": [
+                "0250-765160"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Amărăşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Amarasti",
+                "siruta": 168318
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247015",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-764022"
+            ],
+            "fax": [
+                "0250-764045"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Alunu",
+        "adresa": {
+            "strada": "Sat Igoiu, Nr. 4",
+            "localitate": {
+                "nume": "Alunu",
+                "siruta": 168265
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247008",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-868002",
+                "0250-868106"
+            ],
+            "fax": [
+                "0250-868006"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lăpuşata",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Lapusata",
+                "siruta": 170792
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247305",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-868988"
+            ],
+            "fax": [
+                "0250-868956"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Zătreni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Zatreni",
+                "siruta": 174307
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247755",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-867303"
+            ],
+            "fax": [
+                "0250-867423"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Voineasa",
+        "adresa": {
+            "strada": "I.Gh. Duca, Nr. 98",
+            "localitate": {
+                "nume": "Voineasa",
+                "siruta": 174263
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247750",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-754309"
+            ],
+            "fax": [
+                "0250-754310"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Voiceşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Voicesti",
+                "siruta": 174227
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247745",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-831508"
+            ],
+            "fax": [
+                "0250-831508"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vlădeşti",
+        "adresa": {
+            "strada": "Principală, Fn",
+            "localitate": {
+                "nume": "Vladesti",
+                "siruta": 174165
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247740",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-776049"
+            ],
+            "fax": [
+                "0250-776012"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Valea Mare",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Valea Mare",
+                "siruta": 174094
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247730",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-769512",
+                "0250-769536"
+            ],
+            "fax": [
+                "0250-769536"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vaideeni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Vaideeni",
+                "siruta": 174030
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247725",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-865009"
+            ],
+            "fax": [
+                "0250-865001"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tomşani",
+        "adresa": {
+            "strada": "Tudor Vladimirescu, Nr. 1",
+            "localitate": {
+                "nume": "Tomsani",
+                "siruta": 173944
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247705",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-863550",
+                "0250-863584"
+            ],
+            "fax": [
+                "0250-863584"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Titeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Titesti",
+                "siruta": 172260
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247492",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-756903",
+                "0250-756900"
+            ],
+            "fax": [
+                "0250-756903"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tetoiu",
+        "adresa": {
+            "strada": "Sat Ţepeşti",
+            "localitate": {
+                "nume": "Tetoiu",
+                "siruta": 173864
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247695",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-867869",
+                "0250-867804"
+            ],
+            "fax": [
+                "0250-867804"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Suteşti",
+        "adresa": {
+            "strada": "Tudor Vladimirescu, Nr. 2",
+            "localitate": {
+                "nume": "Sutesti",
+                "siruta": 173604
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247670",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0350-524506"
+            ],
+            "fax": [
+                "0350-524590"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şuşani",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Susani",
+                "siruta": 173800
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247690",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-764234"
+            ],
+            "fax": [
+                "0250-764225"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Stroeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Stroesti",
+                "siruta": 173542
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247665",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-866178",
+                "0250-866665"
+            ],
+            "fax": [
+                "0250-866189"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Stoileşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Stoilesti",
+                "siruta": 173383
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247645",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-762016"
+            ],
+            "fax": [
+                "0250-762016"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Stoeneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Stoenesti",
+                "siruta": 173249
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247625",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-777489"
+            ],
+            "fax": [
+                "0250-777510"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ştefăneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Stefanesti",
+                "siruta": 173757
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247685",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-830497"
+            ],
+            "fax": [
+                "0250-830415"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Stăneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Stanesti",
+                "siruta": 173141
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247615",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-769752"
+            ],
+            "fax": [
+                "0250-769752"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Slătioara",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Slatioara",
+                "siruta": 173070
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247605",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-866339"
+            ],
+            "fax": [
+                "0250-866339",
+                "0250-866318"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şirineasa",
+        "adresa": {
+            "strada": "Principală, Nr. 1",
+            "localitate": {
+                "nume": "Sirineasa",
+                "siruta": 173695
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247680",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-765050"
+            ],
+            "fax": [
+                "0250-765050"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sineşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Sinesti",
+                "siruta": 173007
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247595",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-867105",
+                "0250-867120"
+            ],
+            "fax": [
+                "0250-869002"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Scundu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Scundu",
+                "siruta": 172956
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247590",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0350-524455"
+            ],
+            "fax": [
+                "0350-524462"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sălătrucel",
+        "adresa": {
+            "strada": "Riului, Nr. 16",
+            "localitate": {
+                "nume": "Salatrucel",
+                "siruta": 172901
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247585",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-750031",
+                "0350-417889"
+            ],
+            "fax": [
+                "0250-750031"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Runcu",
+        "adresa": {
+            "strada": "Principală, Nr. 108",
+            "localitate": {
+                "nume": "Runcu",
+                "siruta": 172821
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247575",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-753430",
+                "0788-902568",
+                "0788-857402"
+            ],
+            "fax": [
+                "0250-753430"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Roşiile",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Rosiile",
+                "siruta": 172705
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247555",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-867612",
+                "0250-867635"
+            ],
+            "fax": [
+                "0250-867612"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Roeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Roesti",
+                "siruta": 172590
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247540",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-764560"
+            ],
+            "fax": [
+                "0250-764560"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Râmnicu Vâlcea",
+        "adresa": {
+            "strada": "General Praporgescu, Nr. 14",
+            "localitate": {
+                "nume": "Ramnicu-Valcea",
+                "siruta": 167482
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "240718",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-731016"
+            ],
+            "fax": [
+                "0250-731843"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Racoviţa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Racovita",
+                "siruta": 172518
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247530",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-756027"
+            ],
+            "fax": [
+                "0250-756027"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Prundeni",
+        "adresa": {
+            "strada": "Tudor Vladimirescu, Nr. 183",
+            "localitate": {
+                "nume": "Prundeni",
+                "siruta": 172466
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247525",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-810399"
+            ],
+            "fax": [
+                "0250-810399"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Popeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Popesti",
+                "siruta": 172386
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247515",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-764552"
+            ],
+            "fax": [
+                "0250-764552"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pietrari",
+        "adresa": {
+            "strada": "Principală, Nr. 244-245",
+            "localitate": {
+                "nume": "Pietrari",
+                "siruta": 172359
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247510",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-864166"
+            ],
+            "fax": [
+                "0250-864232"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pesceana",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Pesceana",
+                "siruta": 172288
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247500",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0350-525000"
+            ],
+            "fax": [
+                "0350-525000"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Perişani",
+        "adresa": {
+            "strada": "Principală, Nr. 149",
+            "localitate": {
+                "nume": "Perisani",
+                "siruta": 172162
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247480",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-757280"
+            ],
+            "fax": [
+                "0250-757202"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Păuseşti-Măglaşi",
+        "adresa": {
+            "strada": "Principală, Nr. 12",
+            "localitate": {
+                "nume": "Pausesti-Maglasi",
+                "siruta": 172091
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247470",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-776533"
+            ],
+            "fax": [
+                "0250-776533"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Păuşeşti",
+        "adresa": {
+            "strada": "Principală, Nr. 47",
+            "localitate": {
+                "nume": "Pausesti",
+                "siruta": 172000
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247460",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-774060",
+                "0250-774261"
+            ],
+            "fax": [
+                "0250-774060",
+                "0250-774261"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Oţeşani",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Otesani",
+                "siruta": 171940
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247455",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-860676"
+            ],
+            "fax": [
+                "0250-860676"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Orleşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Orlesti",
+                "siruta": 171888
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247450",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-763301"
+            ],
+            "fax": [
+                "0250-763301"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Olanu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Olanu",
+                "siruta": 171815
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247440",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-762334"
+            ],
+            "fax": [
+                "0250-762302"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ocnele Mari",
+        "adresa": {
+            "strada": "Alexandru Ioan Cuza, Nr. 53",
+            "localitate": {
+                "nume": "Ocnele Mari",
+                "siruta": 168130
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "245900",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-772043",
+                "0250-772024"
+            ],
+            "fax": [
+                "0250-772270",
+                "0250-772213"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Nicolae Bălcescu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Nicolae Balcescu",
+                "siruta": 23715
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247415",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-761089"
+            ],
+            "fax": [
+                "0250-761089",
+                "0250-761025"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Muereasca",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Muereasca",
+                "siruta": 171548
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247405",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-755730"
+            ],
+            "fax": [
+                "0250-755731"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mitrofani",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Mitrofani",
+                "siruta": 173659
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247676",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0350-525230"
+            ],
+            "fax": [
+                "0350-525230"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Milcoiu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Milcoiu",
+                "siruta": 171478
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247395",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-760189"
+            ],
+            "fax": [
+                "0350-524693"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mihăeşti",
+        "adresa": {
+            "strada": "Principală, Nr. 73",
+            "localitate": {
+                "nume": "Mihaesti",
+                "siruta": 171334
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247378",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-772522"
+            ],
+            "fax": [
+                "0250-772522"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mateeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Mateesti",
+                "siruta": 171076
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247340",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-869601"
+            ],
+            "fax": [
+                "0250-869601"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Măldăreşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Maldaresti",
+                "siruta": 171281
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247370",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-860360"
+            ],
+            "fax": [
+                "0250-861937",
+                "0350-814150"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Malaia",
+        "adresa": {
+            "strada": "Podul Şipotului, Nr. 109",
+            "localitate": {
+                "nume": "Malaia",
+                "siruta": 171030
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247335",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-866870",
+                "0250-866899"
+            ],
+            "fax": [
+                "0250-866899"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mădulari",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Madulari",
+                "siruta": 171218
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247360",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-764116"
+            ],
+            "fax": [
+                "0250-764116"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Măciuca",
+        "adresa": {
+            "strada": "Oveselu, Nr. 31",
+            "localitate": {
+                "nume": "Maciuca",
+                "siruta": 171101
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247345",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-769706",
+                "0250-769838"
+            ],
+            "fax": [
+                "0250-769706"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lungeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Lungesti",
+                "siruta": 170961
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247325",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-830502"
+            ],
+            "fax": [
+                "0250-830502"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Livezi",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Livezi",
+                "siruta": 170881
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247315",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-867008"
+            ],
+            "fax": [
+                "0250-867140"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Laloşu",
+        "adresa": {
+            "strada": "Sat Mologeşti",
+            "localitate": {
+                "nume": "Lalosu",
+                "siruta": 170621
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247280",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-769341",
+                "0250-769333"
+            ],
+            "fax": [
+                "0250-769341"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lădeşti",
+        "adresa": {
+            "strada": "Nr. 30",
+            "localitate": {
+                "nume": "Ladesti",
+                "siruta": 170694
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247290",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-764524",
+                "0250-764518"
+            ],
+            "fax": [
+                "0250-764524",
+                "0250-764518"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lăcuşteni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Lacusteni",
+                "siruta": 174389
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247764",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-840815"
+            ],
+            "fax": [
+                "0250-840815"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ioneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ionesti",
+                "siruta": 170523
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247270",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-763070"
+            ],
+            "fax": [
+                "0250-763060"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Horezu",
+        "adresa": {
+            "strada": "1 Decembrie, Nr. 7",
+            "localitate": {
+                "nume": "Horezu",
+                "siruta": 168050
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "245800",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-860190"
+            ],
+            "fax": [
+                "0250-860481"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Grădiştea",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Gradistea",
+                "siruta": 170355
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247250",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-867009",
+                "0250-867072"
+            ],
+            "fax": [
+                "0250-867009"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Guşoeni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Gusoeni",
+                "siruta": 170453
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247260",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-764102"
+            ],
+            "fax": [
+                "0250-764170"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Goleşti",
+        "adresa": {
+            "strada": "Sat Popeşti, Nr. 82",
+            "localitate": {
+                "nume": "Golesti",
+                "siruta": 170220
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247230",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0350-421885"
+            ],
+            "fax": [
+                "0350-421886"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Glavile",
+        "adresa": {
+            "strada": "Principala, Nr. 144",
+            "localitate": {
+                "nume": "Glavile",
+                "siruta": 170177
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247225",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-764023"
+            ],
+            "fax": [
+                "0250-764023"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ghioroiu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ghioroiu",
+                "siruta": 170104
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247215",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-769007",
+                "0250-769003"
+            ],
+            "fax": [
+                "0250-769007"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Galicea",
+        "adresa": {
+            "strada": "Principală, Nr. 30",
+            "localitate": {
+                "nume": "Galicea",
+                "siruta": 170006
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247205",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-762160",
+                "0250-762152"
+            ],
+            "fax": [
+                "0250-762160"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Frânceşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Francesti",
+                "siruta": 169903
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247195",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-762601",
+                "0250-762755"
+            ],
+            "fax": [
+                "0250-762601",
+                "0250-762755"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Făureşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Fauresti",
+                "siruta": 169654
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247155",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-842496"
+            ],
+            "fax": [
+                "0250-842496"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Fărtăteşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Fartatesti",
+                "siruta": 169690
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247165",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0350-524756"
+            ],
+            "fax": [
+                "0350-524756"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Drăgăşani",
+        "adresa": {
+            "strada": "Piaţa Pandurilor, Nr. 1",
+            "localitate": {
+                "nume": "Dragasani",
+                "siruta": 167990
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "245700",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-811990"
+            ],
+            "fax": [
+                "0250-811990"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dănicei",
+        "adresa": {
+            "strada": "Sat Bădeni, Nr. 34",
+            "localitate": {
+                "nume": "Danicei",
+                "siruta": 169404
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247130",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-838333"
+            ],
+            "fax": [
+                "0250-838333"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Diculeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Diculesti",
+                "siruta": 169645
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247161",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-842428"
+            ],
+            "fax": [
+                "0250-842428"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dăeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Daesti",
+                "siruta": 169360
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247125",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0350-425873"
+            ],
+            "fax": [
+                "0350-425873"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Drăgoeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Dragoesti",
+                "siruta": 169556
+            },
+            "judet": {
+                "nume": "Valcea"
+            },
+            "cod-postal": "247150",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0250-762303"
+            ],
+            "fax": [
+                "0250-762303"
+            ]
+        }
+    }
+]
