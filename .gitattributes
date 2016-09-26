@@ -1,0 +1,19 @@
+# Path-based git attributes
+# https://git-scm.com/docs/gitattributes
+
+# Auto-detect text files, ensure they use LF.
+*       text=auto eol=lf
+
+# These files are always considered text and should use LF.
+*.json  text eol=lf
+
+# Ignore all test, documentation and build artifacts with "export-ignore".
+/build              export-ignore
+/dist               export-ignore
+/test               export-ignore
+/.editorconfig      export-ignore
+/.gitattributes     export-ignore
+/.gitignore         export-ignore
+/Makefile           export-ignore
+/requirements.txt   export-ignore
+/schema.json        export-ignore
