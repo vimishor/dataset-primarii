@@ -94,6 +94,20 @@
                         "type": "string",
                         "pattern": "^[0-9]{3,4}-[0-9]{6,7}$"
                     }
+                },
+                "website": {
+                    "description": "Adresa website.",
+                    "type": "string",
+                    "pattern": "^(https?):\/\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{2,256}.[^\\s]*$"
+                },
+                "email": {
+                    "description": "Adrese de email.",
+                    "type": "array",
+                    "minItems": 0,
+                    "items": {
+                        "type": "string",
+                        "pattern": "^[a-zA-Z0-9_\\.+-]+@[a-zA-Z0-9\\.-]+\\.[a-zA-Z0-9-.]{2,4}$"
+                    }
                 }
             }
         }
