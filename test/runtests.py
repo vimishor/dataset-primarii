@@ -23,7 +23,10 @@ if __name__ == '__main__':
             print("[!] %s" % file)
 
         with open(os.path.join(data_dir, file)) as json_file:
-            json_data = json.load(json_file)
+            try:
+                json_data = json.load(json_file)
+            except ValueError as e:
+                raise jsonschema.ValidationError("%s in %s" % (e, file)) from e
 
             for primarie in json_data:
                 try:
