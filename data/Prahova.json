@@ -83,6 +83,13 @@
             ],
             "fax": [
                 "0244-448000"
+            ],
+            "website": "http://www.primariaboldestigradistea.ro/",
+            "email": [
+                "primaria_boldesti_gradistea@yahoo.com",
+                "primar@primariaboldestigradistea.ro",
+                "viceprimar@primariaboldestigradistea.ro",
+                "secretar@primariaboldestigradistea.ro"
             ]
         }
     },
@@ -107,6 +114,10 @@
             ],
             "fax": [
                 "0244-410445"
+            ],
+            "website": "http://www.primariablejoi.ro/",
+            "email": [
+                "blejoiprahova@yahoo.com"
             ]
         }
     },
@@ -131,7 +142,9 @@
             ],
             "fax": [
                 "0244-247101"
-            ]
+            ],
+            "website": "http://www.comunabertea.ro/",
+            "email": []
         }
     },
     {
@@ -156,6 +169,13 @@
             "fax": [
                 "0244-470209",
                 "0244-470588"
+            ],
+            "website": "http://primariaberceniph.ro/",
+            "email": [
+                "primar@primariaberceniph.ro",
+                "cosmina_pandele@yahoo.com",
+                "viceprimar@primariaberceniph.ro",
+                "secretar@primariaberceniph.ro"
             ]
         }
     },
@@ -180,7 +200,9 @@
             ],
             "fax": [
                 "0244-421377"
-            ]
+            ],
+            "website": "",
+            "email": []
         }
     },
     {
@@ -205,6 +227,13 @@
             ],
             "fax": [
                 "0244-276595"
+            ],
+            "website": "http://www.barcanesti.ro/",
+            "email": [
+                "primaria_barcanesti@yahoo.com",
+                "primar@primariabarcanesti.ro",
+                "viceprimar@primariabarcanesti.ro",
+                "secretar@primariabarcanesti.ro"
             ]
         }
     },
@@ -229,6 +258,10 @@
             ],
             "fax": [
                 "0244-348608"
+            ],
+            "website": "http://www.banestiprahova.ro/",
+            "email": [
+                "primariabanesti@yahoo.com"
             ]
         }
     },
@@ -252,6 +285,10 @@
             ],
             "fax": [
                 "0244-219486"
+            ],
+            "website": "http://www.primariabaltesti.ro/",
+            "email": [
+                "primar@primariabaltesti.ro"
             ]
         }
     },
@@ -275,7 +312,9 @@
             ],
             "fax": [
                 "0244-469311"
-            ]
+            ],
+            "website": "http://baltadoamnei.europrahova.eu/wordpress/",
+            "email": []
         }
     },
     {
@@ -299,6 +338,12 @@
             ],
             "fax": [
                 "0244-260987"
+            ],
+            "website": "http://primariabaicoi.ro/",
+            "email": [
+                "primar@primariabaicoi.ro",
+                "viceprimar@primariabaicoi.ro",
+                "secretar@primariabaicoi.ro"
             ]
         }
     },
