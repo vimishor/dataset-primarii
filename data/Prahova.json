@@ -369,7 +369,9 @@
             "fax": [
                 "0244-251211",
                 "0244-255061"
-            ]
+            ],
+            "website": "https://www.primariababaana.ro/",
+            "email": []
         }
     },
     {
@@ -392,6 +394,10 @@
             ],
             "fax": [
                 "0244-326330"
+            ],
+            "website": "http://www.primariaazuga.ro/",
+            "email": [
+                "primariaazuga@yahoo.com"
             ]
         }
     },
@@ -418,11 +424,18 @@
             "fax": [
                 "0244-380080",
                 "0244-360036"
+            ],
+            "website": "http://www.aricestiirahtivani.ro/",
+            "email": [
+                "primarie@aricestiirahtivani.ro",
+                "primar@aricestiirahtivani.ro",
+                "viceprimar@aricestiirahtivani.ro",
+                "secretar@aricestiirahtivani.ro"
             ]
         }
     },
     {
-        "nume": "Primăria Ariceşti Zeletin",
+        "nume": "Primăria Ariceştii Zeletin",
         "adresa": {
             "strada": "-",
             "localitate": {
@@ -442,7 +455,9 @@
             ],
             "fax": [
                 "0244-418073"
-            ]
+            ],
+            "website": "http://www.primariaaricesti.ro/",
+            "email": []
         }
     },
     {
@@ -465,6 +480,10 @@
             ],
             "fax": [
                 "0244-443309"
+            ],
+            "website": "https://www.comunaapostolache.ro/",
+            "email": [
+                "primaria.apostolache@yahoo.com"
             ]
         }
     },
