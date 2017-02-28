@@ -1941,7 +1941,7 @@
             "judet": {
                 "nume": "Prahova"
             },
-            "cod-postal": "100008",
+            "cod-postal": "100066",
             "tara": "Romania"
         },
         "contact": {
@@ -1951,6 +1951,11 @@
             ],
             "fax": [
                 "0244-513829"
+            ],
+            "website": "http://www.ploiesti.ro",
+            "email": [
+                "comunicare@ploiesti.ro",
+                "primar@ploiesti.ro"
             ]
         }
     },
