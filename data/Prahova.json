@@ -23,6 +23,14 @@
                 "0244-480700",
                 "0244-480631",
                 "0244-480690"
+            ],
+            "website": "http://www.pcbrazi.ro/",
+            "email": [
+                "primaria@pcbrazi.ro",
+                "relatiicupublicul@pcbrazi.ro",
+                "primar@pcbrazi.ro",
+                "viceprimar@pcbrazi.ro",
+                "secretar@pcbrazi.ro"
             ]
         }
     },
@@ -48,6 +56,10 @@
             "fax": [
                 "0244-211287",
                 "0244-211363"
+            ],
+            "website": "http://pbs.infoprimarie.ro/",
+            "email": [
+                "pbs@opticnet.ro"
             ]
         }
     },
@@ -71,6 +83,13 @@
             ],
             "fax": [
                 "0244-448000"
+            ],
+            "website": "http://www.primariaboldestigradistea.ro/",
+            "email": [
+                "primaria_boldesti_gradistea@yahoo.com",
+                "primar@primariaboldestigradistea.ro",
+                "viceprimar@primariaboldestigradistea.ro",
+                "secretar@primariaboldestigradistea.ro"
             ]
         }
     },
@@ -95,6 +114,10 @@
             ],
             "fax": [
                 "0244-410445"
+            ],
+            "website": "http://www.primariablejoi.ro/",
+            "email": [
+                "blejoiprahova@yahoo.com"
             ]
         }
     },
@@ -119,7 +142,9 @@
             ],
             "fax": [
                 "0244-247101"
-            ]
+            ],
+            "website": "http://www.comunabertea.ro/",
+            "email": []
         }
     },
     {
@@ -144,6 +169,13 @@
             "fax": [
                 "0244-470209",
                 "0244-470588"
+            ],
+            "website": "http://primariaberceniph.ro/",
+            "email": [
+                "primar@primariaberceniph.ro",
+                "cosmina_pandele@yahoo.com",
+                "viceprimar@primariaberceniph.ro",
+                "secretar@primariaberceniph.ro"
             ]
         }
     },
@@ -168,6 +200,9 @@
             ],
             "fax": [
                 "0244-421377"
+            ],
+            "email": [
+                "primariabatrani@yahoo.com"
             ]
         }
     },
@@ -193,6 +228,13 @@
             ],
             "fax": [
                 "0244-276595"
+            ],
+            "website": "http://www.barcanesti.ro/",
+            "email": [
+                "primaria_barcanesti@yahoo.com",
+                "primar@primariabarcanesti.ro",
+                "viceprimar@primariabarcanesti.ro",
+                "secretar@primariabarcanesti.ro"
             ]
         }
     },
@@ -217,6 +259,10 @@
             ],
             "fax": [
                 "0244-348608"
+            ],
+            "website": "http://www.banestiprahova.ro/",
+            "email": [
+                "primariabanesti@yahoo.com"
             ]
         }
     },
@@ -240,6 +286,10 @@
             ],
             "fax": [
                 "0244-219486"
+            ],
+            "website": "http://www.primariabaltesti.ro/",
+            "email": [
+                "primar@primariabaltesti.ro"
             ]
         }
     },
@@ -263,7 +313,9 @@
             ],
             "fax": [
                 "0244-469311"
-            ]
+            ],
+            "website": "http://baltadoamnei.europrahova.eu/wordpress/",
+            "email": []
         }
     },
     {
@@ -287,6 +339,12 @@
             ],
             "fax": [
                 "0244-260987"
+            ],
+            "website": "http://primariabaicoi.ro/",
+            "email": [
+                "primar@primariabaicoi.ro",
+                "viceprimar@primariabaicoi.ro",
+                "secretar@primariabaicoi.ro"
             ]
         }
     },
@@ -312,7 +370,9 @@
             "fax": [
                 "0244-251211",
                 "0244-255061"
-            ]
+            ],
+            "website": "https://www.primariababaana.ro/",
+            "email": []
         }
     },
     {
@@ -335,6 +395,10 @@
             ],
             "fax": [
                 "0244-326330"
+            ],
+            "website": "http://www.primariaazuga.ro/",
+            "email": [
+                "primariaazuga@yahoo.com"
             ]
         }
     },
@@ -361,11 +425,18 @@
             "fax": [
                 "0244-380080",
                 "0244-360036"
+            ],
+            "website": "http://www.aricestiirahtivani.ro/",
+            "email": [
+                "primarie@aricestiirahtivani.ro",
+                "primar@aricestiirahtivani.ro",
+                "viceprimar@aricestiirahtivani.ro",
+                "secretar@aricestiirahtivani.ro"
             ]
         }
     },
     {
-        "nume": "Primăria Ariceşti Zeletin",
+        "nume": "Primăria Ariceştii Zeletin",
         "adresa": {
             "strada": "-",
             "localitate": {
@@ -385,7 +456,9 @@
             ],
             "fax": [
                 "0244-418073"
-            ]
+            ],
+            "website": "http://www.primariaaricesti.ro/",
+            "email": []
         }
     },
     {
@@ -408,6 +481,10 @@
             ],
             "fax": [
                 "0244-443309"
+            ],
+            "website": "https://www.comunaapostolache.ro/",
+            "email": [
+                "primaria.apostolache@yahoo.com"
             ]
         }
     },
@@ -431,6 +508,10 @@
             ],
             "fax": [
                 "0244-248052"
+            ],
+            "website": "http://www.primariaalunis.ro/",
+            "email": [
+                "primariaalunis@gmail.com"
             ]
         }
     },
@@ -454,6 +535,10 @@
             ],
             "fax": [
                 "0244-232853"
+            ],
+            "website": "http://www.primariaalbestipaleologu.ro/",
+            "email": [
+                "primariaalbesti@clicknet.ro"
             ]
         }
     },
@@ -478,6 +563,10 @@
             ],
             "fax": [
                 "0244-395053"
+            ],
+            "website": "http://www.primaria-adunati.ro/",
+            "email": [
+                "comuna.adunati@gmail.com"
             ]
         }
     },
@@ -501,6 +590,11 @@
             ],
             "fax": [
                 "0244-295400"
+            ],
+            "website": "http://primarie-maneciu.ro/",
+            "email": [
+                "primar@primaria-maneciu.ro",
+                "maneciu_urbanism@yahoo.com"
             ]
         }
     },
@@ -526,6 +620,10 @@
             ],
             "fax": [
                 "0244-384203"
+            ],
+            "website": "http://www.comunamagureni.ro/",
+            "email": [
+                "contact@comunamagureni.ro"
             ]
         }
     },
@@ -551,6 +649,10 @@
             "fax": [
                 "0244-217701",
                 "0244-217401"
+            ],
+            "website": "https://www.magurele-ph.ro/",
+            "email": [
+                "primarie@magurele-ph.ro"
             ]
         }
     },
@@ -574,6 +676,11 @@
             ],
             "fax": [
                 "0244-215151"
+            ],
+            "website": "http://www.lipanesti.ro/",
+            "email": [
+                "primarie@lipanesti.ro",
+                "primar@lipanesti.ro"
             ]
         }
     },
@@ -598,6 +705,10 @@
             ],
             "fax": [
                 "0244-444654"
+            ],
+            "website": "http://www.primarialapos.ro/",
+            "email": [
+                "primaria.lapos@yahoo.com"
             ]
         }
     },
@@ -619,7 +730,15 @@
             "telefon": [
                 "0244-891903"
             ],
-            "fax": []
+            "fax": [
+                "0244-891941"
+            ],
+            "website": "http://www.primariajugureni.ro/",
+            "email": [
+                "jugureni@europrahova.ro",
+                "secretar@primariajugureni.ro",
+                "asistenta@primariajugureni.ro"
+            ]
         }
     },
     {
@@ -645,6 +764,13 @@
                 "0244-292384",
                 "0244-292045",
                 "0244-292047"
+            ],
+            "website": "http://www.primariaizvoarele-ph.ro/",
+            "email": [
+                "primarie@primariaizvoarele-ph.ro",
+                "primar@primariaizvoarele-ph.ro",
+                "viceprimar@primariaizvoarele-ph.ro",
+                "secretar@primariaizvoarele-ph.ro"
             ]
         }
     },
@@ -668,6 +794,10 @@
             ],
             "fax": [
                 "0244-440101"
+            ],
+            "website": "http://www.iordacheanu.ro/",
+            "email": [
+                "prim_iordacheanu@yahoo.com"
             ]
         }
     },
@@ -691,6 +821,10 @@
             ],
             "fax": [
                 "0244-285300"
+            ],
+            "website": "http://www.primariaguravitioarei.ro/",
+            "email": [
+                "guravitioarei@prefecturaprahova.ro"
             ]
         }
     },
@@ -714,6 +848,14 @@
             ],
             "fax": [
                 "0244-251005"
+            ],
+            "website": "http://www.guravadului.ro/",
+            "email": [
+                "primaria_guravadului@yahoo.com",
+                "primarie@guravadului.ro",
+                "primar@guravadului.ro",
+                "viceprimar@guravadului.ro",
+                "secretar@guravadului.ro"
             ]
         }
     },
@@ -738,6 +880,10 @@
             ],
             "fax": [
                 "0244-440649"
+            ],
+            "website": "https://www.primariagornetcricov.ro/",
+            "email": [
+                "primariagornetcricov@yahoo.com"
             ]
         }
     },
@@ -763,6 +909,10 @@
             ],
             "fax": [
                 "0244-419251"
+            ],
+            "website": "http://www.primariagornet.ro/",
+            "email": [
+                "primariagornet@yahoo.com"
             ]
         }
     },
@@ -788,6 +938,11 @@
             "fax": [
                 "0244-474041",
                 "0244-474511"
+            ],
+            "website": "http://www.gorgota.ro/",
+            "email": [
+                "primar@gorgota.ro",
+                "secretar@gorgota.ro"
             ]
         }
     },
@@ -812,6 +967,10 @@
             ],
             "fax": [
                 "0244-474662"
+            ],
+            "website": "http://www.primariacomuneigherghita.ro/",
+            "email": [
+                "primaria_gherghita@yahoo.com"
             ]
         }
     },
@@ -836,6 +995,10 @@
             ],
             "fax": [
                 "0244-449000"
+            ],
+            "website": "http://www.primariafulga.ro/",
+            "email": [
+                "primaria_fulga@yahoo.com"
             ]
         }
     },
@@ -859,6 +1022,10 @@
             ],
             "fax": [
                 "0244-362161"
+            ],
+            "website": "http://primaria-floresti.ro/",
+            "email": [
+                "floresti_primaria@yahoo.com"
             ]
         }
     },
@@ -884,6 +1051,10 @@
             ],
             "fax": [
                 "0244-389599"
+            ],
+            "website": "http://www.primariafilipestiidetarg.ro/",
+            "email": [
+                "primariafilipestiidetarg@yahoo.com"
             ]
         }
     },
@@ -908,7 +1079,11 @@
             ],
             "fax": [
                 "0244-386094"
-            ]
+            ],
+            "website": "http://www.filipestiidepadure.ro/",
+            "email": [
+                "primarie@filipestiidepadure.ro"
+            ] 
         }
     },
     {
@@ -932,6 +1107,10 @@
             ],
             "fax": [
                 "0244-442575"
+            ],
+            "website": "http://fintinele.infoprimarie.ro/",
+            "email": [
+                "fantaneleph@yahoo.com"
             ]
         }
     },
@@ -955,6 +1134,11 @@
             ],
             "fax": [
                 "0244-226183"
+            ],
+            "website": "http://www.dumbravesti.ro/",
+            "email": [
+                "primarie@dumbravesti.ro",
+                "primar@dumbravesti.ro"
             ]
         }
     },
@@ -978,6 +1162,10 @@
             ],
             "fax": [
                 "0244-227033"
+            ],
+            "website": "http://www.comunavalcanesti.ro",
+            "email": [
+                "primariavalcanesti@yahoo.com"
             ]
         }
     },
@@ -1001,6 +1189,10 @@
             ],
             "fax": [
                 "0244-442595"
+            ],
+            "website": "http://primariavadusapat.ro/",
+            "email": [
+                "vadusapat_ph@yahoo.com"
             ]
         }
     },
@@ -1025,6 +1217,10 @@
             ],
             "fax": [
                 "0244-270010"
+            ],
+            "website": "http://www.urlati-ph.ro/",
+            "email": [
+                "primaria_urlati@yahoo.com"
             ]
         }
     },
@@ -1048,6 +1244,10 @@
             ],
             "fax": [
                 "0244-237205"
+            ],
+            "website": "http://www.primariatomsani.ro/",
+            "email": [
+                "primariatomsani@yahoo.com"
             ]
         }
     },
@@ -1073,6 +1273,10 @@
             "fax": [
                 "0244-482900",
                 "0244-482702"
+            ],
+            "website": "http://www.comunatinosu.ro/",
+            "email": [
+                "primaria_tinosu@yahoo.com"
             ]
         }
     },
@@ -1097,6 +1301,10 @@
             ],
             "fax": [
                 "0244-368011"
+            ],
+            "website": "http://www.comunatelega.ro/Primarie.html",
+            "email": [
+                "primariatelega@yahoo.com"
             ]
         }
     },
@@ -1121,6 +1329,10 @@
             ],
             "fax": [
                 "0244-288572"
+            ],
+            "website": "http://teisani.europrahova.eu/wordpress/",
+            "email": [
+                "teisani@europrahova.eu"
             ]
         }
     },
@@ -1145,6 +1357,12 @@
             ],
             "fax": [
                 "0244-460200"
+            ],
+            "website": "http://primariatataru.ro/",
+            "email": [
+                "primar@primariatataru.ro",
+                "primariatataru@yahoo.com",
+                "secretar@primariatataru.ro"
             ]
         }
     },
@@ -1171,6 +1389,10 @@
             "fax": [
                 "0244-482555",
                 "0244-482291"
+            ],
+            "website": "http://www.comunatirgsoruvechi.ro/",
+            "email": [
+                "primtgvechi@yahoo.com"
             ]
         }
     },
@@ -1195,6 +1417,9 @@
             ],
             "fax": [
                 "0244-391506"
+            ],
+            "email": [
+                "primarietalea@yahoo.com"
             ]
         }
     },
@@ -1218,6 +1443,10 @@
             ],
             "fax": [
                 "0244-416134"
+            ],
+            "website": "http://primariasurani.ro/",
+            "email": [
+                "surani@cjph.ro"
             ]
         }
     },
@@ -1241,6 +1470,12 @@
             ],
             "fax": [
                 "0244-243416"
+            ],
+            "website": "http://www.primariastefesti.ro/",
+            "email": [
+                "primar@primariastefesti.ro",
+                "viceprimar@primariastefesti.ro",
+                "secretar@primariastefesti.ro"
             ]
         }
     },
@@ -1265,6 +1500,10 @@
             ],
             "fax": [
                 "0244-420134"
+            ],
+            "website": "http://starchiojd.infoprimarie.ro/",
+            "email": [
+                "primariastarchiojd@yahoo.com"
             ]
         }
     },
@@ -1290,6 +1529,10 @@
             "fax": [
                 "0244-359001",
                 "0244-359234"
+            ],
+            "website": "http://www.comunasotrile.ro/",
+            "email": [
+                "primaria_comsotrile@yahoo.com"
             ]
         }
     },
@@ -1317,6 +1560,10 @@
                 "0244-416330",
                 "0244-416331",
                 "0244-416103"
+            ],
+            "website": "http://www.comunasoimari.ro/",
+            "email": [
+                "soimari@prefecturaprahova.ro"
             ]
         }
     },
@@ -1340,6 +1587,11 @@
             ],
             "fax": [
                 "0244-240704"
+            ],
+            "website": "http://www.slanic.ro/",
+            "email": [
+                "slanic@cjph.ro",
+                "slanic@prefecturaprahova.ro"
             ]
         }
     },
@@ -1363,6 +1615,10 @@
             ],
             "fax": [
                 "0244-485500"
+            ],
+            "website": "http://www.comunasirna.ro/",
+            "email": [
+                "primaria_sirna@yahoo.com"
             ]
         }
     },
@@ -1386,6 +1642,10 @@
             ],
             "fax": [
                 "0244-314509"
+            ],
+            "website": "http://www.primaria-sinaia.ro",
+            "email": [
+                "contact@primaria-sinaia.ro"
             ]
         }
     },
@@ -1409,6 +1669,10 @@
             ],
             "fax": [
                 "0244-394091"
+            ],
+            "website": "http://www.secariaprahova.ro",
+            "email": [
+                "primaria_secaria@yahoo.com"
             ]
         }
     },
@@ -1432,6 +1696,10 @@
             ],
             "fax": [
                 "0244-355221"
+            ],
+            "website": "http://www.primariascorteni.ro/",
+            "email": [
+                "primaria_scorteni@yahoo.com"
             ]
         }
     },
@@ -1456,6 +1724,10 @@
             ],
             "fax": [
                 "0244-471921"
+            ],
+            "website": "http://dumbrava.infoprimarie.ro",
+            "email": [
+                "primariadumbrava@gmail.com"
             ]
         }
     },
@@ -1479,6 +1751,10 @@
             ],
             "fax": [
                 "0244-290736"
+            ],
+            "website": "http://www.primaria-drajna.ro/",
+            "email": [
+                "secretarcomuna@comunadrajna.ro"
             ]
         }
     },
@@ -1502,6 +1778,10 @@
             ],
             "fax": [
                 "0244-465208"
+            ],
+            "website": "http://www.primariadraganesti.ro/",
+            "email": [
+                "primar@primariadraganesti.ro"
             ]
         }
     },
@@ -1527,6 +1807,10 @@
             "fax": [
                 "0244-441377",
                 "0244-441060"
+            ],
+            "website": "http://sangeru.europrahova.eu/wordpress/",
+            "email": [
+                "sangeru@europrahova.eu"
             ]
         }
     },
@@ -1550,6 +1834,10 @@
             ],
             "fax": [
                 "0244-444120"
+            ],
+            "website": "http://salciile.judetulprahova.ro/index.php/category/primaria/",
+            "email": [
+                "salciile@prefecturaprahova.ro"
             ]
         }
     },
@@ -1573,6 +1861,12 @@
             ],
             "fax": [
                 "0244-441026"
+            ],
+            "website": "http://www.primaria-salcia.ro/",
+            "email": [
+                "primar@primaria-salcia.ro",
+                "viceprimar@primaria-salcia.ro",
+                "secretar@primaria-salcia.ro"
             ]
         }
     },
@@ -1597,6 +1891,10 @@
             "fax": [
                 "0244-478928",
                 "0244-478589"
+            ],
+            "website": "http://primariarifov.ro/",
+            "email": [
+                "primariarifov@yahoo.com"
             ]
         }
     },
@@ -1621,6 +1919,10 @@
             ],
             "fax": [
                 "0244-477305"
+            ],
+            "website": "http://www.pucheniimari.ro/",
+            "email": [
+                "primaria@pucheniimari.ro"
             ]
         }
     },
@@ -1644,6 +1946,10 @@
             ],
             "fax": [
                 "0244-354567"
+            ],
+            "website": "http://primariaprovitadesus.ro/",
+            "email": [
+                "primariaprovitadesus_ph@yahoo.com"
             ]
         }
     },
@@ -1667,6 +1973,10 @@
             ],
             "fax": [
                 "0244-354792"
+            ],
+            "website": "http://www.comunaprovitadejos.ro/",
+            "email": [
+                "primariaprovitadejos@yahoo.com"
             ]
         }
     },
@@ -1690,6 +2000,10 @@
             ],
             "fax": [
                 "0244-287164"
+            ],
+            "website": "http://www.primariapredeal-sarari.ro/",
+            "email": [
+                "predealsarari@prefecturaprahova.ro"
             ]
         }
     },
@@ -1715,6 +2029,10 @@
             "fax": [
                 "0244-422201",
                 "0244-422003"
+            ],
+            "website": "http://www.primariaposesti.ro/",
+            "email": [
+                "primariaposesti@yahoo.com"
             ]
         }
     },
@@ -1738,6 +2056,10 @@
             ],
             "fax": [
                 "0244-486244"
+            ],
+            "website": "http://primariapoienariiburchii.ro/",
+            "email": [
+                "primariapoienarib@yahoo.com"
             ]
         }
     },
@@ -1762,6 +2084,10 @@
             ],
             "fax": [
                 "0244-351367"
+            ],
+            "website": "http://primariapoiana-campina.ro/",
+            "email": [
+                "primpoianacampina@yahoo.com"
             ]
         }
     },
@@ -1785,6 +2111,10 @@
             ],
             "fax": [
                 "0244-414032"
+            ],
+            "website": "http://www.primariapodeniinoi.ro/",
+            "email": [
+                "primaria.podeniinoi@gmail.com"
             ]
         }
     },
@@ -1810,6 +2140,10 @@
             "fax": [
                 "0244-460592",
                 "0244-460786"
+            ],
+            "website": "http://primariaplopu.ro/",
+            "email": [
+                "primariaplopu@yahoo.com"
             ]
         }
     },
@@ -1834,6 +2168,10 @@
             ],
             "fax": [
                 "0244-220172"
+            ],
+            "website": "http://www.primariaplopeni.ro/",
+            "email": [
+                "contact@primariaplopeni.ro"
             ]
         }
     },
@@ -1857,6 +2195,12 @@
             ],
             "fax": [
                 "0244-244202"
+            ],
+            "website": "http://www.primaria-varbilau.ro/",
+            "email": [
+                "primar@primaria-varbilau.ro",
+                "viceprimar@primaria-varbilau.ro",
+                "secretar@primaria-varbilau.ro"
             ]
         }
     },
@@ -1881,6 +2225,10 @@
             ],
             "fax": [
                 "0244-280631"
+            ],
+            "website": "http://www.valeniidemunte.com.ro/",
+            "email": [
+                "primariavaleniidemunte@yahoo.com"
             ]
         }
     },
@@ -1904,6 +2252,11 @@
             ],
             "fax": [
                 "0244-365202"
+            ],
+            "website": "http://www.primariavaleadoftanei.ro/",
+            "email": [
+                "primar@primariavaleadoftanei.ro",
+                "secretar@primariavaleadoftanei.ro"
             ]
         }
     },
@@ -1927,6 +2280,11 @@
             ],
             "fax": [
                 "0244-235444"
+            ],
+            "website": "http://www.primariavaleacalugareasca.ro/",
+            "email": [
+                "secretariat@primariavaleacalugareasca.ro",
+                "secretar@primariavaleacalugareasca.ro"
             ]
         }
     },
@@ -1941,7 +2299,7 @@
             "judet": {
                 "nume": "Prahova"
             },
-            "cod-postal": "100008",
+            "cod-postal": "100066",
             "tara": "Romania"
         },
         "contact": {
@@ -1951,6 +2309,11 @@
             ],
             "fax": [
                 "0244-513829"
+            ],
+            "website": "http://www.ploiesti.ro",
+            "email": [
+                "comunicare@ploiesti.ro",
+                "primar@ploiesti.ro"
             ]
         }
     },
@@ -1977,6 +2340,12 @@
             "fax": [
                 "0244-224580",
                 "0244-224290"
+            ],
+            "website": "http://www.comunapaulesti.ro/",
+            "email": [
+                "primar@comunapaulesti.ro",
+                "viceprimar@comunapaulesti.ro",
+                "secretar@comunapaulesti.ro"
             ]
         }
     },
@@ -2000,6 +2369,10 @@
             ],
             "fax": [
                 "0244-219099"
+            ],
+            "website": "http://comunapacureti.ro/",
+            "email": [
+                "primaria_pacureti@yahoo.com"
             ]
         }
     },
@@ -2024,6 +2397,11 @@
             ],
             "fax": [
                 "0244-471300"
+            ],
+            "website": "http://www.primariaolari.ro/",
+            "email": [
+                "primar@primariaolari.ro",
+                "secretar@primariaolari.ro"
             ]
         }
     },
@@ -2047,6 +2425,10 @@
             ],
             "fax": [
                 "0244-251120"
+            ],
+            "website": "https://www.primaria-mizil.ro/",
+            "email": [
+                "primaria@primaria-mizil.ro"
             ]
         }
     },
@@ -2070,6 +2452,11 @@
             ],
             "fax": [
                 "0244-484470"
+            ],
+            "website": "http://www.primaria-manesti.ro/",
+            "email": [
+                "manesti@prefecturaprahova.ro",
+                "primaria.manesti@yahoo.com"
             ]
         }
     },
@@ -2094,6 +2481,10 @@
             ],
             "fax": [
                 "0244-228005"
+            ],
+            "website": "http://www.primariacosminele.ro/",
+            "email": [
+                "primaria_cosminele@yahoo.com"
             ]
         }
     },
@@ -2117,6 +2508,10 @@
             ],
             "fax": [
                 "0244-367402"
+            ],
+            "website": "http://www.primariacornu.ro/",
+            "email": [
+                "primariacornu@gmail.com"
             ]
         }
     },
@@ -2140,6 +2535,13 @@
             ],
             "fax": [
                 "0244-360076"
+            ],
+            "website": "http://www.primariacomarnic.ro/",
+            "email": [
+                "secretar.primariacomarnic@yahoo.com",
+                "primar@primariacomarnic.ro",
+                "secretar@primariacomarnic.ro",
+                "director@primariacomarnic.ro"
             ]
         }
     },
@@ -2164,6 +2566,10 @@
             ],
             "fax": [
                 "0244-447001"
+            ],
+            "website": "http://colceag.infoprimarie.ro/",
+            "email": [
+                "primaria.colceag@yahoo.com"
             ]
         }
     },
@@ -2187,6 +2593,10 @@
             ],
             "fax": [
                 "0244-229030"
+            ],
+            "website": "http://www.cocorastiimislii.ro",
+            "email": [
+                "primariacocorastiimislii@gmail.com"
             ]
         }
     },
@@ -2210,6 +2620,10 @@
             ],
             "fax": [
                 "0244-484100"
+            ],
+            "website": "http://cocorastiicolt.europrahova.eu/wordpress/",
+            "email": [
+                "cocorastiicolt@europrahova.eu"
             ]
         }
     },
@@ -2234,6 +2648,10 @@
             ],
             "fax": [
                 "0244-462025"
+            ],
+            "website": "http://www.primariaciorani.ro/",
+            "email": [
+                "administrator@primariaciorani.ro"
             ]
         }
     },
@@ -2257,6 +2675,10 @@
             ],
             "fax": [
                 "0244-461000"
+            ],
+            "website": "http://chiojdeanca.infoprimarie.ro/",
+            "email": [
+                "primaria.chiojdeanca@gmail.com"
             ]
         }
     },
@@ -2280,6 +2702,10 @@
             ],
             "fax": [
                 "0244-297532"
+            ],
+            "website": "http://www.primariacerasu.ro/",
+            "email": [
+                "primariacomunacerasu@gmail.com"
             ]
         }
     },
@@ -2304,6 +2730,13 @@
             ],
             "fax": [
                 "0244-445002"
+            ],
+            "website": "http://www.comunaceptura.ro/",
+            "email": [
+                "primaria@comunaceptura.ro",
+                "primar@comunaceptura.ro",
+                "viceprimar@comunaceptura.ro",
+                "secretar@comunaceptura.ro"
             ]
         }
     },
@@ -2327,6 +2760,10 @@
             ],
             "fax": [
                 "0244-299119"
+            ],
+            "website": "http://www.primaria-carbunesti.ro/",
+            "email": [
+                "primariacarbunesti@yahoo.com"
             ]
         }
     },
@@ -2352,6 +2789,12 @@
             ],
             "fax": [
                 "0244-371458"
+            ],
+            "website": "http://www.primariacampina.ro/",
+            "email": [
+                "primar@primariacampina.ro",
+                "viceprimar@primariacampina.ro",
+                "web@primariacampina.ro"
             ]
         }
     },
@@ -2375,6 +2818,9 @@
             ],
             "fax": [
                 "0244-448668"
+            ],
+            "email": [
+                "primaria.calugareni@yahoo.com"
             ]
         }
     },
@@ -2398,6 +2844,10 @@
             ],
             "fax": [
                 "0244-320752"
+            ],
+            "website": "http://www.orasul-busteni.ro/",
+            "email": [
+                "primabus@yahoo.com"
             ]
         }
     },
@@ -2422,6 +2872,12 @@
             "fax": [
                 "0244-275170",
                 "0344-816380"
+            ],
+            "website": "http://primariabucov.ro/",
+            "email": [
+                "primar@bucovph.ro",
+                "pbucov@yahoo.com",
+                "secretar@bucovph.ro"
             ]
         }
     },
@@ -2445,6 +2901,10 @@
             ],
             "fax": [
                 "0244-358041"
+            ],
+            "website": "http://www.brebuprahova.eu/",
+            "email": [
+                "primaria@brebuprahova.eu"
             ]
         }
     },
@@ -2468,6 +2928,10 @@
             ],
             "fax": [
                 "0244-340428"
+            ],
+            "website": "http://www.primariabreaza.ro/",
+            "email": [
+                "primariabreaza@yahoo.com"
             ]
         }
     }
