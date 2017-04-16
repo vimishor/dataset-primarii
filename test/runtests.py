@@ -18,7 +18,7 @@ if __name__ == '__main__':
     with open('schema.json') as schema_file:
         json_schema = json.load(schema_file)
 
-    for file in [file for file in os.listdir(data_dir) if file.endswith('.json')]:
+    for file in [file for file in sorted(os.listdir(data_dir)) if file.endswith('.json')]:
         if args.verbose:
             print("[!] %s" % file)
 
