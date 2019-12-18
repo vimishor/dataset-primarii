@@ -1,10 +1,10 @@
 [
     {
-        "nume": "Primăria Sectorului 1 Bucureşti",
+        "nume": "Primăria București Sectorul 1",
         "adresa": {
             "strada": "Banu Manta, Nr. 9",
             "localitate": {
-                "nume": "Bucuresti",
+                "nume": "București Sectorul 1",
                 "siruta": 179141
             },
             "judet": {
@@ -25,11 +25,11 @@
         }
     },
     {
-        "nume": "Primăria Sectorului 2 București",
+        "nume": "Primăria București Sectorul 2",
         "adresa": {
             "strada": "Chiristigiilor, Nr. 11-13, Sector 2",
             "localitate": {
-                "nume": "Bucuresti",
+                "nume": "București Sectorul 2",
                 "siruta": 179150
             },
             "judet": {
@@ -48,11 +48,11 @@
         }
     },
     {
-        "nume": "Primăria Sectorului 3 București",
+        "nume": "Primăria București Sectorul 3",
         "adresa": {
             "strada": "Parfumului, Nr. 2-4, Sector 3",
             "localitate": {
-                "nume": "Bucuresti",
+                "nume": "București Sectorul 3",
                 "siruta": 179169
             },
             "judet": {
@@ -72,11 +72,11 @@
         }
     },
     {
-        "nume": "Primăria Sectorului 4 București",
+        "nume": "Primăria București Sectorul 4",
         "adresa": {
             "strada": "George Coşbuc, Nr. 6-16",
             "localitate": {
-                "nume": "Bucuresti",
+                "nume": "București Sectorul 4",
                 "siruta": 179178
             },
             "judet": {
@@ -95,11 +95,11 @@
         }
     },
     {
-        "nume": "Primăria Sectorului 5 Bucureşti",
+        "nume": "Primăria București Sectorul 5",
         "adresa": {
             "strada": "B-Dul Regina Elisabeta, Nr. 29-31, Sector 5",
             "localitate": {
-                "nume": "Bucuresti",
+                "nume": "București Sectorul 5",
                 "siruta": 179187
             },
             "judet": {
@@ -120,11 +120,11 @@
         }
     },
     {
-        "nume": "Primăria Sectorului 6 București",
+        "nume": "Primăria București Sectorul 6",
         "adresa": {
             "strada": "Calea Plevnei, Nr. 147-149, Sector 6",
             "localitate": {
-                "nume": "Bucuresti",
+                "nume": "București Sectorul 6",
                 "siruta": 179196
             },
             "judet": {
@@ -145,11 +145,11 @@
         }
     },
     {
-        "nume": "Primăria Bucureşti",
+        "nume": "Primăria București Sectorul 6",
         "adresa": {
             "strada": "Splaiul Independenţei, Nr. 291-293, Sector 6",
             "localitate": {
-                "nume": "Bucuresti",
+                "nume": "București Sectorul 6",
                 "siruta": 179196
             },
             "judet": {

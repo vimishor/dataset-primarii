@@ -1,10 +1,10 @@
 [
     {
-        "nume": "Primăria Costineşti",
+        "nume": "Primăria Costinești",
         "adresa": {
             "strada": "Catedrala Tineretului, Nr. 8",
             "localitate": {
-                "nume": "Costinesti",
+                "nume": "Costinești",
                 "siruta": 60749
             },
             "judet": {
@@ -23,11 +23,11 @@
         }
     },
     {
-        "nume": "Primăria Lipniţa",
+        "nume": "Primăria Lipnița",
         "adresa": {
             "strada": "Morii, Nr. 350",
             "localitate": {
-                "nume": "Lipnita",
+                "nume": "Lipnița",
                 "siruta": 62066
             },
             "judet": {
@@ -128,7 +128,7 @@
         "adresa": {
             "strada": "Cetatea Histriei, Nr. 20",
             "localitate": {
-                "nume": "Sacele",
+                "nume": "Săcele",
                 "siruta": 62887
             },
             "judet": {
@@ -147,7 +147,7 @@
         }
     },
     {
-        "nume": "Primăria Raşova",
+        "nume": "Primăria Rasova",
         "adresa": {
             "strada": "Dunării, Nr. 31",
             "localitate": {
@@ -172,7 +172,7 @@
         "adresa": {
             "strada": "Calea Bucureşti, Nr. 25",
             "localitate": {
-                "nume": "Poarta Alba",
+                "nume": "Poarta Albă",
                 "siruta": 62770
             },
             "judet": {
@@ -191,11 +191,11 @@
         }
     },
     {
-        "nume": "Primăria Peştera",
+        "nume": "Primăria Peștera",
         "adresa": {
             "strada": "Izvorului, Nr. 25A",
             "localitate": {
-                "nume": "Pestera",
+                "nume": "Peștera",
                 "siruta": 62716
             },
             "judet": {
@@ -339,7 +339,7 @@
         "adresa": {
             "strada": "Carol I, Nr. 26",
             "localitate": {
-                "nume": "Nicolae Balcescu",
+                "nume": "Nicolae Bălcescu",
                 "siruta": 62459
             },
             "judet": {
@@ -362,7 +362,7 @@
         "adresa": {
             "strada": "Şoseaua Mangaliei, Nr. 13",
             "localitate": {
-                "nume": "Negru Voda",
+                "nume": "Negru Vodă",
                 "siruta": 62404
             },
             "judet": {
@@ -385,7 +385,7 @@
         "adresa": {
             "strada": "Dobrogei, Nr. 1",
             "localitate": {
-                "nume": "Navodari",
+                "nume": "Năvodari",
                 "siruta": 60516
             },
             "judet": {
@@ -432,7 +432,7 @@
         "adresa": {
             "strada": "-",
             "localitate": {
-                "nume": "Mircea Voda",
+                "nume": "Mircea Vodă",
                 "siruta": 62299
             },
             "judet": {
@@ -456,7 +456,7 @@
         "adresa": {
             "strada": "Tudor Vladimirescu, Nr. 42",
             "localitate": {
-                "nume": "Mihail Kogalniceanu",
+                "nume": "Mihail Kogălniceanu",
                 "siruta": 62208
             },
             "judet": {
@@ -640,11 +640,11 @@
         }
     },
     {
-        "nume": "Primăria Independenţa",
+        "nume": "Primăria Independența",
         "adresa": {
             "strada": "Constanţei, Nr. 37",
             "localitate": {
-                "nume": "Independenta",
+                "nume": "Independența",
                 "siruta": 61880
             },
             "judet": {
@@ -686,11 +686,11 @@
         }
     },
     {
-        "nume": "Primăria Hârşova",
+        "nume": "Primăria Hârșova",
         "adresa": {
             "strada": "Piaţa 1 Decembrie 1989, Nr. 1",
             "localitate": {
-                "nume": "Harsova",
+                "nume": "Hârșova",
                 "siruta": 60810
             },
             "judet": {
@@ -713,7 +713,7 @@
         "adresa": {
             "strada": "Victoriei, Nr. 39",
             "localitate": {
-                "nume": "Gradina",
+                "nume": "Grădina",
                 "siruta": 63027
             },
             "judet": {
@@ -732,11 +732,11 @@
         }
     },
     {
-        "nume": "Primăria Ghindăreşti",
+        "nume": "Primăria Ghindărești",
         "adresa": {
             "strada": "Aleea Cimitirului, Nr. 386",
             "localitate": {
-                "nume": "Ghindaresti",
+                "nume": "Ghindărești",
                 "siruta": 61853
             },
             "judet": {
@@ -762,7 +762,7 @@
         "adresa": {
             "strada": "1 Decembrie 1918, Nr. 33",
             "localitate": {
-                "nume": "Garliciu",
+                "nume": "Gârliciu",
                 "siruta": 61817
             },
             "judet": {
@@ -785,7 +785,7 @@
         "adresa": {
             "strada": "Basarabia, Nr. 85",
             "localitate": {
-                "nume": "Fantanele",
+                "nume": "Fântânele",
                 "siruta": 61407
             },
             "judet": {
@@ -804,7 +804,7 @@
         }
     },
     {
-        "nume": "Primăria Eforie",
+        "nume": "Primăria Eforie Sud",
         "adresa": {
             "strada": "Progresului, Nr. 1",
             "localitate": {
@@ -835,7 +835,7 @@
         "adresa": {
             "strada": "Principală, Nr. 17",
             "localitate": {
-                "nume": "Dumbraveni",
+                "nume": "Dumbrăveni",
                 "siruta": 61899
             },
             "judet": {
@@ -900,7 +900,7 @@
         "adresa": {
             "strada": "Medgidiei, Nr. 58",
             "localitate": {
-                "nume": "Cuza Voda",
+                "nume": "Cuza Vodă",
                 "siruta": 61149
             },
             "judet": {
@@ -923,7 +923,7 @@
         "adresa": {
             "strada": "Şos. Constanţei, Nr. 132",
             "localitate": {
-                "nume": "Cumpana",
+                "nume": "Cumpăna",
                 "siruta": 61639
             },
             "judet": {
@@ -992,11 +992,11 @@
         }
     },
     {
-        "nume": "Primăria Constanţa",
+        "nume": "Primăria Constanța",
         "adresa": {
             "strada": "Bd Tomis Nr. 51",
             "localitate": {
-                "nume": "Constanta",
+                "nume": "Constanța",
                 "siruta": 60428
             },
             "judet": {
@@ -1087,11 +1087,11 @@
         }
     },
     {
-        "nume": "Primăria Ciocirlia",
+        "nume": "Primăria Ciocârlia",
         "adresa": {
             "strada": "1 Decembrie, Nr. 54",
             "localitate": {
-                "nume": "Ciocirlia",
+                "nume": "Ciocârlia",
                 "siruta": 61292
             },
             "judet": {
@@ -1163,7 +1163,7 @@
         "adresa": {
             "strada": "Ovidiu, Nr. 11",
             "localitate": {
-                "nume": "Cernavoda",
+                "nume": "Cernavodă",
                 "siruta": 60785
             },
             "judet": {
@@ -1234,7 +1234,7 @@
         "adresa": {
             "strada": "Petre Marinescu, Nr. 185",
             "localitate": {
-                "nume": "Baraganu",
+                "nume": "Bărăganu",
                 "siruta": 61648
             },
             "judet": {
@@ -1257,7 +1257,7 @@
         "adresa": {
             "strada": "Trandafirilor, Nr. 101",
             "localitate": {
-                "nume": "Baneasa",
+                "nume": "Băneasa",
                 "siruta": 61078
             },
             "judet": {
@@ -1326,11 +1326,11 @@
         }
     },
     {
-        "nume": "Primăria Albeşti",
+        "nume": "Primăria Albești",
         "adresa": {
             "strada": "Şos. Mangaliei, Nr. 31",
             "localitate": {
-                "nume": "Albesti",
+                "nume": "Albești",
                 "siruta": 60954
             },
             "judet": {
@@ -1560,11 +1560,11 @@
         }
     },
     {
-        "nume": "Primăria Tîrguşor",
+        "nume": "Primăria Târgușor",
         "adresa": {
             "strada": "Constanţei, Nr. 72",
             "localitate": {
-                "nume": "Targusor",
+                "nume": "Târgușor",
                 "siruta": 62994
             },
             "judet": {
@@ -1608,11 +1608,11 @@
         }
     },
     {
-        "nume": "Primăria Siliştea",
+        "nume": "Primăria Siliștea",
         "adresa": {
             "strada": "Primăriei, Nr. 121",
             "localitate": {
-                "nume": "Silistea",
+                "nume": "Siliștea",
                 "siruta": 62958
             },
             "judet": {

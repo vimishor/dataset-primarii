@@ -4,7 +4,7 @@
         "adresa": {
             "strada": "Administraţiei, Nr. 42",
             "localitate": {
-                "nume": "Maxineni",
+                "nume": "Măxineni",
                 "siruta": 43572
             },
             "judet": {
@@ -24,11 +24,11 @@
         }
     },
     {
-        "nume": "Primăria Măraşu",
+        "nume": "Primăria Mărașu",
         "adresa": {
             "strada": "Principală, Nr. 3",
             "localitate": {
-                "nume": "Marasu",
+                "nume": "Mărașu",
                 "siruta": 43509
             },
             "judet": {
@@ -51,7 +51,7 @@
         "adresa": {
             "strada": "Rm. Sărat, Nr. 106",
             "localitate": {
-                "nume": "Jirlau",
+                "nume": "Jirlău",
                 "siruta": 43475
             },
             "judet": {
@@ -70,11 +70,11 @@
         }
     },
     {
-        "nume": "Primăria Însurăţei",
+        "nume": "Primăria Însurăței",
         "adresa": {
             "strada": "Brăilei, Nr. 18",
             "localitate": {
-                "nume": "Insuratei",
+                "nume": "Însurăței",
                 "siruta": 43420
             },
             "judet": {
@@ -141,11 +141,11 @@
         }
     },
     {
-        "nume": "Primăria Grădiştea",
+        "nume": "Primăria Gradiștea",
         "adresa": {
             "strada": "Târgului, Nr. 38",
             "localitate": {
-                "nume": "Gradistea",
+                "nume": "Gradiștea",
                 "siruta": 43288
             },
             "judet": {
@@ -210,11 +210,11 @@
         }
     },
     {
-        "nume": "Primăria Frecăţei",
+        "nume": "Primăria Frecăței",
         "adresa": {
             "strada": "Mihai Eminescu, Nr. 101",
             "localitate": {
-                "nume": "Frecatei",
+                "nume": "Frecăței",
                 "siruta": 43126
             },
             "judet": {
@@ -237,7 +237,7 @@
         "adresa": {
             "strada": "Republicii, Nr. 38",
             "localitate": {
-                "nume": "Faurei",
+                "nume": "Făurei",
                 "siruta": 42762
             },
             "judet": {
@@ -256,11 +256,11 @@
         }
     },
     {
-        "nume": "Primăria Dudeşti",
+        "nume": "Primăria Dudești",
         "adresa": {
             "strada": "-",
             "localitate": {
-                "nume": "Dudesti",
+                "nume": "Dudești",
                 "siruta": 43082
             },
             "judet": {
@@ -279,11 +279,11 @@
         }
     },
     {
-        "nume": "Primăria Cireşu",
+        "nume": "Primăria Cireșu",
         "adresa": {
             "strada": "-",
             "localitate": {
-                "nume": "Ciresu",
+                "nume": "Cireșu",
                 "siruta": 43028
             },
             "judet": {
@@ -326,7 +326,7 @@
         }
     },
     {
-        "nume": "Primăria Chişcani",
+        "nume": "Primăria Chiscani",
         "adresa": {
             "strada": "-",
             "localitate": {
@@ -349,11 +349,11 @@
         }
     },
     {
-        "nume": "Primăria Cazaşu",
+        "nume": "Primăria Tudor Vladimirescu",
         "adresa": {
             "strada": "-",
             "localitate": {
-                "nume": "Cazasu",
+                "nume": "Tudor Vladimirescu",
                 "siruta": 44266
             },
             "judet": {
@@ -376,7 +376,7 @@
         "adresa": {
             "strada": "Piaţa Independenţei, Nr. 1",
             "localitate": {
-                "nume": "Braila",
+                "nume": "Brăila",
                 "siruta": 42691
             },
             "judet": {
@@ -419,11 +419,11 @@
         }
     },
     {
-        "nume": "Primăria Berteştii De Jos",
+        "nume": "Primăria Berteștii De Jos",
         "adresa": {
             "strada": "Principală, Nr. 27",
             "localitate": {
-                "nume": "Bertestii De Jos",
+                "nume": "Berteștii De Jos",
                 "siruta": 42851
             },
             "judet": {
@@ -446,7 +446,7 @@
         "adresa": {
             "strada": "Victoriei, Nr. 15",
             "localitate": {
-                "nume": "Baraganul",
+                "nume": "Bărăganul",
                 "siruta": 42833
             },
             "judet": {
@@ -469,7 +469,7 @@
         "adresa": {
             "strada": "Dr. Alexandru Vechiu, Nr. 51",
             "localitate": {
-                "nume": "Zavoaia",
+                "nume": "Zăvoaia",
                 "siruta": 44541
             },
             "judet": {
@@ -512,11 +512,11 @@
         }
     },
     {
-        "nume": "Primăria Vişani",
+        "nume": "Primăria Vișani",
         "adresa": {
             "strada": "-",
             "localitate": {
-                "nume": "Visani",
+                "nume": "Vișani",
                 "siruta": 44471
             },
             "judet": {
@@ -562,7 +562,7 @@
         "adresa": {
             "strada": "Emilia Dumitrescu Nr. 181",
             "localitate": {
-                "nume": "Vadeni",
+                "nume": "Vădeni",
                 "siruta": 44408
             },
             "judet": {
@@ -631,11 +631,11 @@
         }
     },
     {
-        "nume": "Primăria Tufeşti",
+        "nume": "Primăria Tufești",
         "adresa": {
             "strada": "Primăriei, Nr. 63",
             "localitate": {
-                "nume": "Tufesti",
+                "nume": "Tufești",
                 "siruta": 44319
             },
             "judet": {
@@ -702,11 +702,11 @@
         }
     },
     {
-        "nume": "Primăria Tichileşti",
+        "nume": "Primăria Tichilești",
         "adresa": {
             "strada": "-",
             "localitate": {
-                "nume": "Tichilesti",
+                "nume": "Tichilești",
                 "siruta": 44186
             },
             "judet": {
@@ -725,11 +725,11 @@
         }
     },
     {
-        "nume": "Primăria Şuteşti",
+        "nume": "Primăria Șuțești",
         "adresa": {
             "strada": "-",
             "localitate": {
-                "nume": "Sutesti",
+                "nume": "Șuțești",
                 "siruta": 44159
             },
             "judet": {
@@ -752,7 +752,7 @@
         "adresa": {
             "strada": "-",
             "localitate": {
-                "nume": "Surdila-Gaiseanca",
+                "nume": "Surdila-Găiseanca",
                 "siruta": 44122
             },
             "judet": {
@@ -772,7 +772,7 @@
         }
     },
     {
-        "nume": "Primăria Surdila Greci",
+        "nume": "Primăria Surdila-Greci",
         "adresa": {
             "strada": "-",
             "localitate": {
@@ -795,11 +795,11 @@
         }
     },
     {
-        "nume": "Primăria Stăncuţa",
+        "nume": "Primăria Stăncuța",
         "adresa": {
             "strada": "Principală, Nr. 187",
             "localitate": {
-                "nume": "Stancuta",
+                "nume": "Stăncuța",
                 "siruta": 44079
             },
             "judet": {
@@ -819,11 +819,11 @@
         }
     },
     {
-        "nume": "Primăria Siliştea",
+        "nume": "Primăria Siliștea",
         "adresa": {
             "strada": "Principală, Nr. 83",
             "localitate": {
-                "nume": "Silistea",
+                "nume": "Siliștea",
                 "siruta": 44006
             },
             "judet": {
@@ -842,11 +842,11 @@
         }
     },
     {
-        "nume": "Primăria Scorţaru Nou",
+        "nume": "Primăria Scorțaru Nou",
         "adresa": {
             "strada": "Administrației, Nr. 10",
             "localitate": {
-                "nume": "Scortaru Nou",
+                "nume": "Scorțaru Nou",
                 "siruta": 43938
             },
             "judet": {
@@ -888,11 +888,11 @@
         }
     },
     {
-        "nume": "Primăria Roşiori",
+        "nume": "Primăria Roșiori",
         "adresa": {
             "strada": "-",
             "localitate": {
-                "nume": "Rosiori",
+                "nume": "Roșiori",
                 "siruta": 43821
             },
             "judet": {
@@ -939,7 +939,7 @@
         "adresa": {
             "strada": "Brăilei, Nr. 31",
             "localitate": {
-                "nume": "Ramnicelu",
+                "nume": "Râmnicelu",
                 "siruta": 43741
             },
             "judet": {
@@ -958,11 +958,11 @@
         }
     },
     {
-        "nume": "Primăria Racoviţa",
+        "nume": "Primăria Racoviță",
         "adresa": {
             "strada": "Calea Custura, Nr. 53",
             "localitate": {
-                "nume": "Racovita",
+                "nume": "Racoviță",
                 "siruta": 43705
             },
             "judet": {
@@ -1004,11 +1004,11 @@
         }
     },
     {
-        "nume": "Primăria Mircea Voda",
+        "nume": "Primăria Mircea Vodă",
         "adresa": {
             "strada": "-",
             "localitate": {
-                "nume": "Mircea Voda",
+                "nume": "Mircea Vodă",
                 "siruta": 43634
             },
             "judet": {

@@ -1,10 +1,10 @@
 [
     {
-        "nume": "Primăria I.C. Brătianu",
+        "nume": "Primăria Smârdan",
         "adresa": {
             "strada": "-",
             "localitate": {
-                "nume": "I.C. Bratianu",
+                "nume": "Smârdan",
                 "siruta": 161295
             },
             "judet": {
@@ -116,11 +116,11 @@
         }
     },
     {
-        "nume": "Primăria Frecăţei",
+        "nume": "Primăria Frecăței",
         "adresa": {
             "strada": "-",
             "localitate": {
-                "nume": "Frecatei",
+                "nume": "Frecăței",
                 "siruta": 160396
             },
             "judet": {
@@ -139,11 +139,11 @@
         }
     },
     {
-        "nume": "Primăria Dorobanţu",
+        "nume": "Primăria Dorobanțu",
         "adresa": {
             "strada": "Primăverii, Nr. 45",
             "localitate": {
-                "nume": "Dorobantu",
+                "nume": "Dorobanțu",
                 "siruta": 160332
             },
             "judet": {
@@ -167,7 +167,7 @@
         "adresa": {
             "strada": "-",
             "localitate": {
-                "nume": "Daeni",
+                "nume": "Dăeni",
                 "siruta": 160314
             },
             "judet": {
@@ -187,11 +187,11 @@
         }
     },
     {
-        "nume": "Primăria Crişan",
+        "nume": "Primăria Crișan",
         "adresa": {
             "strada": "-",
             "localitate": {
-                "nume": "Crisan",
+                "nume": "Crișan",
                 "siruta": 160270
             },
             "judet": {
@@ -372,11 +372,11 @@
         }
     },
     {
-        "nume": "Primăria Beştepe",
+        "nume": "Primăria Beștepe",
         "adresa": {
             "strada": "Tulcei, Nr. 76",
             "localitate": {
-                "nume": "Bestepe",
+                "nume": "Beștepe",
                 "siruta": 160760
             },
             "judet": {
@@ -515,7 +515,7 @@
         "adresa": {
             "strada": "Principală, Nr. 111",
             "localitate": {
-                "nume": "Vacareni",
+                "nume": "Văcăreni",
                 "siruta": 160715
             },
             "judet": {
@@ -677,11 +677,11 @@
         }
     },
     {
-        "nume": "Primăria Smârdan",
+        "nume": "Primăria Cerna",
         "adresa": {
             "strada": "-",
             "localitate": {
-                "nume": "Smardan",
+                "nume": "Cerna",
                 "siruta": 160136
             },
             "judet": {
@@ -700,11 +700,11 @@
         }
     },
     {
-        "nume": "Primăria Slava-Cercheză",
+        "nume": "Primăria Slava Cercheză",
         "adresa": {
             "strada": "-",
             "localitate": {
-                "nume": "Slava Cercheza",
+                "nume": "Slava Cercheză",
                 "siruta": 161268
             },
             "judet": {
@@ -727,7 +727,7 @@
         "adresa": {
             "strada": "Strada A I-A",
             "localitate": {
-                "nume": "Sfantu Gheorghe",
+                "nume": "Sfântu Gheorghe",
                 "siruta": 161240
             },
             "judet": {
@@ -842,7 +842,7 @@
         "adresa": {
             "strada": "Domniţa Maria, Nr. 252",
             "localitate": {
-                "nume": "Nufaru",
+                "nume": "Nufăru",
                 "siruta": 161062
             },
             "judet": {
@@ -861,11 +861,11 @@
         }
     },
     {
-        "nume": "Primăria Niculiţel",
+        "nume": "Primăria Niculițel",
         "adresa": {
             "strada": "Centrală, Nr. 2",
             "localitate": {
-                "nume": "Niculitel",
+                "nume": "Niculițel",
                 "siruta": 161044
             },
             "judet": {
@@ -885,7 +885,7 @@
         }
     },
     {
-        "nume": "Primăria Nalbanţ",
+        "nume": "Primăria Nalbant",
         "adresa": {
             "strada": "Sublocotenent Marian Rițcu, Nr. 14",
             "localitate": {
@@ -938,7 +938,7 @@
         "adresa": {
             "strada": "-",
             "localitate": {
-                "nume": "Mihail Kogalniceanu",
+                "nume": "Mihail Kogălniceanu",
                 "siruta": 160886
             },
             "judet": {
@@ -1030,7 +1030,7 @@
         "adresa": {
             "strada": "Florilor, Nr. 1",
             "localitate": {
-                "nume": "Macin",
+                "nume": "Măcin",
                 "siruta": 159749
             },
             "judet": {
@@ -1049,11 +1049,11 @@
         }
     },
     {
-        "nume": "Primăria Luncaviţa",
+        "nume": "Primăria Luncavița",
         "adresa": {
             "strada": "Valea Fagilor, Nr. 101",
             "localitate": {
-                "nume": "Luncavita",
+                "nume": "Luncavița",
                 "siruta": 160699
             },
             "judet": {
@@ -1126,7 +1126,7 @@
         "adresa": {
             "strada": "Şcolii, Nr. 1",
             "localitate": {
-                "nume": "Isvoarele",
+                "nume": "Izvoarele",
                 "siruta": 160573
             },
             "judet": {

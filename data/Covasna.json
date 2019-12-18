@@ -27,7 +27,7 @@
         "adresa": {
             "strada": "Principală, Nr. 233",
             "localitate": {
-                "nume": "Dobarlau",
+                "nume": "Dobârlău",
                 "siruta": 64274
             },
             "judet": {
@@ -98,7 +98,7 @@
         "adresa": {
             "strada": "-",
             "localitate": {
-                "nume": "Comandau",
+                "nume": "Comandău",
                 "siruta": 63562
             },
             "judet": {
@@ -118,11 +118,11 @@
         }
     },
     {
-        "nume": "Primăria Chichiş",
+        "nume": "Primăria Chichiș",
         "adresa": {
             "strada": "Europa, Nr. 103",
             "localitate": {
-                "nume": "Chichis",
+                "nume": "Chichiș",
                 "siruta": 64247
             },
             "judet": {
@@ -164,7 +164,7 @@
         }
     },
     {
-        "nume": "Primăria Cătălina",
+        "nume": "Primăria Catalina",
         "adresa": {
             "strada": "Gării, Nr. 413",
             "localitate": {
@@ -187,11 +187,11 @@
         }
     },
     {
-        "nume": "Primăria Breţcu",
+        "nume": "Primăria Brețcu",
         "adresa": {
             "strada": "Nr. 142",
             "localitate": {
-                "nume": "Bretcu",
+                "nume": "Brețcu",
                 "siruta": 64103
             },
             "judet": {
@@ -211,11 +211,11 @@
         }
     },
     {
-        "nume": "Primăria Brateş",
+        "nume": "Primăria Brateș",
         "adresa": {
             "strada": "Principală, Nr. 61",
             "localitate": {
-                "nume": "Brates",
+                "nume": "Brateș",
                 "siruta": 64014
             },
             "judet": {
@@ -234,11 +234,11 @@
         }
     },
     {
-        "nume": "Primăria Brăduţ",
+        "nume": "Primăria Brăduț",
         "adresa": {
             "strada": "Şcolii, Nr. 171",
             "localitate": {
-                "nume": "Bradut",
+                "nume": "Brăduț",
                 "siruta": 64050
             },
             "judet": {
@@ -258,11 +258,11 @@
         }
     },
     {
-        "nume": "Primăria Boroşneu Mare",
+        "nume": "Primăria Boroșneu Mare",
         "adresa": {
             "strada": "Principală, Nr. 393",
             "localitate": {
-                "nume": "Borosneu Mare",
+                "nume": "Boroșneu Mare",
                 "siruta": 63946
             },
             "judet": {
@@ -350,11 +350,11 @@
         }
     },
     {
-        "nume": "Primăria Băţani",
+        "nume": "Primăria Bățanii Mari",
         "adresa": {
             "strada": "Principală, Nr. 474",
             "localitate": {
-                "nume": "Batanii Mari",
+                "nume": "Bățanii Mari",
                 "siruta": 63811
             },
             "judet": {
@@ -423,11 +423,11 @@
         }
     },
     {
-        "nume": "Primăria Arcuş",
+        "nume": "Primăria Arcuș",
         "adresa": {
             "strada": "Principală, Nr. 237",
             "localitate": {
-                "nume": "Arcus",
+                "nume": "Arcuș",
                 "siruta": 64924
             },
             "judet": {
@@ -497,7 +497,7 @@
         "adresa": {
             "strada": "Principală, Nr. 829",
             "localitate": {
-                "nume": "Zabala",
+                "nume": "Zăbala",
                 "siruta": 65057
             },
             "judet": {
@@ -516,11 +516,11 @@
         }
     },
     {
-        "nume": "Primăria Vârghiş",
+        "nume": "Primăria Vârghiș",
         "adresa": {
             "strada": "Principală, Nr. 423",
             "localitate": {
-                "nume": "Varghis",
+                "nume": "Vârghiș",
                 "siruta": 65002
             },
             "judet": {
@@ -564,11 +564,11 @@
         }
     },
     {
-        "nume": "Primăria Valea Crişului",
+        "nume": "Primăria Valea Crișului",
         "adresa": {
             "strada": "Principală, Nr. 136",
             "localitate": {
-                "nume": "Valea Crisului",
+                "nume": "Valea Crișului",
                 "siruta": 64915
             },
             "judet": {
@@ -591,7 +591,7 @@
         "adresa": {
             "strada": "Sat Araci, Nr. 464",
             "localitate": {
-                "nume": "Valcele",
+                "nume": "Vâlcele",
                 "siruta": 64988
             },
             "judet": {
@@ -633,11 +633,11 @@
         }
     },
     {
-        "nume": "Primăria Târgu-Secuiesc",
+        "nume": "Primăria Târgu Secuiesc",
         "adresa": {
             "strada": "P-Ţa Gábor Áron, Nr. 24",
             "localitate": {
-                "nume": "Targu Secuiesc",
+                "nume": "Târgu Secuiesc",
                 "siruta": 63759
             },
             "judet": {
@@ -660,7 +660,7 @@
         "adresa": {
             "strada": "Nr. 222",
             "localitate": {
-                "nume": "Sita Buzaului",
+                "nume": "Sita Buzăului",
                 "siruta": 63697
             },
             "judet": {
@@ -684,7 +684,7 @@
         "adresa": {
             "strada": "Petőfi Sándor, Nr. 2",
             "localitate": {
-                "nume": "Sfantu Gheorghe",
+                "nume": "Sfântu Gheorghe",
                 "siruta": 63401
             },
             "judet": {
@@ -708,7 +708,7 @@
         "adresa": {
             "strada": "Principală, Nr. 337",
             "localitate": {
-                "nume": "Sanzieni",
+                "nume": "Sânzieni",
                 "siruta": 64835
             },
             "judet": {
@@ -819,11 +819,11 @@
         }
     },
     {
-        "nume": "Primăria Moacşa",
+        "nume": "Primăria Moacșa",
         "adresa": {
             "strada": "Principală, Nr. 354",
             "localitate": {
-                "nume": "Moacsa",
+                "nume": "Moacșa",
                 "siruta": 64577
             },
             "judet": {
@@ -846,7 +846,7 @@
         "adresa": {
             "strada": "Principală, Nr. 165",
             "localitate": {
-                "nume": "Micfalau",
+                "nume": "Micfalău",
                 "siruta": 64513
             },
             "judet": {
@@ -889,11 +889,11 @@
         }
     },
     {
-        "nume": "Primăria Malnaş",
+        "nume": "Primăria Malnaș",
         "adresa": {
             "strada": "Str. Principala, Nr.171",
             "localitate": {
-                "nume": "Malnas",
+                "nume": "Malnaș",
                 "siruta": 64531
             },
             "judet": {
@@ -942,7 +942,7 @@
         "adresa": {
             "strada": "Mihai Viteazu, Nr. 173",
             "localitate": {
-                "nume": "Intorsura Buzaului",
+                "nume": "Întorsura Buzăului",
                 "siruta": 63599
             },
             "judet": {
@@ -989,7 +989,7 @@
         "adresa": {
             "strada": "Hăghig, Nr. 258",
             "localitate": {
-                "nume": "Haghig",
+                "nume": "Hăghig",
                 "siruta": 64407
             },
             "judet": {
@@ -1012,7 +1012,7 @@
         "adresa": {
             "strada": "-",
             "localitate": {
-                "nume": "Ghidfalau",
+                "nume": "Ghidfalău",
                 "siruta": 64354
             },
             "judet": {
@@ -1032,11 +1032,11 @@
         }
     },
     {
-        "nume": "Primăria Ghelinţa",
+        "nume": "Primăria Ghelința",
         "adresa": {
             "strada": "Principală, Nr. 345",
             "localitate": {
-                "nume": "Ghelinta",
+                "nume": "Ghelința",
                 "siruta": 64327
             },
             "judet": {

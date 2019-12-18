@@ -4,7 +4,7 @@
         "adresa": {
             "strada": "Piaţa Revoluţiei, Nr. 1",
             "localitate": {
-                "nume": "Cisnadie",
+                "nume": "Cisnădie",
                 "siruta": 143744
             },
             "judet": {
@@ -50,7 +50,7 @@
         "adresa": {
             "strada": "1 Decembrie 1918, Nr. 5",
             "localitate": {
-                "nume": "Tarnava",
+                "nume": "Târnava",
                 "siruta": 143655
             },
             "judet": {
@@ -73,7 +73,7 @@
         "adresa": {
             "strada": "Nicolae Bălcescu, Nr. 24",
             "localitate": {
-                "nume": "Talmaciu",
+                "nume": "Tălmaciu",
                 "siruta": 145836
             },
             "judet": {
@@ -93,11 +93,11 @@
         }
     },
     {
-        "nume": "Primăria Şura Mică",
+        "nume": "Primăria Șura Mică",
         "adresa": {
             "strada": "Șoseaua Sibiului, Nr. 174",
             "localitate": {
-                "nume": "Sura Mica",
+                "nume": "Șura Mică",
                 "siruta": 145809
             },
             "judet": {
@@ -116,11 +116,11 @@
         }
     },
     {
-        "nume": "Primăria Şura Mare",
+        "nume": "Primăria Șura Mare",
         "adresa": {
             "strada": "Str. Principală, Nr. 252",
             "localitate": {
-                "nume": "Sura Mare",
+                "nume": "Șura Mare",
                 "siruta": 145774
             },
             "judet": {
@@ -189,11 +189,11 @@
         }
     },
     {
-        "nume": "Primăria Şelimbăr",
+        "nume": "Primăria Șelimbăr",
         "adresa": {
             "strada": "Str. Mihai Viteazu, Nr. 164",
             "localitate": {
-                "nume": "Selimbar",
+                "nume": "Șelimbăr",
                 "siruta": 143566
             },
             "judet": {
@@ -212,11 +212,11 @@
         }
     },
     {
-        "nume": "Primăria Şeica Mică",
+        "nume": "Primăria Șeica Mică",
         "adresa": {
             "strada": "Principală, Nr. 75",
             "localitate": {
-                "nume": "Seica Mica",
+                "nume": "Șeica Mică",
                 "siruta": 145747
             },
             "judet": {
@@ -236,11 +236,11 @@
         }
     },
     {
-        "nume": "Primăria Şeica Mare",
+        "nume": "Primăria Șeica Mare",
         "adresa": {
             "strada": "Şos. Sibiului, Nr. 415",
             "localitate": {
-                "nume": "Seica Mare",
+                "nume": "Șeica Mare",
                 "siruta": 145676
             },
             "judet": {
@@ -259,11 +259,11 @@
         }
     },
     {
-        "nume": "Primăria Sălişte",
+        "nume": "Primăria Săliște",
         "adresa": {
             "strada": "Str. Steaza Nr. 9",
             "localitate": {
-                "nume": "Saliste",
+                "nume": "Săliște",
                 "siruta": 145505
             },
             "judet": {
@@ -305,11 +305,11 @@
         }
     },
     {
-        "nume": "Primăria Roşia",
+        "nume": "Primăria Roșia",
         "adresa": {
             "strada": "Principală, Nr. 22",
             "localitate": {
-                "nume": "Rosia",
+                "nume": "Roșia",
                 "siruta": 145417
             },
             "judet": {
@@ -332,7 +332,7 @@
         "adresa": {
             "strada": "Principală, Nr. 247",
             "localitate": {
-                "nume": "Rau Sadului",
+                "nume": "Râu Sadului",
                 "siruta": 145391
             },
             "judet": {
@@ -352,11 +352,11 @@
         }
     },
     {
-        "nume": "Primăria Răşinari",
+        "nume": "Primăria Rășinari",
         "adresa": {
             "strada": "Octavian Goga, Nr. 1520",
             "localitate": {
-                "nume": "Rasinari",
+                "nume": "Rășinari",
                 "siruta": 143539
             },
             "judet": {
@@ -375,11 +375,11 @@
         }
     },
     {
-        "nume": "Primăria Racoviţa",
+        "nume": "Primăria Racovița",
         "adresa": {
             "strada": "Str. Principală Nr.416",
             "localitate": {
-                "nume": "Racovita",
+                "nume": "Racovița",
                 "siruta": 145364
             },
             "judet": {
@@ -472,7 +472,7 @@
         "adresa": {
             "strada": "Principală, Nr. 172",
             "localitate": {
-                "nume": "Pauca",
+                "nume": "Păuca",
                 "siruta": 145239
             },
             "judet": {
@@ -540,11 +540,11 @@
         }
     },
     {
-        "nume": "Primăria Moşna",
+        "nume": "Primăria Moșna",
         "adresa": {
             "strada": "Str. Principala , Nr.76",
             "localitate": {
-                "nume": "Mosna",
+                "nume": "Moșna",
                 "siruta": 145113
             },
             "judet": {
@@ -567,7 +567,7 @@
         "adresa": {
             "strada": "Principală, Nr. 165",
             "localitate": {
-                "nume": "Mihaileni",
+                "nume": "Mihăileni",
                 "siruta": 145051
             },
             "judet": {
@@ -614,7 +614,7 @@
         "adresa": {
             "strada": "Str. 1 Decembrie 1918, Nr. 144",
             "localitate": {
-                "nume": "Micasasa",
+                "nume": "Micăsasa",
                 "siruta": 145006
             },
             "judet": {
@@ -658,11 +658,11 @@
         }
     },
     {
-        "nume": "Primăria Mediaş",
+        "nume": "Primăria Mediaș",
         "adresa": {
             "strada": "Piaţa Corneliu Coposu Nr. 3",
             "localitate": {
-                "nume": "Medias",
+                "nume": "Mediaș",
                 "siruta": 143628
             },
             "judet": {
@@ -706,11 +706,11 @@
         }
     },
     {
-        "nume": "Primăria Ludoş",
+        "nume": "Primăria Ludoș",
         "adresa": {
             "strada": "Principală, Nr. 73",
             "localitate": {
-                "nume": "Ludos",
+                "nume": "Ludoș",
                 "siruta": 144875
             },
             "judet": {
@@ -729,11 +729,11 @@
         }
     },
     {
-        "nume": "Primăria Loamneş",
+        "nume": "Primăria Loamneș",
         "adresa": {
             "strada": "Principală, Nr. 203",
             "localitate": {
-                "nume": "Loamnes",
+                "nume": "Loamneș",
                 "siruta": 144802
             },
             "judet": {
@@ -850,7 +850,7 @@
         "adresa": {
             "strada": "Principală, Nr. 566",
             "localitate": {
-                "nume": "Gura Raului",
+                "nume": "Gura Râului",
                 "siruta": 144606
             },
             "judet": {
@@ -874,7 +874,7 @@
         "adresa": {
             "strada": "Mihai Eminescu, Nr. 6",
             "localitate": {
-                "nume": "Dumbraveni",
+                "nume": "Dumbrăveni",
                 "siruta": 143815
             },
             "judet": {
@@ -894,11 +894,11 @@
         }
     },
     {
-        "nume": "Primăria Dîrlos",
+        "nume": "Primăria Dârlos",
         "adresa": {
             "strada": "Principală, Nr. 596",
             "localitate": {
-                "nume": "Darlos",
+                "nume": "Dârlos",
                 "siruta": 144562
             },
             "judet": {
@@ -940,11 +940,11 @@
         }
     },
     {
-        "nume": "Primăria Copşa Mică",
+        "nume": "Primăria Copșa Mică",
         "adresa": {
             "strada": "Str. Aleea Castanilor, Nr. 8",
             "localitate": {
-                "nume": "Copsa Mica",
+                "nume": "Copșa Mică",
                 "siruta": 143780
             },
             "judet": {
@@ -963,11 +963,11 @@
         }
     },
     {
-        "nume": "Primăria Cîrţişoara",
+        "nume": "Primăria Cârțișoara",
         "adresa": {
             "strada": "Principală, Nr. 55",
             "localitate": {
-                "nume": "Cartisoara",
+                "nume": "Cârțișoara",
                 "siruta": 144544
             },
             "judet": {
@@ -990,7 +990,7 @@
         "adresa": {
             "strada": "Principală, Nr. 47",
             "localitate": {
-                "nume": "Chirpar",
+                "nume": "Chirpăr",
                 "siruta": 144465
             },
             "judet": {
@@ -1010,11 +1010,11 @@
         }
     },
     {
-        "nume": "Primăria Cârţa",
+        "nume": "Primăria Cârța",
         "adresa": {
             "strada": "Str. Principala, Nr.104",
             "localitate": {
-                "nume": "Carta",
+                "nume": "Cârța",
                 "siruta": 144517
             },
             "judet": {
@@ -1084,7 +1084,7 @@
         "adresa": {
             "strada": "Principală, Nr. 31",
             "localitate": {
-                "nume": "Bradeni",
+                "nume": "Brădeni",
                 "siruta": 144385
             },
             "judet": {
@@ -1104,11 +1104,11 @@
         }
     },
     {
-        "nume": "Primăria Boiţa",
+        "nume": "Primăria Boița",
         "adresa": {
             "strada": "Traian, Nr. 263",
             "localitate": {
-                "nume": "Boita",
+                "nume": "Boița",
                 "siruta": 145845
             },
             "judet": {
@@ -1131,7 +1131,7 @@
         "adresa": {
             "strada": "Tudor Vladimirescu, Nr. 70",
             "localitate": {
-                "nume": "Blajel",
+                "nume": "Blăjel",
                 "siruta": 144312
             },
             "judet": {
@@ -1200,11 +1200,11 @@
         }
     },
     {
-        "nume": "Primăria Bârghiş",
+        "nume": "Primăria Bârghiș",
         "adresa": {
             "strada": "Principală, Nr.199",
             "localitate": {
-                "nume": "Barghis",
+                "nume": "Bârghiș",
                 "siruta": 144241
             },
             "judet": {
@@ -1271,11 +1271,11 @@
         }
     },
     {
-        "nume": "Primăria Aţel",
+        "nume": "Primăria Ațel",
         "adresa": {
             "strada": "Str. Regele Mihai I, Nr. 388",
             "localitate": {
-                "nume": "Atel",
+                "nume": "Ațel",
                 "siruta": 144009
             },
             "judet": {
@@ -1295,11 +1295,11 @@
         }
     },
     {
-        "nume": "Primăria Arpaşu De Jos",
+        "nume": "Primăria Arpașu De Jos",
         "adresa": {
             "strada": "Principală, Nr. 214",
             "localitate": {
-                "nume": "Arpasu De Jos",
+                "nume": "Arpașu De Jos",
                 "siruta": 143968
             },
             "judet": {
@@ -1342,11 +1342,11 @@
         }
     },
     {
-        "nume": "Primăria Alţîna",
+        "nume": "Primăria Alțina",
         "adresa": {
             "strada": "Principală, Nr. 94",
             "localitate": {
-                "nume": "Altina",
+                "nume": "Alțina",
                 "siruta": 143897
             },
             "judet": {
@@ -1417,7 +1417,7 @@
         "adresa": {
             "strada": "Principală, Nr. 455",
             "localitate": {
-                "nume": "Vurpar",
+                "nume": "Vurpăr",
                 "siruta": 146003
             },
             "judet": {
@@ -1461,11 +1461,11 @@
         }
     },
     {
-        "nume": "Primăria Turnu Roşu",
+        "nume": "Primăria Turnu Roșu",
         "adresa": {
             "strada": "Olteţ, Nr. 54",
             "localitate": {
-                "nume": "Turnu Rosu",
+                "nume": "Turnu Roșu",
                 "siruta": 145943
             },
             "judet": {
@@ -1484,11 +1484,11 @@
         }
     },
     {
-        "nume": "Primăria Tilişca",
+        "nume": "Primăria Tilișca",
         "adresa": {
             "strada": "Nr. 531",
             "localitate": {
-                "nume": "Tilisca",
+                "nume": "Tilișca",
                 "siruta": 145916
             },
             "judet": {

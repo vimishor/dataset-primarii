@@ -1,10 +1,10 @@
 [
     {
-        "nume": "Primăria Domneşti",
+        "nume": "Primăria Domnești",
         "adresa": {
             "strada": "Șos. Alexandru Ioan Cuza, Nr. 25-27",
             "localitate": {
-                "nume": "Domnesti",
+                "nume": "Domnești",
                 "siruta": 102589
             },
             "judet": {
@@ -25,11 +25,11 @@
         }
     },
     {
-        "nume": "Primăria Dobroeşti",
+        "nume": "Primăria Dobroești",
         "adresa": {
             "strada": "Cuza Voda Nr. 23",
             "localitate": {
-                "nume": "Dobroesti",
+                "nume": "Dobroești",
                 "siruta": 179329
             },
             "judet": {
@@ -54,7 +54,7 @@
         "adresa": {
             "strada": "Victorie, Nr. 87",
             "localitate": {
-                "nume": "Dascalu",
+                "nume": "Dascălu",
                 "siruta": 102482
             },
             "judet": {
@@ -73,11 +73,11 @@
         }
     },
     {
-        "nume": "Primăria Dărăşti-Ilfov",
+        "nume": "Primăria Dărăști-Ilfov",
         "adresa": {
             "strada": "Mihai Eminescu, Nr. 6",
             "localitate": {
-                "nume": "Darasti-Ilfov",
+                "nume": "Dărăști-Ilfov",
                 "siruta": 102534
             },
             "judet": {
@@ -148,7 +148,7 @@
         "adresa": {
             "strada": "Şos. Principală, Nr. 190",
             "localitate": {
-                "nume": "Copaceni",
+                "nume": "Copăceni",
                 "siruta": 102561
             },
             "judet": {
@@ -196,7 +196,7 @@
         "adresa": {
             "strada": "Şos. Bucureşti, Nr. 112",
             "localitate": {
-                "nume": "Ciorogarla",
+                "nume": "Ciorogârla",
                 "siruta": 101966
             },
             "judet": {
@@ -336,11 +336,11 @@
         }
     },
     {
-        "nume": "Primăria Brăneşti",
+        "nume": "Primăria Brănești",
         "adresa": {
             "strada": "I.C. Brătianu, 69",
             "localitate": {
-                "nume": "Branesti",
+                "nume": "Brănești",
                 "siruta": 101305
             },
             "judet": {
@@ -410,11 +410,11 @@
         }
     },
     {
-        "nume": "Primăria Baloteşti",
+        "nume": "Primăria Săftica",
         "adresa": {
             "strada": "Calea Bucureşti, Nr. 89",
             "localitate": {
-                "nume": "Saftica",
+                "nume": "Săftica",
                 "siruta": 100996
             },
             "judet": {
@@ -434,11 +434,11 @@
         }
     },
     {
-        "nume": "Primăria Afumati",
+        "nume": "Primăria Afumați",
         "adresa": {
             "strada": "Şos. Bucureşti-Urziceni, Nr. 151",
             "localitate": {
-                "nume": "Afumati",
+                "nume": "Afumați",
                 "siruta": 100843
             },
             "judet": {
@@ -550,11 +550,11 @@
         }
     },
     {
-        "nume": "Primăria Ştefăneştii De Jos",
+        "nume": "Primăria Ștefăneștii De Jos",
         "adresa": {
             "strada": "Şos. Ştefăneşti, Nr. 116",
             "localitate": {
-                "nume": "Stefanestii De Jos",
+                "nume": "Ștefăneștii De Jos",
                 "siruta": 105428
             },
             "judet": {
@@ -597,11 +597,11 @@
         }
     },
     {
-        "nume": "Primăria Popeşti Leordeni",
+        "nume": "Primăria Popești Leordeni",
         "adresa": {
             "strada": "P-Ţa Sfânta Maria, Nr. 1",
             "localitate": {
-                "nume": "Popesti-Leordeni",
+                "nume": "Popești Leordeni",
                 "siruta": 179542
             },
             "judet": {
@@ -625,7 +625,7 @@
         "adresa": {
             "strada": "Şos. Vânători, Nr. 300",
             "localitate": {
-                "nume": "Petrachioaia",
+                "nume": "Petrăchioaia",
                 "siruta": 104591
             },
             "judet": {
@@ -693,11 +693,11 @@
         }
     },
     {
-        "nume": "Primăria Periş",
+        "nume": "Primăria Periș",
         "adresa": {
             "strada": "Principală, Nr. 211",
             "localitate": {
-                "nume": "Peris",
+                "nume": "Periș",
                 "siruta": 104555
             },
             "judet": {
@@ -739,11 +739,11 @@
         }
     },
     {
-        "nume": "Primăria Mogoşoaia",
+        "nume": "Primăria Mogoșoaia",
         "adresa": {
             "strada": "Şoseaua Bucureşti-Târgovişte, Nr. 138",
             "localitate": {
-                "nume": "Mogosoaia",
+                "nume": "Mogoșoaia",
                 "siruta": 179472
             },
             "judet": {
@@ -766,7 +766,7 @@
         "adresa": {
             "strada": "Şos. Eroilor, Nr. 199",
             "localitate": {
-                "nume": "Moara Vlasiei",
+                "nume": "Moara Vlăsiei",
                 "siruta": 104252
             },
             "judet": {
@@ -790,7 +790,7 @@
         "adresa": {
             "strada": "Călugăreni, Nr. 2-4",
             "localitate": {
-                "nume": "Magurele",
+                "nume": "Măgurele",
                 "siruta": 179418
             },
             "judet": {
@@ -857,11 +857,11 @@
         }
     },
     {
-        "nume": "Primăria Grădiştea",
+        "nume": "Primăria Grădiștea",
         "adresa": {
             "strada": "Primăriei, Nr. 29",
             "localitate": {
-                "nume": "Gradistea",
+                "nume": "Grădiștea",
                 "siruta": 103452
             },
             "judet": {
@@ -907,7 +907,7 @@
         "adresa": {
             "strada": "Ştefan Cel Mare, Nr. 34",
             "localitate": {
-                "nume": "Ganeasa",
+                "nume": "Găneasa",
                 "siruta": 103149
             },
             "judet": {
@@ -926,11 +926,11 @@
         }
     },
     {
-        "nume": "Primăria Dragomireşti Vale",
+        "nume": "Primăria Dragomirești-Vale",
         "adresa": {
             "strada": "Micşunelelor, Nr. 87",
             "localitate": {
-                "nume": "Dragomiresti-Vale",
+                "nume": "Dragomirești-Vale",
                 "siruta": 102614
             },
             "judet": {

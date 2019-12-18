@@ -30,7 +30,7 @@
         "adresa": {
             "strada": "Principală, Nr. 203",
             "localitate": {
-                "nume": "Ciclova Romana",
+                "nume": "Ciclova Română",
                 "siruta": 51957
             },
             "judet": {
@@ -53,7 +53,7 @@
         "adresa": {
             "strada": "Principală, Nr. 450",
             "localitate": {
-                "nume": "Rusca Montana",
+                "nume": "Rusca Montană",
                 "siruta": 53737
             },
             "judet": {
@@ -73,11 +73,11 @@
         }
     },
     {
-        "nume": "Primăria Reşiţa",
+        "nume": "Primăria Reșița",
         "adresa": {
             "strada": "P-Ţa 1 Decembrie 1918, Nr. 1A",
             "localitate": {
-                "nume": "Resita",
+                "nume": "Reșița",
                 "siruta": 50807
             },
             "judet": {
@@ -121,11 +121,11 @@
         }
     },
     {
-        "nume": "Primăria Răcăşdia",
+        "nume": "Primăria Răcășdia",
         "adresa": {
             "strada": "Principală, Nr. 535",
             "localitate": {
-                "nume": "Racasdia",
+                "nume": "Răcășdia",
                 "siruta": 53684
             },
             "judet": {
@@ -191,11 +191,11 @@
         }
     },
     {
-        "nume": "Primăria Păltiniş",
+        "nume": "Primăria Păltiniș",
         "adresa": {
             "strada": "Principală, Nr. 164",
             "localitate": {
-                "nume": "Paltinis",
+                "nume": "Păltiniș",
                 "siruta": 53434
             },
             "judet": {
@@ -214,11 +214,11 @@
         }
     },
     {
-        "nume": "Primăria Oţelu Roşu",
+        "nume": "Primăria Oțelu Roșu",
         "adresa": {
             "strada": "Rozelor, Nr. 2",
             "localitate": {
-                "nume": "Otelu Rosu",
+                "nume": "Oțelu Roșu",
                 "siruta": 51216
             },
             "judet": {
@@ -237,11 +237,11 @@
         }
     },
     {
-        "nume": "Primăria Oraviţa",
+        "nume": "Primăria Oravița",
         "adresa": {
             "strada": "1 Decembrie 1918, Nr. 60",
             "localitate": {
-                "nume": "Oravita",
+                "nume": "Oravița",
                 "siruta": 51127
             },
             "judet": {
@@ -309,11 +309,11 @@
         }
     },
     {
-        "nume": "Primăria Naidăş",
+        "nume": "Primăria Naidăș",
         "adresa": {
             "strada": "Principală, Nr. 1",
             "localitate": {
-                "nume": "Naidas",
+                "nume": "Naidăș",
                 "siruta": 53354
             },
             "judet": {
@@ -336,7 +336,7 @@
         "adresa": {
             "strada": "Nicolae Bălcescu, Nr. 26",
             "localitate": {
-                "nume": "Moldova Noua",
+                "nume": "Moldova Nouă",
                 "siruta": 51065
             },
             "judet": {
@@ -407,7 +407,7 @@
         "adresa": {
             "strada": "Principala, Nr. 371",
             "localitate": {
-                "nume": "Maureni",
+                "nume": "Măureni",
                 "siruta": 53256
             },
             "judet": {
@@ -471,11 +471,11 @@
         }
     },
     {
-        "nume": "Primăria Luncaviţa",
+        "nume": "Primăria Luncavița",
         "adresa": {
             "strada": "Principală, Nr. 43",
             "localitate": {
-                "nume": "Luncavita",
+                "nume": "Luncavița",
                 "siruta": 53149
             },
             "judet": {
@@ -496,11 +496,11 @@
         }
     },
     {
-        "nume": "Primăria Lăpuşnicu Mare",
+        "nume": "Primăria Lăpușnicu Mare",
         "adresa": {
             "strada": "Principală, Nr. 133",
             "localitate": {
-                "nume": "Lapusnicu Mare",
+                "nume": "Lăpușnicu Mare",
                 "siruta": 53112
             },
             "judet": {
@@ -520,11 +520,11 @@
         }
     },
     {
-        "nume": "Primăria Lăpuşnicel",
+        "nume": "Primăria Lăpușnicel",
         "adresa": {
             "strada": "Nr. 278",
             "localitate": {
-                "nume": "Lapusnicel",
+                "nume": "Lăpușnicel",
                 "siruta": 53078
             },
             "judet": {
@@ -543,11 +543,11 @@
         }
     },
     {
-        "nume": "Primăria Iablaniţa",
+        "nume": "Primăria Iablanița",
         "adresa": {
             "strada": "Principală, Nr. 89B",
             "localitate": {
-                "nume": "Iablanita",
+                "nume": "Iablanița",
                 "siruta": 53032
             },
             "judet": {
@@ -572,7 +572,7 @@
         "adresa": {
             "strada": "Principală, Nr. 190",
             "localitate": {
-                "nume": "Gradinari",
+                "nume": "Grădinari",
                 "siruta": 53005
             },
             "judet": {
@@ -638,11 +638,11 @@
         }
     },
     {
-        "nume": "Primăria Gîrnic",
+        "nume": "Primăria Gârnic",
         "adresa": {
             "strada": "Nr. 77",
             "localitate": {
-                "nume": "Garnic",
+                "nume": "Gârnic",
                 "siruta": 52918
             },
             "judet": {
@@ -689,7 +689,7 @@
         "adresa": {
             "strada": "Principală, Nr. 80",
             "localitate": {
-                "nume": "Farliug",
+                "nume": "Fârliug",
                 "siruta": 52794
             },
             "judet": {
@@ -710,11 +710,11 @@
         }
     },
     {
-        "nume": "Primăria Ezeriş",
+        "nume": "Primăria Ezeriș",
         "adresa": {
             "strada": "Principală, Nr. 1",
             "localitate": {
-                "nume": "Ezeris",
+                "nume": "Ezeriș",
                 "siruta": 52767
             },
             "judet": {
@@ -756,11 +756,11 @@
         }
     },
     {
-        "nume": "Primăria Domaşnea",
+        "nume": "Primăria Domașnea",
         "adresa": {
             "strada": "Principală, Nr. 318",
             "localitate": {
-                "nume": "Domasnea",
+                "nume": "Domașnea",
                 "siruta": 52730
             },
             "judet": {
@@ -827,11 +827,11 @@
         }
     },
     {
-        "nume": "Primăria Dalboşeţ",
+        "nume": "Primăria Dalboșeț",
         "adresa": {
             "strada": "Principală, Nr. 130",
             "localitate": {
-                "nume": "Dalboset",
+                "nume": "Dalboșeț",
                 "siruta": 52589
             },
             "judet": {
@@ -929,7 +929,7 @@
         "adresa": {
             "strada": "Principală, Nr. 122",
             "localitate": {
-                "nume": "Copacele",
+                "nume": "Copăcele",
                 "siruta": 52071
             },
             "judet": {
@@ -948,11 +948,11 @@
         }
     },
     {
-        "nume": "Primăria Constantin Daicoviciu",
+        "nume": "Primăria Căvăran",
         "adresa": {
             "strada": "Principală, Nr. 11",
             "localitate": {
-                "nume": "Constantin Daicoviciu",
+                "nume": "Căvăran",
                 "siruta": 51886
             },
             "judet": {
@@ -971,11 +971,11 @@
         }
     },
     {
-        "nume": "Primăria Ciudanoviţa",
+        "nume": "Primăria Ciudanovița",
         "adresa": {
             "strada": "Principală, Fn",
             "localitate": {
-                "nume": "Ciudanovita",
+                "nume": "Ciudanovița",
                 "siruta": 52044
             },
             "judet": {
@@ -998,7 +998,7 @@
         "adresa": {
             "strada": "Principală, Nr. 304",
             "localitate": {
-                "nume": "Carbunari",
+                "nume": "Cărbunari",
                 "siruta": 51859
             },
             "judet": {
@@ -1018,11 +1018,11 @@
         }
     },
     {
-        "nume": "Primăria Caraşova",
+        "nume": "Primăria Carașova",
         "adresa": {
             "strada": "Principală, Nr. 274",
             "localitate": {
-                "nume": "Carasova",
+                "nume": "Carașova",
                 "siruta": 51813
             },
             "judet": {
@@ -1041,11 +1041,11 @@
         }
     },
     {
-        "nume": "Primăria Caransebeş",
+        "nume": "Primăria Caransebeș",
         "adresa": {
             "strada": "P-Ţa Revoluţiei, Nr. 1",
             "localitate": {
-                "nume": "Caransebes",
+                "nume": "Caransebeș",
                 "siruta": 51029
             },
             "judet": {
@@ -1066,11 +1066,11 @@
         }
     },
     {
-        "nume": "Primăria Bucoşniţa",
+        "nume": "Primăria Bucoșnița",
         "adresa": {
             "strada": "Nr. 81",
             "localitate": {
-                "nume": "Bucosnita",
+                "nume": "Bucoșnița",
                 "siruta": 51760
             },
             "judet": {
@@ -1112,11 +1112,11 @@
         }
     },
     {
-        "nume": "Primăria Brebu Nou",
+        "nume": "Primăria Gărâna",
         "adresa": {
             "strada": "Gărâna, Nr. 66",
             "localitate": {
-                "nume": "Garana",
+                "nume": "Gărâna",
                 "siruta": 51680
             },
             "judet": {
@@ -1184,11 +1184,11 @@
         }
     },
     {
-        "nume": "Primăria Bolvaşniţa",
+        "nume": "Primăria Bolvașnița",
         "adresa": {
             "strada": "Principală, Nr. 141A",
             "localitate": {
-                "nume": "Bolvasnita",
+                "nume": "Bolvașnița",
                 "siruta": 51555
             },
             "judet": {
@@ -1205,11 +1205,11 @@
         }
     },
     {
-        "nume": "Primăria Bocşa",
+        "nume": "Primăria Bocșa",
         "adresa": {
             "strada": "1 Decembrie 1918, Nr. 22",
             "localitate": {
-                "nume": "Bocsa",
+                "nume": "Bocșa",
                 "siruta": 50978
             },
             "judet": {
@@ -1280,11 +1280,11 @@
         }
     },
     {
-        "nume": "Primăria Berlişte",
+        "nume": "Primăria Berliște",
         "adresa": {
             "strada": "Principală, Nr. 99",
             "localitate": {
-                "nume": "Berliste",
+                "nume": "Berliște",
                 "siruta": 51396
             },
             "judet": {
@@ -1303,11 +1303,11 @@
         }
     },
     {
-        "nume": "Primăria Băuţar",
+        "nume": "Primăria Băuțar",
         "adresa": {
             "strada": "Principală, Nr. 55",
             "localitate": {
-                "nume": "Bautar",
+                "nume": "Băuțar",
                 "siruta": 51341
             },
             "judet": {
@@ -1331,7 +1331,7 @@
         "adresa": {
             "strada": "Principală, Nr. 120",
             "localitate": {
-                "nume": "Bania",
+                "nume": "Bănia",
                 "siruta": 51314
             },
             "judet": {
@@ -1355,7 +1355,7 @@
         "adresa": {
             "strada": "Mihai Eminescu, Nr. 10",
             "localitate": {
-                "nume": "Baile Herculane",
+                "nume": "Băile Herculane",
                 "siruta": 50932
             },
             "judet": {
@@ -1374,11 +1374,11 @@
         }
     },
     {
-        "nume": "Primăria Armeniş",
+        "nume": "Primăria Armeniș",
         "adresa": {
             "strada": "Principală, Nr. 368",
             "localitate": {
-                "nume": "Armenis",
+                "nume": "Armeniș",
                 "siruta": 51252
             },
             "judet": {
@@ -1420,11 +1420,11 @@
         }
     },
     {
-        "nume": "Primăria Zorlenţu Mare",
+        "nume": "Primăria Zorlențu Mare",
         "adresa": {
             "strada": "Principală, Nr. 34",
             "localitate": {
-                "nume": "Zorlentu Mare",
+                "nume": "Zorlențu Mare",
                 "siruta": 54706
             },
             "judet": {
@@ -1447,7 +1447,7 @@
         "adresa": {
             "strada": "Haţegului, Nr. 186",
             "localitate": {
-                "nume": "Zavoi",
+                "nume": "Zăvoi",
                 "siruta": 54626
             },
             "judet": {
@@ -1490,11 +1490,11 @@
         }
     },
     {
-        "nume": "Primăria Vermeş",
+        "nume": "Primăria Vermeș",
         "adresa": {
             "strada": "Principală, Nr. 152",
             "localitate": {
-                "nume": "Vermes",
+                "nume": "Vermeș",
                 "siruta": 54546
             },
             "judet": {
@@ -1513,11 +1513,11 @@
         }
     },
     {
-        "nume": "Primăria Varadia",
+        "nume": "Primăria Vărădia",
         "adresa": {
             "strada": "Principala, Nr. 379",
             "localitate": {
-                "nume": "Varadia",
+                "nume": "Vărădia",
                 "siruta": 54519
             },
             "judet": {
@@ -1540,7 +1540,7 @@
         "adresa": {
             "strada": "Principală, Nr. 56",
             "localitate": {
-                "nume": "Valiug",
+                "nume": "Văliug",
                 "siruta": 54494
             },
             "judet": {
@@ -1583,11 +1583,11 @@
         }
     },
     {
-        "nume": "Primăria Topleţ",
+        "nume": "Primăria Topleț",
         "adresa": {
             "strada": "Principală, Nr. 155",
             "localitate": {
-                "nume": "Toplet",
+                "nume": "Topleț",
                 "siruta": 54396
             },
             "judet": {
@@ -1608,11 +1608,11 @@
         }
     },
     {
-        "nume": "Primăria Tîrnova",
+        "nume": "Primăria Târnova",
         "adresa": {
             "strada": "Principală, Nr. 377",
             "localitate": {
-                "nume": "Tarnova",
+                "nume": "Târnova",
                 "siruta": 54369
             },
             "judet": {
@@ -1681,11 +1681,11 @@
         }
     },
     {
-        "nume": "Primăria Şopotu Nou",
+        "nume": "Primăria Șopotu Nou",
         "adresa": {
             "strada": "Principală, Nr. 19",
             "localitate": {
-                "nume": "Sopotu Nou",
+                "nume": "Șopotu Nou",
                 "siruta": 54172
             },
             "judet": {
@@ -1728,11 +1728,11 @@
         }
     },
     {
-        "nume": "Primăria Slatina Timiş",
+        "nume": "Primăria Slatina-Timiș",
         "adresa": {
             "strada": "Principală, Nr. 32",
             "localitate": {
-                "nume": "Slatina-Timis",
+                "nume": "Slatina-Timiș",
                 "siruta": 54065
             },
             "judet": {
@@ -1751,11 +1751,11 @@
         }
     },
     {
-        "nume": "Primăria Sicheviţa",
+        "nume": "Primăria Sichevița",
         "adresa": {
             "strada": "Sicheviţa, Nr. 396",
             "localitate": {
-                "nume": "Sichevita",
+                "nume": "Sichevița",
                 "siruta": 53862
             },
             "judet": {
@@ -1778,7 +1778,7 @@
         "adresa": {
             "strada": "Principală, Nr. 375",
             "localitate": {
-                "nume": "Sasca Montana",
+                "nume": "Sasca Montană",
                 "siruta": 53808
             },
             "judet": {
