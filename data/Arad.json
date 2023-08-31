@@ -312,7 +312,7 @@
     {
         "nume": "Primăria Șepreuș",
         "adresa": {
-            "strada": "Piaţa Rebeliunii, Nr. 1",
+            "strada": "Piața Rebeliunii, Nr. 1",
             "localitate": {
                 "nume": "Șepreuș",
                 "siruta": 12233
@@ -395,7 +395,7 @@
     {
         "nume": "Primăria Șeitin",
         "adresa": {
-            "strada": "Revoluţiei, Nr. 47",
+            "strada": "Revoluției, Nr. 47",
             "localitate": {
                 "nume": "Șeitin",
                 "siruta": 12215
@@ -450,7 +450,7 @@
     {
         "nume": "Primăria Sebiș",
         "adresa": {
-            "strada": "P-Ţa Tineretului, Nr. 1",
+            "strada": "P-Ța Tineretului, Nr. 1",
             "localitate": {
                 "nume": "Sebiș",
                 "siruta": 9707
@@ -1212,7 +1212,7 @@
     {
         "nume": "Primăria Chișineu-Criș",
         "adresa": {
-            "strada": "Infrăţirii, Nr. 97",
+            "strada": "Infrățirii, Nr. 97",
             "localitate": {
                 "nume": "Chișineu-Criș",
                 "siruta": 9468
@@ -1560,7 +1560,7 @@
     {
         "nume": "Primăria Arad",
         "adresa": {
-            "strada": "B-Dul Revoluţiei, Nr. 75",
+            "strada": "B-Dul Revoluției, Nr. 75",
             "localitate": {
                 "nume": "Arad",
                 "siruta": 9271
@@ -1772,7 +1772,7 @@
     {
         "nume": "Primăria Vladimirescu",
         "adresa": {
-            "strada": "Revoluţiei, Nr. 4",
+            "strada": "Revoluției, Nr. 4",
             "localitate": {
                 "nume": "Vladimirescu",
                 "siruta": 9404

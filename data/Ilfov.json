@@ -99,7 +99,7 @@
     {
         "nume": "Primăria Cornetu",
         "adresa": {
-            "strada": "Şos. Alexandriei, Nr. 140",
+            "strada": "Șos. Alexandriei, Nr. 140",
             "localitate": {
                 "nume": "Cornetu",
                 "siruta": 102222
@@ -123,7 +123,7 @@
     {
         "nume": "Primăria Corbeanca",
         "adresa": {
-            "strada": "Independenţei, Nr. 14",
+            "strada": "Independenței, Nr. 14",
             "localitate": {
                 "nume": "Corbeanca",
                 "siruta": 102179
@@ -146,7 +146,7 @@
     {
         "nume": "Primăria Copăceni",
         "adresa": {
-            "strada": "Şos. Principală, Nr. 190",
+            "strada": "Șos. Principală, Nr. 190",
             "localitate": {
                 "nume": "Copăceni",
                 "siruta": 102561
@@ -194,7 +194,7 @@
     {
         "nume": "Primăria Ciorogârla",
         "adresa": {
-            "strada": "Şos. Bucureşti, Nr. 112",
+            "strada": "Șos. București, Nr. 112",
             "localitate": {
                 "nume": "Ciorogârla",
                 "siruta": 101966
@@ -313,7 +313,7 @@
     {
         "nume": "Primăria Buftea",
         "adresa": {
-            "strada": "Piaţa Mihai Eminescu, Nr. 1",
+            "strada": "Piața Mihai Eminescu, Nr. 1",
             "localitate": {
                 "nume": "Buftea",
                 "siruta": 100585
@@ -363,7 +363,7 @@
     {
         "nume": "Primăria Bragadiru",
         "adresa": {
-            "strada": "Şos. Alexandriei, Nr. 249",
+            "strada": "Șos. Alexandriei, Nr. 249",
             "localitate": {
                 "nume": "Bragadiru",
                 "siruta": 179230
@@ -412,7 +412,7 @@
     {
         "nume": "Primăria Săftica",
         "adresa": {
-            "strada": "Calea Bucureşti, Nr. 89",
+            "strada": "Calea București, Nr. 89",
             "localitate": {
                 "nume": "Săftica",
                 "siruta": 100996
@@ -436,7 +436,7 @@
     {
         "nume": "Primăria Afumați",
         "adresa": {
-            "strada": "Şos. Bucureşti-Urziceni, Nr. 151",
+            "strada": "Șos. București-Urziceni, Nr. 151",
             "localitate": {
                 "nume": "Afumați",
                 "siruta": 100843
@@ -459,7 +459,7 @@
     {
         "nume": "Primăria 1 Decembrie",
         "adresa": {
-            "strada": "Şos. Giurgiului, Nr. 196 Bl. P22 Ap. 13-14",
+            "strada": "Șos. Giurgiului, Nr. 196 Bl. P22 Ap. 13-14",
             "localitate": {
                 "nume": "1 Decembrie",
                 "siruta": 102552
@@ -552,7 +552,7 @@
     {
         "nume": "Primăria Ștefăneștii De Jos",
         "adresa": {
-            "strada": "Şos. Ştefăneşti, Nr. 116",
+            "strada": "Șos. Ștefănești, Nr. 116",
             "localitate": {
                 "nume": "Ștefăneștii De Jos",
                 "siruta": 105428
@@ -575,7 +575,7 @@
     {
         "nume": "Primăria Snagov",
         "adresa": {
-            "strada": "Şos. Ghermăneşti, Nr. 49",
+            "strada": "Șos. Ghermănești, Nr. 49",
             "localitate": {
                 "nume": "Snagov",
                 "siruta": 105179
@@ -599,7 +599,7 @@
     {
         "nume": "Primăria Popești Leordeni",
         "adresa": {
-            "strada": "P-Ţa Sfânta Maria, Nr. 1",
+            "strada": "P-Ța Sfânta Maria, Nr. 1",
             "localitate": {
                 "nume": "Popești Leordeni",
                 "siruta": 179542
@@ -623,7 +623,7 @@
     {
         "nume": "Primăria Petrăchioaia",
         "adresa": {
-            "strada": "Şos. Vânători, Nr. 300",
+            "strada": "Șos. Vânători, Nr. 300",
             "localitate": {
                 "nume": "Petrăchioaia",
                 "siruta": 104591
@@ -718,7 +718,7 @@
     {
         "nume": "Primăria Nuci",
         "adresa": {
-            "strada": "Calea Bucureşti, Nr. 201",
+            "strada": "Calea București, Nr. 201",
             "localitate": {
                 "nume": "Nuci",
                 "siruta": 104430
@@ -741,7 +741,7 @@
     {
         "nume": "Primăria Mogoșoaia",
         "adresa": {
-            "strada": "Şoseaua Bucureşti-Târgovişte, Nr. 138",
+            "strada": "Șoseaua București-Târgoviște, Nr. 138",
             "localitate": {
                 "nume": "Mogoșoaia",
                 "siruta": 179472
@@ -764,7 +764,7 @@
     {
         "nume": "Primăria Moara Vlăsiei",
         "adresa": {
-            "strada": "Şos. Eroilor, Nr. 199",
+            "strada": "Șos. Eroilor, Nr. 199",
             "localitate": {
                 "nume": "Moara Vlăsiei",
                 "siruta": 104252
@@ -812,7 +812,7 @@
     {
         "nume": "Primăria Jilava",
         "adresa": {
-            "strada": "Şos. Giurgiului, Nr. 279",
+            "strada": "Șos. Giurgiului, Nr. 279",
             "localitate": {
                 "nume": "Jilava",
                 "siruta": 179392
@@ -835,7 +835,7 @@
     {
         "nume": "Primăria Gruiu",
         "adresa": {
-            "strada": "Şoseaua Gruiu-Snagov, Nr. 152",
+            "strada": "Șoseaua Gruiu-Snagov, Nr. 152",
             "localitate": {
                 "nume": "Gruiu",
                 "siruta": 103522
@@ -882,7 +882,7 @@
     {
         "nume": "Primăria Glina",
         "adresa": {
-            "strada": "Libertăţii, Nr. 292",
+            "strada": "Libertății, Nr. 292",
             "localitate": {
                 "nume": "Glina",
                 "siruta": 179356
@@ -905,7 +905,7 @@
     {
         "nume": "Primăria Găneasa",
         "adresa": {
-            "strada": "Ştefan Cel Mare, Nr. 34",
+            "strada": "Ștefan Cel Mare, Nr. 34",
             "localitate": {
                 "nume": "Găneasa",
                 "siruta": 103149
@@ -928,7 +928,7 @@
     {
         "nume": "Primăria Dragomirești-Vale",
         "adresa": {
-            "strada": "Micşunelelor, Nr. 87",
+            "strada": "Micșunelelor, Nr. 87",
             "localitate": {
                 "nume": "Dragomirești-Vale",
                 "siruta": 102614

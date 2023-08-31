@@ -699,7 +699,7 @@
     {
         "nume": "Primăria Năsăud",
         "adresa": {
-            "strada": "P-Ţa Unirii, Nr. 15",
+            "strada": "P-Ța Unirii, Nr. 15",
             "localitate": {
                 "nume": "Năsăud",
                 "siruta": 32553
@@ -965,7 +965,7 @@
     {
         "nume": "Primăria Lechința",
         "adresa": {
-            "strada": "Independenţei, Nr. 509",
+            "strada": "Independenței, Nr. 509",
             "localitate": {
                 "nume": "Lechința",
                 "siruta": 33444
@@ -1397,7 +1397,7 @@
     {
         "nume": "Primăria Bistrița",
         "adresa": {
-            "strada": "P-Ţa Centrală, Nr. 6",
+            "strada": "P-Ța Centrală, Nr. 6",
             "localitate": {
                 "nume": "Bistrița",
                 "siruta": 32401

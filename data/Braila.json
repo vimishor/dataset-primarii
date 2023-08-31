@@ -2,7 +2,7 @@
     {
         "nume": "Primăria Măxineni",
         "adresa": {
-            "strada": "Administraţiei, Nr. 42",
+            "strada": "Administrației, Nr. 42",
             "localitate": {
                 "nume": "Măxineni",
                 "siruta": 43572
@@ -374,7 +374,7 @@
     {
         "nume": "Primăria Brăila",
         "adresa": {
-            "strada": "Piaţa Independenţei, Nr. 1",
+            "strada": "Piața Independenței, Nr. 1",
             "localitate": {
                 "nume": "Brăila",
                 "siruta": 42691

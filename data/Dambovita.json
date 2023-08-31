@@ -2,7 +2,7 @@
     {
         "nume": "Primăria Cornești",
         "adresa": {
-            "strada": "Dn Bucureşti - Ploieşti",
+            "strada": "Dn București - Ploiești",
             "localitate": {
                 "nume": "Cornești",
                 "siruta": 67023
@@ -397,7 +397,7 @@
     {
         "nume": "Primăria Bărbulețu",
         "adresa": {
-            "strada": "Sat Gura Bărbuleţului, Nr. 104",
+            "strada": "Sat Gura Bărbulețului, Nr. 104",
             "localitate": {
                 "nume": "Bărbulețu",
                 "siruta": 66250
@@ -635,7 +635,7 @@
     {
         "nume": "Primăria Vârfuri",
         "adresa": {
-            "strada": "Şuviţa, Nr. 137",
+            "strada": "Șuvița, Nr. 137",
             "localitate": {
                 "nume": "Vârfuri",
                 "siruta": 69456
@@ -2025,7 +2025,7 @@
     {
         "nume": "Primăria Crevedia",
         "adresa": {
-            "strada": "Şoseaua Bucureşti-Târgovişte, Nr. 167",
+            "strada": "Șoseaua București-Târgoviște, Nr. 167",
             "localitate": {
                 "nume": "Crevedia",
                 "siruta": 102295

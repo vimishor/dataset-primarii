@@ -656,7 +656,7 @@
     {
         "nume": "Primăria Somova",
         "adresa": {
-            "strada": "Galaţiului, Nr. 49",
+            "strada": "Galațiului, Nr. 49",
             "localitate": {
                 "nume": "Somova",
                 "siruta": 161311
@@ -840,7 +840,7 @@
     {
         "nume": "Primăria Nufăru",
         "adresa": {
-            "strada": "Domniţa Maria, Nr. 252",
+            "strada": "Domnița Maria, Nr. 252",
             "localitate": {
                 "nume": "Nufăru",
                 "siruta": 161062
@@ -1124,7 +1124,7 @@
     {
         "nume": "Primăria Izvoarele",
         "adresa": {
-            "strada": "Şcolii, Nr. 1",
+            "strada": "Școlii, Nr. 1",
             "localitate": {
                 "nume": "Izvoarele",
                 "siruta": 160573

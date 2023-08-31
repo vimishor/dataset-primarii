@@ -504,7 +504,7 @@
     {
         "nume": "Primăria Pechea",
         "adresa": {
-            "strada": "Galaţi, Nr. 181",
+            "strada": "Galați, Nr. 181",
             "localitate": {
                 "nume": "Pechea",
                 "siruta": 76978
@@ -1108,7 +1108,7 @@
     {
         "nume": "Primăria Corod",
         "adresa": {
-            "strada": "Ştefan Cel Mare, Fn",
+            "strada": "Ștefan Cel Mare, Fn",
             "localitate": {
                 "nume": "Corod",
                 "siruta": 75962

@@ -441,7 +441,7 @@
     {
         "nume": "Primăria Alexandru Cel Bun",
         "adresa": {
-            "strada": "Sat Viişoara, Cuza Vodă, Nr. 48",
+            "strada": "Sat Viișoara, Cuza Vodă, Nr. 48",
             "localitate": {
                 "nume": "Alexandru Cel Bun",
                 "siruta": 124938
@@ -539,7 +539,7 @@
     {
         "nume": "Primăria Văleni",
         "adresa": {
-            "strada": "Cozma Şarpe, Nr. 3",
+            "strada": "Cozma Șarpe, Nr. 3",
             "localitate": {
                 "nume": "Văleni",
                 "siruta": 121867
@@ -562,7 +562,7 @@
     {
         "nume": "Primăria Tazlău",
         "adresa": {
-            "strada": "Ştefan Cel Mare, Nr. 130",
+            "strada": "Ștefan Cel Mare, Nr. 130",
             "localitate": {
                 "nume": "Tazlău",
                 "siruta": 124625
@@ -750,7 +750,7 @@
     {
         "nume": "Primăria Târgu Neamț",
         "adresa": {
-            "strada": "B-Dul Ştefan Cel Mare, Nr. 62",
+            "strada": "B-Dul Ștefan Cel Mare, Nr. 62",
             "localitate": {
                 "nume": "Târgu Neamț",
                 "siruta": 121064
@@ -868,7 +868,7 @@
     {
         "nume": "Primăria Săvinești",
         "adresa": {
-            "strada": "G-Ral Buniş, Nr. 7",
+            "strada": "G-Ral Buniș, Nr. 7",
             "localitate": {
                 "nume": "Săvinești",
                 "siruta": 120833
@@ -1034,7 +1034,7 @@
     {
         "nume": "Primăria Roman",
         "adresa": {
-            "strada": "Piaţa Roman Vodă, Nr. 1",
+            "strada": "Piața Roman Vodă, Nr. 1",
             "localitate": {
                 "nume": "Roman",
                 "siruta": 120879
@@ -1174,7 +1174,7 @@
     {
         "nume": "Primăria Podoleni",
         "adresa": {
-            "strada": "Speranţei, Nr. 3",
+            "strada": "Speranței, Nr. 3",
             "localitate": {
                 "nume": "Podoleni",
                 "siruta": 123683
@@ -1270,7 +1270,7 @@
     {
         "nume": "Primăria Piatra-Neamț",
         "adresa": {
-            "strada": "Ştefan Cel Mare, Nr. 6-8",
+            "strada": "Ștefan Cel Mare, Nr. 6-8",
             "localitate": {
                 "nume": "Piatra-Neamț",
                 "siruta": 120735

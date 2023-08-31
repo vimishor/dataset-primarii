@@ -861,7 +861,7 @@
     {
         "nume": "Primăria Unguriu",
         "adresa": {
-            "strada": "Şos. Braşovului, Nr. 83",
+            "strada": "Șos. Brașovului, Nr. 83",
             "localitate": {
                 "nume": "Unguriu",
                 "siruta": 47364
@@ -1823,7 +1823,7 @@
     {
         "nume": "Primăria Gălbinași",
         "adresa": {
-            "strada": "Sat Tăbărăşti",
+            "strada": "Sat Tăbărăști",
             "localitate": {
                 "nume": "Gălbinași",
                 "siruta": 46778

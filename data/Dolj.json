@@ -2,7 +2,7 @@
     {
         "nume": "Primăria Călărași",
         "adresa": {
-            "strada": "Petre Baniţă, Nr. 148",
+            "strada": "Petre Baniță, Nr. 148",
             "localitate": {
                 "nume": "Călărași",
                 "siruta": 92578
@@ -313,7 +313,7 @@
     {
         "nume": "Primăria Băilești",
         "adresa": {
-            "strada": "Revoluţiei, Nr. 1-3",
+            "strada": "Revoluției, Nr. 1-3",
             "localitate": {
                 "nume": "Băilești",
                 "siruta": 70325
@@ -570,7 +570,7 @@
     {
         "nume": "Primăria Siliștea Crucii",
         "adresa": {
-            "strada": "Magistrat Drăguţ Costel, Nr. 2",
+            "strada": "Magistrat Drăguț Costel, Nr. 2",
             "localitate": {
                 "nume": "Siliștea Crucii",
                 "siruta": 74233
@@ -828,7 +828,7 @@
     {
         "nume": "Primăria Radovan",
         "adresa": {
-            "strada": "Şoseaua Calafatului, Nr. 29",
+            "strada": "Șoseaua Calafatului, Nr. 29",
             "localitate": {
                 "nume": "Radovan",
                 "siruta": 73861
@@ -878,7 +878,7 @@
     {
         "nume": "Primăria Poiana Mare",
         "adresa": {
-            "strada": "Independenţei, Nr. 8-10",
+            "strada": "Independenței, Nr. 8-10",
             "localitate": {
                 "nume": "Poiana Mare",
                 "siruta": 73745
@@ -996,7 +996,7 @@
     {
         "nume": "Primăria Pielești",
         "adresa": {
-            "strada": "Gheorghiţă Geolgău, Nr. 188",
+            "strada": "Gheorghiță Geolgău, Nr. 188",
             "localitate": {
                 "nume": "Pielești",
                 "siruta": 73638
@@ -1305,7 +1305,7 @@
     {
         "nume": "Primăria Măceșu De Jos",
         "adresa": {
-            "strada": "Acad. Ştefan Berceanu, Nr.12",
+            "strada": "Acad. Ștefan Berceanu, Nr.12",
             "localitate": {
                 "nume": "Măceșu De Jos",
                 "siruta": 72999
@@ -2015,7 +2015,7 @@
     {
         "nume": "Primăria Filiași",
         "adresa": {
-            "strada": "B-Dul Racoţeanu, Nr. 160",
+            "strada": "B-Dul Racoțeanu, Nr. 160",
             "localitate": {
                 "nume": "Filiași",
                 "siruta": 70423
@@ -2155,7 +2155,7 @@
     {
         "nume": "Primăria Dioști",
         "adresa": {
-            "strada": "Şantierului, Nr. 33",
+            "strada": "Șantierului, Nr. 33",
             "localitate": {
                 "nume": "Dioști",
                 "siruta": 72061

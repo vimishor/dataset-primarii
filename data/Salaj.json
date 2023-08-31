@@ -171,7 +171,7 @@
     {
         "nume": "Primăria Zalău",
         "adresa": {
-            "strada": "P-Ţa Iuliu Maniu, Nr. 3",
+            "strada": "P-Ța Iuliu Maniu, Nr. 3",
             "localitate": {
                 "nume": "Zalău",
                 "siruta": 139713
@@ -338,7 +338,7 @@
     {
         "nume": "Primăria Șimleu Silvaniei",
         "adresa": {
-            "strada": "Libertăţii, Nr. 3",
+            "strada": "Libertății, Nr. 3",
             "localitate": {
                 "nume": "Șimleu Silvaniei",
                 "siruta": 139893
@@ -1023,7 +1023,7 @@
     {
         "nume": "Primăria Crasna",
         "adresa": {
-            "strada": "Piaţa Eroilor, Nr. 13",
+            "strada": "Piața Eroilor, Nr. 13",
             "localitate": {
                 "nume": "Crasna",
                 "siruta": 140636
@@ -1118,7 +1118,7 @@
     {
         "nume": "Primăria Cehu Silvaniei",
         "adresa": {
-            "strada": "P-Ţa Trandafirilor, Nr. 35",
+            "strada": "P-Ța Trandafirilor, Nr. 35",
             "localitate": {
                 "nume": "Cehu Silvaniei",
                 "siruta": 139759

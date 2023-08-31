@@ -57,7 +57,7 @@
     {
         "nume": "Primăria Comănești",
         "adresa": {
-            "strada": "Ciobănuş, Nr. 2",
+            "strada": "Ciobănuș, Nr. 2",
             "localitate": {
                 "nume": "Comănești",
                 "siruta": 20830
@@ -171,7 +171,7 @@
     {
         "nume": "Primăria Căiuți",
         "adresa": {
-            "strada": "Sat Căiuţi, Nr. 471",
+            "strada": "Sat Căiuți, Nr. 471",
             "localitate": {
                 "nume": "Căiuți",
                 "siruta": 21766
@@ -445,7 +445,7 @@
     {
         "nume": "Primăria Bacău",
         "adresa": {
-            "strada": "Calea Mărăşeşti, Nr. 6",
+            "strada": "Calea Mărășești, Nr. 6",
             "localitate": {
                 "nume": "Bacău",
                 "siruta": 20304
@@ -1503,7 +1503,7 @@
     {
         "nume": "Primăria Ștefan Cel Mare",
         "adresa": {
-            "strada": "Sat Negoieşti, Principală, Nr. 20",
+            "strada": "Sat Negoiești, Principală, Nr. 20",
             "localitate": {
                 "nume": "Ștefan Cel Mare",
                 "siruta": 20689
@@ -1972,7 +1972,7 @@
     {
         "nume": "Primăria Răcăciuni",
         "adresa": {
-            "strada": "B-Dul Ştefan Cel Mare, Nr. 42",
+            "strada": "B-Dul Ștefan Cel Mare, Nr. 42",
             "localitate": {
                 "nume": "Răcăciuni",
                 "siruta": 24775

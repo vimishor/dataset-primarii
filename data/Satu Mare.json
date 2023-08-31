@@ -173,7 +173,7 @@
     {
         "nume": "Primăria Turț",
         "adresa": {
-            "strada": "Piaţa Eroilor, Nr. 18",
+            "strada": "Piața Eroilor, Nr. 18",
             "localitate": {
                 "nume": "Turț",
                 "siruta": 139189
@@ -607,7 +607,7 @@
     {
         "nume": "Primăria Petrești",
         "adresa": {
-            "strada": "Pişcotului, Nr. 1",
+            "strada": "Pișcotului, Nr. 1",
             "localitate": {
                 "nume": "Petrești",
                 "siruta": 138510
@@ -728,7 +728,7 @@
     {
         "nume": "Primăria Livada",
         "adresa": {
-            "strada": "Oaşului, Nr. 4",
+            "strada": "Oașului, Nr. 4",
             "localitate": {
                 "nume": "Livada",
                 "siruta": 138048
@@ -1161,7 +1161,7 @@
     {
         "nume": "Primăria Botiz",
         "adresa": {
-            "strada": "Mioriţei, Nr. 63",
+            "strada": "Mioriței, Nr. 63",
             "localitate": {
                 "nume": "Botiz",
                 "siruta": 137194

@@ -362,7 +362,7 @@
     {
         "nume": "Primăria Bălțați",
         "adresa": {
-            "strada": "Şos. Tg. Frumos-Iaşi, Km 36",
+            "strada": "Șos. Tg. Frumos-Iași, Km 36",
             "localitate": {
                 "nume": "Bălțați",
                 "siruta": 95809
@@ -968,7 +968,7 @@
     {
         "nume": "Primăria Șipote",
         "adresa": {
-            "strada": "Alexandru Lăpuşneanu, Nr. 1",
+            "strada": "Alexandru Lăpușneanu, Nr. 1",
             "localitate": {
                 "nume": "Șipote",
                 "siruta": 99389
@@ -1350,7 +1350,7 @@
     {
         "nume": "Primăria Podu Iloaiei",
         "adresa": {
-            "strada": "Şos. Naţională",
+            "strada": "Șos. Națională",
             "localitate": {
                 "nume": "Podu Iloaiei",
                 "siruta": 98382
@@ -1400,7 +1400,7 @@
     {
         "nume": "Primăria Pașcani",
         "adresa": {
-            "strada": "Ştefan Cel Mare, Nr. 16",
+            "strada": "Ștefan Cel Mare, Nr. 16",
             "localitate": {
                 "nume": "Pașcani",
                 "siruta": 95408
@@ -1446,7 +1446,7 @@
     {
         "nume": "Primăria Movileni",
         "adresa": {
-            "strada": "Speranţei, Nr. 40",
+            "strada": "Speranței, Nr. 40",
             "localitate": {
                 "nume": "Movileni",
                 "siruta": 98266
@@ -1805,7 +1805,7 @@
     {
         "nume": "Primăria Iași",
         "adresa": {
-            "strada": "B-Dul Ştefan Cel Mare Şi Sfânt, Nr. 11",
+            "strada": "B-Dul Ștefan Cel Mare Și Sfânt, Nr. 11",
             "localitate": {
                 "nume": "Iași",
                 "siruta": 95079
@@ -1901,7 +1901,7 @@
     {
         "nume": "Primăria Hărmăneștii Vechi",
         "adresa": {
-            "strada": "Sat Hărmăneşti Vechi",
+            "strada": "Sat Hărmănești Vechi",
             "localitate": {
                 "nume": "Hărmăneștii Vechi",
                 "siruta": 99584
@@ -1925,7 +1925,7 @@
     {
         "nume": "Primăria Hârlău",
         "adresa": {
-            "strada": "Muşatini, Nr. 1",
+            "strada": "Mușatini, Nr. 1",
             "localitate": {
                 "nume": "Hârlău",
                 "siruta": 95364

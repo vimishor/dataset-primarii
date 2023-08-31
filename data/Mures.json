@@ -456,7 +456,7 @@
     {
         "nume": "Primăria Sighișoara",
         "adresa": {
-            "strada": "Piaţa Muzeului, Nr. 7",
+            "strada": "Piața Muzeului, Nr. 7",
             "localitate": {
                 "nume": "Sighișoara",
                 "siruta": 114523
@@ -738,7 +738,7 @@
     {
         "nume": "Primăria Târnăveni",
         "adresa": {
-            "strada": "Piaţa Primăriei, Nr. 7",
+            "strada": "Piața Primăriei, Nr. 7",
             "localitate": {
                 "nume": "Târnăveni",
                 "siruta": 114934
@@ -1208,7 +1208,7 @@
     {
         "nume": "Primăria Reghin",
         "adresa": {
-            "strada": "P-Ţa Petru Maior, Nr. 41",
+            "strada": "P-Ța Petru Maior, Nr. 41",
             "localitate": {
                 "nume": "Reghin",
                 "siruta": 114818
@@ -1257,7 +1257,7 @@
     {
         "nume": "Primăria Râciu",
         "adresa": {
-            "strada": "Gheorghe Şincai, Nr. 58",
+            "strada": "Gheorghe Șincai, Nr. 58",
             "localitate": {
                 "nume": "Râciu",
                 "siruta": 119000
@@ -1494,7 +1494,7 @@
     {
         "nume": "Primăria Miercurea Nirajului",
         "adresa": {
-            "strada": "P-Ţa Teilor, Nr. 48",
+            "strada": "P-Ța Teilor, Nr. 48",
             "localitate": {
                 "nume": "Miercurea Nirajului",
                 "siruta": 118290

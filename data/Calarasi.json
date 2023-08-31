@@ -170,7 +170,7 @@
     {
         "nume": "Primăria Budești",
         "adresa": {
-            "strada": "Calea Bucureşti, Nr. 75",
+            "strada": "Calea București, Nr. 75",
             "localitate": {
                 "nume": "Budești",
                 "siruta": 101467
@@ -519,7 +519,7 @@
     {
         "nume": "Primăria Vâlcelele",
         "adresa": {
-            "strada": "Florenţa Albu, Nr. 691",
+            "strada": "Florența Albu, Nr. 691",
             "localitate": {
                 "nume": "Vâlcelele",
                 "siruta": 94740
@@ -706,7 +706,7 @@
     {
         "nume": "Primăria Ștefan Cel Mare",
         "adresa": {
-            "strada": "Şcolii, Nr. 25",
+            "strada": "Școlii, Nr. 25",
             "localitate": {
                 "nume": "Ștefan Cel Mare",
                 "siruta": 94571
@@ -729,7 +729,7 @@
     {
         "nume": "Primăria Spanțov",
         "adresa": {
-            "strada": "Călăraşi, Nr. 84",
+            "strada": "Călărași, Nr. 84",
             "localitate": {
                 "nume": "Spanțov",
                 "siruta": 105268
@@ -802,7 +802,7 @@
     {
         "nume": "Primăria Sărulești",
         "adresa": {
-            "strada": "Sat Săruleşti-Gară, Str. Mihail Andricu, Nr. 1",
+            "strada": "Sat Sărulești-Gară, Str. Mihail Andricu, Nr. 1",
             "localitate": {
                 "nume": "Sărulești",
                 "siruta": 104895
@@ -1128,7 +1128,7 @@
     {
         "nume": "Primăria Jegălia",
         "adresa": {
-            "strada": "Şoseaua Călăraşi-Feteşti, Nr. 40",
+            "strada": "Șoseaua Călărași-Fetești, Nr. 40",
             "localitate": {
                 "nume": "Jegălia",
                 "siruta": 93824

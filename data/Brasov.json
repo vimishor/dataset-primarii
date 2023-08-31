@@ -166,7 +166,7 @@
     {
         "nume": "Primăria Cristian",
         "adresa": {
-            "strada": "Piaţa Libertăţii, Nr. 1",
+            "strada": "Piața Libertății, Nr. 1",
             "localitate": {
                 "nume": "Cristian",
                 "siruta": 40919
@@ -237,7 +237,7 @@
     {
         "nume": "Primăria Cincu",
         "adresa": {
-            "strada": "Pieţii, Nr. 254",
+            "strada": "Pieții, Nr. 254",
             "localitate": {
                 "nume": "Cincu",
                 "siruta": 40839
@@ -354,7 +354,7 @@
     {
         "nume": "Primăria Bran",
         "adresa": {
-            "strada": "P-Ţa I. G. Stoian, Nr. 1",
+            "strada": "P-Ța I. G. Stoian, Nr. 1",
             "localitate": {
                 "nume": "Bran",
                 "siruta": 40642
@@ -379,7 +379,7 @@
     {
         "nume": "Primăria Bod",
         "adresa": {
-            "strada": "Şcolii, Nr. 139",
+            "strada": "Școlii, Nr. 139",
             "localitate": {
                 "nume": "Bod",
                 "siruta": 40615
@@ -472,7 +472,7 @@
     {
         "nume": "Primăria Săcele",
         "adresa": {
-            "strada": "P-Ţa Libertăţii, Nr. 17",
+            "strada": "P-Ța Libertății, Nr. 17",
             "localitate": {
                 "nume": "Săcele",
                 "siruta": 40447
@@ -495,7 +495,7 @@
     {
         "nume": "Primăria Zărnești",
         "adresa": {
-            "strada": "Mitropolit Ioan Meţianu, Nr. 1",
+            "strada": "Mitropolit Ioan Mețianu, Nr. 1",
             "localitate": {
                 "nume": "Zărnești",
                 "siruta": 40508
@@ -680,7 +680,7 @@
     {
         "nume": "Primăria Ticușu Vechi",
         "adresa": {
-            "strada": "Ticuşu Vechi, Nr. 198",
+            "strada": "Ticușu Vechi, Nr. 198",
             "localitate": {
                 "nume": "Ticușu Vechi",
                 "siruta": 42085
@@ -1275,7 +1275,7 @@
     {
         "nume": "Primăria Hoghiz",
         "adresa": {
-            "strada": "Făgăraşului, Nr. 161",
+            "strada": "Făgărașului, Nr. 161",
             "localitate": {
                 "nume": "Hoghiz",
                 "siruta": 41186
@@ -1323,7 +1323,7 @@
     {
         "nume": "Primăria Hărman",
         "adresa": {
-            "strada": "Pieţii, Nr. 1",
+            "strada": "Pieții, Nr. 1",
             "localitate": {
                 "nume": "Hărman",
                 "siruta": 41097

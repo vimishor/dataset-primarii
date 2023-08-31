@@ -75,7 +75,7 @@
     {
         "nume": "Primăria Reșița",
         "adresa": {
-            "strada": "P-Ţa 1 Decembrie 1918, Nr. 1A",
+            "strada": "P-Ța 1 Decembrie 1918, Nr. 1A",
             "localitate": {
                 "nume": "Reșița",
                 "siruta": 50807
@@ -1043,7 +1043,7 @@
     {
         "nume": "Primăria Caransebeș",
         "adresa": {
-            "strada": "P-Ţa Revoluţiei, Nr. 1",
+            "strada": "P-Ța Revoluției, Nr. 1",
             "localitate": {
                 "nume": "Caransebeș",
                 "siruta": 51029
@@ -1233,7 +1233,7 @@
     {
         "nume": "Primăria Berzovia",
         "adresa": {
-            "strada": "Revoluţia Din Decembrie, Nr. 123",
+            "strada": "Revoluția Din Decembrie, Nr. 123",
             "localitate": {
                 "nume": "Berzovia",
                 "siruta": 51519
@@ -1445,7 +1445,7 @@
     {
         "nume": "Primăria Zăvoi",
         "adresa": {
-            "strada": "Haţegului, Nr. 186",
+            "strada": "Hațegului, Nr. 186",
             "localitate": {
                 "nume": "Zăvoi",
                 "siruta": 54626
@@ -1753,7 +1753,7 @@
     {
         "nume": "Primăria Sichevița",
         "adresa": {
-            "strada": "Sicheviţa, Nr. 396",
+            "strada": "Sichevița, Nr. 396",
             "localitate": {
                 "nume": "Sichevița",
                 "siruta": 53862

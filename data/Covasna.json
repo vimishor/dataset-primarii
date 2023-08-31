@@ -236,7 +236,7 @@
     {
         "nume": "Primăria Brăduț",
         "adresa": {
-            "strada": "Şcolii, Nr. 171",
+            "strada": "Școlii, Nr. 171",
             "localitate": {
                 "nume": "Brăduț",
                 "siruta": 64050
@@ -402,7 +402,7 @@
     {
         "nume": "Primăria Baraolt",
         "adresa": {
-            "strada": "Libertăţii, Nr. 2",
+            "strada": "Libertății, Nr. 2",
             "localitate": {
                 "nume": "Baraolt",
                 "siruta": 63456
@@ -635,7 +635,7 @@
     {
         "nume": "Primăria Târgu Secuiesc",
         "adresa": {
-            "strada": "P-Ţa Gábor Áron, Nr. 24",
+            "strada": "P-Ța Gábor Áron, Nr. 24",
             "localitate": {
                 "nume": "Târgu Secuiesc",
                 "siruta": 63759
