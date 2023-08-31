@@ -280,7 +280,7 @@
     {
         "nume": "Primăria Beleți-Negrești",
         "adresa": {
-            "strada": "Sat Negreşti",
+            "strada": "Sat Negrești",
             "localitate": {
                 "nume": "Beleți-Negrești",
                 "siruta": 14352
@@ -307,7 +307,7 @@
     {
         "nume": "Primăria Bascov",
         "adresa": {
-            "strada": "Păişeşti Dn 7C, Nr. 125",
+            "strada": "Păișești Dn 7C, Nr. 125",
             "localitate": {
                 "nume": "Bascov",
                 "siruta": 13196
@@ -969,7 +969,7 @@
     {
         "nume": "Primăria Dragoslavele",
         "adresa": {
-            "strada": "Braşovului, Nr. 247",
+            "strada": "Brașovului, Nr. 247",
             "localitate": {
                 "nume": "Dragoslavele",
                 "siruta": 16481
@@ -1164,7 +1164,7 @@
     {
         "nume": "Primăria Valea Mare Pravăț",
         "adresa": {
-            "strada": "Braşovului, Nr. 196",
+            "strada": "Brașovului, Nr. 196",
             "localitate": {
                 "nume": "Valea Mare Pravăț",
                 "siruta": 13533
@@ -1298,7 +1298,7 @@
     {
         "nume": "Primăria Topoloveni",
         "adresa": {
-            "strada": "Calea Bucureşti, Nr. 111",
+            "strada": "Calea București, Nr. 111",
             "localitate": {
                 "nume": "Topoloveni",
                 "siruta": 13766
@@ -1657,7 +1657,7 @@
     {
         "nume": "Primăria Popești",
         "adresa": {
-            "strada": "Sat Popeşti, Nr. 17",
+            "strada": "Sat Popești, Nr. 17",
             "localitate": {
                 "nume": "Popești",
                 "siruta": 18171
@@ -1739,7 +1739,7 @@
     {
         "nume": "Primăria Rucăr",
         "adresa": {
-            "strada": "Braşovului, Nr. 58",
+            "strada": "Brașovului, Nr. 58",
             "localitate": {
                 "nume": "Rucăr",
                 "siruta": 18536
@@ -2206,7 +2206,7 @@
     {
         "nume": "Primăria Moșoaia",
         "adresa": {
-            "strada": "Calea Drăgăşani, Nr. 95",
+            "strada": "Calea Drăgășani, Nr. 95",
             "localitate": {
                 "nume": "Moșoaia",
                 "siruta": 17502
@@ -2443,7 +2443,7 @@
             "fax": [
                 "0248-230038"
             ],
-            "website": "https://www.cjarges.ro/web/Coşeşti",
+            "website": "https://www.cjarges.ro/web/Coșești",
             "email": [
                 "primarie@cosesti.cjarges.ro"
             ]

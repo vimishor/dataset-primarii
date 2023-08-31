@@ -117,7 +117,7 @@
     {
         "nume": "Primăria Lupeni",
         "adresa": {
-            "strada": "Revoluţiei, Nr. 2",
+            "strada": "Revoluției, Nr. 2",
             "localitate": {
                 "nume": "Lupeni",
                 "siruta": 87068
@@ -234,7 +234,7 @@
     {
         "nume": "Primăria Ilia",
         "adresa": {
-            "strada": "Libertăţii, Nr. 56",
+            "strada": "Libertății, Nr. 56",
             "localitate": {
                 "nume": "Ilia",
                 "siruta": 89865
@@ -679,7 +679,7 @@
     {
         "nume": "Primăria Orăștie",
         "adresa": {
-            "strada": "Piaţa Aurel Vlaicu, Nr. 3",
+            "strada": "Piața Aurel Vlaicu, Nr. 3",
             "localitate": {
                 "nume": "Orăștie",
                 "siruta": 87647
@@ -725,7 +725,7 @@
     {
         "nume": "Primăria Hunedoara",
         "adresa": {
-            "strada": "Libertăţii, Nr. 17",
+            "strada": "Libertății, Nr. 17",
             "localitate": {
                 "nume": "Hunedoara",
                 "siruta": 86829
@@ -748,7 +748,7 @@
     {
         "nume": "Primăria Hațeg",
         "adresa": {
-            "strada": "Piaţa Unirii, Nr. 6",
+            "strada": "Piața Unirii, Nr. 6",
             "localitate": {
                 "nume": "Hațeg",
                 "siruta": 87585
@@ -892,7 +892,7 @@
     {
         "nume": "Primăria Dobra",
         "adresa": {
-            "strada": "P-Ţa Victorie, Nr. 1",
+            "strada": "P-Ța Victorie, Nr. 1",
             "localitate": {
                 "nume": "Dobra",
                 "siruta": 89437
@@ -916,7 +916,7 @@
     {
         "nume": "Primăria Deva",
         "adresa": {
-            "strada": "P-Ţa Unirii, Nr. 4",
+            "strada": "P-Ța Unirii, Nr. 4",
             "localitate": {
                 "nume": "Deva",
                 "siruta": 86696
@@ -1251,7 +1251,7 @@
     {
         "nume": "Primăria Baru",
         "adresa": {
-            "strada": "Prof. Dr. Ştefan Gârbea, Nr. 222",
+            "strada": "Prof. Dr. Ștefan Gârbea, Nr. 222",
             "localitate": {
                 "nume": "Baru",
                 "siruta": 88001
@@ -1391,7 +1391,7 @@
     {
         "nume": "Primăria Aninoasa",
         "adresa": {
-            "strada": "Libertăţii, Nr. 85",
+            "strada": "Libertății, Nr. 85",
             "localitate": {
                 "nume": "Aninoasa",
                 "siruta": 87228
@@ -1508,7 +1508,7 @@
     {
         "nume": "Primăria Vața De Sus",
         "adresa": {
-            "strada": "Calea Crişului, Nr. 18",
+            "strada": "Calea Crișului, Nr. 18",
             "localitate": {
                 "nume": "Vața De Sus",
                 "siruta": 91928

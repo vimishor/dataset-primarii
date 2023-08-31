@@ -2,7 +2,7 @@
     {
         "nume": "Primăria Giurgiu",
         "adresa": {
-            "strada": "B-Dul Bucureşti, Nr. 49-51",
+            "strada": "B-Dul București, Nr. 49-51",
             "localitate": {
                 "nume": "Giurgiu",
                 "siruta": 100530
@@ -214,7 +214,7 @@
     {
         "nume": "Primăria Comana",
         "adresa": {
-            "strada": "Şerban Cantacuzino, Nr. 50",
+            "strada": "Șerban Cantacuzino, Nr. 50",
             "localitate": {
                 "nume": "Comana",
                 "siruta": 102115
@@ -377,7 +377,7 @@
     {
         "nume": "Primăria Bolintin-Vale",
         "adresa": {
-            "strada": "Libertăţii, Nr. 1",
+            "strada": "Libertății, Nr. 1",
             "localitate": {
                 "nume": "Bolintin-Vale",
                 "siruta": 101207
@@ -865,7 +865,7 @@
     {
         "nume": "Primăria Mihăilești",
         "adresa": {
-            "strada": "Bucureşti, Nr. 142",
+            "strada": "București, Nr. 142",
             "localitate": {
                 "nume": "Mihăilești",
                 "siruta": 104145
@@ -888,7 +888,7 @@
     {
         "nume": "Primăria Mihai Bravu",
         "adresa": {
-            "strada": "Şoseaua Principală, Nr. 76",
+            "strada": "Șoseaua Principală, Nr. 76",
             "localitate": {
                 "nume": "Mihai Bravu",
                 "siruta": 104127
@@ -982,7 +982,7 @@
     {
         "nume": "Primăria Joița",
         "adresa": {
-            "strada": "Calea Bucureşti Dj 601 A, Nr. 156",
+            "strada": "Calea București Dj 601 A, Nr. 156",
             "localitate": {
                 "nume": "Joița",
                 "siruta": 104001
@@ -1235,7 +1235,7 @@
     {
         "nume": "Primăria Adunații-Copăceni",
         "adresa": {
-            "strada": "Şoseaua Giurgiului, Nr. 120",
+            "strada": "Șoseaua Giurgiului, Nr. 120",
             "localitate": {
                 "nume": "Adunații-Copăceni",
                 "siruta": 100790

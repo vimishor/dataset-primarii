@@ -94,7 +94,7 @@
     {
         "nume": "Primăria Odobești",
         "adresa": {
-            "strada": "Libertăţii, Nr. 113",
+            "strada": "Libertății, Nr. 113",
             "localitate": {
                 "nume": "Odobești",
                 "siruta": 175028
@@ -592,7 +592,7 @@
     {
         "nume": "Primăria Păulești",
         "adresa": {
-            "strada": "Ştefan Cel Mare, Nr. 44",
+            "strada": "Ștefan Cel Mare, Nr. 44",
             "localitate": {
                 "nume": "Păulești",
                 "siruta": 178171
@@ -897,7 +897,7 @@
     {
         "nume": "Primăria Homocea",
         "adresa": {
-            "strada": "Ştefan Cel Mare, Nr. 30",
+            "strada": "Ștefan Cel Mare, Nr. 30",
             "localitate": {
                 "nume": "Homocea",
                 "siruta": 176454
@@ -945,7 +945,7 @@
     {
         "nume": "Primăria Gologanu",
         "adresa": {
-            "strada": "Tinereţii, Nr. 9",
+            "strada": "Tinereții, Nr. 9",
             "localitate": {
                 "nume": "Gologanu",
                 "siruta": 176766

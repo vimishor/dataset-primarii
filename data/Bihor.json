@@ -233,7 +233,7 @@
     {
         "nume": "Primăria Biharia",
         "adresa": {
-            "strada": "Cetăţii, Nr. 12",
+            "strada": "Cetății, Nr. 12",
             "localitate": {
                 "nume": "Biharia",
                 "siruta": 27445
@@ -514,7 +514,7 @@
     {
         "nume": "Primăria Valea Lui Mihai",
         "adresa": {
-            "strada": "Calea Revoluţiei, Nr. 2",
+            "strada": "Calea Revoluției, Nr. 2",
             "localitate": {
                 "nume": "Valea Lui Mihai",
                 "siruta": 32036
@@ -796,7 +796,7 @@
     {
         "nume": "Primăria Suplacu De Barcău",
         "adresa": {
-            "strada": "Piaţa Republicii, Nr. 33",
+            "strada": "Piața Republicii, Nr. 33",
             "localitate": {
                 "nume": "Suplacu De Barcău",
                 "siruta": 31271
@@ -842,7 +842,7 @@
     {
         "nume": "Primăria Ștei",
         "adresa": {
-            "strada": "Andrei Mureşanu, Nr. 4B",
+            "strada": "Andrei Mureșanu, Nr. 4B",
             "localitate": {
                 "nume": "Ștei",
                 "siruta": 26859
@@ -1200,7 +1200,7 @@
     {
         "nume": "Primăria Săcueni",
         "adresa": {
-            "strada": "Libertăţii, Nr. 1",
+            "strada": "Libertății, Nr. 1",
             "localitate": {
                 "nume": "Săcueni",
                 "siruta": 30924
@@ -1505,7 +1505,7 @@
     {
         "nume": "Primăria Oradea",
         "adresa": {
-            "strada": "P-Ţa Unirii, Nr. 1",
+            "strada": "P-Ța Unirii, Nr. 1",
             "localitate": {
                 "nume": "Oradea",
                 "siruta": 26573

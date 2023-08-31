@@ -71,7 +71,7 @@
     {
         "nume": "Primăria Cacica",
         "adresa": {
-            "strada": "Sat Pârteştii De Sus, Str. Principală, Nr. 234",
+            "strada": "Sat Pârteștii De Sus, Str. Principală, Nr. 234",
             "localitate": {
                 "nume": "Cacica",
                 "siruta": 147544
@@ -140,7 +140,7 @@
     {
         "nume": "Primăria Broșteni",
         "adresa": {
-            "strada": "Bistriţei, Nr. 89",
+            "strada": "Bistriței, Nr. 89",
             "localitate": {
                 "nume": "Broșteni",
                 "siruta": 147367
@@ -584,7 +584,7 @@
     {
         "nume": "Primăria Pleșești",
         "adresa": {
-            "strada": "Pleşeşti, Nr. 12",
+            "strada": "Pleșești, Nr. 12",
             "localitate": {
                 "nume": "Pleșești",
                 "siruta": 151166
@@ -678,7 +678,7 @@
     {
         "nume": "Primăria Vicovu De Jos",
         "adresa": {
-            "strada": "Şoseaua Naţională, Nr. 12B",
+            "strada": "Șoseaua Națională, Nr. 12B",
             "localitate": {
                 "nume": "Vicovu De Jos",
                 "siruta": 151086
@@ -1193,7 +1193,7 @@
     {
         "nume": "Primăria Șaru Dornei",
         "adresa": {
-            "strada": "Sat Neagra Şarului, Nr. 138",
+            "strada": "Sat Neagra Șarului, Nr. 138",
             "localitate": {
                 "nume": "Șaru Dornei",
                 "siruta": 150515
@@ -1285,7 +1285,7 @@
     {
         "nume": "Primăria Rădăuți",
         "adresa": {
-            "strada": "Piaţa Unirii, Nr. 2-4",
+            "strada": "Piața Unirii, Nr. 2-4",
             "localitate": {
                 "nume": "Rădăuți",
                 "siruta": 146637
@@ -1632,7 +1632,7 @@
     {
         "nume": "Primăria Moara",
         "adresa": {
-            "strada": "Universităţii, Nr. 213",
+            "strada": "Universității, Nr. 213",
             "localitate": {
                 "nume": "Moara",
                 "siruta": 149414
@@ -1727,7 +1727,7 @@
     {
         "nume": "Primăria Mănăstirea Humorului",
         "adresa": {
-            "strada": "Ştefan Cel Mare, Nr. 142",
+            "strada": "Ștefan Cel Mare, Nr. 142",
             "localitate": {
                 "nume": "Mănăstirea Humorului",
                 "siruta": 149389
@@ -2009,7 +2009,7 @@
     {
         "nume": "Primăria Gura Humorului",
         "adresa": {
-            "strada": "Piaţa Republicii, Nr. 14",
+            "strada": "Piața Republicii, Nr. 14",
             "localitate": {
                 "nume": "Gura Humorului",
                 "siruta": 146593

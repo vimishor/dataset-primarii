@@ -1,19 +1,19 @@
-# Licenţă
+# Licență
 
 ## Setul de date
 
-Setul de date din directorul [data/][2] conţine informaţii publice în baza 
-[Licenței pentru Guvernare Deschisă v1.0][1] şi este publicat sub licenţa 
+Setul de date din directorul [data/][2] conține informații publice în baza 
+[Licenței pentru Guvernare Deschisă v1.0][1] și este publicat sub licența 
 [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/).
 
 ## Alte date folosite
 
-Acest produs conţine date din urmatoarele seturi:
+Acest produs conține date din urmatoarele seturi:
 
-- [Coduri postale Romania](http://data.gov.ro/dataset/coduri-postale-romania) - Publicat de [Guvernul României][3] sub licenţă [OGL-ROU-1.0][1]
-- [Registrul unităţilor administrativ-teritoriale a României](http://data.gov.ro/dataset/siruta) - Publicat de [Guvernul României][3] sub licenţă [OGL-ROU-1.0][1]
+- [Coduri postale Romania](http://data.gov.ro/dataset/coduri-postale-romania) - Publicat de [Guvernul României][3] sub licență [OGL-ROU-1.0][1]
+- [Registrul unităților administrativ-teritoriale a României](http://data.gov.ro/dataset/siruta) - Publicat de [Guvernul României][3] sub licență [OGL-ROU-1.0][1]
 
-## Restul fişierelor
+## Restul fișierelor
 
 Copyright (c) Alexandru Guzinschi
 

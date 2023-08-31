@@ -2,7 +2,7 @@
     {
         "nume": "Primăria Cozmești",
         "adresa": {
-            "strada": "Sat Baleşti",
+            "strada": "Sat Balești",
             "localitate": {
                 "nume": "Cozmești",
                 "siruta": 163413
@@ -120,7 +120,7 @@
     {
         "nume": "Primăria Bunești-Averești",
         "adresa": {
-            "strada": "Sat Avereşti",
+            "strada": "Sat Averești",
             "localitate": {
                 "nume": "Bunești-Averești",
                 "siruta": 162924
@@ -526,7 +526,7 @@
     {
         "nume": "Primăria Pochidia",
         "adresa": {
-            "strada": "Sat Borodeşti, Nr. 82",
+            "strada": "Sat Borodești, Nr. 82",
             "localitate": {
                 "nume": "Pochidia",
                 "siruta": 166592
@@ -669,7 +669,7 @@
     {
         "nume": "Primăria Murgeni",
         "adresa": {
-            "strada": "Coman Ghenuţă, Nr. 12",
+            "strada": "Coman Ghenuță, Nr. 12",
             "localitate": {
                 "nume": "Murgeni",
                 "siruta": 164990

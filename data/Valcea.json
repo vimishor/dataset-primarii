@@ -49,7 +49,7 @@
     {
         "nume": "Primăria Copăceni",
         "adresa": {
-            "strada": "Sat Ulmeţu, Principală, Nr. 16",
+            "strada": "Sat Ulmețu, Principală, Nr. 16",
             "localitate": {
                 "nume": "Copăceni",
                 "siruta": 169226
@@ -305,7 +305,7 @@
     {
         "nume": "Primăria Bărbătești",
         "adresa": {
-            "strada": "Sat Bodeşti, Nr. 337",
+            "strada": "Sat Bodești, Nr. 337",
             "localitate": {
                 "nume": "Bărbătești",
                 "siruta": 168577
@@ -400,7 +400,7 @@
     {
         "nume": "Primăria Băbeni",
         "adresa": {
-            "strada": "Dragoş Vrânceanu, Nr. 167",
+            "strada": "Dragoș Vrânceanu, Nr. 167",
             "localitate": {
                 "nume": "Băbeni",
                 "siruta": 168381
@@ -681,7 +681,7 @@
     {
         "nume": "Primăria Tetoiu",
         "adresa": {
-            "strada": "Sat Ţepeşti",
+            "strada": "Sat Țepești",
             "localitate": {
                 "nume": "Tetoiu",
                 "siruta": 173864
@@ -1523,7 +1523,7 @@
     {
         "nume": "Primăria Malaia",
         "adresa": {
-            "strada": "Podul Şipotului, Nr. 109",
+            "strada": "Podul Șipotului, Nr. 109",
             "localitate": {
                 "nume": "Malaia",
                 "siruta": 171030
@@ -1640,7 +1640,7 @@
     {
         "nume": "Primăria Laloșu",
         "adresa": {
-            "strada": "Sat Mologeşti",
+            "strada": "Sat Mologești",
             "localitate": {
                 "nume": "Laloșu",
                 "siruta": 170621
@@ -1805,7 +1805,7 @@
     {
         "nume": "Primăria Golești",
         "adresa": {
-            "strada": "Sat Popeşti, Nr. 82",
+            "strada": "Sat Popești, Nr. 82",
             "localitate": {
                 "nume": "Golești",
                 "siruta": 170220
@@ -1970,7 +1970,7 @@
     {
         "nume": "Primăria Drăgășani",
         "adresa": {
-            "strada": "Piaţa Pandurilor, Nr. 1",
+            "strada": "Piața Pandurilor, Nr. 1",
             "localitate": {
                 "nume": "Drăgășani",
                 "siruta": 167990

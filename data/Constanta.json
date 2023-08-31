@@ -50,7 +50,7 @@
     {
         "nume": "Primăria Mangalia",
         "adresa": {
-            "strada": "Şos. Constanţei, Nr. 13",
+            "strada": "Șos. Constanței, Nr. 13",
             "localitate": {
                 "nume": "Mangalia",
                 "siruta": 60491
@@ -103,7 +103,7 @@
     {
         "nume": "Primăria Saligny",
         "adresa": {
-            "strada": "Şcolii, Nr. 15",
+            "strada": "Școlii, Nr. 15",
             "localitate": {
                 "nume": "Saligny",
                 "siruta": 62324
@@ -170,7 +170,7 @@
     {
         "nume": "Primăria Poarta Albă",
         "adresa": {
-            "strada": "Calea Bucureşti, Nr. 25",
+            "strada": "Calea București, Nr. 25",
             "localitate": {
                 "nume": "Poarta Albă",
                 "siruta": 62770
@@ -220,7 +220,7 @@
     {
         "nume": "Primăria Pecineaga",
         "adresa": {
-            "strada": "Ştefan Cel Mare, Nr. 61",
+            "strada": "Ștefan Cel Mare, Nr. 61",
             "localitate": {
                 "nume": "Pecineaga",
                 "siruta": 62681
@@ -267,7 +267,7 @@
     {
         "nume": "Primăria Ovidiu",
         "adresa": {
-            "strada": "Sănătăţii, Nr. 7",
+            "strada": "Sănătății, Nr. 7",
             "localitate": {
                 "nume": "Ovidiu",
                 "siruta": 60696
@@ -360,7 +360,7 @@
     {
         "nume": "Primăria Negru Vodă",
         "adresa": {
-            "strada": "Şoseaua Mangaliei, Nr. 13",
+            "strada": "Șoseaua Mangaliei, Nr. 13",
             "localitate": {
                 "nume": "Negru Vodă",
                 "siruta": 62404
@@ -501,7 +501,7 @@
     {
         "nume": "Primăria Mereni",
         "adresa": {
-            "strada": "Șoseaua Libertăţii, Nr. 112",
+            "strada": "Șoseaua Libertății, Nr. 112",
             "localitate": {
                 "nume": "Mereni",
                 "siruta": 62146
@@ -642,7 +642,7 @@
     {
         "nume": "Primăria Independența",
         "adresa": {
-            "strada": "Constanţei, Nr. 37",
+            "strada": "Constanței, Nr. 37",
             "localitate": {
                 "nume": "Independența",
                 "siruta": 61880
@@ -688,7 +688,7 @@
     {
         "nume": "Primăria Hârșova",
         "adresa": {
-            "strada": "Piaţa 1 Decembrie 1989, Nr. 1",
+            "strada": "Piața 1 Decembrie 1989, Nr. 1",
             "localitate": {
                 "nume": "Hârșova",
                 "siruta": 60810
@@ -875,7 +875,7 @@
     {
         "nume": "Primăria Deleni",
         "adresa": {
-            "strada": "Şcolii, Nr. 103",
+            "strada": "Școlii, Nr. 103",
             "localitate": {
                 "nume": "Deleni",
                 "siruta": 61684
@@ -921,7 +921,7 @@
     {
         "nume": "Primăria Cumpăna",
         "adresa": {
-            "strada": "Şos. Constanţei, Nr. 132",
+            "strada": "Șos. Constanței, Nr. 132",
             "localitate": {
                 "nume": "Cumpăna",
                 "siruta": 61639
@@ -946,7 +946,7 @@
     {
         "nume": "Primăria Crucea",
         "adresa": {
-            "strada": "Şoseaua Constanţei, Nr. 45",
+            "strada": "Șoseaua Constanței, Nr. 45",
             "localitate": {
                 "nume": "Crucea",
                 "siruta": 61568
@@ -1328,7 +1328,7 @@
     {
         "nume": "Primăria Albești",
         "adresa": {
-            "strada": "Şos. Mangaliei, Nr. 31",
+            "strada": "Șos. Mangaliei, Nr. 31",
             "localitate": {
                 "nume": "Albești",
                 "siruta": 60954
@@ -1398,7 +1398,7 @@
     {
         "nume": "Primăria 23 August",
         "adresa": {
-            "strada": "Şos. Constanţei",
+            "strada": "Șos. Constanței",
             "localitate": {
                 "nume": "23 August",
                 "siruta": 60605
@@ -1468,7 +1468,7 @@
     {
         "nume": "Primăria Tuzla",
         "adresa": {
-            "strada": "Şos. Constanţei, Nr. 80A",
+            "strada": "Șos. Constanței, Nr. 80A",
             "localitate": {
                 "nume": "Tuzla",
                 "siruta": 60730
@@ -1562,7 +1562,7 @@
     {
         "nume": "Primăria Târgușor",
         "adresa": {
-            "strada": "Constanţei, Nr. 72",
+            "strada": "Constanței, Nr. 72",
             "localitate": {
                 "nume": "Târgușor",
                 "siruta": 62994

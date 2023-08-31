@@ -469,7 +469,7 @@
     {
         "nume": "Primăria Ciacova",
         "adresa": {
-            "strada": "P-Ţa Cetăţii, Nr. 8",
+            "strada": "P-Ța Cetății, Nr. 8",
             "localitate": {
                 "nume": "Ciacova",
                 "siruta": 156366
@@ -637,7 +637,7 @@
     {
         "nume": "Primăria Traian Vuia",
         "adresa": {
-            "strada": "Sat Sudriaş, Nr. 163A",
+            "strada": "Sat Sudriaș, Nr. 163A",
             "localitate": {
                 "nume": "Traian Vuia",
                 "siruta": 159133
@@ -1087,7 +1087,7 @@
     {
         "nume": "Primăria Recaș",
         "adresa": {
-            "strada": "Calea Timişoarei, Nr 86",
+            "strada": "Calea Timișoarei, Nr 86",
             "localitate": {
                 "nume": "Recaș",
                 "siruta": 158323
@@ -1203,7 +1203,7 @@
     {
         "nume": "Primăria Periam",
         "adresa": {
-            "strada": "Mureşului, Nr. 1 Bis",
+            "strada": "Mureșului, Nr. 1 Bis",
             "localitate": {
                 "nume": "Periam",
                 "siruta": 158118
@@ -1296,7 +1296,7 @@
     {
         "nume": "Primăria Otelec",
         "adresa": {
-            "strada": "Grădiniţei, Nr. 471/B",
+            "strada": "Grădiniței, Nr. 471/B",
             "localitate": {
                 "nume": "Otelec",
                 "siruta": 159179
@@ -1390,7 +1390,7 @@
     {
         "nume": "Primăria Nădrag",
         "adresa": {
-            "strada": "P-Ţa Centrală, Nr. 2",
+            "strada": "P-Ța Centrală, Nr. 2",
             "localitate": {
                 "nume": "Nădrag",
                 "siruta": 157905
@@ -1953,7 +1953,7 @@
     {
         "nume": "Primăria Gătaia",
         "adresa": {
-            "strada": "Carpaţi, Nr. 106",
+            "strada": "Carpați, Nr. 106",
             "localitate": {
                 "nume": "Gătaia",
                 "siruta": 157095

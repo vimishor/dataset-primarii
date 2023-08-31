@@ -870,7 +870,7 @@
     {
         "nume": "Primăria Fărcașa",
         "adresa": {
-            "strada": "Independenţei, Nr. 59",
+            "strada": "Independenței, Nr. 59",
             "localitate": {
                 "nume": "Fărcașa",
                 "siruta": 108115
@@ -1106,7 +1106,7 @@
     {
         "nume": "Primăria Borșa",
         "adresa": {
-            "strada": "Floare De Colţ, Nr. 1/A",
+            "strada": "Floare De Colț, Nr. 1/A",
             "localitate": {
                 "nume": "Borșa",
                 "siruta": 106755
@@ -1321,7 +1321,7 @@
     {
         "nume": "Primăria Baia Sprie",
         "adresa": {
-            "strada": "P-Ţa Libertăţii, Nr. 4",
+            "strada": "P-Ța Libertății, Nr. 4",
             "localitate": {
                 "nume": "Baia Sprie",
                 "siruta": 106693
@@ -1414,7 +1414,7 @@
     {
         "nume": "Primăria Baia Mare",
         "adresa": {
-            "strada": "Gheorghe Şincai, Nr. 37",
+            "strada": "Gheorghe Șincai, Nr. 37",
             "localitate": {
                 "nume": "Baia Mare",
                 "siruta": 106327
@@ -1607,7 +1607,7 @@
     {
         "nume": "Primăria Târgu Lăpuș",
         "adresa": {
-            "strada": "Ţibleşului, Nr. 2",
+            "strada": "Țibleșului, Nr. 2",
             "localitate": {
                 "nume": "Târgu Lăpuș",
                 "siruta": 106826
@@ -1774,7 +1774,7 @@
     {
         "nume": "Primăria Seini",
         "adresa": {
-            "strada": "Piaţa Unirii, Nr. 16",
+            "strada": "Piața Unirii, Nr. 16",
             "localitate": {
                 "nume": "Seini",
                 "siruta": 108972

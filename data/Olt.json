@@ -168,7 +168,7 @@
     {
         "nume": "Primăria Caracal",
         "adresa": {
-            "strada": "Piaţa Victoriei, Nr. 10",
+            "strada": "Piața Victoriei, Nr. 10",
             "localitate": {
                 "nume": "Caracal",
                 "siruta": 125481
@@ -2245,7 +2245,7 @@
     {
         "nume": "Primăria Gârcov",
         "adresa": {
-            "strada": "Şcolii, Nr. 12",
+            "strada": "Școlii, Nr. 12",
             "localitate": {
                 "nume": "Gârcov",
                 "siruta": 125597

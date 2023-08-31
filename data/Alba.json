@@ -2,7 +2,7 @@
     {
         "nume": "Primăria Câmpeni",
         "adresa": {
-            "strada": "Piaţa Avram Iancu, Nr. 5",
+            "strada": "Piața Avram Iancu, Nr. 5",
             "localitate": {
                 "nume": "Câmpeni",
                 "siruta": 1464
@@ -29,7 +29,7 @@
     {
         "nume": "Primăria Cetatea De Baltă",
         "adresa": {
-            "strada": "Cetăţii, Nr. 32",
+            "strada": "Cetății, Nr. 32",
             "localitate": {
                 "nume": "Cetatea De Baltă",
                 "siruta": 3967
@@ -242,7 +242,7 @@
     {
         "nume": "Primăria Blaj",
         "adresa": {
-            "strada": "P-Ţa 1848 Nr. 16",
+            "strada": "P-Ța 1848 Nr. 16",
             "localitate": {
                 "nume": "Blaj",
                 "siruta": 1357
@@ -318,7 +318,7 @@
     {
         "nume": "Primăria Baia De Arieș",
         "adresa": {
-            "strada": "Piaţa Băii, Nr. 1",
+            "strada": "Piața Băii, Nr. 1",
             "localitate": {
                 "nume": "Baia De Arieș",
                 "siruta": 2924
@@ -422,7 +422,7 @@
     {
         "nume": "Primăria Albac",
         "adresa": {
-            "strada": "Cloşca, Nr. 9",
+            "strada": "Cloșca, Nr. 9",
             "localitate": {
                 "nume": "Albac",
                 "siruta": 2149
@@ -635,7 +635,7 @@
     {
         "nume": "Primăria Zlatna",
         "adresa": {
-            "strada": "Calea Moţilor, Nr. 12",
+            "strada": "Calea Moților, Nr. 12",
             "localitate": {
                 "nume": "Zlatna",
                 "siruta": 1945
@@ -719,7 +719,7 @@
     {
         "nume": "Primăria Unirea",
         "adresa": {
-            "strada": "Mureşului, Nr. 597",
+            "strada": "Mureșului, Nr. 597",
             "localitate": {
                 "nume": "Unirea",
                 "siruta": 8167
@@ -1024,7 +1024,7 @@
     {
         "nume": "Primăria Poșaga",
         "adresa": {
-            "strada": "Sat Poşaga De Jos, Nr. 186",
+            "strada": "Sat Poșaga De Jos, Nr. 186",
             "localitate": {
                 "nume": "Poșaga",
                 "siruta": 6468
@@ -1880,7 +1880,7 @@
     {
         "nume": "Primăria Alba Iulia",
         "adresa": {
-            "strada": "Moţilor, Nr. 5A",
+            "strada": "Moților, Nr. 5A",
             "localitate": {
                 "nume": "Alba Iulia",
                 "siruta": 1026
@@ -1935,7 +1935,7 @@
     {
         "nume": "Primăria Abrud",
         "adresa": {
-            "strada": "P-Ţa Eroilor, Nr. 1",
+            "strada": "P-Ța Eroilor, Nr. 1",
             "localitate": {
                 "nume": "Abrud",
                 "siruta": 1160
@@ -2018,7 +2018,7 @@
     {
         "nume": "Primăria Sebeș",
         "adresa": {
-            "strada": "P-Ţa Primăriei, Nr. 1",
+            "strada": "P-Ța Primăriei, Nr. 1",
             "localitate": {
                 "nume": "Sebeș",
                 "siruta": 1883

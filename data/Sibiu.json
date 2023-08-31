@@ -2,7 +2,7 @@
     {
         "nume": "Primăria Cisnădie",
         "adresa": {
-            "strada": "Piaţa Revoluţiei, Nr. 1",
+            "strada": "Piața Revoluției, Nr. 1",
             "localitate": {
                 "nume": "Cisnădie",
                 "siruta": 143744
@@ -25,7 +25,7 @@
     {
         "nume": "Primăria Ocna Sibiului",
         "adresa": {
-            "strada": "P-Ţa Traian, Nr. 6",
+            "strada": "P-Ța Traian, Nr. 6",
             "localitate": {
                 "nume": "Ocna Sibiului",
                 "siruta": 143860
@@ -238,7 +238,7 @@
     {
         "nume": "Primăria Șeica Mare",
         "adresa": {
-            "strada": "Şos. Sibiului, Nr. 415",
+            "strada": "Șos. Sibiului, Nr. 415",
             "localitate": {
                 "nume": "Șeica Mare",
                 "siruta": 145676
@@ -284,7 +284,7 @@
     {
         "nume": "Primăria Sadu",
         "adresa": {
-            "strada": "Inocenţiu Micu Klein, Nr. 36",
+            "strada": "Inocențiu Micu Klein, Nr. 36",
             "localitate": {
                 "nume": "Sadu",
                 "siruta": 145480
@@ -660,7 +660,7 @@
     {
         "nume": "Primăria Mediaș",
         "adresa": {
-            "strada": "Piaţa Corneliu Coposu Nr. 3",
+            "strada": "Piața Corneliu Coposu Nr. 3",
             "localitate": {
                 "nume": "Mediaș",
                 "siruta": 143628
@@ -1392,7 +1392,7 @@
     {
         "nume": "Primăria Agnita",
         "adresa": {
-            "strada": "Piaţa Republicii, Nr. 19",
+            "strada": "Piața Republicii, Nr. 19",
             "localitate": {
                 "nume": "Agnita",
                 "siruta": 143691
@@ -1463,7 +1463,7 @@
     {
         "nume": "Primăria Turnu Roșu",
         "adresa": {
-            "strada": "Olteţ, Nr. 54",
+            "strada": "Olteț, Nr. 54",
             "localitate": {
                 "nume": "Turnu Roșu",
                 "siruta": 145943

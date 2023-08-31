@@ -333,7 +333,7 @@
     {
         "nume": "Primăria Voiteștii Din Vale",
         "adresa": {
-            "strada": "Sat Voiteştii Din Vale, Nr. 228",
+            "strada": "Sat Voiteștii Din Vale, Nr. 228",
             "localitate": {
                 "nume": "Voiteștii Din Vale",
                 "siruta": 78757
@@ -709,7 +709,7 @@
     {
         "nume": "Primăria Crasna",
         "adresa": {
-            "strada": "Cărpiniş, Nr. 79",
+            "strada": "Cărpiniș, Nr. 79",
             "localitate": {
                 "nume": "Crasna",
                 "siruta": 79843
@@ -1466,7 +1466,7 @@
     {
         "nume": "Primăria Țicleni",
         "adresa": {
-            "strada": "Petroliştilor, Nr. 769",
+            "strada": "Petroliștilor, Nr. 769",
             "localitate": {
                 "nume": "Țicleni",
                 "siruta": 78463
@@ -1631,7 +1631,7 @@
     {
         "nume": "Primăria Târgu Jiu",
         "adresa": {
-            "strada": "B-Dul Constantin Brâncuşi, Nr. 19",
+            "strada": "B-Dul Constantin Brâncuși, Nr. 19",
             "localitate": {
                 "nume": "Târgu Jiu",
                 "siruta": 77821

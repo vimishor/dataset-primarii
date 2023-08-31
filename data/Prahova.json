@@ -96,7 +96,7 @@
     {
         "nume": "Primăria Blejoi",
         "adresa": {
-            "strada": "Şos. Ploieşti-Văleni, Nr. 1003",
+            "strada": "Șos. Ploiești-Văleni, Nr. 1003",
             "localitate": {
                 "nume": "Blejoi",
                 "siruta": 130687
@@ -573,7 +573,7 @@
     {
         "nume": "Primăria Măneciu",
         "adresa": {
-            "strada": "Tabla Buţii, Nr. 273",
+            "strada": "Tabla Buții, Nr. 273",
             "localitate": {
                 "nume": "Măneciu",
                 "siruta": 134096
@@ -2150,7 +2150,7 @@
     {
         "nume": "Primăria Plopeni",
         "adresa": {
-            "strada": "Independenţei, Nr. 12",
+            "strada": "Independenței, Nr. 12",
             "localitate": {
                 "nume": "Plopeni",
                 "siruta": 131452
@@ -2827,7 +2827,7 @@
     {
         "nume": "Primăria Bușteni",
         "adresa": {
-            "strada": "B-Dul Libertăţii, Nr. 91",
+            "strada": "B-Dul Libertății, Nr. 91",
             "localitate": {
                 "nume": "Bușteni",
                 "siruta": 131229

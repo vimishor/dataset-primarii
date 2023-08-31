@@ -51,7 +51,7 @@
     {
         "nume": "Primăria Câmpia Turzii",
         "adresa": {
-            "strada": "Laminoriştilor, Nr. 2",
+            "strada": "Laminoriștilor, Nr. 2",
             "localitate": {
                 "nume": "Câmpia Turzii",
                 "siruta": 55366
@@ -364,7 +364,7 @@
     {
         "nume": "Primăria Apahida",
         "adresa": {
-            "strada": "Libertăţii, Nr. 122",
+            "strada": "Libertății, Nr. 122",
             "localitate": {
                 "nume": "Apahida",
                 "siruta": 55696
@@ -625,7 +625,7 @@
     {
         "nume": "Primăria Turda",
         "adresa": {
-            "strada": "P-Ţa 1 Decembrie 1918, Nr. 28",
+            "strada": "P-Ța 1 Decembrie 1918, Nr. 28",
             "localitate": {
                 "nume": "Turda",
                 "siruta": 55268
@@ -1744,7 +1744,7 @@
     {
         "nume": "Primăria Cluj-Napoca",
         "adresa": {
-            "strada": "Calea Moţilor, Nr. 1-5",
+            "strada": "Calea Moților, Nr. 1-5",
             "localitate": {
                 "nume": "Cluj-Napoca",
                 "siruta": 54984

@@ -25,7 +25,7 @@
     {
         "nume": "Primăria Odorheiu Secuiesc",
         "adresa": {
-            "strada": "Piaţa Primăriei, Nr. 5",
+            "strada": "Piața Primăriei, Nr. 5",
             "localitate": {
                 "nume": "Odorheiu Secuiesc",
                 "siruta": 83142
@@ -377,7 +377,7 @@
     {
         "nume": "Primăria Remetea",
         "adresa": {
-            "strada": "P-Ţa Cseres Tibor Nr. 10",
+            "strada": "P-Ța Cseres Tibor Nr. 10",
             "localitate": {
                 "nume": "Remetea",
                 "siruta": 85421
@@ -586,7 +586,7 @@
     {
         "nume": "Primăria Miercurea Ciuc",
         "adresa": {
-            "strada": "Piaţa Cetăţii Nr. 1",
+            "strada": "Piața Cetății Nr. 1",
             "localitate": {
                 "nume": "Miercurea Ciuc",
                 "siruta": 83339
@@ -912,7 +912,7 @@
     {
         "nume": "Primăria Ditrău",
         "adresa": {
-            "strada": "Libertăţii, Nr. 9",
+            "strada": "Libertății, Nr. 9",
             "localitate": {
                 "nume": "Ditrău",
                 "siruta": 84353
@@ -981,7 +981,7 @@
     {
         "nume": "Primăria Cristuru Secuiesc",
         "adresa": {
-            "strada": "Libertăţii, Nr.27",
+            "strada": "Libertății, Nr.27",
             "localitate": {
                 "nume": "Cristuru Secuiesc",
                 "siruta": 83534
@@ -1075,7 +1075,7 @@
     {
         "nume": "Primăria Ciumani",
         "adresa": {
-            "strada": "P-Ţa. Borsos Miklós, Nr. 208",
+            "strada": "P-Ța. Borsos Miklós, Nr. 208",
             "localitate": {
                 "nume": "Ciumani",
                 "siruta": 84095
@@ -1213,7 +1213,7 @@
     {
         "nume": "Primăria Borsec",
         "adresa": {
-            "strada": "Carpaţi, Nr. 6/A",
+            "strada": "Carpați, Nr. 6/A",
             "localitate": {
                 "nume": "Borsec",
                 "siruta": 83507
@@ -1374,7 +1374,7 @@
     {
         "nume": "Primăria Gheorgheni",
         "adresa": {
-            "strada": "P-Ţa Libertăţii, Nr. 27",
+            "strada": "P-Ța Libertății, Nr. 27",
             "localitate": {
                 "nume": "Gheorgheni",
                 "siruta": 83570

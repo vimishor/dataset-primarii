@@ -329,7 +329,7 @@
     {
         "nume": "Primăria Blejești",
         "adresa": {
-            "strada": "Piteşti, Nr. 317",
+            "strada": "Pitești, Nr. 317",
             "localitate": {
                 "nume": "Blejești",
                 "siruta": 152092
@@ -630,7 +630,7 @@
     {
         "nume": "Primăria Orbeasca",
         "adresa": {
-            "strada": "Şoseaua Alexandriei, Nr. 124",
+            "strada": "Șoseaua Alexandriei, Nr. 124",
             "localitate": {
                 "nume": "Orbeasca",
                 "siruta": 153507
@@ -1307,7 +1307,7 @@
     {
         "nume": "Primăria Suhaia",
         "adresa": {
-            "strada": "Şoseaua Dunării, Nr. 220",
+            "strada": "Șoseaua Dunării, Nr. 220",
             "localitate": {
                 "nume": "Suhaia",
                 "siruta": 154479
@@ -1488,7 +1488,7 @@
     {
         "nume": "Primăria Segarcea-Vale",
         "adresa": {
-            "strada": "Şos. Turnu Măgurele, Nr. 102",
+            "strada": "Șos. Turnu Măgurele, Nr. 102",
             "localitate": {
                 "nume": "Segarcea-Vale",
                 "siruta": 154193
@@ -1766,7 +1766,7 @@
     {
         "nume": "Primăria Puranii De Sus",
         "adresa": {
-            "strada": "Şos. Piteşti, Nr. 17",
+            "strada": "Șos. Pitești, Nr. 17",
             "localitate": {
                 "nume": "Puranii De Sus",
                 "siruta": 154264

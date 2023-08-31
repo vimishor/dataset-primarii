@@ -146,7 +146,7 @@
     {
         "nume": "Primăria Căzănești",
         "adresa": {
-            "strada": "Şoseaua Bucureşti, Nr. 93",
+            "strada": "Șoseaua București, Nr. 93",
             "localitate": {
                 "nume": "Căzănești",
                 "siruta": 93076
@@ -192,7 +192,7 @@
     {
         "nume": "Primăria Mihail Kogălniceanu",
         "adresa": {
-            "strada": "Şcolii, Nr. 21",
+            "strada": "Școlii, Nr. 21",
             "localitate": {
                 "nume": "Mihail Kogălniceanu",
                 "siruta": 94009
@@ -401,7 +401,7 @@
     {
         "nume": "Primăria Țăndărei",
         "adresa": {
-            "strada": "Bucureşti, Nr. 190",
+            "strada": "București, Nr. 190",
             "localitate": {
                 "nume": "Țăndărei",
                 "siruta": 92774
@@ -496,7 +496,7 @@
     {
         "nume": "Primăria Scânteia",
         "adresa": {
-            "strada": "Ştefan Cel Mare, Nr. 46",
+            "strada": "Ștefan Cel Mare, Nr. 46",
             "localitate": {
                 "nume": "Scânteia",
                 "siruta": 94438
@@ -731,7 +731,7 @@
     {
         "nume": "Primăria Movilița",
         "adresa": {
-            "strada": "Calea Bucureşti, Nr. 99",
+            "strada": "Calea București, Nr. 99",
             "localitate": {
                 "nume": "Movilița",
                 "siruta": 104289
@@ -916,7 +916,7 @@
     {
         "nume": "Primăria Gheorghe Doja",
         "adresa": {
-            "strada": "Grădiniţei, Nr. 15",
+            "strada": "Grădiniței, Nr. 15",
             "localitate": {
                 "nume": "Gheorghe Doja",
                 "siruta": 93619
@@ -962,7 +962,7 @@
     {
         "nume": "Primăria Fierbinți-Târg",
         "adresa": {
-            "strada": "Calea Bucureşti, Nr. 18",
+            "strada": "Calea București, Nr. 18",
             "localitate": {
                 "nume": "Fierbinți-Târg",
                 "siruta": 102758
@@ -986,7 +986,7 @@
     {
         "nume": "Primăria Fetești",
         "adresa": {
-            "strada": "Călăraşi, Nr. 595, Bl. Cf3 Sc. A Et. Ii-Iv",
+            "strada": "Călărași, Nr. 595, Bl. Cf3 Sc. A Et. Ii-Iv",
             "localitate": {
                 "nume": "Fetești",
                 "siruta": 92710
@@ -1198,7 +1198,7 @@
     {
         "nume": "Primăria Bărcănești",
         "adresa": {
-            "strada": "Şos. Mihai Viteazu, Nr. 174",
+            "strada": "Șos. Mihai Viteazu, Nr. 174",
             "localitate": {
                 "nume": "Bărcănești",
                 "siruta": 101065
@@ -1222,7 +1222,7 @@
     {
         "nume": "Primăria Balaciu",
         "adresa": {
-            "strada": "Calea Bucureşti, Nr. 22",
+            "strada": "Calea București, Nr. 22",
             "localitate": {
                 "nume": "Balaciu",
                 "siruta": 92916
@@ -1477,7 +1477,7 @@
     {
         "nume": "Primăria Urziceni",
         "adresa": {
-            "strada": "Calea Bucureşti, Nr. 104",
+            "strada": "Calea București, Nr. 104",
             "localitate": {
                 "nume": "Urziceni",
                 "siruta": 100692

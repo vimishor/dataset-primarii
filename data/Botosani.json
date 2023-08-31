@@ -1037,7 +1037,7 @@
     {
         "nume": "Primăria Coșula",
         "adresa": {
-            "strada": "Petru Rareş, Nr. 30",
+            "strada": "Petru Rareș, Nr. 30",
             "localitate": {
                 "nume": "Coșula",
                 "siruta": 36603
@@ -1225,7 +1225,7 @@
     {
         "nume": "Primăria Bucecea",
         "adresa": {
-            "strada": "Naţională, Nr. 1",
+            "strada": "Națională, Nr. 1",
             "localitate": {
                 "nume": "Bucecea",
                 "siruta": 36462
@@ -1274,7 +1274,7 @@
     {
         "nume": "Primăria Brăești",
         "adresa": {
-            "strada": "Şos. Naţională",
+            "strada": "Șos. Națională",
             "localitate": {
                 "nume": "Brăești",
                 "siruta": 36382
@@ -1298,7 +1298,7 @@
     {
         "nume": "Primăria Botoșani",
         "adresa": {
-            "strada": "Piaţa Revoluţiei, Nr. 1",
+            "strada": "Piața Revoluției, Nr. 1",
             "localitate": {
                 "nume": "Botoșani",
                 "siruta": 35740
