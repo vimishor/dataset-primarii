@@ -1,0 +1,21 @@
+name: Tests
+
+on: [push, pull_request]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        id: cp310
+        with:
+          python-version: "3.11"
+          cache: 'pip'
+      - name: Install dependencies
+        if: steps.cp310.outputs.cache-hit != true
+        run: make install-deps
+      - name: Run tests
+        env:
+          TEST_ARGS: "--src data/ --verbose"
+        run: make test

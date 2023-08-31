@@ -20,7 +20,7 @@ skip = runtests.py,build
 balanced_wrapping = true
 not_skip = __init__.py
 
-[.travis.yml]
+[*.yml]
 indent_size = 2
 indent_style = space
 insert_final_newline = false
